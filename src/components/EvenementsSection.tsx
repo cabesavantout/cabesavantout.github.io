@@ -1,5 +1,32 @@
 import { motion } from "framer-motion";
-import { CalendarDays, MapPin, Clock } from "lucide-react";
+import { CalendarDays, MapPin, Clock, ImageIcon } from "lucide-react";
+import reunion2 from "@/assets/reunion/2.png";
+import reunion3 from "@/assets/reunion/3.png";
+import reunion4 from "@/assets/reunion/4.png";
+import reunion5 from "@/assets/reunion/5.png";
+import reunion6 from "@/assets/reunion/6.png";
+import reunion7 from "@/assets/reunion/7.png";
+import reunion8 from "@/assets/reunion/8.png";
+import reunion9 from "@/assets/reunion/9.png";
+import reunion10 from "@/assets/reunion/10.png";
+import reunion11 from "@/assets/reunion/11.png";
+import reunion12 from "@/assets/reunion/12.png";
+import reunion13 from "@/assets/reunion/13.png";
+
+const reunionImages = [
+  reunion2,
+  reunion3,
+  reunion4,
+  reunion5,
+  reunion6,
+  reunion7,
+  reunion8,
+  reunion9,
+  reunion10,
+  reunion11,
+  reunion12,
+  reunion13,
+];
 
 const EvenementsSection = () => {
   return (
@@ -107,6 +134,34 @@ const EvenementsSection = () => {
             </motion.div>
           ))}
         </div>
+
+        {reunionImages.length > 0 && (
+          <div className="mt-10">
+            <div className="flex items-center gap-2 mb-4">
+              <ImageIcon className="w-4 h-4 text-primary" />
+              <p className="text-sm font-semibold text-foreground">
+                Quelques images de la réunion publique
+              </p>
+            </div>
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+              {reunionImages.map((src, idx) => (
+                <a
+                  key={idx}
+                  href={src}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="group block overflow-hidden rounded-xl border border-border bg-card aspect-square"
+                >
+                  <img
+                    src={src}
+                    alt={`Réunion publique – photo ${idx + 1}`}
+                    className="h-full w-full object-cover transition-transform duration-200 group-hover:scale-105"
+                  />
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </section>
   );
