@@ -319,14 +319,26 @@ const ProgrammeSection = () => {
                 </p>
                 <p className="text-xs text-muted-foreground">
                   Les principales diapositives de la réunion publique.
-                  Le document sera disponible après la réunion.
                 </p>
               </div>
             </div>
-            <p className="mt-1 text-xs text-muted-foreground/80">
-              (Boutons d&apos;affichage et de téléchargement désactivés pour le
-              moment.)
-            </p>
+            <div className="flex flex-wrap gap-3">
+              <a
+                href={reunionDiapoPf}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center justify-center rounded-full bg-primary text-primary-foreground text-xs font-semibold px-4 py-2 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
+              >
+                Voir le document
+              </a>
+              <a
+                href={reunionDiapoPf}
+                download
+                className="inline-flex items-center justify-center rounded-full border border-border text-xs font-semibold px-4 py-2 text-foreground bg-card hover:bg-muted transition-colors"
+              >
+                Télécharger (PDF)
+              </a>
+            </div>
           </motion.div>
         </div>
 
