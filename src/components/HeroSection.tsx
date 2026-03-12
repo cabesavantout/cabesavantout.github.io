@@ -1,10 +1,21 @@
 import { motion } from "framer-motion";
 import ericPoupet from "@/assets/eric-poupet.png";
+import cabestany from "@/assets/cabestany.webp";
 
 const HeroSection = () => {
   return (
     <section className="section-padding bg-card relative overflow-hidden">
-      <div className="container-main">
+      {/* Image de Cabestany en cover de fond */}
+      <div className="pointer-events-none absolute inset-0 z-0">
+        <div className="absolute inset-0 bg-gradient-to-b from-background/70 via-background/85 to-background" />
+        <img
+          src={cabestany}
+          alt="Vue de Cabestany"
+          className="h-full w-full object-cover"
+        />
+      </div>
+
+      <div className="container-main relative z-10">
         <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
           {/* Text */}
           <motion.div

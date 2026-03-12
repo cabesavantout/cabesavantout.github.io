@@ -12,8 +12,13 @@ import {
   ChevronRight,
   X,
   ImageIcon,
+  FileText,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
+import securiteImg from "@/assets/securite.png";
+import professionPf from "@/assets/docs/profession_1er_tour.pdf";
+import reunionPubPf from "@/assets/docs/reunion_pub.pdf";
+import reunionDiapoPf from "@/assets/docs/reunion_diapo.pdf";
 
 interface ProgrammeTheme {
   icon: LucideIcon;
@@ -58,7 +63,7 @@ const themes: ProgrammeTheme[] = [
       "Renforcer la vidéoprotection",
       "Coopération avec les communes voisines",
     ],
-    images: [],
+    images: [securiteImg],
   },
   {
     icon: TreePine,
@@ -217,6 +222,113 @@ const ProgrammeSection = () => {
             maîtrisées, des actions concrètes pour Cabestany.
           </p>
         </motion.div>
+
+        <div className="mb-10 grid gap-4 md:grid-cols-2">
+          <motion.div
+            initial={{ opacity: 0, y: 8 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.35 }}
+            className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3"
+          >
+            <div className="flex items-center gap-3">
+              <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center">
+                <FileText className="w-5 h-5 text-primary" />
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-foreground">
+                  Profession de foi — 1er tour
+                </p>
+                <p className="text-xs text-muted-foreground">
+                  Le document officiel détaillant notre projet.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              <a
+                href={professionPf}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center justify-center rounded-full bg-primary text-primary-foreground text-xs font-semibold px-4 py-2 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
+              >
+                Voir le document
+              </a>
+              <a
+                href={professionPf}
+                download
+                className="inline-flex items-center justify-center rounded-full border border-border text-xs font-semibold px-4 py-2 text-foreground bg-card hover:bg-muted transition-colors"
+              >
+                Télécharger (PDF)
+              </a>
+            </div>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 8 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.35, delay: 0.05 }}
+            className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3"
+          >
+            <div className="flex items-center gap-3">
+              <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center">
+                <FileText className="w-5 h-5 text-primary" />
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-foreground">
+                  Invitation réunion publique
+                </p>
+                <p className="text-xs text-muted-foreground">
+                  Les informations pratiques pour la réunion de présentation.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              <a
+                href={reunionPubPf}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center justify-center rounded-full bg-primary text-primary-foreground text-xs font-semibold px-4 py-2 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
+              >
+                Voir le document
+              </a>
+              <a
+                href={reunionPubPf}
+                download
+                className="inline-flex items-center justify-center rounded-full border border-border text-xs font-semibold px-4 py-2 text-foreground bg-card hover:bg-muted transition-colors"
+              >
+                Télécharger (PDF)
+              </a>
+            </div>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 8 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.35, delay: 0.1 }}
+            className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3 md:col-span-2"
+          >
+            <div className="flex items-center gap-3">
+              <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center">
+                <FileText className="w-5 h-5 text-primary" />
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-foreground">
+                  Diaporama présenté en réunion
+                </p>
+                <p className="text-xs text-muted-foreground">
+                  Les principales diapositives de la réunion publique.
+                  Le document sera disponible après la réunion.
+                </p>
+              </div>
+            </div>
+            <p className="mt-1 text-xs text-muted-foreground/80">
+              (Boutons d&apos;affichage et de téléchargement désactivés pour le
+              moment.)
+            </p>
+          </motion.div>
+        </div>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {themes.map((theme, i) => {
