@@ -232,45 +232,6 @@ const ProgrammeSection = () => {
             initial={{ opacity: 0, y: 8 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            transition={{ duration: 0.35 }}
-            className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3"
-          >
-            <div className="flex items-center gap-3">
-              <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center">
-                <FileText className="w-5 h-5 text-primary" />
-              </div>
-              <div>
-                <p className="text-sm font-semibold text-foreground">
-                  Profession de foi — 1er tour
-                </p>
-                <p className="text-xs text-muted-foreground">
-                  Le document officiel détaillant notre projet.
-                </p>
-              </div>
-            </div>
-            <div className="flex flex-wrap gap-3">
-              <a
-                href={professionPf}
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex items-center justify-center rounded-full bg-primary text-primary-foreground text-xs font-semibold px-4 py-2 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
-              >
-                Voir le document
-              </a>
-              <a
-                href={professionPf}
-                download
-                className="inline-flex items-center justify-center rounded-full border border-border text-xs font-semibold px-4 py-2 text-foreground bg-card hover:bg-muted transition-colors"
-              >
-                Télécharger (PDF)
-              </a>
-            </div>
-          </motion.div>
-
-          <motion.div
-            initial={{ opacity: 0, y: 8 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
             transition={{ duration: 0.35, delay: 0.05 }}
             className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3"
           >
@@ -311,7 +272,7 @@ const ProgrammeSection = () => {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.35, delay: 0.1 }}
-            className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3 md:col-span-2"
+            className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3"
           >
             <div className="flex items-center gap-3">
               <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center">
@@ -337,6 +298,45 @@ const ProgrammeSection = () => {
               </a>
               <a
                 href={reunionDiapoPf}
+                download
+                className="inline-flex items-center justify-center rounded-full border border-border text-xs font-semibold px-4 py-2 text-foreground bg-card hover:bg-muted transition-colors"
+              >
+                Télécharger (PDF)
+              </a>
+            </div>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 8 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.35 }}
+            className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3"
+          >
+            <div className="flex items-center gap-3">
+              <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center">
+                <FileText className="w-5 h-5 text-primary" />
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-foreground">
+                  Profession de foi — 1er tour
+                </p>
+                <p className="text-xs text-muted-foreground">
+                  Le document officiel détaillant notre projet.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              <a
+                href={professionPf}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center justify-center rounded-full bg-primary text-primary-foreground text-xs font-semibold px-4 py-2 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
+              >
+                Voir le document
+              </a>
+              <a
+                href={professionPf}
                 download
                 className="inline-flex items-center justify-center rounded-full border border-border text-xs font-semibold px-4 py-2 text-foreground bg-card hover:bg-muted transition-colors"
               >
