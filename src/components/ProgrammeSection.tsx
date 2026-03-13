@@ -16,6 +16,9 @@ import {
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import securiteImg from "@/assets/securite.png";
+import agriEnvImg from "@/assets/post_pepiniere.png";
+import urbanismeImg from "@/assets/post_colomines2.png";
+import cultureTourismeImg from "@/assets/post_marche3.png";
 import professionPf from "@/assets/docs/profession_1er_tour.pdf";
 import reunionPubPf from "@/assets/docs/reunion_pub.pdf";
 import reunionDiapoPf from "@/assets/docs/reunion_diapo.pdf";
@@ -75,7 +78,7 @@ const themes: ProgrammeTheme[] = [
       "Étendre les jardins familiaux",
       "Repenser le parc Sainte-Camille",
     ],
-    images: [],
+    images: [agriEnvImg],
   },
   {
     icon: Building2,
@@ -87,7 +90,7 @@ const themes: ProgrammeTheme[] = [
       "Déploiement de capteurs solaires",
       "Limiter l'étalement urbain",
     ],
-    images: [],
+    images: [urbanismeImg],
   },
   {
     icon: Theater,
@@ -99,7 +102,7 @@ const themes: ProgrammeTheme[] = [
       "Festival international de sculpture",
       "Valoriser la langue et la culture catalane",
     ],
-    images: [],
+    images: [cultureTourismeImg],
   },
   {
     icon: Users,
