@@ -22,6 +22,7 @@ import cultureTourismeImg from "@/assets/post_marche3.png";
 import professionPf from "@/assets/docs/profession_1er_tour.pdf";
 import reunionPubPf from "@/assets/docs/reunion_pub.pdf";
 import reunionDiapoPf from "@/assets/docs/reunion_diapo.pdf";
+import bulletinVotePf from "@/assets/docs/bulletin_de_vote.pdf";
 
 interface ProgrammeTheme {
   icon: LucideIcon;
@@ -336,6 +337,45 @@ const ProgrammeSection = () => {
               </a>
               <a
                 href={reunionDiapoPf}
+                download
+                className="inline-flex items-center justify-center rounded-full border border-border text-xs font-semibold px-4 py-2 text-foreground bg-card hover:bg-muted transition-colors"
+              >
+                Télécharger (PDF)
+              </a>
+            </div>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 8 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.35, delay: 0.15 }}
+            className="bg-card rounded-2xl p-5 shadow-[var(--card-shadow)] flex flex-col gap-3"
+          >
+            <div className="flex items-center gap-3">
+              <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center">
+                <FileText className="w-5 h-5 text-primary" />
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-foreground">
+                  Bulletin de vote — 1er tour
+                </p>
+                <p className="text-xs text-muted-foreground">
+                  Le bulletin officiel de la liste Cabestany Avant Tout.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              <a
+                href={bulletinVotePf}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center justify-center rounded-full bg-primary text-primary-foreground text-xs font-semibold px-4 py-2 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
+              >
+                Voir le document
+              </a>
+              <a
+                href={bulletinVotePf}
                 download
                 className="inline-flex items-center justify-center rounded-full border border-border text-xs font-semibold px-4 py-2 text-foreground bg-card hover:bg-muted transition-colors"
               >
