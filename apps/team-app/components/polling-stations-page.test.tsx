@@ -2,8 +2,8 @@ import React from "react";
 import { render, screen } from "@testing-library/react";
 import { vi } from "vitest";
 
-vi.mock("@/components/polling-stations-map", () => ({
-  PollingStationsMap: () => <div>Carte mockée</div>,
+vi.mock("@/components/polling-stations-map-shell", () => ({
+  PollingStationsMapShell: () => <div>Carte mockée</div>,
 }));
 
 import { PollingStationsPage } from "@/components/polling-stations-page";
