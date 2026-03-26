@@ -10,7 +10,8 @@
     "test": "vitest run -c vitest.config.ts",
     "test:watch": "vitest -c vitest.config.ts",
     "test:coverage": "vitest run -c vitest.config.ts --coverage",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "check": "npm test && npm run build"
   },
   "dependencies": {
     "@supabase/ssr": "^0.9.0",

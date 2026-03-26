@@ -60,6 +60,27 @@ cd apps/team-app
 npx playwright test
 ```
 
+Vérification rapide avant push :
+
+```bash
+cd /Users/virginie/dev/perso/cabesavanttout
+npm run check
+```
+
+Vérification complète avec E2E :
+
+```bash
+cd /Users/virginie/dev/perso/cabesavanttout
+npm run check:full
+```
+
+Correction automatique de ce qu'ESLint peut réparer :
+
+```bash
+cd /Users/virginie/dev/perso/cabesavanttout
+npm run fix
+```
+
 ## CI
 
 Le pipeline GitHub Actions est defini dans :
