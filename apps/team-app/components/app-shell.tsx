@@ -15,6 +15,7 @@ import {
   ShieldUser,
   Users,
   UserRound,
+  type LucideIcon,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { buildNavigation } from "@/lib/navigation";
@@ -34,7 +35,7 @@ export function AppShell({
   permissions?: string[];
 }) {
   const navigation = buildNavigation(permissions);
-  const iconByHref = {
+  const iconByHref: Record<string, LucideIcon> = {
     "/dashboard": LayoutDashboard,
     "/search": Search,
     "/polling-stations": MapPinned,
@@ -81,18 +82,18 @@ export function AppShell({
                 const Icon = iconByHref[href];
 
                 return (
-                <Link
-                  key={href}
-                  className={cn(
-                    "group inline-flex min-w-max items-center gap-3 rounded-2xl border border-transparent bg-white/45 px-4 py-3 text-sm font-medium text-ink/72 transition hover:-translate-y-0.5 hover:border-white/70 hover:bg-white/80 hover:text-ink lg:flex",
-                  )}
-                  href={href}
-                >
-                  <span className="inline-flex h-9 w-9 items-center justify-center rounded-2xl bg-ink/5 text-ink/70 transition group-hover:bg-accent/10 group-hover:text-accent">
-                    <Icon className="h-4 w-4" />
-                  </span>
-                  <span>{label}</span>
-                </Link>
+                  <Link
+                    key={href}
+                    className={cn(
+                      "group inline-flex min-w-max items-center gap-3 rounded-2xl border border-transparent bg-white/45 px-4 py-3 text-sm font-medium text-ink/72 transition hover:-translate-y-0.5 hover:border-white/70 hover:bg-white/80 hover:text-ink lg:flex",
+                    )}
+                    href={href}
+                  >
+                    <span className="inline-flex h-9 w-9 items-center justify-center rounded-2xl bg-ink/5 text-ink/70 transition group-hover:bg-accent/10 group-hover:text-accent">
+                      <Icon className="h-4 w-4" />
+                    </span>
+                    <span>{label}</span>
+                  </Link>
                 );
               })}
             </nav>
