@@ -1,0 +1,10 @@
+__id,id_election,id_brut_miom,code_departement,libelle_departement,code_canton,libelle_canton,code_commune,libelle_commune,code_circonscription,libelle_circonscription,code_bv,inscrits,abstentions,votants,blancs,nuls,exprimes,ratio_abstentions_inscrits,ratio_votants_inscrits,ratio_blancs_inscrits,ratio_blancs_votants,ratio_nuls_inscrits,ratio_nuls_votants,ratio_exprimes_inscrits,ratio_exprimes_votants
+616021,2021_dpmt_t2,66028_0001,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0001,892,586,306,10,12,284,65.7,34.3,1.12,3.27,1.35,3.92,31.84,92.81
+616022,2021_dpmt_t2,66028_0002,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0002,907,568,339,1,16,322,62.62,37.38,0.11,0.29,1.76,4.72,35.5,94.99
+616023,2021_dpmt_t2,66028_0003,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0003,880,610,270,13,15,242,69.32,30.68,1.48,4.81,1.7,5.56,27.5,89.63
+616024,2021_dpmt_t2,66028_0004,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0004,806,516,290,15,4,271,64.02,35.98,1.86,5.17,0.5,1.38,33.62,93.45
+616025,2021_dpmt_t2,66028_0005,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0005,823,516,307,10,7,290,62.7,37.3,1.22,3.26,0.85,2.28,35.24,94.46
+616026,2021_dpmt_t2,66028_0006,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0006,907,564,343,14,7,322,62.18,37.82,1.54,4.08,0.77,2.04,35.5,93.88
+616027,2021_dpmt_t2,66028_0007,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0007,932,554,378,14,10,354,59.44,40.56,1.5,3.7,1.07,2.65,37.98,93.65
+616028,2021_dpmt_t2,66028_0008,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0008,942,595,347,15,10,322,63.16,36.84,1.59,4.32,1.06,2.88,34.18,92.8
+616029,2021_dpmt_t2,66028_0009,66,Pyrénées-Orientales,08,Perpignan-3,66028,Cabestany,,,0009,983,611,372,18,13,341,62.16,37.84,1.83,4.84,1.32,3.49,34.69,91.67

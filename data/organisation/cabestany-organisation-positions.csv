@@ -1,0 +1,28 @@
+id,type,label,person_name,agent_count,parent_scope,notes
+mayor_1,executif,Maire,Edith Pugnet,,mairie,
+cabinet_1,direction,Directeur de cabinet,Sébastien Bracq,,mairie,
+maire_secretariat_1,service,Secrétariat du maire,N. Clairefond,,cabinet,
+communication_1,service,Service communication,R. Lacapere,3,cabinet,
+dgs_1,direction,Directeur général des services,Jean-Paul Lebrun,,mairie,"Oriente l'activité des services spécifiques avec la Maire et le Directeur de Cabinet"
+secretariat_general_1,service,Secrétariat général et des assemblées,B. Portugues,,dgs,
+marches_publics_1,service,"Marchés publics et secrétariat bureau municipal",S. Suares,,dgs,
+police_direction_1,direction,Police municipale,P. Menard,,dgs,
+police_service_1,service,Service police municipale,,2,dgs,
+finance_direction_1,direction,Directeur finance & administration générale,Sébastien Bosc-Payre,,dgs,
+finance_service_1,service,Service finance,,7,finance_direction,
+rh_direction_1,direction,Directeur des ressources humaines,Stéphane Regaudie,,dgs,
+rh_service_1,service,Service ressources humaines,,3,rh_direction,
+ccas_direction_1,direction,Directeur du CCAS,Jean-Henri Martin,29,dgs,
+dga_population_1,direction,Directrice générale adjointe services à la population,Cécile Dupuis,,dgs,
+ctg_1,coordination,Coordinatrice convention territoriale globale (CTG),,,dga_population,
+administration_generale_1,service,Service administration générale,,7,dga_population,
+vie_familiale_1,service,Service vie familiale et citoyenne,,25,dga_population,
+sport_1,service,Service sport,,3,dga_population,"lecture image à confirmer"
+jeunesse_periscolaire_1,service,"Service jeunesse / périscolaire / cantine",,33,dga_population,
+affaires_scolaires_1,service,Service affaires scolaires,,14,dga_population,
+culture_patrimoine_1,service,Service culture et patrimoine,,16,dga_population,"16 agents indiqué sur l'image"
+dga_technique_1,direction,Directrice générale adjointe services techniques et urbanisme,Sophie Nicolas,,dgs,
+urbanisme_1,service,Services urbanisme et droit des sols,,3,dga_technique,
+batiments_logistique_1,service,Services bâtiments et logistique,,45,dga_technique,
+voirie_espaces_verts_1,service,"Services voiries, espaces verts, propreté urbaine",,28,dga_technique,
+effectifs_1,meta,Organisation municipale,,234,mairie,"dont 34 CDD, 2 CAE, 1 CDD 2 ans et 1 emploi de cabinet"

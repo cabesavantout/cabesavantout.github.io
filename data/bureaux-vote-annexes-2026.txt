@@ -1,0 +1,9253 @@
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+ALBERE (l')
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+ALENYA
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+02
+
+AMELIE LES BAINS/ PALALDA
+
+CERET
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+01
+03
+
+0001
+
+Salle polyvalente
+
+0001
+
+1 – École élémentaire Françoise Lopes Girona – bvd du 8 mai 1945 - bureau centralisateur
+
+0002
+
+2 – École élémentaire Françoise Lopes Girona – bvd du 8 mai 1945
+
+0003
+
+3 – École maternelle – boulevard du 8 mai 1945
+
+0001
+
+1 –Espace Méditerranée – rue des anciens combattants d’Afrique du Nord – bureau centralisateur
+
+Bureau centralisateur canton 2
+
+0002
+
+2 –Espace Méditerranée – rue des anciens combattants d’Afrique du Nord
+
+1 – Espace Méditerranée–rue des anciens combattants
+d’Afrique du Nord
+
+0003
+
+3 –Mairie annexe PALALDA - rue du bac
+
+Canton 2 – Le Canigou
+
+04
+
+03
+
+ANGLES (les)
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – 10, place du Coq d’Or
+
+ANGOUSTRINE/VILLENEUVE ESCALDES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle Joseph Cot – 39 route des Pyrénées
+
+ANSIGNAN
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Salle de l'Aqueduc – rue de la cave coopérative
+
+ARBOUSSOLS
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie-Place de la mairie
+
+ARGELES SUR MER
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+0001
+
+1 – Mairie – salle du conseil municipal - bureau centralisateur
+
+Bureau centralisateur canton 5
+
+0002
+
+2 – Mairie – salle des commissions
+
+1 – Mairie–salle du conseil municipal
+
+0003
+
+3 – Mairie – salle Buisson nord
+
+0004
+
+4 – Mairie – salle Buisson sud
+
+ARLES SUR TECH
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+AYGUATEBIA-TALAU
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+BAGES
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+BAHO
+
+PERPIGNAN
+
+Canton 14 – Le Ribéral
+
+03
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+PERPIGNAN
+
+Canton 14 – Le Ribéral
+
+03
+
+BANYULS DELS ASPRES
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+BANYULS SUR MER
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+BAILLESTAVY
+BAIXAS
+
+BARCARES (LE)
+
+PERPIGNAN
+
+Canton 4 – La Côte Salanquaise
+
+02
+
+010
+
+02
+01
+03
+
+02
+01
+02
+01
+04
+
+06
+
+Page 1 sur 12
+
+0005
+
+5 – Foyer du 3ème âge
+
+0006
+
+6- centre technique municipal
+
+0007
+
+7 – Salle Nicolas RABAT - parking du GRAU
+
+0008
+
+8 – Espace Waldeck Rousseau – salle n°1
+
+0009
+
+9 – Espace Waldeck Rousseau – salle n°2
+
+0010
+
+10 – Espace Waldeck Rousseau- salle n°3
+
+0001
+
+Mairie (salle des mariages) – Baills J.B. Barjau
+
+0002
+
+Salle des fêtes – place Monin
+
+0001
+
+Mairie – salle de réunion – 10 rue de la mairie
+
+0001
+
+1 – Halle aux sports « Louis Noguères » - route d’Ortaffa – bureau centralisateur
+
+0002
+
+2 – Halle aux sports « Louis Noguères » - route d’Ortaffa
+
+0003
+
+3 – Halle aux sports « Louis Noguères » - route d’Ortaffa
+
+0001
+
+1 – Salle polyvalente-place du 8 mai 1945 – bureau centralisateur
+
+0002
+
+2 – Salle polyvalente-place du 8 mai 1945
+
+0001
+
+Maison d'animation – plaça nova
+
+0001
+
+1 – Foyer rural – rue des Cordiers
+
+0002
+
+2 - Château les Pins – Espace Jordi – 1 bvd de la République – bureau centralisateur
+
+0001
+
+Groupe scolaire – 46, rue des Vendanges – entrée avenue de la Gare
+
+0001
+
+1 – Mairie – salle du conseil municipal-Avenue de la République- bureau centralisateur
+
+0002
+
+2 – Mairie – salle des expositions- entrée droite
+
+0003
+
+3 – Mairie – Salle des expositions – entrée gauche
+
+0004
+
+4– Mairie – Salle des expositions – Salle Jean Jaurès
+
+0001
+
+1 – Hôtel de ville – salle Victor Hugo bd du 14 juillet - bureau centralisateur
+
+0002
+
+2 – Mas de l'Ille – Boulevard des rois de Majorque
+
+0003
+
+3 – Hall d'entrée de l'Hôtel de ville – boulevard du 14 juillet
+
+0004
+
+4 – Mas de l'Ille – boulevard des rois de Majorque
+
+0005
+
+5 – Hall d'entrée de l'Hôtel de ville – boulevard du 14 juillet
+
+0006
+
+6 – Mas de l'Ille – boulevard des rois de Majorque
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+BASTIDE (LA)
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+Mairie
+
+BELESTA
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – salle d’honneur – 1, place de la Mairie
+
+BOLQUERE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+BOMPAS
+
+PERPIGNAN
+
+Canton 7 – Perpignan 2
+
+01
+
+BOULE D AMONT
+
+PRADES
+
+BOULETERNERE
+BOULOU (LE)
+
+06
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+04
+
+0001
+
+Mairie, salle du conseil municipal – 2 grand rue
+
+0001
+
+1 - Salle polyvalente -104 avenue du Haut Vernet - bureau centralisateur
+
+0002
+
+2 - Salle polyvalente -104 avenue du Haut Vernet
+
+0003
+
+3 - Salle polyvalente -104 avenue du Haut Vernet
+
+0004
+
+4 - Salle polyvalente -104 avenue du Haut Vernet
+
+0005
+
+5 - Salle polyvalente -104 avenue du Haut Vernet
+
+0006
+
+6 - Salle polyvalente -104 avenue du Haut Vernet
+
+0001
+
+Mairie AL MONTADO -Salle Polyvalente de la Mairie
+
+0001
+
+Salle des fêtes Jules Gaspard – place du 8 mai
+
+0001
+
+1 – Salle polyvalente de la maision de l’eau et de la méditerranée – rue Arago
+
+0002
+
+2- Ecole primaire – rue du 4 septembre
+
+0003
+
+3 – Mairie – avenue Léon Jean Grégory – bureau centralisateur
+
+0004
+
+4- Salle Joan Cayrol – chemin du Moli Nou
+
+BOURG MADAME
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – place de Catalogne
+
+BROUILLA
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Mairie – Immeuble Rouzaud – 7 rue Julien Panchot
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+PERPIGNAN
+
+Canton 8 - Perpignan 3
+
+01
+
+CABANASSE (LA)
+CABESTANY
+
+09
+
+0001
+
+Salle des fêtes – Place del Mitg
+
+0001
+
+1 – Centre culturel – avenue du 19 mars 1962 - bureau centralisateur
+
+0002
+
+2 – Centre culturel – avenue du 19 mars 1962
+
+0003
+
+3 – Centre culturel – avenue du 19 mars 1962
+
+0004
+
+4 – École Prévert – avenue du Roussillon
+
+0005
+
+5 – École Prévert – avenue du Roussillon
+
+0006
+
+6 – École Buffon – avenue du Périgord
+
+0007
+
+7 – École Buffon – avenue du Périgord
+
+0008
+
+8-Ecole Ludovic Masse – Chemin du mas Bonique
+
+0009
+
+9-Ecole Ludovic Masse – Chemin du mas Bonique
+
+CAIXAS
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Salle Municipale – place de la Mairie
+
+CALCE
+
+PERPIGNAN
+
+Canton 14 – Le Ribéral
+
+03
+
+01
+
+0001
+
+Salle polyvalente La Fontane-rue la Fontane
+
+CALMEILLES
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Salle communale du bâtiment municipal (rdc Mairie)
+
+CAMELAS
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Mairie
+
+CAMPOME
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle polyvalente de l’espace Castellane
+
+CAMPOUSSY
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – 9 carrer nou
+
+CANAVEILLES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie- salle rez de chaussée – place Erola
+
+PERPIGNAN
+
+Canton 3 – La Côte Sableuse
+
+02
+
+CANET EN ROUSSILLON
+
+0001
+
+1 – Salle Martin Vivès – 11 avenue Joseph Sauvy – bureau centralisateur
+
+Bureau centralisateur canton 3
+
+0002
+
+2 – Ecole maternelle les Paquerettes – Impasse Xamma
+
+1 – salle Martin Vivès – 11 avenue Joseph Sauvy
+
+0003
+
+3 – Ecole maternelle les Paquerettes – Impasse Xamma
+
+0004
+
+4 – Ecole maternelle les Paquerettes – Impasse Xamma
+
+0005
+
+5 – Ecole maternelle les Paquerettes – Impasse Xamma
+
+0006
+
+6 – Ecole primaire Jean Mermoz – Rue Jean Mermoz
+
+0007
+
+7 – Ecole primaire Jean Mermoz – Rue Jean Mermoz
+
+0008
+
+8 – Ecole primaire Jean Mermoz – Rue Jean Mermoz
+
+013
+
+Page 2 sur 12
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+CANOHES
+
+PERPIGNAN
+
+Canton 10 – Perpignan 5
+
+01
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+06
+
+0009
+
+9 – Ecole primaire Jean Mermoz – Rue Jean Mermoz
+
+0010
+
+10 – Ecole primaire Jean Mermoz – Rue Jean Mermoz
+
+0011
+
+11 – Ecole maternelle Les Myosotis – 2 Rue des Myosotis
+
+0012
+
+12 – Ecole maternelle Les Myosotis – 2 Rue des Myosotis
+
+0013
+
+13 – Ecole maternelle Les Myosotis – 2 Rue des Myosotis
+
+0001
+
+1 – Salle polyvalente Claude Nougaro – 2 rue de la Couloumine – bureau centralisateur
+
+0002
+
+2 – Salle polyvalente Claude Nougaro – 2 rue de la Couloumine
+
+0003
+
+3 – Salle des fêtes – 1 rue de la Mairie
+
+0004
+
+4 – Salle plurivalente – annexe école Panchot – 1 rue Escudier
+
+0005
+
+5 – Restaurant scolaire – rue des écoles
+
+0006
+
+6 – Hotel de ville – 1 avenue El Cruzat
+
+CARAMANY
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie- 3 place de la mairie
+
+CASEFABRE
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Salle des fêtes – allé des Mimosas
+
+CASES DE PENE
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Salle polyvalente – rue de l’Hôtel de ville
+
+CASSAGNES
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – 6 rue des capitelles
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie – 3 boulevard Saint-Martin du Canigou
+
+CASTEIL
+CASTELNOU
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Salle du tilleul
+
+CATLLAR
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle des fêtes – 30bis route nationale
+
+CAUDIES DE FENOUILLEDES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Salle Debussy –Espace caporal François Fabre
+
+CAUDIES DE CONFLENT
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – salle polyvalente Henri Naudeillo – 11 rue de la socarrada
+
+CERBERE
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+01
+
+CERET
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+CLAIRA
+
+PERPIGNAN
+
+0001
+
+Salle Georges Claussel – avenue Général de Gaulle
+
+0001
+
+1 – École Marc Chagall – avenue Jules Ferry – salle de la cantine – bureau centralisateur
+
+Bureau centralisateur canton 17
+
+0002
+
+2 – École Marc Chagall – avenue Jules Ferry
+
+1 – École Marc Chagall – avenue Jules Ferry
+Salle de la cantine
+
+0003
+
+3 – École Marc Chagall – avenue Jules Ferry
+
+0004
+
+4 – École Marc Chagall – avenue Jules Ferry
+
+0005
+
+5 – École Marc Chagall – avenue Jules Ferry
+
+0006
+
+6 – École Marc Chagall – avenue Jules Ferry
+
+Canton 4 – La Côte Salanquaise
+
+07
+
+02
+
+05
+
+02
+
+0007
+
+7 – École Marc Chagall – avenue Jules Ferry
+
+0001
+
+1 – Salle polyvalente – rue des sports – bureau centralisateur
+
+0002
+
+2 – Ecole élémentaire « Yves Duces » avenue du 8 mai 1945
+
+0003
+
+3 – Salle polyvalente – rue des sports
+
+0004
+
+4 – Salle des Fêtes, boulevard des Albères
+
+0005
+
+5 - Salle Saint Gaudérique - rue de la poste
+
+0001
+
+1 – Salle polyvalente – 1 rue des vignes 66500 Clara - bureau centralisateur
+
+0002
+
+2 – Salle polyvalente-1 rue des tilleuls – 66500 VILLERACH
+
+CLARA-VILLERACH
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+CLUSES (les)
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+01
+
+0001
+
+Salle polyvalente- D900 Le Cluses- Le Perthus
+
+CODALET
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle polyvalente « la Parraguera »– 3 place de la République
+
+COLLIOURE
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+02
+
+0001
+
+1 – Salle polyvalente du centre culturel – rue Jules Michelet – bureau centralisateur
+
+0002
+
+2 – Salle polyvalente du centre culturel – rue Jules Michelet
+Mairie – salle des fêtes – place du 08 mai 1945
+
+CONAT-BETLLANS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+CORBERE
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+0001
+
+Mairie – rue du puits – Espace Émile Vendrell
+
+CORBERE LES CABANES
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+0001
+
+Mairie – salle du conseil municipal – 13 rue Pomarola
+
+Page 3 sur 12
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+CORNEILLA DE CONFLENT
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+CORNEILLA LA RIVIERE
+
+PERPIGNAN
+
+Canton 16 – La Vallée de la Têt
+
+02
+
+01
+02
+
+0001
+
+CORNEILLA DEL VERCOL
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+02
+
+CORSAVY
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+Mairie – rue du Barry d'Amont
+
+COUSTOUGES
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+Mairie – salle des mariages – route des écoles
+
+DORRES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+EGAT
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+ELNE
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+.
+08
+
+0001
+
+Mairie 36 carrer d'amunt
+1–
+
+Espace Força Real, rue du Stade – bureau centralisateur
+
+0002
+
+2 –Espace Força Real, rue du Stade
+
+0001
+
+1 - Salle des fêtes– place de la république- aile droite- bureau centralisateur
+
+0002
+
+2 – Salle des fêtes– place de la République – aile gauche
+
+0001
+
+Mairie – 4 carrer major
+
+0001
+
+Mairie – 1 place de la coloumine
+
+0001
+
+1 – Mairie – Cité administrative – 14 bd voltaire
+
+Bureau centralisateur canton 12
+
+0002
+
+2 – Mairie – Cité administrative – 14 bd voltaire
+
+8 – Mairie – Cité administrative - 14 bd voltaire
+
+0003
+
+3 – Mairie – Cité administrative - 14 bd voltaire
+
+0004
+
+4 – Mairie – Cité administrative - 14 bd voltaire
+
+0005
+
+5 – Mairie – Cité administrative - 14 bd voltaire
+
+0006
+
+6 – Mairie – Cité administrative - 14 bd voltaire
+
+0007
+
+7 – Mairie – Cité administrative - 14 bd voltaire
+
+0008
+
+8 – Mairie – Cité administrative - 14 bd voltaire – bureau centralisateur
+
+ENVEITG
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Casa Enveitg - 2 rue de la mairie
+
+ERR
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle des fêtes – 2 carrer de l’Ajuntament
+
+ESCARO-AYTUA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+ESPIRA DE L'AGLY
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+ESPIRA DE CONFLENT
+
+03
+
+01
+
+0001
+
+Hôtel de ville-rue St Martin
+
+0001
+
+1 – Maison du savoir – Salle Agnès Jaoui-allées Jean Teulière – bureau centralisateur
+
+0002
+
+2 – Maison du savoir – Salle Agnès Jaoui-allées Jean Teulière
+
+0003
+
+3 – Maison du savoir – Salle Agnès Jaoui-allées Jean Teulière
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+ESTAGEL
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+ESTAVAR
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle Polyvalente – Chemin del Carre
+
+ESTOHER
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Salle polyvalente – rue du jardin d’enfants
+
+EUS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+La Maison du Temps Libre – Carrer de l’Ajuntament
+
+EYNE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie-Cal Martinet - 3 avenue de Cerdagne
+
+FEILLUNS
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Place de la Mairie – rdc mairie
+
+FENOUILLET
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – la vilasse – carriera de la libertat
+
+FILLOLS
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Hôtel de ville –salle du conseil
+
+FINESTRET
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie – place del Firal
+
+FONT ROMEU ODEILLO VIA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+0001
+
+1 – Salle du conseil – Mairie – 1 avenue du professeur Trombe – bureau centralisateur
+
+0002
+
+2 – hall d’accueil du nouvel office de Tourisme – 43 av Emmanuel Brousse
+
+FONTPEDROUSE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle des fêtes Victor Martinez – rue de Saint Thomas
+
+FONTRABIOUSE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle des fêtes – 1 rue du Planas – Fontrabiouse
+
+FORMIGUERES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie -1 place de l’église
+
+FOSSE
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Salle du conseil - Mairie
+
+FOURQUES
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+0001
+
+1 – Ecole maternelle -salle de motricité - 33,av du Vallespir - bureau centralisateur
+
+0002
+
+2 – Ecole maternelle -salle de motricité - 33,av du Vallespir
+
+02
+
+02
+
+02
+
+Page 4 sur 12
+
+0001
+
+Salle de la Mairie-15 carrer Major
+
+0001
+
+1 – Salle Arago – avenue du Dr Torreilles - bureau centralisateur
+
+0002
+
+2 – Salle Mandela – avenue René Nicolau
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+FUILLA
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+GLORIANES
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Salle de réunion de la mairie
+
+ILLE SUR TET
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+0001
+
+1 – Salle La Catalane – 4 avenue Chopin – bureau centralisateur
+
+0002
+
+2 – Salle La Catalane – 4 avenue Chopin
+
+0003
+
+3 – Salle La Catalane – 4 avenue Chopin
+
+0004
+
+4 – Salle La Catalane – 4 avenue Chopin
+
+0005
+
+5 – Salle La Catalane – 4 avenue Chopin
+
+05
+
+Mairie – 41 ancien chemin de Villefranche
+
+JOCH
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Salle des fêtes
+
+JUJOLS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle de la Mairie
+Mairie – 9 carrer del Punt mès al Sud
+
+LAMANERE
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+LANSAC
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – 52 rue de la mairie
+
+LAROQUE DES ALBERES
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+02
+
+0001
+
+1 – Mairie –place de la mairie – bureau centralisateur
+
+LATOUR BAS ELNE
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+02
+
+02
+
+LATOUR DE CAROL
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – 6 place Carolane
+
+LATOUR DE FRANCE
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Hôtel de ville de l’Avenue Guy MALE
+
+LESQUERDE
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – 27 grand rue du Capitoul
+
+LLAGONNE(LA)
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+La Fount – 2 rue de la Roque
+
+LLAURO
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Salle des fêtes - rue des Acacias
+
+01
+
+LLO
+
+0002
+
+2 – Salle Cami Clos (salle de bridge)– carrer del sol
+
+0001
+
+1 – Salle des fêtes – rue Saint-Jacques - bureau centralisateur
+
+0002
+
+2 – Cantine scolaire – avenue Pierre Camps
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+LLUPIA
+
+PERPIGNAN
+
+Canton 1 – Les Aspres
+
+04
+
+MANTET
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie de Mantet
+
+MARQUIXANES
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie – salle de réunions – 4 rue des Ecoles
+
+MASOS (LOS)
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle polyvalente- rue des écoles
+
+MATEMALE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – 1 place de la mairie
+
+MAUREILLAS/LAS ILLAS
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+0001
+
+1 – Mairie – 14 avenue du Vallespir bureau centralisateur
+
+MAURY
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+MILLAS
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+02
+
+03
+
+01
+04
+
+0001
+
+Salle polyvalente – carretera d'Eina-
+
+0001
+
+1 – Salle Louis Amade – rue Jules Ferry – bureau centralisateur
+
+0002
+
+2 – Salle Louis Amade – rue Jules Ferry
+
+0002
+
+2 – Mairie – 14 avenue du Vallespir
+
+0003
+
+3 – Las Illas – place de la mairie – annexe mairie
+
+0001
+
+Mairie, 1 Place de la Mairie
+
+0001
+
+1 - Centre socio-culturel – allée Henri Barbusse-Halles des sports - bureau centralisateur
+
+0002
+
+2 – Centre socio-culturel – allée Henri Barbusse-Halles des sports
+
+0003
+
+3 – Centre socio-culturel – allée Henri Barbusse-Halles des sports
+
+0004
+
+4 –Centre socio-culturel – allée Henri Barbusse-Halles des sports
+Maison communale – 5 carretera del coll de Jau
+
+MOLITG LES BAINS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+MONTALBA LE CHATEAU
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+0001
+
+Mairie – 11 rue cami d'Ille
+
+MONTAURIOL
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Salle polyvalente- le Village
+
+MONTBOLO
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+Salle du conseil municipal – 2, rue de l'Eglise
+
+MONTESCOT
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+01
+
+0001
+
+Salle des fêtes – 2 rue du Roussillon,
+
+MONTESQUIEU des ALBERES
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+01
+
+0001
+
+Salle Jean Thubert- 2 Grand’Rue
+
+MONTFERRER
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+Mairie – 299 rue principale
+
+Page 5 sur 12
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+MONT LOUIS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle des Pyrénées – 1er étage –6 bvd Vauban
+
+MONTNER
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie de Montner – place de l’Aire
+
+MOSSET
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle polyvalente sous la mairie
+
+NAHUJA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie - placa del municipi
+
+NEFIACH
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+0001
+
+Salle des fêtes -Le Foirail
+
+NOHEDES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – carrer dels pastors
+
+NYER
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+OLETTE-EVOL
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+OMS
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Salle polyvalente – rue de l'orme
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Salle du conseil municipal – 22, avenue Pierre Estirac
+
+OREILLA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+ORTAFFA
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+OSSEJA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+PALAU DE CERDAGNE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – manoir du Marquis de Tilière
+
+PALAU DEL VIDRE
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+0001
+
+1 – Mairie – Place de la République - bureau centralisateur
+
+0002
+
+2 – Halle des sports – rue Haroun Tazieff
+
+PASSA
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+PERPIGNAN
+
+Canton 6 – Perpignan 1
+
+02
+
+Bureau centralisateur canton 6
+
+02
+
+0002
+
+602 - Groupe scolaire Léon Blum – Avenue Dr Schweitzer
+
+601 – Groupe scolaire Léon Blum – Avenue Dr Schweitzer
+
+02
+
+0003
+
+603 – Groupe scolaire Léon Blum – Avenue Dr Schweitzer
+
+02
+
+0004
+
+604 - Groupe scolaire Léon Blum – Avenue Dr Schweitzer
+
+02
+
+0005
+
+605 – Groupe scolaire Victor Hugo – Rue Raoul Dufy
+
+02
+
+0006
+
+606 – Groupe scolaire Victor Hugo – Rue Raoul Dufy
+
+02
+
+0007
+
+607 – Groupe scolaire Victor Hugo – Rue Raoul Dufy
+
+01
+
+0008
+
+608 – Groupe scolaire Émile Roudayre – Avenue Roudayre
+
+01
+
+0009
+
+609 – Groupe scolaire Émile Roudayre – Avenue Roudayre
+
+01
+
+0010
+
+610 – Groupe scolaire Émile Roudayre – Avenue Roudayre
+
+01
+
+0011
+
+611 – Groupe scolaire Émile Roudayre – Avenue Roudayre
+
+01
+
+0012
+
+612 - Mairie du Quartier Nord – Salle Al Sol – Rue Jardins St Louis
+
+01
+
+0013
+
+613 - Mairie du Quartier Nord – Salle Al Sol – Rue Jardins St Louis
+
+01
+
+0014
+
+614 - Mairie du Quartier Nord – Salle Al Sol – Rue Jardins St Louis
+
+01
+
+0015
+
+615 - École du Pont Neuf – Rue Isidore Hondrat
+
+01
+
+0016
+
+616 - École du Pont Neuf – Rue Isidore Hondrat
+
+01
+
+0017
+
+617 – BV dérogatoire – École du Pont Neuf – Rue Isidore Hondrat
+
+OPOUL PERILLOS
+
+PERPIGNAN
+
+02
+
+02
+
+02
+01
+076
+
+0001
+
+Place de la mairie
+
+0001
+
+1 – Salle des fêtes – 82 avenue du général de Gaulle – OLETTE – bureau centralisateur
+
+0002
+
+2 – Annexe mairie - place Ludovic Massé – EVOL
+
+0001
+
+Mairie – Salle
+
+0001
+
+Salle Carignan – espace Jean Latrobe – rue du Château
+
+0002
+
+Salle Carignan – espace Jean Latrobe – rue du Château
+
+0001
+
+Foyer municipal – 1, avenue de Cerdagne
+
+0001
+
+Réfectoire de la cantine scolaire
+
+0001
+
+601 – Groupe scolaire Léon Blum – Avenue Dr Schweitzer - bureau centralisateur
+
+Canton 7 – Perpignan 2
+
+03
+
+0018
+
+701 – Couvent des Minimes – Rue Rabelais - bureau centralisateur
+
+Bureau centralisateur canton 7
+
+01
+
+0019
+
+702 – Groupe scolaire Les Platanes – Rue des Dahlias
+
+701 – Couvent des Minimes – Rue Rabelais
+
+01
+
+0020
+
+703 – Groupe scolaire Les Platanes – Rue des Dahlias
+
+01
+
+0021
+
+704 – Mairie de Quartier Est – Rue des Calanques
+
+01
+
+0022
+
+705 – Mairie de Quartier Est – Rue des Calanques
+
+01
+
+0023
+
+706 – Groupe scolaire Simon Boussiron – Avenue Général Gilles
+
+Page 6 sur 12
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+01
+
+0024
+
+707 - Groupe scolaire Simon Boussiron – Avenue Général Gilles
+
+01
+
+0025
+
+708 – Groupe scolaire Simon Boussiron – Avenue Général Gilles
+
+01
+
+0026
+
+709 – Groupe scolaire Claude Simon – Chemin de la Roseraie
+
+01
+
+0027
+
+710 – Groupe scolaire Claude Simon – Chemin de la Roseraie
+
+01
+
+0028
+
+711 – Groupe scolaire Claude Simon – Chemin de la Roseraie
+
+Canton 8 - Perpignan 3
+
+03
+
+0029
+
+1102 - Hôtel de Ville – Place de la Loge - bureau centralisateur de la commune
+
+Bureau centralisateur canton 8
+
+03
+
+0030
+
+802 – Couvent des Minimes – Rue Rabelais
+
+1102 - Hôtel de Ville – Place de la Loge
+
+03
+
+0031
+
+803 – Groupe scolaire Romain Rolland – 1, avenue Georges Guynemer
+
+03
+
+0032
+
+804 – Groupe scolaire Romain Rolland – 1 avenue Georges Guynemer
+
+03
+
+0033
+
+805 – Groupe scolaire Romain Rolland – 1 avenue Georges Guynemer
+
+01
+
+0034
+
+806 – Groupe scolaire Pierre de Coubertin -Rue Paul Valéry
+
+01
+
+0035
+
+807 - Groupe scolaire Pierre de Coubertin -Rue Paul Valéry
+
+01
+
+0036
+
+808 – Groupe scolaire Pierre de Coubertin -Rue Paul Valéry
+
+01
+
+0037
+
+809 – Groupe scolaire Pierre de Coubertin -Rue Paul Valéry
+
+01
+
+0038
+
+810 – Groupe scolaire Pierre de Coubertin -Rue Paul Valéry
+
+Canton 9 – Perpignan 4
+
+03
+
+0039
+
+901 – Groupe scolaire Jordi Barre – 4 Rue Remparts St Mathieu - bureau centralisateur
+
+Bureau centralisateur canton 9
+
+03
+
+0040
+
+902 – Groupe scolaire Jordi Barre – 4 Rue Remparts St Mathieu
+
+901 – Groupe scolaire Jordi Barre – 4 Rue Remparts St Mathieu
+
+01
+
+0041
+
+903 - Groupe scolaire Anatole France – Place Colonel d'Ornano
+
+01
+
+0042
+
+904 – Groupe scolaire Anatole France – Place Colonel d'Ornano
+
+01
+
+0043
+
+905 – Groupe scolaire Anatole France – Place Colonel d'Ornano
+
+01
+
+0044
+
+906 – Groupe scolaire Anatole France – Place Colonel d'Ornano
+
+01
+
+0045
+
+907 – Groupe scolaire Anatole France – Place Colonel d'Ornano
+
+01
+
+0046
+
+908 – Groupe scolaire Hyacinthe Rigaud – Bd Foment de la Sardane
+
+01
+
+0047
+
+909 - Groupe scolaire Hyacinthe Rigaud – Bd Foment de la Sardane
+
+01
+
+0048
+
+910 - Groupe scolaire Hyacinthe Rigaud – Bd Foment de la Sardane
+
+01
+
+0049
+
+911 - Groupe scolaire Vertefeuille – Rue de Villelongue dels Monts
+
+01
+
+0050
+
+912 - Groupe scolaire Vertefeuille – Rue de Villelongue dels Monts
+
+01
+
+0051
+
+913 - Groupe scolaire Vertefeuille – Rue de Villelongue dels Monts
+
+01
+
+0052
+
+914 – Groupe scolaire Ludovic Massé – Rue Pierre Bretonneau
+
+01
+
+0053
+
+915 - Groupe scolaire Ludovic Massé - Rue Pierre Bretonneau
+
+03
+
+0054
+
+916 – Groupe scolaire Romain Rolland –1 avenue Georges Guynemer
+
+Canton 10 – Perpignan 5
+
+03
+
+0055
+
+1001 - École Jules Ferry – Boulevard des Pyrénées – bureau centralisateur
+
+Bureau centralisateur canton 10
+
+03
+
+0056
+
+1002 - École Jules Ferry – Boulevard des Pyrénées
+
+1001 - École Jules Ferry – Boulevard des Pyrénées
+
+01
+
+0057
+
+1003 – Groupe scolaire Édouard Herriot – Avenue Victor Dalbiez
+
+01
+
+0058
+
+1004 – Groupe scolaire Édouard Herriot – Avenue Victor Dalbiez
+
+01
+
+0059
+
+1005 – Groupe scolaire Édouard Herriot – Avenue Victor Dalbiez
+
+01
+
+0060
+
+1006 – Groupe scolaire Édouard Herriot – Avenue Victor Dalbiez
+
+01
+
+0061
+
+1007 – Groupe scolaire Édouard Herriot – Avenue Victor Dalbiez
+
+01
+
+0062
+
+1008 – Groupe scolaire Édouard Herriot – Avenue Victor Dalbiez
+
+01
+
+0063
+
+1009 – Groupe scolaire Édouard Herriot – Avenue Victor Dalbiez
+
+01
+
+0064
+
+1010 – Groupe scolaire Édouard Herriot – Avenue Victor Dalbiez
+
+01
+
+0065
+
+1011 – Groupe scolaire Ludovic Massé – Rue Pierre Bretonneau
+
+Page 7 sur 12
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+01
+
+0066
+
+Canton 11 – Perpignan 6
+
+03
+
+0067
+
+1012 – Groupe scolaire Ludovic Massé – Rue Pierre Bretonneau
+1101 – Mairie quartier Centre Historique – 12 rue Jeanne d’Arc
+
+Bureau centralisateur canton 11
+
+03
+
+0068
+
+1102 - Hôtel de Ville – Place de la Loge - bureau centralisateur
+
+1102 - Hôtel de Ville – Place de la Loge
+
+03
+
+0069
+
+1103 – Ecole Jean-Jacques Rousseau – rue Courteline
+
+03
+
+0070
+
+1104 – Ecole Jean-Jacques Rousseau – rue Courteline
+
+03
+
+0071
+
+1105 – Ecole Jean-Jacques Rousseau – rue Courteline
+
+03
+
+0072
+
+1106 – Groupe scolaire D'Alembert – Rue Pascal-Marie Agasse
+
+03
+
+0073
+
+1107 – Groupe scolaire D'Alembert – Rue Pascal-Marie Agasse
+
+03
+
+0074
+
+1108 – Groupe scolaire D'Alembert – Rue Pascal-Marie Agasse
+
+03
+
+0075
+
+1109 – Groupe scolaire D'Alembert – Rue Pascal-Marie Agasse
+
+03
+
+0076
+
+1110 – Groupe scolaire D'Alembert – Rue Pascal-Marie Agasse
+
+PERTHUS (LE)
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+01
+
+0001
+
+mairie – salle du conseil municipal
+
+PEYRESTORTES
+
+PERPIGNAN
+
+Canton 14 – Le Ribéral
+
+02
+
+01
+
+0001
+
+Salle intergénérationnelle- Espace sportif Janzac
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+PERPIGNAN
+
+Canton 14 – Le Ribéral
+
+03
+
+PEZILLA DE CONFLENT
+PEZILLA LA RIVIERE
+
+PIA
+
+PERPIGNAN
+
+Canton 4 – La Côte Salanquaise
+
+03
+
+02
+
+08
+
+0001
+
+Centre de loisirs – Route de Sournia
+
+0001
+
+1 – Centre culturel – rue Ferdinand José – bureau centralisateur
+
+0002
+
+2 – Centre culturel – rue Ferdinand José
+
+0003
+
+3 – Mairie 31 bis avenue du Canigou- Salle des mariages et du conseil municipal
+
+0001
+
+1 – Salle Jean Jaurès – avenue de Bompas – bureau centralisateur
+
+0002
+
+2 – Salle Jean Jaurès – avenue de Bompas
+
+0003
+
+3 – Salle Louis Torreilles – parking Ste Anne
+
+0004
+
+4 – Salle Colette Besson – chemin de la poudrière
+
+0005
+
+5 – Salle Colette Besson – chemin de la poudrière
+
+0006
+
+6 – Salle Colette Besson – chemin de la poudrière
+
+0007
+
+7 – Salle Colette Besson – chemin de la poudrière
+
+0008
+
+8 – Salle Colette Besson – chemin de la poudrière
+
+PLANES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie Le Village
+
+PLANEZES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – place de la république
+
+POLLESTRES
+
+PERPIGNAN
+
+Canton 1 – Les Aspres
+
+01
+
+PONTEILLA-NYLS
+
+PERPIGNAN
+
+Canton 1 – Les Aspres
+
+04
+
+04
+
+03
+
+0001
+
+1 – Salle polyvalente Jordi Barre – avenue Pablo Casals – bureau centralisateur
+
+0002
+
+2 – Salle polyvalente Jordi Barre – avenue Pablo Casals
+
+0003
+
+3 – Salle polyvalente Jordi Barre – avenue Pablo Casals
+
+0004
+
+4 – Salle polyvalente Jordi Barre – avenue Pablo Casals
+
+0001
+
+1 – Espace Simone Ali – PONTEILLA – bureau centralisateur
+
+0002
+
+2 – Annexe mairie – avenue de Pollestres – NYLS
+
+0003
+
+3– Espace Simone Ali – PONTEILLA
+
+PORTA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle de la Mairie – RN20
+
+PORTE PUYMORENS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – place de la mairie
+
+PORT VENDRES
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+0001
+
+1 – Hôtel de ville – salle des mariages - 8 rue Jules Pams – bureau centralisateur
+
+0002
+
+2 – Centre culturel – salle du rez-de-chaussée – place Castellane
+
+PRADES
+
+PRADES
+
+03
+
+0003
+
+3 – École maternelle – salle de jeux – rue Aristide Briand
+
+0001
+
+1 – La salle Le Foirail – rue du Foirail – bureau centralisateur
+
+Bureau centralisateur canton 13
+
+0002
+
+2 – La salle Le Pessebre – rue San Juan de Porto-Rico
+
+1 - Le foirail – rue le Foirail
+
+0003
+
+3 – Hôtel de ville – 56 rue du Palais de Justice
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+05
+
+Page 8 sur 12
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+0004
+
+4 – Salle Lousa-Kitzingen – plaine St Martin
+
+0005
+
+5 – Salle Gelcen – rue de la Basse
+
+PRATS DE MOLLO/LA PRESTE
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+salle des mariages-6 rue porte de France
+
+PRATS DE SOURNIA
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie salle conseil municipal – 20 rue Balcon du Fenouillèdes
+
+PRUGNANES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Salle des fêtes – 2 place de la fontaine
+
+PRUNET ET BELPUIG
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie – hameau La Trinité
+
+PUYVALADOR-RIEUTORT
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle polyvalente de Rieutort – 7 rue des Trois Fontaines
+
+PY
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie – salle du rez de chaussée – 12 place saint Paul
+
+RABOUILLET
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Salle communale – Le foyer
+
+RAILLEU
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie de Railleu – 4 carrer Llarg
+
+RASIGUERES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – place de la Mairie
+
+REAL
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – route de Formigueres
+
+REYNES
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+02
+
+0001
+
+1 – Le village – salle de conseil municipal
+
+0002
+
+2 – Les échoppes du Pont – salle des échoppes – bureau centralisateur
+Salle des fêtes – rue de la mairie
+
+RIA SIRACH
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+RIGARDA
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Salle Les Malleus – Cami Pagès
+
+RIVESALTES
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+0001
+
+1 – Centre associatif et culturel – place du Général de Gaulle – bureau centralisateur
+
+RODES
+
+PRADES
+
+SAHORRE
+SAILLAGOUSE
+
+06
+
+Bureau centralisateur canton 15
+
+0002
+
+2 – École Pons – rue Émile Parès
+
+1 – Centre associatif et culturel – place du Général de Gaulle
+
+0003
+
+3 – Club du 3ème âge – rue des oiseaux
+
+0004
+
+4 – Parking de la Mairie- 10 rue de la Roussillonnaise-Salle de la Roussillonnaise
+
+0005
+
+5 – Salle « Ami club » – avenue du stade
+
+0006
+
+6 – Les Dômes – avenue de la Marne
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+salle du Conseil Municipal-Mairie 4 Carrer Gran
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Centre culturel – route de Fuilla
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle de la Mairie – place Oliva
+
+SAINT-ANDRE
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+0001
+
+1 – mairie – allée de la liberté – bureau centralisateur
+
+SAINT-ARNAC
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+SAINTE-COLOMBE DE LA COMMANDERIE
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+SAINT-CYPRIEN
+
+CERET
+
+Canton 3 – La Côte Sableuse
+
+02
+
+SAINT-ESTEVE
+
+PERPIGNAN
+
+Canton 14 – Le Ribéral
+
+03
+
+02
+
+011
+
+08
+
+Bureau centralisateur canton 14
+
+Page 9 sur 12
+
+0002
+
+2 – Préau de la mairie – allée de la liberté
+
+0001
+
+Mairie salle du conseil – 2 place de Centernach
+
+0001
+
+Salle Progrès Fornos – Espace Peudel causse
+
+0001
+
+1 – Mairie – place François Desnoyer - bureau centralisateur
+
+0002
+
+2 – École Noguères – rue Auguste Rodin
+
+0003
+
+3 – office du tourisme – quai Arthur Rimbaud
+
+0004
+
+4 – Salle Genin de Régnes – avenue du Roussillon
+
+0005
+
+5 – Centre de Loisirs Francis Gatounes – rue Arago
+
+0006
+
+6 – École maternelle MET – rue Arago
+
+0007
+
+7 – Foyer personnes âgées – rue Mirabeau
+
+0008
+
+8 – Gymnase des Capellans – Grand Stade les Capellans Complexe Sportif – rue Verdi
+
+0009
+
+9 – École Alain – rue Albert Camus
+
+0010
+
+10 - Gymnase des Capellans 2 – Grand Stade Les Capellans Complexe Sportif – rue Verdi
+
+0011
+
+11 - Maison des Jeunes – 39 avenue du Roussillon
+
+0001
+
+1 –Salle Jean Jaurès - rue de la République - bureau centralisateur
+
+0002
+
+2 – Point Information Jeunesse – place du Mas Carbasse
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+SAINT-FELIU D AMONT
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+SAINT-FELIU D AVALL
+
+PERPIGNAN
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+02
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+02
+
+PERPIGNAN
+
+Canton 4 – La Côte Salanquaise
+
+02
+
+03
+
+SAINT-HIPPOLYTE
+
+SAINT-JEAN LASSEILLE
+
+CERET
+
+Canton 1 – Les Aspres
+
+SAINT-JEAN PLA DE CORTS
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+SAINT-LAURENT DE CERDANS
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+PERPIGNAN
+
+Canton 4 – La Côte Salanquaise
+
+02
+
+SAINT-LAURENT DE LA SALANQUE
+
+SAINTE-LEOCADIE
+SAINTE-MARIE
+
+01
+
+04
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+1 - Salle Jean Jaurès - rue de la République
+
+SAINT-GENIS DES FONTAINES
+
+codes bureaux
+
+02
+02
+01
+08
+
+0003
+
+3 – Salle de la Méditerranée – allée de la Méditerranée
+
+0004
+
+4 – Nouveau Restaurant scolaire PAU CASALS – rue du Roc de Quezami
+
+0005
+
+5 – Nouveau Restaurant scolaire PAU CASALS – rue du Roc de Quezami
+
+0006
+
+6 – Restaurant solaire Léo Lagrange – place du Mas Carbasse
+
+0007
+
+7 – Restaurant solaire Léo Lagrange – place du Mas Carbasse
+
+0008
+
+8 – Mas Saint Mamet – 16 route de Perpignan
+
+0001
+
+Mairie - Espace Christian Bourquin
+
+0001
+
+1 – Salle polyvalente – allée des sports (partie gauche) – bureau centralisateur
+
+0002
+
+2 – Salle polyvalente – allée des sports (partie droite)
+
+0001
+
+1 – Salle intercommunale La Prade – bureau centralisateur
+
+0002
+
+2 – Salle intercommunale La Prade
+
+0001
+
+1 – Gymnase – bvd de la Marine – bureau centralisateur
+
+0002
+
+2 – Gymnase – bvd de la Marine
+
+0003
+
+3 – Salle Derroja – avenue général Derroja
+
+0001
+
+Salle Marcel Cazeilles – 4 place de la République - bureau centralisateur
+
+0002
+
+Ecole Georges Riera – 4 rue Joan Amade
+
+0001
+
+1 – Salle polyvalente avenue des Albères
+
+0002
+
+2 - Salle polyvalente – avenue des Albères - bureau centralisateur
+
+0001
+
+Mairie – salle des réunions/mariages
+
+0001
+
+1 – Foyer rural – 2 boulevard Nicolas Canal
+
+Bureau centralisateur canton 4
+
+0002
+
+2 – École Joseph Cortada – chemin de Leucate
+
+6 – Salle polyvalente – chemin de Leucate
+
+0003
+
+3 – École Pablo Casals – 12 avenue Pablo Casals
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+PERPIGNAN
+
+Canton 7 – Perpignan 2
+
+02
+
+01
+04
+
+0004
+
+4 – Salle Marinade – 2 boulevard Nicolas Canal
+
+0005
+
+5 – École Romain Vidal – 14 chemin de Leucate
+
+0006
+
+6 – Salle polyvalente – chemin de Leucate - bureau centralisateur
+
+0007
+
+7 – Salle polyvalente – chemin de Leucate
+
+0008
+
+8 – Ecole élémentaire Charles Perrault – 12 rue du Dr Marques
+
+0001
+
+Salle de réunion Mairie – place Michel Aris
+
+0001
+
+1 – Salle communale Saint Exupéry – impasse du boulodrome
+
+0002
+
+2 – Centre socio-culturel l'Oméga – 2 avenue de la Rose des Vents - bureau centralisateur
+
+0003
+
+3 – Salle communale Saint Exupéry – impasse du boulodrome
+
+0004
+
+4 – Centre socio-culturel l'Oméga – 2 avenue de la Rose des Vents
+Mairie - 4 carrer del Panader
+
+SAINT-MARSAL
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+SAINT-MARTIN-DE- FENOUILLET
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – 10 rue de la mairie
+
+SAINT-MICHEL DE LLOTES
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie – salle des fêtes – 950 av des Aspres
+
+PERPIGNAN
+
+Canton 3 – La Côte Sableuse
+
+02
+
+0001
+
+1 – Espace Jean Cortie – place de la République – bureau centralisateur
+
+SAINT-NAZAIRE
+SAINT-PAUL DE FENOUILLET
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+SAINT-PIERRE DELS FORCATS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+PERPIGNAN
+
+Canton 3 – La Côte Sableuse
+
+02
+
+SALEILLES
+
+02
+02
+01
+04
+
+Page 10 sur 12
+
+0002
+
+2 – Espace Jean Cortie – place de la République
+
+0001
+
+1 – Foyer rural – place Léon-Jean GRÉGORY – bureau centralisateur
+
+0002
+
+2 – Foyer rural – place Léon-Jean GRÉGORY
+
+0001
+
+Mairie – 21 grand'rue
+
+0001
+
+1 – Mairie – salle polyvalente – 2 bd du 08 mai 1945 - bureau centralisateur
+
+0002
+
+2 – Mairie – salle polyvalente – 2 bd du 08 mai 1945
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+codes bureaux
+
+0003
+SALSES LE CHATEAU
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+03
+
+3 – Gymnase – 16 rue Louison Bobet
+
+0004
+
+4 – Gymnase – 16 rue Louison Bobet
+
+0001
+
+1 – Salle des fêtes – rue Gaston Clos - bureau centralisateur
+
+0002
+
+2 – Salle des mariages – espace « Arthur Conte »-place de la République
+
+0003
+
+3 – Salle polyvalente – Impasse d’en Valette
+Mairie – salle rez de chaussée
+
+SANSA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+SAUTO
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – rue Creueta
+
+SERDINYA-JONCET
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle des fêtes – 6 route nationale 116
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+PERPIGNAN
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+SERRALONGUE
+SOLER (LE)
+
+SOREDE
+
+CERET
+
+07
+
+0001
+
+Mairie-2 rue Pierre Talrich
+
+0001
+
+1 – Mairie place André Daugnac– salle des mariages - bureau centralisateur
+
+Bureau centralisateur canton 16
+
+0002
+
+2 – Salle des Fêtes cloisonnée– rue Guy Mocquet
+
+1 – Mairie place André Daugnac– salle des mariages
+
+0003
+
+3 – Salle Martin Vivés cloisonnée– place de la République
+
+0004
+
+4 – Salle des Fêtes cloisonnée ( côté scène )– place André Daugnac
+
+0005
+
+5 – Salle Martin Vivès cloisonnée –place de la République
+
+0006
+
+6 – Petite salle Martin Vivès – place de la République
+
+Canton 17 – Vallespir – Albères
+
+04
+
+03
+
+0007
+
+7 - Salle San Julia, 4 rue Arago
+
+0001
+
+1 – Salle des fêtes – rue de la sardane – bureau centralisateur
+
+0002
+
+2 – Salle des fêtes – rue de la sardane
+
+0003
+
+3 - Club Amitié et Loisirs – rue de la sardane
+
+SOUANYAS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – salle des fêtes – 6 Place de la mairie
+
+SOURNIA
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Place du Foyer rural – rue du Général Tisseyre
+
+TAILLET
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+Salle polyvalente – le village
+
+TARERACH
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie-Salle polyvalente-8 rue de la mairie
+
+TARGASONNE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – 3 bis route d'Andorre
+
+TAULIS
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+Annexe Mairie – 3 rue des rocailles
+
+TAURINYA
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Salle des fêtes – cami du Canigou
+
+TAUTAVEL
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – 1 place de la République
+
+TECH (LE)
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+0001
+
+Mairie – 3 rue royale
+
+TERRATS
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Salle des fêtes – rue de l’ancienne mairie
+Salle des fêtes - place de la promenade
+
+THEZA
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+01
+
+0001
+
+THUES ENTRE VALLS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle St Génis – rue de la soulane
+
+THUIR
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+0001
+
+1–Maison du citoyen–salle Léon Jean Grégory (gauche)-av. du Dr Ecoiffier-bureau centralisateur
+
+Bureau centralisateur canton 1
+
+0002
+
+2 – Maison du citoyen – salle du 3ème âge-avenue du Dr Ecoiffier
+
+1 – Maison des jeunes et de la culture–salle Léon Jean Grégory (gauche)-av. du
+Dr Ecoiffier
+
+0003
+
+3 –Maison du citoyen – salle du bar-avenue du Dr Ecoiffier
+
+0004
+
+4 –Maison du citoyen – salle Léon Jean Grégory (droite)-avenue du Dr Ecoiffier
+
+0005
+
+5 – École maternelle Michel Maurette – cité Vallespir
+
+0006
+
+6 – École maternelle Michel Maurette – cité Vallespir
+
+TORDERES
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+TORREILLES
+
+PERPIGNAN
+
+Canton 4 – La Côte Salanquaise
+
+02
+
+TOULOUGES
+
+PERPIGNAN
+
+Canton 11 – Perpignan 6
+
+01
+
+06
+
+01
+03
+
+07
+Page 11 sur 12
+
+0001
+
+Mairie – 2 rue des écureuils
+
+0001
+
+1 – Groupe scolaire Jules Verne – rue Alphonse Daudet – bureau centralisateur
+
+0002
+
+2 – Groupe scolaire Jules Verne – rue Alphonse Daudet
+
+0003
+
+3 – Groupe scolaire Jules Verne – rue Alphonse Daudet
+
+0001
+
+1 – Médiathèque Teresa Rebull – bureau centralisateur
+
+Annexe n°1 - bureaux de vote
+
+COMMUNES
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NOMBRE DE BUREAUX DE VOTE
+UNIQUES
+
+codes bureaux
+
+BUREAUX DE VOTE
+
+MULTIPLES
+
+0002
+
+2 – Salle des fêtes
+
+0003
+
+3 – Médiathèque Teresa Rebull
+
+0004
+
+4 – Médiathèque Teresa Rebull
+
+0005
+
+5 – Médiathèque Teresa Rebull
+
+0006
+
+6 – Ecole élémentaire (locaux plateau sportif)
+
+0007
+
+7- Ecole élémentaire (locaux plateau sportif)
+
+TRESSERRE
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+0001
+
+Salle la « Cave aux Contes » - 22 avenue de Perpignan
+
+TREVILLACH
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Salle « Porte des Fenouillèdes », face à la mairie – route de Sournia
+
+TRILLA
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – salle des fêtes – rue du lavoir
+
+TROUILLAS
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+0001
+
+1 – Groupe scolaire - Salle pluriactivités – 2 avenue de la Sant Joan – bureau centralisateur
+
+0002
+
+2 – Groupe scolaire – Salle du réfectoire – 2 avenue de la Sant Joan
+
+UR
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – place de l'Eglise (salle polyvalente RDC mairie)
+
+URBANYA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Route de la mairie
+
+VALCEBOLLERE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Mairie – 19 carrer Gorro blanc
+
+VALMANYA
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie – salle de la mairie-place Casso
+
+VERNET LES BAINS
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Mairie – Place de l’Entente cordiale
+
+VILLEFRANCHE DE CONFLENT
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+0001
+
+Salle Lannelongue – 23, rue Saint Jacques
+
+VILLELONGUE DE LA SALANQUE
+
+PERPIGNAN
+
+Canton 7 – Perpignan 2
+
+02
+
+0001
+
+1 – Salle des fêtes – 22 avenue du littoral - bureau centralisateur
+
+VILLELONGUE DELS MONTS
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+VILLEMOLAQUE
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+PERPIGNAN
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+VILLENEUVE DE LA RAHO
+
+VILLENEUVE LA RIVIERE
+
+02
+
+02
+02
+01
+04
+
+0002
+
+2 – Salle Joffre – place Maréchal Joffre
+
+0001
+
+01 – Salle polyvalente – bureau centralisateur
+
+0002
+
+02 – Salle des fêtes
+
+0001
+
+Mairie – 1 place de la République
+
+0001
+
+1 – route de Bages -Grande salle polyvalente à l'espace André Sanac – bureau centralisateur
+
+0002
+
+2 – route de Bages- Grande salle polyvalente à l'espace André Sanac
+
+0003
+
+3- route de Bages - salle polyvalente à l'espace André Sanac
+
+0004
+
+4- route de Bages – Grande salle polyvalente à l’Espace André Sanac
+
+PERPIGNAN
+
+Canton 14 – Le Ribéral
+
+03
+
+01
+
+0001
+
+Salle des fêtes, située à la rue des écoles
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+0001
+
+Salle des fêtes Pierre Gipulo – 17 avenue du Général de Gaulle
+
+PERPIGNAN
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+salle de la mairie – 5 place de la République
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+Mairie – salle du conseil municipal – rue de la fontaine
+
+VIVES
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+01
+
+0001
+
+Mairie – salle du conseil municipal
+
+VIVIER (LE)
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+0001
+
+salle polyvalente du complexe mairie – rue principale
+
+VINÇA
+VINGRAU
+VIRA
+
+Page 12 sur 12
+
+Annexe n°2 - emplacements d'affichage
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+ALBERE (l')
+
+COMMUNES
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+01
+
+Mairie de l’Albère
+
+panneaux et mur
+
+ALENYA
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+02
+
+07
+
+Ecole élémentaire Françoise Lopez Girona – intersection avenue du littoral-avenue Jean Jaurès
+
+panneaux
+
+02
+
+Croisemenent rue des compagnons – avenue de Perpignan
+
+panneaux
+
+02
+
+Accueil de loisirs – boulevard du 8 mai
+
+panneaux
+
+02
+
+Croisement rue André Bouille-rue Pablo Picasso
+
+panneaux
+
+02
+
+Parc Ecoiffiec croisement avenue Jean Jaurès-avenue de Perpignan
+
+panneaux
+
+02
+
+Pôle intergénérationnel croisement avenue de la mer-route de St Cyprien
+
+panneaux
+
+02
+
+Rue du paradis (mairie)
+
+panneaux
+
+Rue des anciens combattants d’Afrique du Nord (devant l’Espace Méditerranée)
+
+panneaux
+
+04
+
+Rue des Thermes – ancien Théâtre de verdure
+
+panneaux
+
+04
+
+Super Amélie-ville nouvelle
+
+panneaux
+
+04
+
+rue du Bac – Mairie annexe de Palalda
+
+panneaux
+
+04
+
+Boulevard de la Petite Provence
+
+panneaux
+
+04
+
+Route de Céret – HLM L'Estanyol
+
+panneaux
+
+AMELIE LES BAINS/ PALALDA
+
+ARR.
+
+CERET
+
+CANTON DE
+
+Canton 2 – Le Canigou
+
+04
+
+06
+
+ANGLES (les)
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place du Coq d'or-parvis de la mairie
+
+panneaux
+
+ANGOUSTRINE/VILLENEUVE ESCALDES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+39 route des Pyrénées
+
+panneaux
+
+ANSIGNAN
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Rue de la cave coopérative
+
+panneaux
+
+ARBOUSSOLS
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Rue de la Torre
+
+panneaux
+
+ARGELES SUR MER
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+15
+
+Allée F. Buisson (village)
+
+04
+
+Rue de la Convention – angle rue du 14 Juillet (village)
+
+04
+
+Avenue du 8 Mai (village)
+
+04
+
+Parking de la piscine (village)
+
+04
+
+chemin de la Cerigue – face au cimetière (village)
+
+04
+
+rue du 14 juillet – rond-point de l'école La Granotera (village)
+
+04
+
+avenue d'Hurth (village)
+
+04
+
+avenue du Marasquer (village)
+
+04
+
+Rond-point d'arrivée (plage)
+
+04
+
+avenue du Tech (plage)
+
+04
+
+avenue du Grau (plage)
+
+04
+
+parking place de l'Europe (plage)
+
+04
+
+avenue de la Torre d'En Sorre (plage-le Racou)
+
+04
+
+23 chemin de Palau – Espace Waldeck-Rousseau
+
+04
+ARLES SUR TECH
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+centre technique municipal-Avenue de Charlemagne – village
+04
+
+Salle des fêtes-place Monnin
+
+panneaux
+
+04
+
+avenue de l'Alzine Rodone
+
+panneaux
+
+04
+
+RN 45 Can Partère
+
+panneaux
+
+04
+
+Mairie
+
+panneaux
+panneaux
+
+AYGUATEBIA-TALAU
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+mur à côté garage municipal – 3 rue de la Mairie
+
+BAGES
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+03
+
+avenue Jean Jaurès
+
+mur
+
+route d'Ortaffa
+
+panneaux
+
+04
+04
+BAHO
+
+PERPIGNAN Canton 14 – Le Ribéral
+
+03
+
+02
+
+BAIXAS
+
+mur clôture
+
+place du 8 mai 1945
+
+panneaux
+
+03
+
+01
+
+plaça nova
+
+panneaux
+
+PERPIGNAN Canton 14 – Le Ribéral
+
+03
+
+02
+
+Avenue Maréchal Joffre devant mur mairie
+
+panneaux
+
+PRADES
+
+03
+BANYULS DELS ASPRES
+
+panneaux
+
+rue du Ball – mur clôture parking de Guardia
+
+Canton 2 – Le Canigou
+
+03
+BAILLESTAVY
+
+Halle aux sports « Louis Noguères » - route d’Ortaffa
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Page 1 sur 11
+
+Mur foyer rural – rue des cordiers
+
+clôture
+
+rue du Thou
+
+panneaux
+
+Annexe n°2 - emplacements d'affichage
+COMMUNES
+BANYULS SUR MER
+
+BARCARES (LE)
+
+ARR.
+CERET
+
+CANTON DE
+Canton 5 – La Côte Vermeille
+
+PERPIGNAN Canton 4 – La Côte Salanquaise
+
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+04
+
+05
+
+Hôtel de ville – avenue Général de Gaulle
+
+panneaux
+
+04
+
+Parking du marché, angle rue 14 juillet et rue St Sébastien
+
+panneaux
+
+04
+
+Face à la résidence « la grande bleue » avenue de la gare
+
+panneaux
+
+04
+
+Angle avenue du Général de Gaulle – Pont du Puig del Mas
+
+panneaux
+
+04
+
+route des crêtes – Le Mas Reig
+
+panneaux
+
+Boulevard du 14 juillet face à l'Hôtel de ville
+
+panneaux
+
+02
+
+Boulevard des Rois de Majorque devant le Mas de l'Ille
+
+panneaux
+
+02
+
+Avenue de la Coudalère devant le Tennis club
+
+panneaux
+
+02
+
+Boulevard de la Côte Vermeille
+
+panneaux
+
+02
+
+Place du Tertre
+
+panneaux
+
+02
+
+05
+
+BASTIDE (LA)
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+Balustrade sous la Mairie
+
+panneaux
+
+BELESTA
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Place de la Mairie
+
+panneaux
+
+BOLQUERE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+2 grand rue – Mairie
+
+01
+
+02
+
+Salle polyvalente -104 avenue du Haut Vernet
+
+BOMPAS
+
+PERPIGNAN Canton 7 – Perpignan 2
+
+01
+
+panneaux
+
+Mas Pams – avenue de la Salanque
+
+panneaux
+
+01
+
+parking à l'entrée du village
+
+panneaux bois
+
+BOULE D AMONT
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+BOULETERNERE
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+6 bis Cami Real- face à la boulangerie pâtisserie Martinez
+
+panneaux
+
+BOULOU (LE)
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+04
+
+Mairie
+
+panneaux
+
+04
+
+place de l’ancienne Mairie
+
+panneaux
+
+04
+
+rue du 4 septembre
+
+panneaux
+
+04
+
+Chemin du Moli Nou
+
+panneaux
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+place de Catalogne
+
+BROUILLA
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Parking de la mairie – rue Julien Panchot
+
+panneaux
+
+CABANASSE (LA)
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Salle des fêtes – place del Mitg
+
+panneaux
+
+01
+
+14
+
+avenue du 19 mars 1962
+
+panneaux
+
+01
+
+avenue Jean Jaurès
+
+panneaux
+
+01
+
+avenue André Ampére – Mas Guérido
+
+panneaux
+
+01
+
+avenue du Périgord
+
+panneaux
+
+01
+
+avenue du Périgord – Château d'eau
+
+panneaux
+
+01
+
+avenue de la Madeleine
+
+panneaux
+
+01
+
+avenue du Dauphiné
+
+panneaux
+
+01
+
+avenue Picasso
+
+panneaux
+
+01
+
+avenue du Rousillon
+
+panneaux
+
+01
+
+avenue Célestin Freinet
+
+panneaux
+
+01
+
+avenue Marcel Carbonneil
+
+panneaux
+
+01
+
+Avenue de la tramontane – face à la mairie
+
+panneaux
+
+01
+
+Chemin du Mas Bonique
+
+panneaux
+
+01
+
+Rue Jean Lauprête
+
+panneaux
+
+BOURG MADAME
+
+CABESTANY
+
+CAIXAS
+CALCE
+
+PERPIGNAN Canton 8 – Perpignan 3
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Place de la Mairie
+
+Panneaux
+
+PERPIGNAN Canton 14 – Le Ribéral
+
+03
+
+01
+
+Route d’Estagel
+
+panneaux
+
+CALMEILLES
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+chemin de la Fontaine
+
+panneaux
+
+CAMELAS
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Parking Salle polyvalente
+
+panneaux
+
+CAMPOME
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Route de la Castellane-face au centre de vacances
+
+panneaux
+
+Page 2 sur 11
+
+Annexe n°2 - emplacements d'affichage
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+CAMPOUSSY
+
+COMMUNES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+9 carrier Nou
+
+panneaux
+
+CANAVEILLES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place Erola
+
+panneaux
+
+02
+
+06
+
+Place Saint Jacques
+
+panneaux
+
+02
+
+Impasse Xamma – face à l’école maternelle les Paquerettes-tennis
+
+panneaux
+
+02
+
+Avenue de Catalogne – entre la poste et la fontaine
+
+panneaux
+
+02
+
+Rue Jean Mermoz – face à l’école Jean Mermoz
+
+panneaux
+
+02
+
+Avenue Eugène Sauvy – au droit de l’école maternelle les Myosotis
+
+panneaux
+
+2 Rue de la Couloumine – face à la salle polyvalente
+
+panneaux
+
+01
+
+Place du bicentenaire
+
+panneaux
+
+01
+
+rue du moulin – devant salle plurivalente école annexe Julien Panchot
+
+panneaux
+
+01
+
+Rue des écoles
+
+panneaux
+
+01
+
+Rue des anciens combattants d'Afrique du Nord
+
+panneaux
+
+01
+
+Rue de las Trignagues
+
+panneaux
+
+01
+
+1 avenue El Cruzat devant l’hotel de ville
+
+panneaux
+panneaux
+
+CANET EN ROUSSILLON
+
+CANOHES
+
+ARR.
+
+CANTON DE
+
+PERPIGNAN Canton 3- La Côte Sableuse
+
+PERPIGNAN Canton 10 – Perpignan 5
+
+01
+
+07
+
+CARAMANY
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Place de la Mairie
+
+CASEFABRE
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Mur garage en face de la Mairie
+
+CASES DE PENE
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+place des écoles
+
+panneaux
+
+CASSAGNES
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Mairie- 6 rue des Capitelles
+
+panneaux
+panneaux
+
+CASTEIL
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Parking Mairie -3 boulevard Saint-Martin du Canigou
+
+CASTELNOU
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Chemin de la salle du Tilleul
+
+CATLLAR
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+02
+
+03
+
+Route d’Eus
+
+mur
+
+Parking du Canigou – Mas Riquer
+
+panneaux
+
+CAUDIES DE FENOUILLEDES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Espace Caporal François Fabre, Promenade Desbasses
+
+mur
+
+CAUDIES DE CONFLENT
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie – 11 rue de la socarrada, devant la salle Naudeillo
+
+panneaux
+
+CERBERE
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+01
+
+Face à la salle Georges Clausells – avenue Général de Gaulle
+
+panneaux
+
+CERET
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+08
+
+avenue des Aspres mur d'enceinte du terrain de pétanque
+
+04
+
+CLAIRA
+
+CLARA-VILLERACH
+
+PERPIGNAN Canton 4 – La Côte Salanquaise
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+avenue de la gare (mur d'enceinte ancien garage Rey)
+
+04
+
+parking des Tins
+
+04
+
+boulevard Lafayette
+
+04
+
+Avenue Jules Ferry (mur immeuble ecole Marc Chagall)
+
+04
+
+avenue d’Espagne (palissade du camping municipal)
+
+04
+
+avenue Charles de Gaulle
+
+04
+
+Rd Point du chemin du Mas Badou
+
+02
+
+Salle Polyvalente - rue des sports
+
+panneaux
+
+02
+
+Ecole élémentaire « Yves Duces » - avenue du 8 mai 45
+
+panneaux
+
+02
+
+Salle des fêtes, boulevard des Albères
+
+panneaux
+
+02
+
+Salle Saint Gaudérique – rue de la poste
+
+panneaux
+
+1 rue des vignes – Clara
+
+panneaux
+
+1 rue des tilleuls – Villerach
+
+panneaux
+panneaux
+
+03
+
+04
+
+02
+
+03
+CLUSES (les)
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+01
+
+Panneaux jouxtant mairie
+
+CODALET
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie-place de la République
+
+mur
+
+COLLIOURE
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+04
+
+Avenue de la République
+
+panneaux
+
+04
+
+Le faubourg – passerelle du Château Royal
+
+panneaux
+
+04
+
+Boulevard du Boramar
+
+panneaux
+
+04
+
+Centre culturel – rue Jules Michelet
+
+panneaux
+
+CONAT-BETLLANS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place du 8 mai 1945
+
+panneaux
+
+CORBERE
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+Clôture Espace Emile Vendrell – rue du Puits
+
+panneaux
+
+CORBERE LES CABANES
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+rue Pomarola en face de la mairie
+
+panneaux
+
+Page 3 sur 11
+
+Annexe n°2 - emplacements d'affichage
+COMMUNES
+CORNEILLA DE CONFLENT
+CORNEILLA LA RIVIERE
+
+ARR.
+PRADES
+
+CANTON DE
+Canton 2 – Le Canigou
+
+PERPIGNAN Canton 16 – La Vallée de la Têt
+
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+03
+
+01
+
+Parking mairie-36 carrer d’Amunt-Espace des Comtes de Cerdagne et de Conflent
+
+panneaux
+
+03
+
+03
+
+Espace Força Réal – rue du stade
+
+panneaux
+
+03
+
+La Mairie – 1 rue de la Poste
+
+03
+
+Les ateliers municipaux – 152 route nationale
+
+CORNEILLA DEL VERCOL
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+01
+
+Rue des écoles – mur de la salle des fêtes
+
+panneaux
+
+CORSAVY
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+Panneaux mairie – Barry d'Amont
+
+panneaux
+
+COUSTOUGES
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+Mairie – route des écoles
+
+mur
+
+DORRES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place du village
+
+panneaux
+
+EGAT
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Devant la mairie – place de la Couloumine
+
+panneaux
+
+ELNE
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+10
+
+avenue Paul Reig
+
+panneaux
+
+04
+
+avenue du Général de Gaulle
+
+panneaux
+
+04
+
+route de latour bas Elne
+
+panneaux
+
+04
+
+boulevard Voltaire – parking de la Cité Administrative
+
+panneaux
+
+04
+
+rue du Couvent – parking Sant Jordi
+
+panneaux
+
+04
+
+rue du Salita
+
+panneaux
+
+04
+
+avenue des poètes
+
+panneaux
+
+04
+
+avenue Pablo Neruda
+
+panneaux
+
+04
+
+Boulevard Pas de la Baneta
+
+panneaux
+
+04
+
+Rue Pépé Vignes
+
+panneaux
+
+ENVEITG
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Parking place de la Mairie
+
+ERR
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Salle des fêtes – 2 carrer de l’Ajuntament
+
+panneaux
+
+ESCARO
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Partie crépie du mur sous la mairie
+
+panneaux
+
+02
+
+03
+
+rue de Cases de Pène
+
+panneaux
+
+02
+
+rue du 4 septembre
+
+panneaux
+
+02
+
+Chemin d’Estagel
+
+panneaux
+
+Barri Nou-jardin d’enfants
+
+panneaux fixés au muret
+
+ESPIRA DE L'AGLY
+
+ESPIRA DE CONFLENT
+ESTAGEL
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+PRADES
+
+Canton 2 – Le Canigou
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+03
+
+01
+
+02
+
+02
+
+02
+
+avenue du Docteur Torreilles – devant la mairie
+
+panneaux
+
+Cour du bâtiment Espace Mandela – avenue René Nicolau
+
+panneaux
+panneaux
+
+ESTAVAR
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+route de Llivia
+
+ESTOHER
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Lieu-dit Le Raig
+
+EUS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Route de Prades
+
+panneaux
+
+EYNE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Parking mairie à côté du bureau de vote-3 avenue de Cerdagne
+
+panneaux
+
+FEILLUNS
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+place de la liberté
+
+panneaux
+
+FENOUILLET
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Mur du cimetière - RD 9e – la Vilasse
+
+panneaux
+
+FILLOLS
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+route de Taurinya
+
+panneaux
+
+FINESTRET
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Place de l’église
+
+FONT ROMEU ODEILLO VIA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+02
+
+03
+
+Mairie – 1 avenue du professeur Trombe
+
+panneaux
+
+Esplanade des Comités de Cerdagne – avenue Emmanuel Brousse
+
+panneaux
+
+FONTPEDROUSE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+mur de clôture de la Mairie
+
+FONTRABIOUSE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Fontrabiouse – place de la fontaine
+
+panneaux
+
+FORMIGUERES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place de la Mairie
+
+panneaux
+
+FOSSE
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+place du village
+
+FOURQUES
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Rue du Docteur Massina
+
+panneaux
+
+FUILLA
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+41 ancien chemin de Villefranche
+
+panneaux
+
+GLORIANES
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Mur arrière de la mairie
+
+Page 4 sur 11
+
+Annexe n°2 - emplacements d'affichage
+COMMUNES
+ILLE SUR TET
+
+ARR.
+PRADES
+
+CANTON DE
+Canton 16 – La Vallée de la Têt
+
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+03
+
+04
+
+avenue Chopin – devant la salle La Catalane
+
+panneaux
+
+03
+
+rue Jean Jaurès – devant la place du foirail
+
+panneaux
+
+03
+
+route de Prades – devant le parking du stade/piscine
+
+panneaux
+
+03
+
+rue Jean Baptiste Moynier – devant le square la Grimolesse
+
+panneaux
+panneaux
+
+JOCH
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Entrée du village-carrer de l'escola
+
+JUJOLS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mur entrée face à la Mairie
+
+mur
+
+LAMANERE
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+Mur face à la Mairie
+
+panneaux
+
+LANSAC
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Panneaux 52 rue de la Mairie
+
+panneaux
+
+LAROQUE DES ALBERES
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+02
+
+Mairie – Salle du conseil municipal
+
+panneaux
+
+Salle Cami Clos (salle de bridge) – carrer del sol
+
+panneaux
+
+Mairie - avenue du Tech
+
+panneaux
+
+02
+
+rue de l'église
+
+panneaux
+
+02
+
+avenue Pierre Camps
+
+panneaux
+
+04
+LATOUR BAS ELNE
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+02
+
+03
+
+LATOUR DE CAROL
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+parking rue de la pique
+
+panneaux
+
+LATOUR DE FRANCE
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Devant la salle polyvalente
+
+panneaux
+
+LESQUERDE
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Panneaux – grand rue du Capitoul
+
+panneaux
+
+LLAGONNE(LA)
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+devant la Mairie 5 promenade du pré de la ville
+
+panneaux
+
+LLAURO
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+rue des cerisiers – en face atelier municipal
+
+panneaux
+
+LLO
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+carretera d'Eina – parking Mairie
+
+panneaux
+
+04
+
+02
+
+Salle Louis Amade – rue Jules Ferry
+
+panneaux
+
+Carrer de la Dû – face à la mairie
+
+panneaux
+
+LLUPIA
+
+PERPIGNAN Canton 1 – Les Aspres
+
+04
+MANTET
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Route principale- près la place du village
+
+panneaux
+
+MARQUIXANES
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Mairie 4 rue des écoles
+
+panneaux
+
+MASOS (LOS)
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+02
+
+place de la République
+
+panneaux
+
+rue des écoles
+
+panneaux
+
+MATEMALE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+1 place de la Mairie-face à la mairie
+
+panneaux
+
+MAUREILLAS LAS ILLAS
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+02
+
+Mairie – 14 avenue du Vallespir
+
+panneaux
+
+Devant l’annexe de la mairie de Las Illas – place de la Mairie
+
+panneaux
+
+04
+MAURY
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Place de la Mairie
+
+panneaux
+
+MILLAS
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+07
+
+bureaux de vote – halle des sports/allée henri Barbusse
+
+panneaux
+
+03
+
+Avenue du 8 mai 1945-grilles mairie
+
+panneaux
+
+03
+
+Allée Edmond Michelet (cantine)
+
+panneaux
+
+03
+
+rue de l'ile (au niveau du 21)
+
+panneaux
+
+03
+
+rue du stade (stade Roger Roquefort)
+
+panneaux
+
+03
+
+avenue Ludovic Massé
+
+panneaux
+
+03
+
+Gendarmerie-RD 916-rond point
+
+panneaux
+
+MOLITG LES BAINS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+rambla Pau Casals
+
+mur
+
+MONTALBA LE CHATEAU
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+Devant la mairie – 11 cami d'Ille
+
+panneaux
+
+MONTAURIOL
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Place de la mairie
+
+panneaux
+
+MONTBOLO
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+parking face à la Mairie
+
+panneaux
+
+MONTESCOT
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+01
+
+Clôture de l'école primaire – place des acacias
+
+clôture
+
+MONTESQUIEU des ALBERES
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+01
+
+grand rue – face à la mairie
+
+panneaux
+
+MONTFERRER
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+299 rue principale
+
+panneaux
+
+MONT LOUIS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+6 boulevard Vauban
+
+panneaux
+
+02
+
+01
+
+Impasse de la Mairie
+
+MONTNER
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+MOSSET
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Sur les murs de l’escalier perpendiculaire à la rte du col Jau qui descend à la salle polyvalente
+
+murs
+
+NAHUJA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie - Plaça del municipi
+
+panneaux
+
+NEFIACH
+
+PRADES
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+avenue du Général de Gaulle – Le Foirail
+
+panneaux
+
+Page 5 sur 11
+
+Annexe n°2 - emplacements d'affichage
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+NOHEDES
+
+COMMUNES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Face à la mairie – carrer dels pastors
+
+mur et panneaux bois
+
+NYER
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place de la mairie
+
+panneaux
+
+OLETTE-EVOL
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+02
+
+Salle des fêtes – route nationale 116 – OLETTE
+
+panneaux
+
+Annexe mairie – place Ludovic Massé – EVOL
+
+panneaux
+
+03
+OMS
+OPOUL PERILLOS
+
+CERET
+
+Canton 1 – Les Aspres
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+04
+
+01
+
+rue de l’Orme – près arrêt de bus
+
+panneaux
+
+02
+
+02
+
+devant la Mairie – 22 avenue Pierre Estirac
+
+grille fer
+
+02
+
+devant la salle des fêtes – avenue de Fitou
+
+mur
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mur de la mairie
+
+panneaux
+
+ORTAFFA
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+01
+
+Rue du Château – à 25 m de la salle Aramon
+
+panneaux
+
+OSSEJA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place du Forum, Avenue de Cerdagne
+
+panneaux
+
+PALAU DE CERDAGNE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie - Jardins du manoir du Marquis de Tilière
+
+panneaux
+
+PALAU DEL VIDRE
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+02
+
+Mairie -place de la République
+
+mur
+
+Ecole – chemin de Batipalmes
+
+clôture
+panneaux
+
+OREILLA
+
+04
+PASSA
+PERPIGNAN
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Place de la salle des fêtes – rue de la Sardane
+
+PERPIGNAN Canton 6 – Perpignan 1
+
+CERET
+
+02
+
+06
+
+Groupe scolaire Léon Blum - Avenue Docteur Schweitzer
+
+02
+
+Groupe scolaire Victor Hugo - Rue Raoul Dufy
+
+02
+
+Le long du mur d’enceinte du groupe scolaire Jean Jaurès, le long de l’avenue Cité HLM Vernet Salanque
+
+mur
+
+01
+
+Avenue du Maréchal Joffre - Clôture du jardin Saint-Louis
+
+clôture
+
+01
+
+Groupe scolaire Roudayre - Avenue Emile Roudayre
+
+01
+Canton 7 – Perpignan 2
+
+Canton 8 – Perpignan 3
+
+01
+
+Ecole du Pont Neuf - Rue Isidore Hondrat
+08
+
+Ecole les Platanes - Rue des Dahlias
+
+01
+
+Grille du square Bir Hakeim - Bd Jean Bourrat, allée Jean Manalt
+
+grille du parc
+
+01
+
+Grille du square Bir Hakeim - côté cours Lassus, Palais des congrés
+
+grille du parc
+
+01
+
+Ecole Château Roussillon - Château Roussillon
+
+01
+
+Mairie de Quartier EST - Rue des Calanques
+
+01
+
+Groupe Scolaire Simon Boussiron - Avenue Général Gilles
+
+01
+
+Grpe scolaire Claude Simon - Chemin de la Roseraie sur clôture de l'école
+
+03
+
+Couvent des Minimes - rue Rabelais
+
+03
+
+05
+
+Hôtel de Ville - place de la Loge
+
+03
+
+Groupe scolaire Romain Rolland - façade Bd Anatole France
+
+03
+
+Couvent des Minimes - rue Rabelais
+
+01
+
+Groupe scolaire Pierre de Coubertin - rue Paul Valéry
+
+01
+Canton 9 – Perpignan 4
+
+03
+
+Groupe scolaire Romain Rolland - façade Bd Anatole France
+Groupe scolaire Jordi Barre - Rue des Remparts St Mathieu
+
+01
+
+Groupe scolaire Anatole France - rue Colonel d' Ornano
+
+01
+
+Groupe scolaire Hyacinthe Rigaud - Boulevard Foment de la Sardane
+
+01
+
+Ecole Ludovic MASSE - rue Pierre Bretonneau
+
+01
+
+Groupe scolaire Vertefeuille - rue de Villelongue dels Monts
+
+01
+
+façade
+
+Cimetière Saint-Jacques - rue Paul Rubens
+06
+
+03
+
+Canton 10 – Perpignan 5
+
+clôture
+
+07
+
+Groupe scolaire Blaise PASCAL - rue des grenadiers
+
+01
+
+Crèche Joan Miro - Avenue de Belfort
+
+01
+
+Cimetière Saint-Martin - avenue Marcelin Albert
+
+01
+
+Ecole Ludovic Masse – rue Pierre Bertonneau
+
+01
+
+Groupe scolaire Edouard Herriot - avenue Victor Dalbiez
+
+03
+
+Ecole Jules Ferry - Boulevard des Pyrénées
+
+03
+
+Grille du Palais de justice - place Arago
+
+Page 6 sur 11
+
+grille
+
+Annexe n°2 - emplacements d'affichage
+COMMUNES
+
+ARR.
+
+CANTON DE
+Canton 11 – Perpignan 6
+
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+03
+
+04
+
+Hôtel de Ville - place de la Loge
+
+03
+
+Mairie Quartier Centre Historique – Façades rue Jeanne d’Arc/Rue Escanye
+
+03
+
+Ecole Jean-Jacques Rousseau – rue Courteline
+
+03
+PERTHUS (LE)
+PEYRESTORTES
+PEZILLA DE CONFLENT
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+PERPIGNAN Canton 14 – Le Ribéral
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+SUPPORTS D’AFFICHAGE
+
+façade
+
+Groupe scolaire d' Alembert - 30 rue Pascal-Marie Agasse
+
+04
+
+01
+
+placette de la Mairie
+
+02
+
+01
+
+Hôtel de ville – bd National
+
+02
+
+01
+
+Mairie
+
+panneaux
+panneaux sur clôture
+
+panneaux
+
+PEZILLA LA RIVIERE
+
+PERPIGNAN Canton 14 – Le Ribéral
+
+03
+
+02
+
+Mairie -31 bis avenue du Canigou
+
+PIA
+
+PERPIGNAN Canton 4 – La Côte Salanquaise
+
+02
+
+03
+
+Salle Jean Jaurès – avenue de Bompas en face de la salle
+
+panneaux
+
+02
+
+parking Ste Anne – parc des tilleuls
+
+panneaux
+
+02
+
+Salle Colette Besson – Chemin de la Poudrière – devant la salle
+
+panneaux
+
+Mairie -31 bis avenue du Canigou
+
+PLANES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie – Le Village
+
+panneaux
+
+PLANEZES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+ancienne école
+
+panneaux
+
+01
+
+06
+
+avenue Pablo Casals – Mairie
+
+panneaux
+
+01
+
+avenue Pablo Casals – salle polyvalente Jordi Barre
+
+panneaux
+
+01
+
+rue des constellations
+
+panneaux
+
+01
+
+place des libertés
+
+panneaux
+
+01
+
+Place du Monument aux Morts
+
+panneaux
+
+01
+
+Olympéo – rue Laure Manaudou
+
+POLLESTRES
+
+PONTEILLA-NYLS
+
+PERPIGNAN Canton 1 – Les Aspres
+
+PERPIGNAN Canton 1 – Les Aspres
+
+04
+
+11 avenue de Perpignan – PONTEILLA
+
+panneaux
+
+04
+
+03
+
+avenue de Pollestres – NYLS
+
+panneaux
+
+04
+
+Rue Crescent-Ponteilla
+
+panneaux
+
+PORTA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie-parking communal bordant la RN 20
+
+panneaux
+
+PORTE PUYMORENS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Cour de l’ancienne école – façade sud de la Mairie
+
+panneaux
+
+PORT VENDRES
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+07
+
+Mur du soutènement – HLM Coma Sadulle – Boulevard Bellevue
+
+panneaux
+
+04
+
+Mur de soutènement – face école maternelle Parès
+
+panneaux
+
+04
+
+Mur de soutènement sous la place Castellane – Rue Laurent Batlle
+
+panneaux
+
+04
+
+Hameau de Cosprons – aire de jeux
+
+panneaux
+
+04
+
+Hotel de Ville – Rue Jules Pams
+
+panneaux
+
+04
+
+Centre culturel – Place Castellane
+
+panneaux
+
+04
+
+Mur de soutènement – HLM le Glacis (rond-point)
+
+panneaux
+
+PRADES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+11
+
+rue du Foirail
+
+03
+
+rue San Juan de Porto Rico
+
+03
+
+avenue Louis Prat
+
+03
+
+plaine St Martin
+
+03
+
+rue de la Basse
+
+03
+
+rue du chant des oiseaux
+
+03
+
+place de la Catalogne
+
+03
+
+rue des courrioulettes
+
+03
+
+chemin des castors
+
+03
+
+Route de Ria
+
+03
+
+place Louis Monestier
+
+PRATS DE MOLLO/LA PRESTE
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+1 place du Foirail
+
+panneaux
+
+PRATS DE SOURNIA
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+face au chemin des Millès sur rambarde rue Balcon du Fenouillèdes
+
+panneaux
+
+PRUGNANES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+panneaux entrée du village / station de forage
+
+panneaux
+
+PRUNET ET BELPUIG
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Hameau La Trinité
+
+panneaux
+
+Page 7 sur 11
+
+Annexe n°2 - emplacements d'affichage
+COMMUNES
+PUYVALADOR
+
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+02
+
+Place du village Cal Arcis
+
+mur
+
+Place du village, Place des Peupliers – Rieutort
+
+panneaux
+
+03
+
+SUPPORTS D’AFFICHAGE
+
+PY
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+place Saint Paul
+
+panneaux
+
+RABOUILLET
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Place Camunou
+
+panneaux
+
+RAILLEU
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Rue du Carrer Llarg
+
+panneaux
+
+RASIGUERES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+place de la Mairie
+
+REAL
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie
+
+panneaux
+
+REYNES
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+02
+
+mur au village coté cimetiere
+
+panneaux
+
+au pont de Reynes parking boulangerie
+
+panneaux
+
+04
+RIA SIRACH
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+avenue d'En Cassa
+
+panneaux
+
+RIGARDA
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Salle Les Malleus – Cami Pagès
+
+panneaux
+
+02
+
+11
+
+avenue Louis Blanc – place Chichet
+
+panneaux
+
+02
+
+rue Pasteur
+
+panneaux
+
+02
+
+avenue du Languedoc
+
+panneaux
+
+02
+
+avenue de l'Agly – face au centre de secours
+
+panneaux
+
+02
+
+rue des albatros – place à côté de la rue des courlis
+
+panneaux
+
+02
+
+Centre associatif et culturel - place du Général de Gaulle
+
+panneaux
+
+02
+
+rue Émile Parès – École Pons
+
+panneaux
+
+02
+
+rue des oiseaux – club du 3ème âge
+
+panneaux
+
+02
+
+Parking de la Mairie-10 Rue de la roussillonnaise -Salle de la roussillonnaise
+
+panneaux
+
+02
+
+Salle « ami club » avenue du stade
+
+panneaux
+
+02
+
+avenue de la Marne – Les Dômes
+
+panneaux
+
+RIVESALTES
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+RODES
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Mairie – 4 carrer gran
+
+panneaux
+
+SAHORRE
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+route de Fuilla
+
+panneaux
+
+SAILLAGOUSE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+place du Roser
+
+panneaux
+
+SAINT ANDRE
+
+CERET
+
+Canton 5 – La Côte Vermeille
+
+04
+
+02
+
+Route Nationale entrée Est – mur cimetière
+
+panneaux
+
+Allée de la liberté – aux abords de la mairie
+
+panneaux
+
+04
+SAINT ARNAC
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+place de l’Ormeau
+
+panneaux
+
+SAINTE COLOMBE DE LA COMMANDERIE
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+place de la Bassa
+
+panneaux
+
+SAINT CYPRIEN
+
+CERET
+
+Canton 3- La Côte Sableuse
+
+02
+
+11
+
+Mairie – place François Desnoyer
+
+panneaux
+
+02
+
+Ecole maternelle Nogueres- rue Auguste Rodin
+
+panneaux
+
+02
+
+Office du Tourisme -quai Arthur Rimbaud
+
+panneaux
+
+02
+
+Salle Génin de Règnes – avenue du Roussillon
+
+panneaux
+
+02
+
+Centre de Loisirs Francis Gatounes - rue François Arago
+
+panneaux
+
+02
+
+Ecole maternelle MET - rue François Arago
+
+panneaux
+
+02
+
+Foyer 3ème âge – rue Mirabeau
+
+panneaux
+
+02
+
+Gymnase des Capellans – Grand Stade les Capellans Complexe Sportif rue Verdi
+
+panneaux
+
+02
+
+Gymnase des Capellans 2 – Grand Stade les Capellans Complexe Sportif rue Verdi
+
+panneaux
+
+02
+
+Ecole primaire Alain, rue Albert Camus
+
+panneaux
+
+02
+
+Maison des jeunes – rue Eugène Sue
+
+panneaux
+
+Salle Jean Jaurès, Esplanade de la Résistance (affichage derrière le porche) Bureau 1
+
+panneaux mobiles
+
+03
+
+Place du Mas Carbasse pour bureaux 2, 6, 7
+
+panneaux mobiles
+
+03
+
+Place de la Méditerranée Bureau 3
+
+panneaux mobiles
+
+03
+
+Allée de la Méditerranée pour bureaux 4 et 5
+
+panneaux mobiles
+
+03
+
+Mas Saint Mamet, route de Perpignan Bureau 8
+
+panneaux mobiles
+
+SAINT ESTEVE
+
+SAINT FELIU D AMONT
+SAINT FELIU D AVALL
+
+PERPIGNAN Canton 14 – Le Ribéral
+
+PRADES
+
+03
+
+05
+
+Canton 16 – La Vallée de la Têt
+
+03
+
+01
+
+avenue du Roussillon (face aux numéros 13 et 15)
+
+panneaux
+
+PERPIGNAN Canton 16 – La Vallée de la Têt
+
+03
+
+04
+
+Mairie - 114 avenue du Canigou
+
+grilles clôtures
+
+Place général Barboteu – clôture du jardin d’enfants
+
+grilles clôtures
+
+03
+
+Page 8 sur 11
+
+Annexe n°2 - emplacements d'affichage
+COMMUNES
+
+SAINT GENIS DES FONTAINES
+
+ARR.
+
+CERET
+
+CANTON DE
+
+Canton 17 – Vallespir – Albères
+
+CIRC.
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+03
+
+Avenue du Roussillon-mur du cimetière
+
+mur
+
+03
+
+Avenue du Languedoc (angle rue des Corbières)-mur arrêt de bus
+
+mur
+
+19 avenue Georges Clemenceau
+
+panneaux
+
+04
+
+NBRE
+
+02
+
+04
+SAINT HIPPOLYTE
+
+SAINT JEAN LASSEILLE
+SAINT JEAN PLA DE CORTS
+
+PERPIGNAN Canton 4 – La Côte Salanquaise
+
+CERET
+CERET
+
+Canton 1 – Les Aspres
+Canton 17 – Vallespir – Albères
+
+02
+
+03
+
+CERET
+
+Canton 2 – Le Canigou
+
+PERPIGNAN Canton 4 – La Côte Salanquaise
+
+Ecole – Chemin du boutou
+
+grille de clôture
+
+Rue du Général Derroja – devant la salle Derroja
+
+grille du mur de clôture
+
+04
+04
+
+02
+02
+
+04
+
+02
+
+02
+
+13
+
+SAINTE MARIE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+PERPIGNAN Canton 7 – Perpignan 2
+
+Gymnase Jean PEITABI au n° 18 Avenue de la Mairie
+
+clôture du gymnase
+
+1 rue Joan Amade
+
+clôture ateliers municipaux
+
+Rond-point St Sébastien-entrée de ville-RD 115
+
+panneaux
+
+Avenue des Albères (en face n°5)
+
+mur
+
+Rue de l’église – mur de l’église face à la mairie
+
+mur
+
+La Forge del mitg – mur de clôture gîtes communaux
+
+mur
+
+PIJ - avenue Joffre
+
+02
+
+route du Barcarès – rond-point de la gendarmerie
+
+02
+
+Espace vert Méditerranée - avenue de la Côte Vermeille
+
+02
+
+lot. La Cruetta - avenue Alsace Lorraine
+
+02
+
+Boulevard Nicolas Canal – Face office notarial
+
+02
+
+École Joseph Cortada
+
+02
+
+École Pablo Casals
+
+02
+
+avenue de l'aviation-mur angle rue Clément Ader
+
+02
+
+route de Torreilles – devant la maison de retraite
+
+02
+
+Bd Georges Clémenceau (parking face aux HLM route de claira)
+
+02
+
+Salle polyvalente - chemin de Leucate
+
+02
+
+2 Bd Nicolas Canal – Grille du Foyer Rural
+
+02
+SAINTE LEOCADIE
+
+grille de clôture
+
+02
+
+04
+SAINT LAURENT DE LA SALANQUE
+
+panneaux
+
+Mairie – 3 rue Paul Riquet
+
+02
+
+04
+SAINT LAURENT DE CERDANS
+
+Salle Intercommunale La Prade
+
+école élémentaire Charles Perrault - rue docteur René Marques
+
+03
+
+01
+
+Mairie – place Michel Aris
+
+panneaux
+
+02
+
+04
+
+avenue Jules Ferry
+
+panneaux
+
+02
+
+Rond-point les Aloes -avenue des Marendes
+
+panneaux
+
+02
+
+Devant le Complexe Oméga – 2 Avenue de la Rose des Vents
+
+panneaux
+
+02
+
+impasse du boulodrome
+
+panneaux
+
+SAINT MARSAL
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+D 618 – face au terrain de pétanque
+
+panneaux
+
+SAINT MARTIN -DE – FENOUILLET
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Sous l’abris bus – place du village
+
+panneaux
+
+SAINT MICHEL DE LLOTES
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Avenue des Aspres – mur du cimetière
+
+mur
+
+02
+
+03
+
+Avenue de Cabestany-place de la République
+
+panneaux
+
+02
+
+avenue d'Elne – mur du Parc Durand
+
+panneaux
+
+02
+
+avenue de Cabestany (fin de l’avenue, sortie Saint-Nazaire)
+
+panneaux
+
+place St Pierre
+
+panneaux
+
+02
+
+parking supermarché « carrefour market »
+
+panneaux
+
+02
+
+place Léon-Jean GRÉGORY
+
+panneaux
+
+SAINT NAZAIRE
+
+SAINT PAUL DE FENOUILLET
+
+SAINT PIERRE DELS FORCATS
+SALEILLES
+
+PERPIGNAN Canton 3- La Côte Sableuse
+
+PRADES
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+Canton 13 – Les Pyrénées Catalanes
+
+PERPIGNAN Canton 3- La Côte Sableuse
+
+02
+
+03
+
+03
+
+01
+
+Mairie – 21 grand'rue
+
+panneaux
+
+02
+
+05
+
+Jardin de la demoiselle – avenue de la Méditerranée
+
+panneaux
+
+02
+
+Devant la Mairie –angle avenue de Perpignan/bd 8 mai
+
+panneaux
+
+02
+
+Devant le gymnase – angle rue Louison Bobet et rue Bousquet
+
+panneaux
+
+02
+
+avenue des crouettes
+
+panneaux
+
+02
+
+Devant le groupe scolaire Georges Sand – rue Raoul Follereau
+
+panneaux
+
+Page 9 sur 11
+
+Annexe n°2 - emplacements d'affichage
+COMMUNES
+SALSES LE CHATEAU
+
+ARR.
+
+CANTON DE
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+02
+
+05
+
+avenue Général de Gaulle
+
+panneaux
+
+02
+
+Boulevard Jean Jaurès
+
+panneaux
+
+02
+
+rue Gaston Clos
+
+panneaux
+
+02
+
+Cami d’en Parol
+
+panneaux
+
+02
+
+avenue François Tubau
+
+panneaux
+
+SANSA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place face à la mairie
+
+panneaux
+
+SAUTO
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie – rue Creueta
+
+panneaux
+
+SERDINYA-JONCET
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+parking face mutiplex rural – RN116
+
+panneaux
+
+SERRALONGUE
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+rue de St Antoine
+
+mur
+
+03
+
+06
+
+Ancienne place du Marché – rue Paul Langevin
+
+SOLER (LE)
+
+PERPIGNAN Canton 16 – La Vallée de la Têt
+
+03
+
+square Guy Malé – avenue Jean Jaurès
+
+03
+
+Tennis municipal – rue des lilas
+
+03
+
+Stade municipal – avenue de la République
+
+03
+
+Ecole élémentaire François Arago– rue des nouvelles écoles
+
+03
+SOREDE
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+Lotissement Merabelles – route de Toulouges
+02
+
+04
+
+salle des fêtes – rue de la sardane
+
+panneaux
+
+parking de la Mairie – rue de la caserne
+
+panneaux
+
+SOUANYAS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Parking – place de la mairie
+
+panneaux
+
+SOURNIA
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Foyer rural – rue du Général Tisseyre
+
+panneaux sur mur
+
+TAILLET
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+placette de la Mairie
+
+TARERACH
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+rue des Lauriers
+
+panneaux
+
+TARGASONNE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Face à la mairie – 3 bis route d’Andorre
+
+panneaux
+
+TAULIS
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+Mur de la mairie – rue des rocailles
+
+panneaux
+
+TAURINYA
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+13 cami du Canigou – mur de la cour – Mairie
+
+mur
+
+02
+
+01
+
+avenue Anatole France
+
+panneaux
+
+TAUTAVEL
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+TECH (LE)
+
+CERET
+
+Canton 2 – Le Canigou
+
+04
+
+01
+
+place de Village
+
+TERRATS
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Avenue du Vallespir-face à la mairie
+
+panneaux
+
+THEZA
+
+CERET
+
+Canton 12 – La Plaine d'Illibéris
+
+04
+
+01
+
+place de la promenade
+
+panneaux
+
+THUES ENTRE VALLS
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+rue de la soulane
+
+panneaux
+
+THUIR
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+07
+
+Piscine municipale – avenue de la Méditerranée
+
+panneaux
+
+04
+
+avenue du Dr Ecoiffier – maison du citoyen
+
+panneaux
+
+04
+
+Ecole Maurette – Cité Vallespir
+
+panneaux
+
+04
+
+avenue Nabona – rond-point de la Canterrane
+
+panneaux
+
+04
+
+place du vieux moulin (mur côté parking)
+
+panneaux
+
+04
+
+place Albert Passama
+
+panneaux
+
+04
+
+parking du 8 mai (côté de l’école Les Mûriers)
+
+panneaux
+
+TORDERES
+TORREILLES
+
+CERET
+
+Canton 1 – Les Aspres
+
+PERPIGNAN Canton 4 – La Côte Salanquaise
+
+04
+
+01
+
+2 rue des écureuils – mur de la mairie
+
+panneaux
+
+02
+
+02
+
+avenue Georges Brassens – angle rue Alphonse Daudet
+
+panneaux
+
+Espace Capellans – boulevard de la plage
+
+panneaux
+
+Avenue de la Tramontane – château d’eau
+
+panneaux
+
+01
+
+Boulevard de Clairfont, stade de rugby
+
+panneaux
+
+01
+
+Avenue Jules Ferry, maison du citoyen
+
+panneaux
+
+02
+TOULOUGES
+
+PERPIGNAN Canton 11 – Perpignan 6
+
+01
+
+03
+
+TRESSERRE
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+01
+
+Avenue de Perpignan
+
+clôture
+
+TREVILLACH
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+Panneaux fixés sur le mur entre la place de l’Aire et la salle Porte des Fenouillèdes
+
+panneaux
+
+TRILLA
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+3 place de la mairie- cour de l’ancienne coopérative
+
+TROUILLAS
+
+CERET
+
+Canton 1 – Les Aspres
+
+04
+
+03
+
+Avenue du Canigou – Mur du centre médical
+
+panneaux
+
+04
+
+Giratoire du lotissement Les Hauts Plateaux
+
+panneaux
+
+04
+
+Avenue Canterrane – Bâtiment et espace public des anciennes douches
+
+panneaux
+
+Page 10 sur 11
+
+Annexe n°2 - emplacements d'affichage
+ARR.
+
+CANTON DE
+
+CIRC.
+
+NBRE
+
+EMPLACEMENTS D'AFFICHAGE
+
+SUPPORTS D’AFFICHAGE
+
+UR
+
+COMMUNES
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Place de l’église
+
+panneaux
+
+URBANYA
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Mairie – route de la mairie
+
+panneaux
+
+VALCEBOLLERE
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+place de l'étoile
+
+panneaux
+
+VALMANYA
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Mur du cimetière
+
+panneaux
+
+VERNET LES BAINS
+
+PRADES
+
+Canton 2 – Le Canigou
+
+03
+
+01
+
+Mairie – Place de l’Entente cordiale
+
+panneaux
+
+VILLEFRANCHE DE CONFLENT
+
+PRADES
+
+Canton 13 – Les Pyrénées Catalanes
+
+03
+
+01
+
+Placette – tour d'En Solennell
+
+02
+
+02
+
+VILLELONGUE DE LA SALANQUE
+
+PERPIGNAN Canton 7 – Perpignan 2
+
+02
+VILLELONGUE DELS MONTS
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+02
+
+04
+VILLEMOLAQUE
+VILLENEUVE DE LA RAHO
+
+VILLENEUVE LA RIVIERE
+VINÇA
+VINGRAU
+
+CERET
+
+Canton 1 – Les Aspres
+
+PERPIGNAN Canton 12 – La Plaine d'Illibéris
+
+PERPIGNAN Canton 14 – Le Ribéral
+PRADES
+
+Canton 2 – Le Canigou
+
+PERPIGNAN Canton 15 – La Vallée de l'Agly
+
+avenue du littoral
+
+panneaux
+
+Place Maréchal Joffre
+
+panneaux
+
+Avinguda del Romaguer
+
+panneaux
+
+Carrer de les Escoles
+
+clôture
+
+04
+
+01
+
+Le long de la mairie-avenue des Pyrénées
+
+panneaux
+
+04
+
+03
+
+Salle des fêtes Paulin Gourbal – 1 rue du Général de Gaulle
+
+panneaux
+
+04
+
+École maternelle Alfred sauvy– avenue du Roussillon
+
+panneaux
+
+04
+
+salle polyvalente Espace André Sanac – Route de Bages
+
+panneaux
+
+03
+
+01
+
+7 avenue du Canigou – mur de clôture de la mairie
+
+panneaux
+
+03
+
+01
+
+place de la liberté
+
+panneaux
+
+02
+
+01
+
+5 place de la République
+
+panneaux
+
+entrée du village – route de Boucheville
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+VIVES
+
+CERET
+
+Canton 17 – Vallespir – Albères
+
+04
+
+01
+
+parking de la salle polyvalente
+
+panneaux
+
+VIVIER (LE)
+
+PRADES
+
+Canton 15 – La Vallée de l'Agly
+
+02
+
+01
+
+rue principale – face à la mairie
+
+panneaux
+
+VIRA
+
+Page 11 sur 11
+
+

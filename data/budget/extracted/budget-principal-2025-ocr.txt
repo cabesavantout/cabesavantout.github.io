@@ -1,0 +1,8442 @@
+=== PAGE 1 ===
+: |
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025 |
+REPUBLIQUE FRANCAISE
+: COMMUNE DE CABESTANY (1)
+AGREGE AU BUDGET PRINCIPAL DE (2)
+Numéro SIRET : 21660028800015
+POSTE COMPTABLE : TRESORERIE PES DE SAINT-ESTEVE
+M. 57
+Budget primitif
+Voté par nature
+BUDGET : MAIRIE DE CABESTANY (3)
+ANNEE 2025
+(1) Indiquer soit le nom de Ia collectivité. soit le libelle de etabiissement, soit le nom du syndicat mixte relevant de |'article L. 5721-2 du CGCT
+(2) A compléter s'il s'agit d'un budget annexe.
+(3) Indiquer le budget concemé - budget principal ou libelié du budget annexe
+|
+|
+|
+Page |
+
+
+=== PAGE 2 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+Sommaire
+I - Informations générales
+A - Informations statistiques, fiscales et financiéres 4
+B - Modalités de vote du budget 2)
+C1 - Exécution du budget de I'exercice précédent - Résultats 6
+C2 - Exécution du budget de I'exercice précédent - RAR Dépenses 7
+C3 - Exécution du budget de I'exercice précédent - RAR Recettes 8
+II - Présentation générale du budget
+A - Vue d'ensemble - Vote et reports 9
+B1 - Présentation des AP votées 10
+B2 - Présentation des AE votées I
+C1 - Equilibre financier du budget - Investissement 12
+C2 - Equilibre financier du budget - Fonctionnement 15
+D1 - Balance générale - Dépenses 17
+D2 - Balance générale - Recettes 19
+Ill - Vote du budget
+A - Section d'investissement - Vue d'ensemble 21
+A1 - Section d'investissement - Dépenses - Détail par article 25
+A2.1 - Section d'investissement - Dépenses - Vue d'ensemble des opérations d'équipement 28
+A2.2 - Section d'investissement - Dépenses - Détail des opérations d'équipement gérées en AP 29
+A2.3 - Section d'investissement - Dépenses - Détail des opérations d'équipement gérées hors AP 30
+A3 - Section d'investissement - Recettes - Détail par article 31
+B - Section de fonctionnement - Vue d'ensemble 33
+B1 - Section de fonctionnement - Dépenses - Détail par article 36
+B2 - Section de fonctionnement - Recettes - Détail par article 4l
+IV - Annexes
+A - Présentation croisée
+A1 - Section d'investissement - Vue d'ensemble 44
+AL.OL - Opérations non ventilables Sans Objet
+A1.900 - Fonction 0 - Services généraux Sans Objet
+A1.900-5 - Fonction 0-5 - Gestion des fonds européens Sans Objet
+AL.901 - Fonction | - Sécurité Sans Objet
+A1.902 - Fonction 2 - Enseignement, formation professionnelle et apprentissage Sans Objet
+A1.903 - Fonction 3 - Culture, vie sociale, jeunesse, sports et loisirs Sans Objet
+A1.904 - Fonction 4 - Santé et action sociale (hors RSA) Sans Objet
+A1.904-4 - Fonction 4-4 - RSA Sans Objet
+A1.905 - Fonction 5 - Aménagement des territoires ct habitat Sans Objet
+A1.906 - Fonction 6 - Action économique Sans Objet
+AL.907 - Fonction 7 - Environnement Sans Objet
+A1.908 - Fonction 8 - Transports Sans Objet
+A2 - Section de fonctionnement - Vue d'ensemble 47
+A2.01 - Opérations non ventilables Sans Objet
+A2,930 - Fonction 0 - Services généraux Sans Objet
+A2.930-5 - Fonction 0-5 - Gestion des fonds européens Sans Objet
+A2.931 - Fonction 1 - Sécurité Sans Objet
+A2.932 - Fonction 2 - Enseignement, formation professionnelle et apprentissage Sans Objet
+A2.933 - Fonction 3 - Culture, vie sociale. jeunesse, sports et loisirs Sans Objet
+A2.934 - Fonction 4 - Santé et action sociale (hors APA et RSA/Régularisation de RMI) Sans Objet
+A2.934-3 - Fonction 4-3 - APA Sans Objet
+A2.934-4 - Fonction 4-4 - RSA/Régularisation de RMI Sans Objet
+A2.935 - Fonction 5 - Aménagement des territoires et habitat Sans Objet
+2.936 - Fonction 6 - Action économique Sans Objet
+A2.937 - Fonction 7 - Environnement Sans Objet
+A2.938 - Fonction 8 - Transports Sans Objet
+B - Annexes patrimoniales
+B1.1 - Etat de la dette - Détail des crédits de trésorerie 49
+B1.2 - Etat de la dette - Répartition par nature de dette 50
+B1.3 - Etat de la dette - Répartition par structure de taux 54
+B1.4 - Etat de la dette - Typologie de la répartition de I'encours 56
+B1.5 - Etat de la dette - Détail des opérations de couverture 57
+Page 2
+
+
+=== PAGE 3 ===
+|
+|
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025 |
+B1.6 - Etat de la dette - Dette pour financer I'emprunt d'un autre organisme 59 |
+B1.7 - Etat de la dette - Autres dettes 60 |
+B2 - Méthodes utilisées pour les amortissements 61 |
+B3.1 - Etat des provisions constituées Sans Objet |
+B3.2 - Etalement des provisions Sans Objet |
+B4 - Etat des charges transférées Sans Objet |
+BS - Détail des chapitres d'opérations pour comptes de tiers Sans Objet |
+B6 - Préts 65 |
+B7.1 - Etat synthetique des engagements donnés Sans Objet
+B7.2 - Etat synthetique des engagements regus Sans Objet
+B7.3 - Etat des emprunts garantis 66 |
+B7.4 - Calcul du ratio d'endettement relatif aux emprunts garantis Sans Objet |
+B7.5 - Etat des contrats de crédit-bail Sans Objet
+B7.6 - Etat des marchés de partenariat Sans Objet |
+B7.7 - Etat des recettes grevées d'affectation spéciale Sans Objet |
+B7.8 - Autres engagements donnés Sans Objet |
+B7.9 - Autres engagements recus Sans Objet |
+B8 - Subventions versées 68
+BQ - Etat du personnel 69
+BLO - Liste des organismes dans lesquels la collectivité a pris un engagement financier Sans Objet
+BLL.1 - Liste des organismes de regroupement Sans Objet
+BI1.2 - Liste des établissements publics créés Sans Objet
+BI1.3 - Liste des services individualisés dans un budget annexe Sans Objet
+C - Annexes budgétaires
+C1.1 - Equilibre budgétaire 75
+C1.2 - Equilibre budgétaire - Dépenses 76
+C1.3 - Equilibre budgétaire - Recettes 7
+D - Autres éléments d'information
+DI - Liste des services assujettis 4 la TVA et non érigés en budget annexe Sans Objet
+D2.1 - Services ferroviaires régionaux des voyageurs - Volet | : Budget Sans Objet
+D2.2 - Services ferroviaires régionaux des voyageurs - Volet 2 : Compte d'exploitation Sans Objet
+D3 - Décisions en matiére de taux 79
+D4.1 - Etats de la répartition de la TEOM - Investissement Sans Objet
+D4.2 - Etats de la répartition de la TEOM - Fonctionnement Sans Objet
+DS.1 - Etats des dépenses et recettes des services d'eau et d'assainissement - Fonctionnement (2) Sans Objet
+DS.2 - Etats des dépenses et recettes des services d'eau et d'assainissement - Investissement (2) Sans Objet
+V - Arrété et signatures
+A- Arrété et signatures 80
+Préciser, pour chaque annexe, si l'état est joint ou sans objet.
+Dans l'ensemble des tableaux, les cases grisées ne doivent pas étre remplies.
+Conformément a l'instruction budgétaire et comptable, il convient de mentionner que :
+dans la présentation croisée, la rubrique fonctionnelle 01 - Opérations non ventilables comprend les impats et taxes non affectés, les dotations et participations |
+la dette et les opérations financieres, les opérations patrimoniales en investissement, les frais de fonctionnement des groupes d’élus en fonctionnement :
+les opérations d'ordre doivent figurer en italique.
+(1) A utiliser également par les collectivités de moins de 3500 habitants qui mobiliseraient des AP-AE régies par l'article L.5217-10-7 du CGCT apres avoir adopté un
+réglement budgetaire et financier conformément a l'article L. 5217-10-9. Si la collectivité opte pour ce régime, la collectivité ne renseigne pas les annexes C2.1 et C2.2 de la
+partie IV « Annexes ». Les projets de dotations d’AP-AE inscrits sur les annexes 81 et B2 de la partie Il apparaissent alors dans les états de la partie I! « Vote du budget »,
+sinon les montants dans les champs AP-AE sont par convention de 0
+(2) Cet état ne peut étre produit que par les communes dont la population est inférieure & 500 habitants et qui gérent les services de distribution de l'eau potable et
+dassainissement sous forme de régie simple sans budget annexe (art. L. 2221-11 du CGCT) |
+|
+|
+Page 3
+
+
+=== PAGE 4 ===
+&
+e +
+< -
+5 °
+z iro}
+eS oO
+= ee
+: eetepees
+uegueses
+e858 grca
+8 2
+8
+Fa
+. =
+; <
+. F
+2 5 7
+J 2 ° |
+F 2 - !
+Ci E |
+> 3 :
+: 5
+is) [|
+e 8
+g 3
+s 38
+2 8
+g 3
+g 3
+g 3
+z 2
+e 3
+g 3
+2 8
+g 2
+a 3
+g 2
+2 3
+£ 4
+S 3
+. a
+2 3
+5
+= 2
+—E 8
+2
+ao , )
+i i
+oO | |
+: s 5
+= 2 3
+ae H ‘
+nz i
+uy a | |
+au : | |
+Ww g 2 3 | :
+om dl : i
+elal |e : |
+S
+2\2 H i : |
+Wo a 3 : |
+O}a é | |
+2 1
+—_ 2 : : ; :
+: | 3 9 2
+Zin o s i
+n E g 3 P L
+oyu : . j
+i} E ' |
+— = , )
+2 £ 5 | : ,
+FIC = 8 : |
+i= : 3 i
+: 3 s 3
+frail | : :
+oj 3 ; 7
+i : i | | |
+| . on
+22 | i |
+: | : i aw
+Ke) | f
+—|2 ; i
+E I
+5 $ : | !
+E — 2 Z
+a. = = file i
+, : : ze2s Le
+: a : : Ht
+> re = bees hy
+2 Z2 & asst aif
+Q 3 e geses a
+w £ gs s§ S52 re
+oO a a2 EBOES Lae
+< of oS S2LES 238
+a 3&8 $8 2
+3) = a a3% i
+Ww © SS. e3sess ae
+; ; Seese 7S a
+a 2 eos es3ss ani
+, ae pete g22
+4 2 se2e eease Hi
+< = Edo > f22e5 ais
+s 8 SERS g2e3es ay
+5 ERs $2858 G2 3
+' 5BEs5 5225 TE
+> a Sges e2-—7 38 23 >
+4 fe) sS853 BEDSS S = 2 3
+, ee S5339 age é
+E 3 52538 BSELB He:
+2 esa 2 age sie 3
+, ay = eSes PRE =
+| ag E5588 z3k =
+ao 2 toes peas ag
+< 2 HE PaTETL HE
+Oo 8 geeagieets is:
+wi g TEE Hag
+a o a ae & 35 lo Sa £ 5
+a 3 SePt teats: 268 :
+w 2 a eigcéagaes gee :
+Zz 2 3 ggheh8ises bed
+5 £ o ge28a8es ane
+> SSS an 2 ey
+= Ss @ 8828 weaage an
+= Tc oD gu g cs gs¢2 Ff
+: ! ggas 65588 gig 3
+fo] 3 5 B55 28285 $28. g
+5 og age 8 dite
+: aaagu Ae
+a Ht
+seg:
+s NO THE
+Tw r L
+on © bail
+— Sge2?
+= 2s 8
+— an
+— <ahge
+— Seeas
+— SZ
+
+
+=== PAGE 5 ===
+Py
+2
+3
+a s
+= a
+oO
+2
+E =
+S &
+‘e 2
+= oD
+3 2 8
+= 2
+2 2 5
+o o &
+o Fy ®
+g 8 s
+c
+E Ss 3
+2 3 2
+2 is} 5
+% 3 3
+Q 2 3
+£ © 2
+p= o
+oO 5 2
+oO = o
+< pd =
+c S ®
+oO ® =
+§ 2 a
+- 3 g
+a
+] o -
+4 a o
+= [oy =}
+S o z
+: 4 8
+oO 5 ~
+g  & 8
+no 4 = a
+= oO ec
+s a Qa 5
+nN io] o &
+‘ = oS oO
+5 2
+a FE 2 s
+a ao] ne]
+' cs} 3 3
+> c oS @
+< - 3 © ral
+<x & ae}
+e 2 2 5
+i i= 3 r= 3 :
+. rH ps
+a 2 a 2 6 Cc
+“” 5 a = = 4
+S& Jule 2 os g ® 5
+() HT} as o = . o
+Ww al ad E . c 5
+a oO % é 8 Ss g vay
+wW Q ® 2 2 8 E g.
+2 }wi2 Ss 8 5 2 i: op
+< a = > oO £ o a
+= {2\5 5 oS a g 3
+. Wy “ = & a
+> (U) 2 ® Ri 5 [= :
+z Ww oS - rad coy fe} 2
+=e @ o® @ ° >
+< Oi ‘S 3s co] & 3 8
+a zo 5 3 3 5 3 8
+wi > a £ 2 > 2 8
+[o) 2 a o r °
+ia} ra oO << s
+<= |p S os 2 8 5 Fa *
+(3) <|° E & o a 3 = 38
+i n = @ 2 2 8 8 4
+a =] > 3 s ° 2 a 2
+2 Os gS 8 3 = = 3
+saa | @ -
+s ola z 2 ® = 8 D 8
+= < vid a c 2 3 z a
+s [Sia 5 8 s % 5 8 Fs
+zs - § 2 s 3 g 2 $
+9 re) a 8 3 3 Pi, ® o 5
+= € rs} 2 oD 5 o Q z
+2 a oO a] 3 a] 5 2
+- 28 = 8 38 3 a 4 F ‘
+-e = | o ; © 2 =
+-¢O2 ® 2 oa a = bo] $ £
+~GESs Qa € o 2 Q 2 2
+o ot o o = | = es i
+—€ r o s a
+i= oo c — 3 FA Ee s£ so —
+Sage 5 3 % 8 5 a 33 8
+Ba2Sa Fy 2 S.. FA i | ao 2
+ese 2 Fa — = 2
+Bese, 8 8 ES 8 5 UF 22 2 ¢
+SSSR €& =] ory 2 3S iy s 8 i. 8
+BEDSeS & 3 os 3 S 3 6&8 : 8
+SE odgse 3 £ 2
+avuvse g s oF = a 3s 8 23 @ 3
+255-28 £ @ 32 @ & s 5 22 a e
+55 So a = =| aa = ri) aS oO 2
+SSGe> 2B a on Q fe) Qe 2 fT 2 =
+2oa0 g i] Se gs © Qa ° a 8 2g
+Soveg 3 & ee a £ a 8 4 ge 2. £8
+osao Fd S 3 72 @ s © g o ?¢4 B¢.%8
+sveLees o a3 YE 5 Bcf E 5 3 8s gece 8
+2PxaG0o & oe a= a a o @ = @ 2 £222 2
+S839o8 5 a OM s ao} Qa 3 s 33 Szeac
+gaoge a ae i2* x 3 3 2 > g gs S2BBS
+@Seee 8 < eo oe c ay 2 a Soe a22oo5
+ySourzez 2 o 2 S55c S&S i= 2 ® 2 ms he 328 S5 5
+2ee2e = Ze £825 = 3 £ w z= ge 838552
+saage?2 os go G=GE a = 2 3 S235 See e es
+SaoaEE @ £5 =te2eGg —€ = w 2 Ba tg 2 §e228
+oS See B £eR 6 e sees g3ge88
+2568S @ 2s Resa 2. a 6 3g Beets § +5338
+= s e522 Sle 3 3
+Bsse2e2 8 cs 5230 of 2 2 a s3s8 s23838
+eeUVO9 & gs Eos? Oe S £ 4 oes BEseee
+e355 & ao ao i= 7) og o ~~ 8 & 2 = 3 sos
+Oooo E fo oO wet o@ 2 a oD Bess -SER ooo
+BSOONN G aes EQ, (aS 3 e oO ae egtiags 3
+Zac, ie ae oO 8 g S 5 s*§se58 85555
+EEEee & we 22 fo a 5 a SrESaoLR SEES
+®3I3GG 0 =o 5 2 <2 8 a gs ESRESE S223 8
+HBBHH w cs 6e ue 8 = ESSESBSERZERCSS
+S 2 as 8 2 I | SeS8 fags Fass
+i = 1 LS Is | es = <ef2cESiaci
+[erie «¢ =5 =3 26 > = 2 eee see
+
+
+=== PAGE 6 ===
+cir IlN oO1a|o
+5 aed ae eee
+ool es od DIDO
+TLO;@D
+3/2] 8] 3/5
+bd ed =a | o|o
+= wolala t/t
+RN] e%]o Mi
+oO z dice
+[]
+3
+[}
+a
+3A =
+of a
+£ =
+°
+3 5 ls/a|s
+ig jJ—|olo
+QIic|/a
+Oi~],o
+| claly
+| S121
+oy ' [oOo
+cI] 92 a ae
+<|<]<|
+IN|
+Goll a i)
+oO Qlolr [NTO
+N Co
+5 isyajes coy ca} a |
+g =|
+& |2/3/8 =|<]o ia}
+. o|-|N al also =|
+s -|[oln o|a}o a)
+2 ' Sls
+= | >| +]
+3 |
+oO QQ <
+- NTN a
+3 |<
+1 = ° w
+nN S =
+° n” ia ee}
+& cE 312 i 2
+‘ < wd | = 2 5
+E a ol 2 ti . 5
+' 5 5] 8 ale & 8
+= 7) als a}e2 pad | S
+. wil a]z2 br 2
+a Lu) xs | wi 3 35) 2
+- oe Wis eho a) 2
+Ww 1 aia Pa 4 w Bs 6
+w aS [4 2 3
+Oo A) als ao B 3
+< w|>S 2 soci ad w z 8
+(s) a Ee = 2 3
+w mH < A] a] < a Bon
+a flo 5 le w $ 3
+Ww a IOs ia a] g
+w faa 5 GO] oO] a g = \o
+Ww rs) SIR] oO 2 ge
+z uy 4g =|] 8 83 9
+< Ziv 4 Coa hs = as oy)
+= Wa alNis | 2 +8 3s
+; ro) qyn}= > 2 33 a
+> ut o os s 42
+| © 33
+2 jw 2 =|=]= S Rt
+FA 2/9 8 ( ! 8 &6
+if o}% 3 0] co ay TE DT ee = ag
+Fe] a) WW a“ == lolole 5s @8
+4 |< RIX Palal + 83 &:
+& falwi |S [t]2/4) = 23
+w s/o | Zig alq}2@] og 23%
+7 i | SIF 2 3)
+we lg - 38
+z fo) 3 2?
+=] = 2 2 2
+5 wii | B 83
+ra Z\o t y @ 88
+8 | {/2 ABE 3 3:
+=| St] 2 2
+—|a 8/¢|8 a 8 38
+= 2 2s
+2 alaloa 2 | 2 =8
+a R]e]o oO ¢ £3
+- a hed Iced a | 3 2s
+N 0 €
+ro} ay ye? z a
+oO wo =z 5s @
+= ® 8 38
+2 5 ze] 3828
+ge 8
+1) 2 | ela 5 § 8 3
+uu oO ele ofaa
+bed a e|§] 2328
+= S/el #485
+aj/2)2 2225
+= o~J 22a
+= e/3]2] 3238
++ o|=]5 3523
+| = = F)fje Brae
+| Ltt 2ae2 52
+$4555
+H ofes 8
+CoB Sag
+B8eaeve
+ec ofa
+Segoe
+| =eRB2s
+a | S85 2ts
+i | Eaqg ae
+3} | = we) | = 22323
+oJ J Zag @
+= fic = Se
+a] 5] 2 2| S| 2 teh E es
+Oels ol Elo Bees Ss
+2) s/s o| |e SP327
+< 3s c Eo xk Zo
+2) QD aed Paet
+2 Zle 2) 2] 2 8558 5
+i) oo a os
+9} 215 9} 2/5 g2geF
+ha ed ua al ca ESeTE
+
+
+=== PAGE 7 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+| - INFORMATIONS GENERALES | 1 |
+EXECUTION DU BUDGET DE L’EXERCICE PRECEDENT — RAR DEPENSES
+DETAIL DES RESTES A REALISER N-1 EN DEPENSES (1
+Chap. / art. (2) Libellé Dépenses engagées non mandatées
+| SECTION D’INVESTISSEMENT — TOTAL (I) 489 474,18 ||
+a a a ]
+|
+a ee
+| ff |
+=== ————|]]>"7"7"~"fLQ][[(FF eee
+[20 _—_| immobilisations incorporelles (sauf le 204) (3) 28 882,80 |
+[x |
+[204 __—_| Subventions d’équipement versées (3) (5) 74 188,66 |
+Pf |
+[21 ___| immobilisations corporelles (3) 386 402,72 |
+[jf
+ae ae |
+a Se ee
+Pf |
+ff |
+ff |
+| SECTION DE FONCTIONNEMENT ~ TOTAL (ll) 0,00
+a a ee oe Lae
+ee
+_ a a ee
+oe 00 |
+_ ee
+a aie Selah ae |
+Pf |
+ee eels i ee ene |
+_ a a ee
+__——————————————— eo,
+(1) Il s’agit des restes a réaliser établis conformément a la comptabilité d’engagement annuelle. A servir uniquement en cas de reprise des résultats de I'exercice précédent, soit aprés le vote
+du compte administratif, soit en cas de reprise anticipée des résultats.
+Les restes a réaliser de la section de fonctionnement correspondent : en dépenses, aux dépenses engagées non mandatées et non rattachées telles qu’elles ressortissent de la comptabilité
+des engagements ; et en recettes, aux recettes certaines n’ayant pas donné lieu a |'émission d'un titre et non rattachées.
+Les restes a réaliser de la section d'investissement correspondent : en dépenses, aux dépenses engagées non mandatées au 31/12 de l'exercice précédent telles qu’elles ressortissent de la
+comptabilité des engagements ; et en recettes, aux recettes certaines n'ayant pas donné lieu a l'émission d'un titre au 31/12 de l'exercice précédent.
+(2) Suivant le niveau de vote retenu par l'assemblée délibérante.
+(3) Hors dépenses imputées au chapitre 018.
+(4) Hors dépenses imputées aux chapitres 016 et 017.
+(5) Le chapitre 204 « Subventions d’équipement versées » est un chapitre globalisé regroupant les comptes 204 et 2324.
+Page 7
+
+
+=== PAGE 8 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+[~—~—S—S——CSI=INFORMATIONSGENERALES |
+DETAIL DES RESTES A REALISER N-1 EN RECETTES (1
+[secon pwvesrssewenr—rorac——SSSSC~SC aaa |
+[enone ese For fe} _¥§W— 89
+[ta Produits de cosions dinmobiistions <i
+[to | Detations fonds divers tréserves——
+[is [Suventionsdinvestissoment(ogues)(@) | aa |
+[is lemprntsetdotesactimies PO
+[is] ertedetiaton atecation@Ama) |
+[zo | mmobiisations incorporetes enuf @) | 00
+[200 | Supventions ¢équiperentversées@vi@) |
+[= [immonitsatons coportes@) PO
+[22] mmopiisatons resues enafecaton@)—P]
+[2 limmontisatons ncowsearaan@ |
+[2 [Pantcpatonseteréancesratachies
+[2 Aetes mmopiisatonsfnncives@)
+[i] crepives fopsrationspourconpiedetines |
+[Section oeroncrionnewenT-Toral——SSSC~dMS
+[70 Fro. seroes, domaine ventes dversos «dt SSCSCSCSCSCSC~C~«
+[i [imttsctioes
+[ir [rscancate Sd
+a
+[7s autes produits do gestioncournte@ <i
+Le
+0
+[7s [Produits nancies
+[7 [Preauts species |
+NN Ee eee
+(1) Il s'agit des restes a réaliser établis conformément a la comptabilité d’engagement annuelle. A servir uniquement en cas de reprise des résultats de l'exercice précédent, soit aprés le vote
+du compte administratif, soit en cas de reprise anticipée des résultats.
+Les restes a réaliser de la section de fonctionnement correspondent : en dépenses, aux dépenses engagees non mandatées et non rattachées telles qu’elles ressortissent de la comptabilite
+des engagements ; et en recettes, aux recettes certaines n’ayant pas donné lieu a émission d'un titre et non rattachées.
+Les restes a réaliser de la section d'investissement correspondent : en dépenses, aux dépenses engagées non mandatées au 31/12 de l'exercice précédent telles qu’elles ressortissent de la
+comptabilité des engagements ; et en recettes, aux recettes certaines n’ayant pas donné lieu a 'émission d'un titre au 31/12 de l'exercice précédent.
+(2) Suivant le niveau de vote retenu par |'assemblée délibérante.
+(3) Hors recettes imputées au chapitre 018.
+(4) Hors recettes imputées aux chapitres 016 et 017.
+(5) Le chapitre 204 « Subventions d’équipement versées » est un chapitre globalisé regroupant les comptes 204 et 2324.
+Page 8
+
+
+=== PAGE 9 ===
+|
+pe |
+2) c 2 2 © ps |
+= = S s cy 3 s s s 3 |
+r-) rl Ss a = = : a a
+2 x S 3 o 2 8 a 2
+ey & 8 6 —e €
+2 2 2 x = = 2 2 3
+= S = a Ss 28
+So N Cy KR 6 nN rey 2 &
+© = _ n + cr rr oo 2 Ez
+E = _ = a 2 &
+n = no = =
+Ww g Ww 5 g «=
+5 5 FE 3 2 $
+Ww + ® u HT] + 8 W & 5
+(3) 2 a g 2 $3
+Ww ° wo o & 8
+= 2 « 3 « 8
+e @
+€ «x
+3 &
+g 8
+g 8
+g 38
+3 6
+z@
+= © = ° ° es 8
+Se SS N 5 —] s s 3 2
+a + +t = 5 a z
+3 5 6 & 3 = 5 g 5
+o + - N oO S$ 2 —
+© QD rs) a 5 &
+r) 3 oO S BS = Z s
+a ~° oy N N 3 S
+0 oS
+= ™ 2 e 2 3
+= Fa
+7 3
+D = 5 2
+oO 3 &@ 5
+c = a Ss
++ o " + so " 5 a
+3 a] a &§
+lo ° 3B g 8
+N a bed @ 4a
+8 3 2 3
+2 gs 8
+' gS ¢
+o. e ¢
+‘ el A) 2 g
+z rab 3 38
+rd °o 5 8
+& 9 ag os
+5 }___] a
+Ww 5/5 2 @
+ira] uu a2 32
+s fea} ing 3% 3
+ke $g 2
+we 12) gs 8
+Ow s 23 3
+w wie S Sez 2
+w i) =e & fon
+= 5 od os @
+a al a of 8 o
+Ss di 2 2g 8 op
+ao Q =}
+5 fel E fe & ea
+> wit 8 $2 8
+z igZlo 2 §s 3
+n Qa a Se 8
+= = ©
+Fa} O|5 a 5 z
+az 2|a E dis 22 8
+ss 3
+in o|2 8 = ge 3s
+" rad
+2 lela} 6 2 : F ff
+2 6 o = 5
+g ja > S 3 Ss] fF 8
+s Ela 3 ~ 2 5 =. bE £23 6 g&
+2 izle Fe cle 2 =. wl £s g $
+= = o = = O} s& a g
+| WW ¢ = = ES a 2 g 2
+8 ale 5 z] § 3 Bi g2 & 23
+=z Bll + > " oi +i) = " a 2 3 e & Sy
+WW) ii 2 = 2 Es C7 > Se 8 85
+as & | 3 5 a] _ al 22 § g@2é
+a 3 2 $ hd = = a Ze SF 8@aB
+Ww 3 = $ bs = = = Z gy 8 228
+W5 o 3 £ a 2 ce @ 2 Pa s & x 5 8%
+= 3 5 > = g so = Se @ 232
+4 P= 3 a = 3 < ° 3 4 Ee Oa Be
+= = ‘2 c ‘4 s 0 g 5 a 24 g 385
+z 2 | § £ ° 2] 2 E 58 2 388
+" a o o 3 a 2 2 B22 8 2248
+2 s a 8 ° ® 5 rs Be 8 232
+g $|s 2 5 2] é S a2 5 ess
+fe 2 = oO oe is) o 3 ge 2 is
+5 2 yy $ & S = < 8S € &83
+a x s z 2 4 < 2 $s 252
+£ o c = E 3 9 2 38 2 388
+as = o 2 s £3 ¢§ B+
+G os Re} zo < 3 3 of & Se
+Q = Cy Ts 3 & s
+My s = < < 3 € 3 6 2 3 25
+F-4 i 3 3 A} S 5 #2 2.6385
+a o oO = = & — ° Be Szesuage
+oO o ° o @ s so #652 € |
+$ 2 3 ry © £ 3 8 ge 83,22 |
+Fs a 3 = £ 3 |
+= s | 2 8 £ S| 3 4 ge 88255
+3 ie 2 E [= = s sg #58108
+2 = 3 « 2 @ 26 884 es
+= +4 9 2 2 @ 3 ae 2B8eas
+3 $ 2 3 3 2) « 3 2¢ 52256
+2 b = s Bs 7 Pa 8 Qe e2®aoe8
+6 % S 2 £ 3 yy 5 $§ si Bea |
+oe r—} [s) a J e a3 sees
+8 3 Sa 82a
+ee 2 3 sR
+— ee oS ORSE RS
+eaoPaots 3G
+o no eee eek S Su
+w 5 wi 5 S8pe28333
+im a es a= ooo
+fo] i= S582 228
+° 5 3 23582223
+> o = a Pees 5 ooo
+Ww ui SS 7g css
+ig 4 SglsgRg8 ss
+22 te24 e058
+AeSea bE Fe
+SssssTee
+|
+
+
+=== PAGE 10 ===
+o
+=]
+|
+:
+FA
+3
+3
+gz
+| | :
+- 2
+| 2
+a BE
+2 2 oe
+£
+i s $3
+= 43
+cs) 23
+2&
+ss
+| 5
+a 8
+Bs
+b | | Re
+| | ge
+iW ge
+0} a<
+a 28
+2 38
+oo
+D|w } | So
+qyw aé S
+| es on
+o } | Es 3
+< & 5 a
+oo
+Ld] » £3
+Far 88
+we 35
+pa a 23
+fe} = —| © 8
+Z\- wl a je gs
+Ole s =I al |B a8
+le = < vo! |i 8 8
+Elz Fy = gs! lo 3
+li ° 3h a ec
+Elo 8 Fi Ve) {z a 8
+2)u 4 E| |o $8
+Ww . al yh 33
+n|o Ww 3 £2
+wi a a | g 3
+ra 5 5 2
+aw Fy 8S
+a a 2 3] ss
+Ss b] 58 2
+“yd 5 g Zé
+a |= 5 a) | B3
+' E 3 §
+> 2 “| | 2
+2 52
+BE | 85
+ri Bea
+s
+wi :
+< B38
+QB | $3
+| .
+> | 23
+| 3
+z | ga
+< | ar
+2 32
+a $3
+< | | 22
+o | | 23
+4 | | | 2¢
+a } as
+w | 32
+i] su
+3 |_| | LJ es
+oO
+
+
+=== PAGE 11 ===
+S
+=}
+|
+|| |
+|
+|
+|
+|
+i} | |
+|
+| 3
+a
+£
+| 5
+ed
+2
+i
+a
+= g
+ce | |} #&
+£ af | | 3s
+£ | | 2a
+oO | 28
+o 2
+gs
+| Ze
+a
+2
+o
+<5
+ta | te
+Ze
+| | 5S
+oO | Bw
+Qa %%
+> | 8 3
+|| | oo
+Din | ae
+2)u } |} 338
+or A
+| fe
+w/5 | |] a3 -
+su 5 ¢ oi
+bes 5 8 &p
+8
+ii]/2 | | $8
+O|Z gs
+2\2 a 13 28
+5 rt |; |S} jel 3s
+O\< 5 =| [al |) 2
+EIS wi < a a 33
+od = Ee @ 5 22
+uu in 2 £3
+Ld 2) Q oO; |3} Jal sé
+zilw < = < uw 3
+iui] g o| 2s
+n|o i el irl 3
+Ww a 4 | §& 8
+e |X 3 5 5s
+= jo 2 le} | | es
+x I < jo} | | 82
+¢ l= ra) i; jsf | | ge
+= | } | =
+a 6 jul | 3%
+' Ee <x \ Bz
+>= 2 ¥ 3s
+z s | 55
+5 | | BS
+wi | a]
+a 23
+re) ; £8
+uw } | $8
+a | 3&8
+wi | 32
+= | | | | 32
+z | S83
+= |) ] || 22
+> | 53
+2 i 53
+= = S
+ri || | ie
+a 32
+< 3 $8
+o | 23
+uw } | &
+o | <3
+w i g2
+23 |
+= i | (| £2 |
+= | | | 23
+fe} nS oe Lt =e
+oC
+|
+|
+
+
+=== PAGE 12 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+
+[_II=PRESENTATION GENERALE DUBUDGET |
+
+ee ; DEPENSES D'INVESTISSEMENT
+Pour mémoire, =
+Chap. Libellé Biidgat Restes a réaliser Propositions Vote de TOTAL
+SS |=
+aig | RSA : 0,00 0,00 0,00 ‘0,00 “0,00
+20 Immobilisations incorporelles (sauf le 113 910,00 28 882,80 73 050,00 73 050,00 101 932,80
+204) (y compris opérations) (3)
+
+204 Subventions d’équipement versées (y 22 900,00 74 188,66 121 450,00 121 450,00 195 638,66
+compris opérations) (3) (8)
+
+21 Immobilisations corporeiles (y compris 3 825 165,20 386 402,72 3 027 633,00 3 027 633,00 3.414 035,72
+opérations) (3)
+
+22 Immobilisations regues en 0,00 0,00 0,00 0,00 0,00
+affectation (y compris opérations) (3)
+(4)
+
+23 immobilisations en cours (sauf 2324) 2 169 213,83 0,00 1 300 000,00 1 300 000,00 4 300 000,00
+(y compris opérations) (3)
+
+[ara apres veaupament | eaves |—_woarara | eamrano| aio senior
+10 Dotations, fonds divers et reserves 0,00 0,00 0,00 0,00 0,00
+13 Subventions d'investissement (3) 0,00 0,00 0,00 0,00 0,00
+16 Emprunts et dettes assimilées 1 020 000,00 0.00 900 000,11 900 000,11 900 000,11
+18 Cpte de liaison : affectation 0,00 0,00 0,00 0,00 0,00
+
+(BA, régie) (5)
+26 Participations et créances rattachées 0,00 0.00 0,00 0,00 0,00
+27 Autres immobilisations financiéres (3) 0,00 0,00 0,00 0,00 0,00
+
+[es spesnsiancirs | Tamoconoo] om] _moowoxt | svoworr| somo]
+45 Chapitres d'opérations pour compte
+
+—<=—
+040 | Opérations ordre a. na50000y—~C~*“‘S*;S*;*«‘ GOOWTO~*«*«S SOOO l 14 500,00
+
+sections (7)
+
+044 Operations patrimoniales (7) 27 100,00 550 000,00 550 000,00 550 000,00
+Total des dépenses d’ordre 41 600,00 564 500,00 564 500,00 564 500,00
+Le
+[tom Sid ——Toral——=<“‘*é‘té‘~*é*r:SC*«é 9 THWQO | 889.47 4,18 | oe 986693,11] 6476 107,29 |
+
+— 5 7 —_ ——
+
+Ce Tn Soins peecuTovnecaTe neronreou avers] #471]
+(1) Voir état 1-8 pour la comparaison par rapport au budget précédent.
+
+(2) Proposition formulée par le président pour l'exercice N.
+
+(3) Hors dépenses imputées au chapitre 018.
+
+(4) En dépenses, le chapitre 22 retrace les travaux diinveslissement réalisés sur les biens regus en affectation. En recette, il retrace, le cas échéant, annulation de tels travaux effectués sur un
+exercice antérieur.
+
+(5) A servir uniquement lorsque la collectivité effectue une dotation initiale en espéces au profit d'un service public non personalise quelle cree
+(6) Seul le total des opérations pour compte de tiers figure sur cet état (voir le détail en IV-B5)
+
+(7) DF 023 = RI 021 , DI 040 = RF 042 ; RI 040 = DF 042; DI 041 = RI041
+(8) Le chapitre 204 « Subventions d équipement versées » est un chapitre globalisé regroupant les comptes 204 et 2324
+
+Page 12 :
+
+
+=== PAGE 13 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+|
+| __——sW—PRESENTATIONGENERALEDUBUDGET |
+RECETTES D'INVESTISSEMENT
+Chap. Libellé budget
+précédent (1) N-1 nouvelles (2) l'assemblée (= RAR + vote)
+a a 0.00 | 000 oo0f | 0,00
+13 Subventions d'investissement (regues) (sauf 486 900,00 1229 923,81 994 827,00 994 827,00 2 224 750,81
+le 138) (3)
+16 Emprunts et dettes assimilées (4) 3411 442,03 0,00 1447 019,11 1447 019,11 1 447 019,11
+20 Immobilisations incorporelles (sauf le 204) (3) 0,00 0,00 0,00 0,00 0,00
+204 Subventions d'équipement versées (3) (13) 0,00 0,00 0,00 0,00 0,00
+21 Immobilisations corporelles (3) 0,00 0,00 0,00 0,00 0,00
+22 Immobilisations regues en affectation (3) (5) 0,00 0,00 0,00 0,00 0,00
+23 Immobilisations en cours (sauf 2324) (3) 0,00 0,00 0,00 0,00 0,00
+[aut sesreceus seauponane «|= ss | vzamear| aaron] —Padwem| serra |
+10 Dotations, fonds divers et réserves (sauf 789 814,00 0,00 601 600,00 601 600,00 601 600,00
+1068)
+1068 | Excédents de fonctionnement capitalisés (6) 1 192 399,97 0,00 92 705,08 92 705,08 92 705,08
+138 Autres subventions invest. non transf. (3) (7) 0.00 0,00 0,00 0,00 0,00
+16 Emprunts et dettes assimilées 0,00 0,00 0,00 0,00 0,00
+18 Cpte de liaison ; affectation (BA,régie) (8) 0.00 0,00 0,00 0,00 0,00
+26 Participations et créances rattachées 0,00 0,00 0,00 0,00 0,00
+27 Autres immobilisations financiéres (3) 0.00 0,00 0,00 0,00 0,00
+024 Produits des cessions d'immobilisations 0,00 0,00 0,00 0,00 0,00
+[Toatesrecots ansives ‘| tear | —__omm | eoasonno] ta nan | avin]
+45... Chapitres d'opérations pour le compte de
+ee
+021 Virement de la section de 461 033,00 443 187,00 443 187,00 443 187,00
+fonctionnement (10)
+040 Opérations ordre transf. entre 2 016 500,00 1950 000,00 1 950 000.00 1 950 000,00
+sections (10) (11)
+041 Opérations patrimoniales (10) 27 100,00 550 000,00 550 000,00 550 000,00
+[Toaraesrecoes verre dinantnoment | eaenioo|__—_—~«dst~—«n mara] —Fomrarma] Pome)
+[ tormS Sid~SCSC«i 885 189,00] + 1:229923,81 | [807933819] 6 079338,19| 7 309 262,00 | ]
+as Seca Ue —————— —
+|
+Pour information : |
+Wi s'agit, pour un budget voté en équilibre, des ressources propres correspondant 4
+fonctionnement. II sert a financer le remboursement du capital de la dette el les nouveaux LA SECTION DE FONCTIONNEMENT (12)
+investissements de la collectivité.
+(4) Voir état |-B pour ta comparaison par rapport au budget précédent
+(2) Proposition formulée par le président pour l'exercice N.
+(3) Hors recetles imputées au chapitre 018.
+(4) Sauf 165, 166 et 16449
+(5) En dépenses, le chapitre 22 retrace les travaux d'investissement realisés sur les biens recus en affectation. En recette. il retrace. le cas échéant, 'annulation de tels travaux effectués sur un
+exercice antérieur.
+(6) Le compte 1068 n'est pas un chapitre mais un article du chapitre 10.
+(7) Le compte 136 n‘est pas un chapilre mais une subdivision du chapitre 13.
+Page 13
+
+
+=== PAGE 14 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+(8) A servir uniquement lorsque la collectivité effectue une dotation iniliale en espéces au profit dun service public non personnalisé qu'elle crée.
+(9) Seul le total des opérations pour compte de tiers figure sur cet état (voir le détail en IV-B5).
+(10) DF 023 = RI 021 ; Di 040 = RF 042 ; RI 040 = DF 042 ; DI 041 = RI 041.
+(11) Les comptes 15, 29, 39, 49 et 59 peuvent figurer dans le détail du chapitre sila collectivité a opté pour le régime des provisions budgétaires, conformément aux dispositions législatives et
+réglementaires applicables.
+(12) Solde de l'opération DF 023 + DF 042 — RF 042 ou solde de l'opération RI 021 + RI 040 — DI 040.
+(13) Le chapitre 204 « Subventions d’équipement versées » est un chapitre globalisé regroupant les comptes 204 et 2324.
+Page 14
+
+
+=== PAGE 15 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025 |
+ll— PRESENTATION GENERALE DU BUDGET | ou |
+EQUILIBRE FINANCIER — SECTION DE FONCTIONNEMENT
+DEPENSES DE FONCTIONNEMENT
+Pour mémoire,
+5 3 Restes 4 réaliser Propositions Vote de TOTAL
+Chap. Libellé budget
+_. NA nouvelles (2) l'assemblée (= RAR + vote)
+précédent (1)
+011 | Charges a caractére général (3) 3731 119,00 0,00 3 299 164,00 3 299 164,00 3 299 164,00
+012 | Charges de personnel et frais 8 999 000,00 0,00 9 253 000,00 9 253 000,00 9 253 000,00
+assimilés (3)
+014 | Atténuations de produits 105 184,00 0,00 130 000,00 430 000,00 130 000,00
+016 =| APA 0,00 0,00 0,00 0,00 0,00
+017 | RSA/Régularisations de RMI 0,00 0,00 0,00 0,00 0,00
+65 Autres charges de gestion 761 680,00 0,00 830 980,00 830 980,00 830 980,00
+courante (sauf 6586) (3)
+6586 Frais fonctionnement des groupes 0,00 0,00 0,00 0,00 0,00
+d’élus
+| Total des dépenses de gestion courante 13 596 983,00 | 0 | 13 513 144,00 13 513 144,00 43 513 144,00 |
+66 Charges financiéres 194 000,00 0.00 298 000,00 298 000,00 298 000,00
+67 Charges spécifiques (3) 10 000,00 0,00 10 000,00 10 000,00 10 000,00
+68 Dotations aux provisions, 0,00 0,00 0,00 0,00
+dépréciations (semi-budgétaires) (3)
+Total des dépenses réelles de 13 800 983,00 13 821 144,00 13 821 144,00 13 821 144,00
+fonctionnement
+023 ‘| Virement ala section 461 033,00 T 443 187,00 | _ 443 187,00 | 443 187,00
+d'investissement (4)
+042 | Opérations ordre transf. entre 2.016 500,00 1.950 000,00 1.950 000,00 1.950 000,00
+sections (4) (5)
+043 Opérations ordre intérieur de la 0,00 0,00 0,00 0,00
+section (4)
+Total des dépenses d’ordre de 2.477 533,00 2393 187,00 2 393 187,00 2393 187,00
+fonctionnement
+TOTAL 16 278 516,00 [si | 214 331,00 16 214 331,00 ~ 16 214 331,00 |
+a” = ll sand ESE A ESE ae -
+-
+D002 RESULTATREPORTE OUANTICIPE| = 0,00 |
+TOTAL DES DEPENSES DE FONCTIONNEMENT CUMULEES 16 214 331,00
+(1) Voir état I-B pour la comparaison par rapport au budget précédent.
+(2) Proposition formulée par le président pour l'exercice N.
+(3) Hors dépenses imputées aux chapitres 016 et 017.
+(4) DF 023 = RI 021 ; Di 040 = RF 042 . RI 040 = DF 042 . DF 043 = RF 043.
+(5) Les comptes 68 peuvent figurer dans le detail du chapitre si la collectivité a opté pour le régime des provisions budgétaires, conformément aux dispositions législatives et réglementaires
+applicables. |
+|
+|
+|
+Page 15
+
+
+=== PAGE 16 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+Il- PRESENTATION GENERALE DU BUDGET | on
+EQUILIBRE FINANCIER — SECTION DE FONCTIONNEMENT
+RECETTES DE FONCTIONNEMENT
+Pour mémoire, .
+. . Restes a réaliser Propositions Vote de TOTAL
+Chap. Libeilé budget
+— N-1 nouvelles (2) l'assemblée (= RAR + vote)
+précédent (1)
+013 | attenuations de charges (3) 258 400,01 0,00 286 500,96 286 500,96 286 500,96
+016 APA 0,00 0,00 0,00 0,00 0,00
+017 | RSA/Régularisations de RMI 0,00 0,00 0,00 0,00 0,00
+70 Prod. services, domaine, ventes 4116 919,00 0,00 4.210 501,00 4 210501,00 1.210 501,00
+diverses
+73 Impéts et taxes (sauf le 731) 3 293 089,00 0,00 3 189 601,00 3 189 601,00 3 189 601,00
+731 | Fiscalité locale 7 498 777,00 0,00 7 571 028,00 7 571 028,00 7 571 028,00
+74 Dotations et participations (3) 1.374 343,00 0,00 1 480 589,00 1 480 589,00 1 480 589,00
+75 Autres produits de gestion 431 610,00 0,00 959 500,00 959 500,00 959 500,00
+courante (3)
+| Total des recettes de gestion courante 13 973 138,01 |__| 44 697 719,96 14 697 719,96 14 697 719,96 |
+76 Produits financiers 1510,00 0,00 20,00 20,00 20,00
+77 Produits spécifiques (3) 500,00 0,00 100,00 100,00 100,00
+78 Reprises amort., dépréciations 0,00 0,00 0,00 0,00
+prov. (semi-budgétaires) (3)
+
+Total des recettes réelles de fonctionnement 13975 148,01] 0,00 | _—_—14.697 839,96 14 697 839,96 14 697 839,96
+fi iii
+042 Opérations ordre transf. entre 14 500,00 14 500,00 14 500,00 14 500.00
+
+sections (4) (5)
+043 Opérations ordre intérieur de la 0,00 0,00 0,00 0,00
+section (4)
+Total des recettes d’ordre de 14 500,00 14 500,00 14 500,00 14 500,00
+fonctionnement
+TOTAL 1398964801] 0,00 44712 339,96 | 14712339,96| 14712 339,96
+a J
+L R 002 RESULTAT REPORTE OU ANTICIPE 1501 991,04
+TOTAL DES RECETTES DE FONCTIONNEMENT CUMULEES 16 214 331,00
+Pour information :
+Il s’agit, pour un budget voté en équilibre, des ressources propres correspondant a l'excédent
+AUTOFINANCEMENT PREVISIONNEL
+‘ . des recettes réelles de fonctionnement sur les dépenses réelles de fonctionnement. Il sert a
+DEGAGE AU PROFIT DE LA SECTION 2.378 687,00
+financer le remboursement du capital de la dette et les nouveaux investissements de la
+D'INVESTISSEMENT (6)
+collectivite.
+(4) Voir état I-B pour la comparaison par rapport au budget précédent
+{2) Proposition formulée par le président pour l'exercice N
+(3) Hors receltes imputées aux chapitres 016 et 017
+(4) DF 023 = RI 021 ; DI 040 = RF 042 ; RI 040 = DF 042 DF 043 = RF 043.
+(5) Les comptes 78 peuvent figurer dans le détail du chapitre si la collectivité a opté pour le régime des provisions budgetaires. conformément aux dispositions législatives et reglementaires
+applicables.
+(6) Solde de l'opération DF 023 + DF 042 — RF 042 ou solde de Fopération RI 021 + R1040 — Di 040.
+Page 16
+
+
+=== PAGE 17 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025 |
+[J CC BALANCE GENERALE-DEPENSES | |
+; ___DEPENSES D’INVESTISSEMENT (y compris RAR
+
+10 Dotations, fonds divers et réserves 0,00 0,00 0,00
+13 Subventions d'investissement (3) 0,00 14 500.00 14 500,00
+15 Provisions pour risques et charges (4) 0,00 0,00
+16 Emprunts et dettes assimilées (sauf 1688 non 900 000,11 0,00 900 000,11 |
+budgétaire) |
+18 Cpte de liaison : affectation (BA,régie) (7) 0,00 0,00 } |
+Total des opérations d’équipement 0,00 0,00
+20 Immobilisations incorporelles (sauf 204) (3) (5) 101 932,80 0,00 101 932,80 |
+204 Subventions d’équipement versées (3) (5) (10) 195 638,66 0,00 195 638,66 |
+2a Immobilisations corporetles (3) (5) 3.414 035,72 550 000,00 3 964 035,72 |
+22 Immobilisations regues en affectation (3) (5) (8) 0,00 0,00 0,00 |
+23 Immobilisations en cours (3) (sauf 2324) (5) 1 300 000,00 0,00 1 300 000,00
+018 | RSA 0,00 0,00 0,00
+26 Participations et créances rattachées 0,00 0,00 0,00
+27 Autres immobilisations financiéres (3) 0,00 0,00 0,00
+28 Amortissement des immobilisations (reprises) 0,00 0,00
+29 Dépréciations des immobilisations (4) 0,00 0,00
+39 Dépréciation des stocks et en-cours (4) 0,00 0,00 |
+3... | Stocks et en-cours 0,00 0,00 |
+198 | Neutralisation des amortissements 0.00 0,00 |
+45 Chapitres d'opérations pour compte de tiers (6) 0,00 0.00 0,00 |
+481 Charges a rép. sur plusieurs exercices 0,00 0.00 |
+49 Dépréciation des comptes de tiers (4) 0,00 0,00 |
+59 Dépréciation des comptes financiers (4) 0,00 0,00
+[~~ osensesctnvesissoment=Totr | _____senreorgo] sensonno| eave ora]
++
+Tora DES DEPENSES DINVESTISSEMENT CUMULEES| ___7.309262,00 |
+DEPENSES DE FONCTIONNEMENT (y compris RAR _
+[———“FoncTionnement | Operations réelles (1) _| Opérations dordre@) | ToTaL |
+o11 Charges a caractére général (9) 3.299 164,00 3 299 164,00 |
+012 Charges de personnel et frais assimilés (9) 9 253 000,00 9 253 000,00
+014 | Atténuations de produits 130 000,00 130 000,00 |
+016 | APA 0,00 0,00
+017 | RSA/ Régularisations de RMI 0,00 0,00 }
+60 Achats et variation des stocks 0,00 0,00
+65 Autres charges de gestion courante (sauf 830 980.00 0,00 830 980,00
+6586) (9) |
+6586 | Frais fonctionnement des groupes d'élus 0,00 0,00 |
+66 Charges financiéres 298 000.00 0.00 298 000,00
+67 Charges spécifiques (9) 10 000.00 0,00 10 000,00
+68 Dot. aux amortissements et provisions (9) 0,00 1 950 000.00 1 950 000,00
+71 Production stockée (ou déstockage) 0,00 0,00
+Virement a la section d‘investissement 443 187,00 443 187,00 |
++
+(1) ¥ compris les opérations relatives au rattachement et les operations d’ordre semi-budgetaires.
+(2) Voir la liste des opérations d’ordre de l'instruction budgétaire et comptable M. 57.
+Page 17
+
+
+=== PAGE 18 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+(3) Hors dépenses imputées au chapitre 018.
+(4) Ces chapitres ne sont 4 renseigner que sila collectivité applique le régime des provisions budgétaires, conformément aux dispositions Iégislatives et réglementaires applicables
+(5) Hors chapitres opérations.
+(6) Seul le total des opérations pour compte de tiers figure sur cet état (voir le détail en IV-B5).
+(7) Autiliser uniquement dans le cas ou Ia collectivité effectuerait une dotation initiale au profit d'un service public doté de la seule autonomie financiére
+(8) A utiliser uniquement dans le cas ou Ia collectivité effectuerait des dépenses sur des biens affectés.
+(9) Hors dépenses imputées aux chapitres 016 et 017.
+(10) Le chapitre 204 « Subventions d’équipement versées » est un chapitre globalisé regroupant les comptes 204 et 2324
+Page 18
+
+
+=== PAGE 19 ===
+|
+|
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+| =~ PRESENTATION GENERALE DUBUDGET |
+[CBALANCE GENERALE-RECETTES SSS |
+|
+RECETTES D’INVESTISSEMENT (y compris RAR
+10 Dotations, fonds divers et réserves (sauf 1068) 601 600,00 0,00 601 600,00 |
+13, Subventions d'investissement (recues) (3) 2 224 750,81 0,00 2 224 750,81
+15 Provisions pour risques et charges (4) 0,00 0,00 |
+16 Emprunts et dettes assimilées (sauf 1688 non 1447 019,11 0,00 1447 019,11 |
+budgétaire) |
+18 | Cpte de liaison : affectation (BA, régie) (6) 0,00 0,00
+20 Immobilisations incorporelles (sauf le 204) (3) 0,00 0.00 0,00 |
+204 | Subventions d'équipement versées (3) (9) 0,00 0,00 0,00 |
+241 Immobilisations corporelles (3) 0,00 0.00 0,00
+22 | Immobilisations regues en affectation (3) (7) 0,00 0.00 0,00
+23 Immobilisations en cours(sauf 2324) (3) 0,00 550 000,00 550 000,00
+018 | RSA 0,00 0,00 0,00
+26 | Participations et créances rattachées 0,00 0.00 0,00 |
+27 ‘| Autres immobilisations financiéres (3) 0,00 0,00 0,00 |
+28 | Amortissement des immobilisations 1 950 000,00 1.950 000,00
+29 | Dépréciations des immobilisations (4) 0.00 0,00 i
+39 Dépréciation des stocks et en-cours (4) 0,00 0,00 |
+3... | Stocks et en-cours 0,00 0,00
+45 Chapitres d'opérations pour compte de tiers (5) 0,00 0,00 0,00
+481 | Charges a rép. sur plusieurs exercices 0,00 0,00 ||
+49 | Dépréciation des comptes de tiers (4) 0,00 0,00 |
+59 Dépréciation des comptes financiers (4) 0,00 0,00 |
+021 | Virement de la section de fonctionnement 443 187,00 443 187,00 |
+024 | Produits des cessions d'immobilisations 0,00 0,00
+[~~ recotes sinveatasomenttour | ___¢araamsaa] 2a var00| 7 soon
++
++
+1068 aFFECTATION DU RESULTAT | — oo ——_ OR 1068 AFFECTATION DURESULTAT| ____—~—_92.705,08 | ge 705,08 |
+tot bis recetres DINVESTISSEMENT CUMULEES | a a a TOTAL DES RECETTES D'INVESTISSEMENT CUMULEES [| __ 7309 262,00 | "7-309 262,00 |
+RECETTES DE FONCTIONNEMENT ris RAR ; _
+o13 [attenuations de chages(8) —ss*=<~*é‘~rtS*<“<s‘séSC;*‘éSOOGG|!!!!!*!*~*~CSC*C<C*;‘~S*«t BO
+016 | APA 0,00 0,00
+017 | RSA/ Régularisations de RMI 0,00 0,00 |
+60 | Achats et variation des stocks 0,00 0,00 | |
+70 Prod. services, domaine. ventes diverses 1210 501,00 1.210 501,00 |
+71 Production stockée (ou déstockage) 0,00 0.00 |
+72. | Production immobilisée 0,00 0,00 |
+73 | Impéts et taxes (sauf 731) 3 189 601,00 3 189 601,00
+731 | Fiscalité locale 7 571 028,00 7 571 028,00 |
+74 Dotations et participations (8) 1 480 589.00 1 480 589,00
+75 | Autres produits de gestion courante (8) 959 500,00 0.00 959 500,00
+76 | Produits financiers 20.00 0.00 20,00 |
+Xe Produits spécifiques (8) 100.00 14 500.00 14 600,00 4
+78 | Reprise sur amortissements et provisions (8) 0,00 0,00 0,00 |
+79 Transferts de charges 0,00 0,00
+Page 19
+
+
+=== PAGE 20 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
++
+R 002 RESULTAT REPORTE OU ANTICIPE 1501 991,04
+
+TOTAL DES RECETTES DE FONCTIONNEMENT CUMULEES 16 214 331,00
+(1) ¥ compris les opérations relatives au rattachement et les opérations d’ordre semi-budgéiaires.
+(2) Voir la liste des opérations d'ordre de instruction budgétaire et comptable M. 57.
+(3) Hors recettes imputées au chapitre 018.
+(4) Ces chapitres ne sont a renseigner que si la collectivité applique le régime des provisions budgétaires, conformément aux dispositions légisiatives et reglementaires applicables
+(5) Seul le total des opérations pour compte de tiers figure sur cet état (voir le detail en IV-B5).
+(6) A utiliser uniquement dans le cas ou la collectivité effectuerait une dotation initiale au profit d'un service public doté de la seule autonomie financiére.
+(7) A utiliser uniquement dans le cas ou la collectivité effectuerait des depenses sur des biens affectés.
+(8) Hors recettes imputées aux chapitres 016 et 017.
+(9) Le chapitre 204 « Subventions d’équipement versées » est un chapitre globalise regroupant les comptes 204 et 2324.
+
+Page 20
+
+
+=== PAGE 21 ===
+<x z3
+dics 5|°
+Bee s[s|° 8
+ees #8 He
+= nf iia
+ele Has
+o =e a
+58: “Bl
+2s a
+g g\S 5 3
+e a
+“ak = 5 ges
+seis Ele e | :
+fale: Oo -
+Fae |g re | |
+Hil geees s 2
+pds [6 pGe° eels 2 aS
+2 g 3 S188 S eis 8
+2 ) 2s a o/s 35 . i
+Fa 2 o 3 glecs § im |
+Ww Ena . g 3 $88 | |
+) a _ < gree 8/8 a
+| 8
+ui ATE oe | | |
+all 888 S = o
+Ww 5B33 a ,
+: Wb 888 ° 8
+so - :
+no os . , :
+= 1
+fa} : i
+: , wo) oo
+! . 6 2
+5 2& =/& 8 ; |
+3° ale e6 |
+f= 3% -|3 Bu
+WW ry =| ae
+ifs g0°8°
+: TE g 3/8 Ps
+WW S “|e
+“3 ioe
+aol » ce} 5 ld |
+uu < | | :
+> 1
+Ss = |
+| i R g 588 3S
+, ; +. + Ss So w
+[ 3 Bes a = 4
+mE ge 3 ggge i
+. se °8° Ss =Is 6
+> -1S ES)
+Wii] @ % 2 a5 S218 /8 | i. :
+fale) 2 “3 3 88 = ia
+>) WwW wi 5s 0 s S 9. imi (
+| : = 8 l= sls :
+2 Sl eefee 2 x g ses il :
+oO |
+‘ flats] 838 s so = id 2
+eases a . |
+Ww . .
+Lu ba 3 8 i |
+al ga 98 ges S ° S
+i=) : |
+go :
+Blu 2 23 - :
+' 2 J J
+a |
+a i
+I
+=| |
+=| S/8 8 :
+| LL oo
+= EE
+wo Lu as
+8 a : gages
+nN Ww - i
+: : i
+& 5 . is
+o |
+Z § Se 6
+g E See 5 | -
+boy AE
+: i 3/8 8 se fon)
+! iy e\s 23
+: in 3 S88 vv
+Ww = 528 x Tih
+, : a cease < S
+: a 3 Se EPEe ~ aw
+o a N 2a aL |
+: ; ae s 3/38 Tv
+a i , |
+wn = g a) os )
+Fa Ww oN ° ae 7
+| : g ses
+= a 2 | | |
+me |
+> 3 | 7
+2 Zz ary 7 | /
+: ; Z sis 8
+| 2 ai se N als 8
+) | ~ ° 218 =]
+Ww ro) = gg SO 5 ia
+: : . 1 gS 2 ¥ ale eb
+g o E :
+re) ) = 4 pegill 7 | |
+Ww 6 < cui Li |
+) . ul 8] E/3 2 33
+wi 9° HALT
+SHEE ot aie
+7 zg & as
+: al x <3i3 oO
+i els 55 g333 3
+= Hat ar :
+= HEHE TL :
+: AGE gia? E
+: LEE
+a ik : ges fey
+: < e533: eet = 8
+| Ae ad ele
+eda gl3
+| TH gee bag 213 2g
+HE aia =
+TH 3] § - &
+= Huy al 7
+ses THEE if the
+os Wy) il it ,
+M HLEEEELEL ele |e s|£
+& a a eeeacil| iE i
+: THE as ge §|s |
+fold = PpeuHh lal
+Z Hea |
+2 © AWM
+i HEHE
+ena HEHE
+: Aglaia |
+gy E zt
+e/¢< 2 =f
+als sig
+sli
+|
+|
+
+
+=== PAGE 22 ===
+o
+4 S
+25 =|
+Ez ap
+See u/s
+ess n|3 3
+; 8
+ra sj :
+3
+B
+o
+=
+§
+c,% |8
+on 2
+a6
+g282 13
+geass |s
+523 S '
+com ec ;
+eue S :
+i ;
+Oo E
+: 3
+& :
+_ 2/0 ;
+2 wo
+Eyats
+£8 2elz
+5328 5/5
+BES ney
+S08 3 i
+Sessa H i
+£° G35 : :
+ose a ;
+oj a £ 5
+<x
+oO ° ;
+no} g :
+5
+o3 5
+32 g i
+2& 2 ;
+2s |r :
+>a i
+# :
+as z i
+5 2
+g
+2 2
+‘ 8
+a
+5 3 i
+: o
+ag i
+gs c
+r4 ©
+az
+oe
+a :
+3 5
+: 2
+“ e
+52. z
+ao & : i
+® ao ‘| :
+S282 = :
+sauce E i
+2esa8 :
+2 G 3 3 ;
+Sia 35 2 i
+32°! :
+on 3 A
+£3 2 :
+fea * 3
+g 5
+: : a]
+: | a
+| : 5h
+$ = 2
+Pd &
+= 3 s 3
+ke a2 5
+ov FE 5 j
+= i 7
+o E : 2
+@ i) e
+tJ x A E
+5
+wo :
+5
+g |g ay
+= pad
+N = = : : i
+3 ~~ E ‘ ; :
+: EOE é 27
+oa Eas ; :
+& |2e3 i iid
+' 2 :
+> LEO : : ;
+3 8
+3 § 3 7
+|e : a 8 &
+Ee i aa
+x s >
+: : 8s 3 3?
+= £
+f 3 eee g :
+: 8 gsgigse é
+wi Seeks E
+é bee StS :
+gee au So 3
+wi SRES2E5 ;
+iva oieisias :
+< g2eaceci :
+: goeeeise 5
+5 S252 ses Z
+58 Bess z
+. egeecies 3
+= 3 ny i
+zie ee eaiges
+< |? Pigsasai 3
+@ ie egeibeda :
+83 2awnm x
+: gigsiie: 2
+: gg2eises 3
+géiseses B
+w Beaseeas :
+a 223222 3
+2g2ge2e8 :
+2 eaTeiie :
+bag828e5 z
+2 = ez Fy
+: 23552823 :
+fo) SS22e8s aes
+3 pissiaiiii
+$2885 26 ca
+Sa 5 Bzag8
+g2330c0393
+Seecese
+=—— cess
+
+
+=== PAGE 23 ===
+.
+Nn
+S/S e =
+ini g a)" 2 2
+_ 3 gloss a eae
+g 2 ar ECEE
+<x =|= zh “lacs
+cae tle asd eee
+Os ae a eee i
+ez 3 “ A -
+: eee sie
+xe = RIS "i iE
+: 8 ais ssik
+s 8/5 § $|s
+= Z 8s s]k Z
+=| lglg 8 8/8 : |
+R/$ 8 8/8 ; |
+8 gon S =
+4 lo}
+2 B\° Ss SS588
+: 2 essses
+8 S| S&F a|s°*
+o S :
+3 Be88/8
+8 “ ; EE
+> = [2 8 8|8 ;
+i=} 2 |: ; d
+iv} S =
+S 3/2 2 slg : i
+=
+Z/2 8 sig 3| &
+oo 3 8 : ;
+31g 3 =
+9 clo | | , :
+8 ses | i :
+o Slon a 8 : :
+> oO yo EEE | i
+3 8 a2 ‘Bees |
+3 ei 2e sesasrys | :
+n i oO + oeelge | |
+uu a a as s/s °° | )
+g io 3 — ~
+E i} Tv sls © BEG |
+| | g| 8883s Riz ©
+Ww 3 3/3 “8 ‘/ : !
+oO 8 3 SiElEe 6 i |!
+Q N : ER
+uu ° | i | |
+2 me |
+2 8 &S§ 8 |s z
+| [5 88/5 e| |
+3): S 2
+2/2 8 BIg E
+uu | / :
+52/8] [8
+= !
+- BIS & | 3
+-l= sl 3° : :
+tu} to g)o 8 © Bees :
+ol2 it a fs eeceslg ,
+Zz Fy2 N g “Palas :
+Q}w a}o8 io :
+5|c lu] & _|> N | i ,
+a) Ole as a |
+ala) Zt - |
+| 3 oo 3 |
+=| " | ,
+=
+al? )
+wil |
+Hie |
+oyu |
+-
+7 e1o
+Pla) | free
+n Ze e as e535 |
+—|” = as: | , |
+== ot _ ot essessas
+e ec 2 or at |
+I : ei asiltae ° t on
+w £2 SS g|=°° gees ) |
+rr) > O93 Co) 2|® aa |
+s 2 es B}R ‘ti il
+N 7 a . i
+= 3 : ia
+a Qa a | me
+a = | ry
+| Zis 2 x
+, | gis 5/8
+. : a)" ie
+< tl |
+= Ww
+w 7 ;
+=
+os
+Ww +
+a oS d
+2 oD 5
+z 68 = bys
+34 £ ez 5 8 8 = 3 g
+= z= 33 TLE
+7 | ° 52 £2 £8 oe ry o s =
+P=] ase 82 8 BEE ao
+: } p98? £5 gee 23 s o = S
+7 ; 222izees SS a Z3yos uo 8 a
+e = E Liagigie 223 g5e2 2 gS
+n is) ° 29325393 = 3 2268 5 1
+wi e Hin Seek — & 3
+| Hints sis S $9
+: GpPTeELGilay safe ° oS?
+ce) Ege eputiie ey 2ies a
+Seseteege 3 : | y
+: g 2 gJo 2 ard ~
+goes a c 8 e325 : a
+HHEELUE B85 2/g/§ Soe
+w esea8223]: 23 228 5/8is = 8
+Hin He os 2 3/512 ca
+! Serre £28 alals s¢s
+2 ee aualeg! Hil iH
+se gia isla: S
+= §ee £ Bl2is a 5 LEE 7
+, af ee S | elgzl= § al
+| HEE sla 8 & ae
+| . UL EWAN
+: HA
+= 2 eet eUHuM aH
+S29 3 ei faa
+= oS a fslslelsle S15
+— EUSIEIE/8 = 2/8 |
+i £ B18 2 818
+ele 8 : 1
+—f2 28 : : |
+28 3/8 é
+en S[3]0/8 =:
+Sele }els 3
+2 sesl?
+IF[F[s § s
+ssi
+: |
+|
+
+
+=== PAGE 24 ===
+my :
+o
+2
+3 I
+ds
+ce * :
+63 | |
+5 =
+u *
+2 =
+: 2
+: 3
+8
+3
+a
+3
+2
+5
+2
+| 2
+2 i
+| 8
+2 |
+[= i :
+és
+: =
+wn |
+8 )
+= = :
+o 7 : |
+ao] : |
+8 |
+oO
+> : ,
+2
+5
+3
+g
+o : | |
+= i : |
+$ | |
+: =
+3 | :
+o
+c : | |
+2 : , |
+° : : !
+= : :
+= : 3
+3
+° : | i
+Qa ; | |
+° | |
+a | |
+i 8s
+4 8
+i 8
+3
+: 3
+E 4
+8
+: &
+g
+i 3
+s 3
+: 3
+; 2
+A 8
+: 8
+; <
+5
+: 2
+: 5
+: 5
+E 3
+: x
+: g
+€
+é s
+: 5
+i 3
+Pm | |
+a | |
+Zs | |
+es : ,
+20 2 , :
+4 !
+ge | |
+g§ i
+ES iF :
+S +
+, : :
+22 ir :
+is F
+© Ea 33 : B
+; u
+z |¢ it
+4 g
+| 1 5 Bo
+oo I :
+és 2 1
+fi I )
+| | s+
+2 28 2 i |
+< : :
+bE i |
+a Sz g Tt
+Ww 82 = a
+oO f |
+| , Oo
+i 5
+82 z 7
+w eg3e : u
+ggai : |
+. igahey 2°
+& if
+: | sada sos
+= £ eagsel E
+| ipagié 26
+1 a Bie +
+: | REtite 3 5
+> |s ppehbsl ii
+= 6 aiiile iF
+a
+, Hig e 8
+n Hine iL
+Ww iiite r
+: shit 5 5
+: ile 35
+a 2iee3 |
+(3) HEE 1
+3 ie
+a us a
+w EE i
+8 : :
+wy es
+; play a3
+=] Ho 7
+: Gl 8 §
+: ibeday Ls
+28 itl t
+°° TEEIE a
+fs) eka t
+=s 8
+efits rE
+are +
+art 33
+bal u
+sso8 :
+THEE 52
+THIET
+HEPEELE
+ifsils:
+— ee
+= ue
+— _
+Se
+
+
+=== PAGE 25 ===
+t @lello lo ole |
+22g 5 :
+< diz le aE
+° @ :
+e x ; FE
+37 IS 5 a3:
+it ie i‘
+— fall Bid 8 alg .
+Elo = 2 22 g° a4
+5 = |S * ule:
+: os
+5 gles g 2 |
+- | 3 S|s = NT £es |
+: | . 3 care) KR =RS8
+Su 3 s is =/8 ¥ + 2238 :
+e2g o S ss ” 2 5888 es
+ch g 3 esis Ss & 88 oO a 1 |
+" | [ . 3 at © oa Tt NSS |
+# g sls 2s S28 o ae 2 |
+I 5 S 88 2 SSR o2es
+) | | : | 5 tk 2 ggee |
+o 2 a) . —
+c co) a _
+> ro} 8 glee |
+2 | . | :
+Pat id |
+! 8 gI8 8 > eo
+| £o8 a AEE at
+EGR S als 2 aE
+, 5 |B $ oO Sess co)
+£2 i=} Tt 3 885 :
+fg2e2 sis . - |
+7 _ EBSR 2 sees
+Bs” 8s 8 _ | -
+oa no] cso ze 8 | _
+e 5 -
+S = .
+es o
+3 ¥ :
+| | So aoe
+a : |
+uy 25 glele [2 sls -
+23” 8) is sss |8 _
+oO © : er :
+_— . F | :
+| | : a|s 5s § Sic
+wo © : - |
+: E o S .
+: 2
+, 2 g 8|8 8
+we} | 5 | pe
+z o
+n a :
+it af 8 sle¢ 3 gags
+=5 g | -
+a) [88 g|°|s ge g|8% § cg88 :
+Fg a3 © 2 & sls = Pe) Reee : aE
+slo | :
+iff) = 8 o B/S 88s _ | —
+Fla 0 N 32 ee : . -
+Lu . ; 3
+Old RA Ss 3 2 |
+rn) a g 8 8|8 8 _
+alw 58 8 gigs : |
+gl) jess = g age & 3
+m|4 23.0 Ss. | - .
+, 7 s\e ce) sees °
+2 eases | | - |
+a ge253 ° 3 2g85 & nes
+aly fa 2S ESSE & TE
+7 | : 5 8 ~ sese
+: ese
+E =a 4 | 5
+o|Z i
+>
+>|w
+lk
+Wi
+4 :
+=/2 : fit
+2 ; un
+Ee 8 o 2 x/8 es |
+Ss n + 2 2 32 ge é |
+a Ww 2 ols g° ° :
+: > oo] ° © e |g|° |
+Fa = P e 8 alee |
+! a £ | ik : |
+| : | : rs © @
+Zz £ oO o . - -
+z o g35 ei i2 g| = > a
+& E 233 glove ggis / -
+: : i é 2 Ss sls 2° oO to e8as
+2 Ww is £ z re) 8 =| es ° = 5 cues
+Qa - 8 a . .
+Oo n od = 3 318 : : Ie . .
+a g 2° sles |
+ole a
+: 3 So
+uw | N alee 2
+< Qs S pers
+» 8 58 i HL
+z = 2 2 se 5 5 ae
+< = _| S15 a - , _
+& 2 S =|2 : , "
+= g 8 ;
+w G a HE Pg |
+< a 2 «= ae ti |
+rs) | & < c< g|3 = 7
+a | = = gals als Zz
+a cs) ° Sgi8 gle gé
+w | e 8/3 3/5 a — 32 B| i !
+z HUE gas = = § 5 3 3
+i filial s = a 3° n &
+= id Ha ee pa ® 2 Fs} S © io = ga 3
+eg s 3]o ac 6 = o = - E HE
+= THRE 2 Ss E on = 3 328
+, pea 5/2 % Eala 3 = gS2E
+re) a eR ags235 o Bese
+eH By @Ze®
+BUGLE [2 3 eé Ss
+7 TUTE £ Zee 3
+= = HELE FE: : ua
+Steg = - Hag : [
+7 cabs JB 2 =
+N ss © N TELE ghia
+8 3\s Sb & BSEs 2% woe
+3|s |S s io TPG |
+, 2 ZEEE :
+: : besdeiaed |
+a N THE
+o - 552838 |
+i. ~ 8333
+x & ek :
+8 B2E5
+zee 2 a8
+N N S22
+8 S285 |
+RON
+: |
+
+
+=== PAGE 26 ===
+. So
+re: Ww 8 le |
+_— =|8
+B23 ze &
+i; -|2 3 o i=)
+Ps? 5 3 7
+; ; nN o Ss 5 5
+= ~ 5
+So Ss = "|;
+oa 8 : : |
+c : | |
+= 7 :
+2g S | |
+oS |
+o 8 |
+ESS s § . | |
+S 9 =a yt = | |
+is : é = o iJ Yo i=}
+is : 3 e r—} ° r/o Ss S
+7 23 s |g 2 e ele e ls
+55 a 8 |s 2 ! , | |
+! i | =ls 8
+| ! | . 5)” * +
+iJ |
+° | |
+38e | |
+a 2s & & . | | |
+. | . S =
+6 ad ° , | |
+3 =/|S 8
+gg22 | | |
+Eeus : 7
+~a25 : H
+sfar : : , ,
+a0s
+a |
+3 = |=
+° Qo
+o2 3 :
+oa g 5
+2§ ae
+ca = : i
+$3 = |*
+a ° " :
+= . a :
+fo] 3 2
+°° 8 4
+8 |8 . :
+- |e 8 :
+o
+2 | | |
+Bg 2 8 . | |
+$2 7 . ) |
+25 3 |
+' : , : Ss =/S
+a2 ee 2 8 |
+| : ‘i | : 318 |8 S
+a : ) )
+2 2 3 = | | |
+- oa ry : : :
+. | |
+a3 | a
+2 Ss |
+: 3 8 =
+5 <|S
+gessg | | |
+7 2 2/2 2. /s
+- 3 S =}
+a 3 : : | |
+oo 2 ,
+r g]> = IF
+3 =
+: 2
+7 2 3
+z 3 g
+: ze 8 |
+; | a
+= : |
+5 oS
+Nn | | | |
+i |
+| : o|o
+' £ g |
+a |e 2 :
+ow = 5
+& |ESs a i |
+=
+> ees B 5 | |
+. 3 ° : |
+< 545 aie : |
+f je & : i | :
+Ww a | 7 :
+a ‘| i , 7
+rf : | |
+o
+: 2
+a F | 3 | |
+: | 8 ols
+ir Fy Ss . : i i
+e |
+< 2 2 5 : | |
+i . 5 & ° $s taal Be) s {gs
+. = [= o § E } | |
+> a o & 3 3 | | |
+z ; 3 2. 3 . | ;
+: 5 3 8 oO =< o _ _
+Ee & $ 2 £ 5 3s HE |
+yi €
+: : : : : 2 a|o 3 2 c
+a Ws E 2/2 ae 5 _|5|5 tle: 7
+» £8 3si3 3 2|8lz ry = 8 o o
+oO Eg Esls © i] B2)s/2 > no o cs) =
+Ariel E | slzle £ oe wif c o o @
+: ada ale 5/8|2 EIS act i 2 3s a] s
+7 ail 8 al 8 2/2 )5 3 iSs3 Q|s 2 ¢ S o < =
+w Evel gies eas a UG She 3 2 Pa 2 Cy ry
+a § SIE 8 ols 2 oO Poy - # oO 4 o Qa
+ae z|5 3 Blais 5 oT = 3 o S w S &
+3 PETER ® |= 3 a z 8
+= <8 g 2|2|8 3/4 2 3 £)a\2 c a 8 o|3|5 5 ts
+: 7 252 2922/2 3\s fe} a sis = g
+F) i} 5 3|8 523/35 al2slé A
+: , : 22 3|2|% ao als c/o io) = .
+Bia 21a Ze gelce ‘i if
+: rs} 2 3 3 2} 24 2/2/25 agleleslele i a
+ane ry RSIElaS So az g5/=|§ 3| 2 : :
+a 5 <|5= oe 2s) a)/s @ S |S oO
+x a i] Salse BE gelelSalslecis :
+1 | TOEHLBHEL eg
+, , SlERIEL als eles 54
+° gales AE rE
+° -5 a a/Ssles 3
+ad @ oss sleale:
+- oO = cs se AS eee +
+aa . glealee|s&
+| : 3/2 s|s 8
+| ; s sjz§
+— : 3 |
+——— : —
+—_ — = 7
+= : ,
+— =
+— :
+= ;
+E. | D
+= -
+= 2
+
+
+=== PAGE 27 ===
+. S19
+S S
+dt. = S| 813
+2¢ + = £|8
+gig 3] |e 8|8
+a = °
+= wolwo
+| |
+= @
+eo 8/§
+foo el slg
+4 s|ssle
+: a 8 Sic
+bss 8 Sic
+iy S| 8/5
+Oo = § 8/8
+aa .
+eo :
+5
+3 22
+aes
+Boag
+Eaos
+Suve
+e#2¢e
+eBes
+sE5°
+60
+ere :
+3
+z
+ov
+> oI19 3
+S S
+a s|§ $|8
+ao s/s ;
+6% ~ 8 8/3
+33 . B18
+& ° ;
+&
+a
+<
+Ps
+2
+=
+S38 BRIE
+58 s|losl|e 3
+58 s silo 5
+og =
+> 8 3
+38 z oO} 3
+a3 B Vom a -3 3
+8 o_o 8
+4
+3
+z
+é
+5
+. 5
+aD Ss i
+oo% go
+Saoget
+eases
+2638
+id
+nae A
+| 6
+| “
+| 2
+| ob
+v |
+z : |
+: s
+4 = 7
+@ : '
+& ¢s
+3 2g
+a 2 3
+< E g
+g 5
+a |e [
+Vf & ae /
+x § 7
+a |fsz 8/8 818 i bl
+ec s° ;
+ig 3/8 S cf 3 =
+623 5 : i
+> = “
+z 523 ° J
+2o * *
+N : /
+ais}
+aed 5 . |
+& ye © .
+w f
+a A
+3 le
+: _£ =@
+g geese
+3 ses
+~ iyidi
+w P 1 if
+Zz 2 Py Sieur s
+ell a 422923
+= ile Sis 2g2S33i2
+. : i i
+> Is PE sigesiee:
+eS it ails 8 2eS25 5583
+<= a oe | Lie ibpaaidyl
+Ee It eyo 3/3 a2gekeaes
+a s ae, = Pe seieegee8
+; Sila 2 aeeeee258
+@ |s Elelé els pleadiiqé
+a |s alls|e ele Se eeEESES
+=z jo Ssies Har
+oC £ s|§ $13 SEC ESTIT
+SUS|e ELS 22238 :
+= g a 22 238582
+ww sis = EB o He
+a ellie s|s Te eeeers
+: 3 Sae5saeee
+$ eecgsegEs
+= _ 5 LET
+5 ~/= 8/3 FrPeerate
+oO Sle is 2353225 e:
+HWS |S fs a2 P5353 8
+2 gsisseges
+g22520203
+yt dt SEHesectss
+
+
+=== PAGE 28 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+Ill - VOTE DU BUDGET
+SECTION D’'INVESTISSEMENT — VUE D'ENSEMBLE DES OPERATIONS D’EQUIPEMENT | _A2.1_—i|
+Vue d’ensemble des chapitres des opérations d’équipement
+N° Libellé de l'opération Pour mémoire Propositions Vote de Pour Pour
+Opération réalisations nouvelles l'assemblée information information
+cumulées au Crédits gérés Crédits gérés
+01/01/N dans le cadre hors AP
+d’une AP
+oY) DD)
+(1) Colonne a renseigner uniquement lorsque l'opération d’équipement est afférente a une AP.
+Page 28
+
+
+=== PAGE 29 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025 |
+- lll- VOTE DU BUDGET | em |
+SECTION D’INVESTISSEMENT — DETAIL DES OPERATIONS D’EQUIPEMENT
+Cet état ne contient pas d'information.
+Page 29
+
+
+=== PAGE 30 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+lil - VOTE DU BUDGET j [om
+SECTION D'INVESTISSEMENT — DETAIL DES OPERATIONS D’EQUIPEMENT [Aas
+Cet état ne contient pas d'information.
+Page 30
+
+
+=== PAGE 31 ===
+_ af2]s|
+= g :
+=/2 : : i:
+<= a> 8 [e883
+at a SEER
+E =< SPEEELE
+f: aE sleegoealele
+Ez i Jeeg2 bale);
+“e = deagas lle |
+323 25/5
+= | :
+= rls |
+8/s|§ 8
+| Shee:
+= 3 |
+2 |5/8/8 5/8 )5 ©
+A Fe glee | i
+3 & cesses | i
+0 eo} elecgg eels | i
+= 2 a1? sans = | i
+@ -|° a be PEER AE | [|
+2 &) 1S }= EEE ° 2/2|3
+oe Ele
+a gee ols|s I
+| =
+> |
+g|siss
+B/S/5
+212 ©
+| 3/8/38 ~
+no 3 =
+| j Ss a
+58 3 PleSse | i
+35 en
+a 2 © Blecgaes | i
+$2 8 od Nd Sag ciate | |
+az aS 83 Blalz | |
+BS | | |
+o2 ry Sie 828 5|5|5 I
+Ww a 322 5/5
+wl ee Flsls | |
+oO N 3|5 il |
+= aE
+| glele
+| slele =
+a : |
+3|3 7
+4 % |
+@| is eels S | li
+oa nN ls 2 |
+z o LE | i
+_ 2 aleseuae | |
+= a N g\EESSE° | i
+< < _|% SJERSeS° | i
+_|i 4 = algsegea I
+N (<r oe |
+a .
+Wu . :
+Ole iL
+ral fe |
+oy
+et : |
+0) i ee : |
+=) re 38 g glee | |
+oY Eo 3 clone |
+a Es a 3 nee |
+Lu 28 $ sleaze s|s |
+3 : 5 e3/sis
+= sf N 3/§ 53 EE |
+Poy . E
+: [ gee z 8
+Q\it a2 i 7
+Sie ile
+We 5 i id
+|W | it
+=/3 tT
+ct) Ir
+, B/2/8 8
+a Ww | | ! |
+4 S
+: : ela|s 3
+' = H
+a 5 8 2 aisle :
+: | €|$|5 -
+: = | |
+Zz e :
+5 2 )
+a m :
+a | :
+. i
+S| | :
+o | = 2|@ Tek :
+2 | li _ She
+a | 5 Els Pils i; :
+wu | ~ a Ta Wee siecle ili | 7
+z | : < ole 25 3/= sls Fp .
+a | = E E|s 285 gle al al; :
+, ‘ Ha. t: o| all? lle a oO
++ oO e 5 ce a 22 qe FE
+> iaeseai : i : |
+z ebeeeai et alles @ als & =
+< HEEESEL all Se|slg 3 alZle 7, sS
+, |: E 551g 3 | =|] 2 5 = e\= |e p
+ik i a {| © el=z ls o 3 =
+} atat HERBE g 5 (3 [gif c = ai
+: are ena eal o £2 |2|5 & o z|co
+lean gals 8H all § 2 5 Se so) s|<
+| ; eHEECHEHEE o 8} Sjo|/2 ® &
+oO Sle cEas glsley eslels ¢ (slel3|é 2 2
+a = SLL: 2 8) /2\e/2/2 i
+| TAAeE alli all 2 J e/g /ElEVEle i= e/g
+: ER EERIFTT go Tafel Els
+[EEE a El S|] =| ls] alee : iE
+wi Ol 2 2328 TELL ele |2 [El Elz g
+iF FE glel2 al! S 8 3
+: EHH lel e lelSIELE =) g}e
+, EE ele lelsls 8 Sz
+| 1 TEL 3) 5 |2 g|s\2 ES =
+ALLE EEE EE ABBE a @
+: FLEUR AEE 2 & | 2
+5 AER Teen: : i
+| | ee HREM (s S/s
+The “I HABEEEEE sf]8
+. ; FALBLAELBEA |
+- a letelelsleli 38 |
+. | : alslsl2 ae
+TT HIE 5|£|2|3|8
+I | asa |
+Blots 2 Ant
+RS : | |
+3|6 £|2 |
+II 2 alS |S
+| lefe88 888 fe l8< [alta ef eles S8 |. |
+Ik . 8 5 ke) |
+3/0/88 i
+2/8 5/8
+: o
+2 2 {F 3
+es 3 :
+2] 2|5|8]2
+Bete 3
+S| ~
+BEEIE
+Sis
+Ss
+
+
+=== PAGE 32 ===
+g geg
+= ss8sss
+47 8sss
+at = sssss
+Per + ssssss
+a; s S
+ez L Seaeee
+g S ssssses
+& 5 ssssss
+7 ssssss
+Ss
+ssss
+$ SS syjsis
+4 Ss 3/8 8
+3 ss gis 33s
+E ssss cs) eele
+o 8§sss S sls
+2 sssss rs) 12:
+5 Ss 6 =
+S ssssss Sle
+= = ssssss roa
+rs ~ eeess a
+a] S ssssess N
+2 Pq 88ses
+S 8 Ssses
+> a ssss
+sd sssss
+888s
+8888/8
+s/s/s§ ss
+8 £18 88/8
+2s Ss
+Q ss Ss Sit
+53 ssses 3 s|5
+2 sssess irs) oO
+25 Sos 2° 6 |<
+ra sseece B/g
+a3 esses 3
+sess N
+i Ss sssss
+8 8sss
+3 sssess
+> ssssss
+88ssis
+88/88
+i) 2
+ele S
+> So
+slo osls
+s|xN
+S Sis
+8 S|s A
+8 3
+BIg 3
+eles 2
+Pe &
+N o
+a
+8
+g
+2
+2
+a
+>
+Ss 2
+ea ss 3
+ee Pa
+38 sssss g
+£3 sssess Ss
+ES Seeeess 2
+£2 ssesees g
+S oo bad gesss =
+2 2 cEgESEEEEES 2
+33 Sg sseseee 5
+6 @ pieneueS°as s
+ag cEeEees EE": 2
+3 a se > gss3s 2
+2a Ss secesss 3
+se Ss gssss ¢ %
+oe esses : 3
+~ 6 sessile 5 8
+cEeEeElE/ES ; i
+838 eslelea® g E
+cEeE (Ee */s 2 £
+r Sa gs >. Fa
+Paes) oo a s'
+Sats Syed c
+g s 8 Z 8
+x = s
+g 8 e 8 me
+N Be = 8 a
+a gs 6S a
+a 2 3 ¥
+: = g os
+z 2 a
+z j 3 3
+& g 5 &
+n & § ie |
+uw § 3 ge 8
+4 = 8 g 22 8
+$ |g 3 3 é ae
+2 2
+Ww c & oss 3 AES 3
+a ~ i) ess : aa: 2
+w |e = se3§ 2 goa: 2
+x 2s 9 sas va 4s E 23 e
+is ° 3 ggs8 gs gs & a5 8
+= 3 Bese 3 § z= 2 § 3 3 3 3
+g 5 3 = 3S 2
+2 8 sefik - 2's $s 8° 33 5 Be 3
+a £€ _beege S28 er 2 BE 25 “ 5 3 5
+= Po geehbe anhhie rt & 2 3 82 3
+iS 3 alll 33 £S 2 a8 ¢
+a ceettltl s $6 8 2: 8
+S fib 5S 2¢ 2a 8
+rf Pah gg F picid A
+oe 85 s S22y & B25 52 2 =
+w HUI AHAI Ia 8 atttEE
+= Ess88 & FEEL 3 pkdseG
+= se ge e2geé qTRE gpl igs:
+& sc gg sei 3 s Ss § a e2@ a
+5 ET a3 aeeeay
+ge = a feces
+2 egijiies ales = 3 cke5as
+fe) we HEHE #3 sielgal
+_ iL HEAD <8 Seeiiet
+gegege ALE a6 Tetae g
+Se on are Es seberil
+: i. ae tel
+gsgeeee 38 32 Sls eo paceeel
+SS = < Ele gels es aoe bSs
+Se sle|8 § 8|8 53 tLe
+ad Be 83 8le = 3 caieiae
+Ss of ES § 3 ASE a5 g
+N oS <= s 222
+eeeeer: <13 23 333 223
+N EEE ~ 12 oS a aqieede
+SELELLLL i 7 Hat
+eeeesae: ® 232 Seseq
+S 2 3 5233 ce
+N ee g 3 2 eis
+ee2eies 2 Hala
+&8sls Hin
+= il
+ISAs TOU
+HAGE
+TELESIS
+jiboiiss
+BoE See
+zeae
+
+
+=== PAGE 33 ===
+|
+| +
+| [22
+| if
+| g22 [als
+| 5a 8 c|aee
+| ous eee 2°
+| x Jape aoa
+Tz\82 “ae
+| ajee & i
+| aS a: ie
+i |
+| | -
+ce. ia
+- i 2/8 5 ~ °
+| i :
+| se28 8/8 8 z|8 = ABE
+| Ale eyes 8 Bia © elie
+il Eas 2|S 8 ses . a EE
+53% B)= 5 888s iia
+TF ap soos siile 8 * S
+: =|2 a 8 o ro) ace
+o a|R & & .- - |
+i ‘AE 2 8 (le B/S 5 oO
+f=) 8 3 : | |
+e i) $|8 38 | 2
+w | Ena i :
+gge |
+| a 2/3 2 eis nN 3
+Ab a eo 8/8]8 +
+| ait =f eels § N
+| Te 88 Ss 8 8 8
+; | | g|s/2 5 ~ o
+AB ses ial 5 «18 =
+x gs coo iia :
+Ww oR rr ) :
+ad 8 : | |
+|
+$3 als |
+i=
+| 2& al E
+| | [ Ss o
+: 1 _|8\2 = a S ° —f
+[eR sss €
+: i t]2 2 egsé @ o
+~ = 2|28 3 “ae
+red a|ee = : ‘f !
+\ o az i)
+| | | [ 2 5
+iff a 8 els 33 : i
+| 5 % g/g 3° : |
+= i 2/8 = sjsis 3B 2
+4} gs ges 8 | ‘ik |
+| as — 2 8/55 nN
+wi o 2 ai i‘ |
+| | | s/= |= a) So wn
+fi iE T)2 2 egee sie 8 ° ° Ss 3
+HT Fe} rm) 2/28 3 ee sg ie , |
+| - |
+, | Z s =} Ss = o
+i ile g ge ¢ 8 5 Ee
+lol] 2 a © 2 sje 8 7 )
+Q | € 58 3 Sle 2s | |
+gil sisal ) a
+] : : )
+CEE x S ales [3 ? |
+5 ee S L i
+Ww eases S 3 | i
+alz| ge2e 3 is
+| HW S: 3 S}= = a)
+wile | 2232 eae ‘ina 3
+e S 3 3 IF |
+WW -
+o|2 :
+>| Ww
+ao
+|—|2 |
+& §88
+N .
+| eee
+S| fi i
+a =
+ina) = bs: |
+- ii Sse :
+2 Z| 535 sles
+< z 23 se |
+iH gies es ag
+ia QO} 523 ge 2°°3 |
+lo 2 o a -_
+2 o 5 Reg = —
+z 8 a
+oO 4 aia ” iE
+3 4 3 ia
+, | 5/5 5° :
+x
+S Bie = HAE
+< 5
+= ) it
+| | glgls = =
+| | g/g|2 § *
+> a © i | |
+Ey o| = a3 ies |
+be | Fs o£ - |
+an j a : : | |
+] 7 = a Q N ad
+2S | - 2 2 x g j |
+\ ee 3 7 |
+1 A: ou 2 a < es “
+) Al : 8 268 a 8
+| Z/e 8 a 2 gee v ge
+i 5 8 E 1 :
+Ww 518 bse 5 985 E i
+| Bo: £338 < So
+| a 2 S886 att
+: is g £ ° 2 o&
+= | gage g 3s 5\, a3
+j 228% a Ha
+tH S235 e/g 222 MJ &
+: | iy Bees ae 1» £
+g | |Z Bg Boe8 ey 1
+= - ,
+| aca lbs slp Lage 3 - 2 5
+SLE s( 3/8 2
+AIL slalise 3
+a : 7 ui
+= & TE USHTRE :
+Ss 5 PE TEELBE
+- HE £
+=25 Py HEE
+- : g335 23s< i}
+Be ao] Cay |
+2 8 Ez FH
+| Hileeas) % |
+els ET
+So 3/3 223 24]3
+5 3 lz a
+- HE § sls
+Oo 3|3
+ele
+2|8
+8 §$ 3
+= 3
+2 £
+= o
+hs
+|
+
+
+=== PAGE 34 ===
+=
+s
+2
+2
+5
+>
+3 3
+2 2
+a 3
+= 38
+s 4
+z 2
+5 8
+.
+8
+£
+as
+2 3
+3 8
+= Do
+= 2
+5 o
+s 3
+2
+@ 3
+a |
+3 3
+& 2
+ras
+g 8
+€ 2
+— é -4
+- 3
+5 3
+s &
+2 2
+2 3
+Ss &
+Fy
+; 3
+zB
+a 2¢
+zg 38
+: s
+o —3
+a Bs
+2 88
+g 68
+2 $3
+2 £
+as
+= 466s
+:
+oO 3 3
+28
+a 53
+o ge
+e gf
+: st
+| nm
+gE
+2 23
+a 8 &8 |
+| Ay
+o es
+N 3 -
+1 8 i
+oa 3 if
+A 3 ae
+5 i:
+> a +
+5 2s
+z 2 +
+: 2 28
+© 2 2
+n ae
+a a
+2 a
+< fal
+oJ 2§
+3 ; 3g
+a 3 iF
+Ww : 7:
+a
+a .ieas
+Ss 53
+4 ibe
+Ed egies
+= baad
+i tiaai
+= Bibad
+Zz Ha
+z 3e383
+|
+: 2qnti
+3 B23
+Ww Tr
+22438
+w gee8s
+& 3 3
+g ae 358
+g gei2s
+Beees
+é 2223s
+a beagi
+Ww baad
+B23 e8
+: ages
+= ate
+g525e
+5 baal
+z ere:
+8 these
+eere
+ze
+
+
+=== PAGE 35 ===
+] = eiooooeae asl
+o
+|_| : er
+— —
+=} 0] ae alsle “ped asle
+S583 :
+| BA Ae|8 ees gsleles =
+j rz RIC Sc fg sle|ee° :
+| 35 ope s\giase gis 8s
+| = S258 ‘| * ia
+| z=|* ft: ; :
+| - wo 3 ae ls
+& SbF 3/8 sle : ;
+& as | :
+: |e |= al |e
+o = z :
+3 8 | | |
+| |e {3/8828 I
+E algo oeeea |
+@ |ale se sasleles
+# {2/3 =2eaalelese
+s =/5/% 5 ee se”
+o OQgr g/z/8 8 ° als °
+= S8h8 . - iat
+Ts Sd ” 28 ; iP
+2 A265 3918 als '
+g eee Fe Hi
+, els s eS 3 |
+| | ; }
+| | | : |
+| | | | |
+. nia S88
+a)1o 8
+52 aegeeees :
+| 28 318 eeeseae
+25 e388
+oo 3 eegealelne°
+ge qs ° gg elelee° :
+az + ege signage ass
+i eg 8 x = ALO o J
+e2 |~ BESS ~ als °
+| a a 25 28/8 eels !
+ea he 5 : i
+= a)" : :
+o = é :
+= . : ;
+x an
+o | :
+| w Seges | !
+; BSees3e :
+| Soca
+ees oo
+= oo ,
+oo |
+| | | :
+no |
+ra | :
+&
+iu | |
+-|2
+wn |
+mje) B
+=
+\ 3 : |
+gis| Els IEPEEEE |
+S| L Fle cile° "eee 3: |
+j=|5 | ule ss = Ee 3 elale :
+mle O| § B5/8|8 sec aiiee- ,
+2] 8 93/S/8 EEE a |
+iy | a sloys 2 es 7 |
+i ' 28 2}gle s sisis | 3
+>=) £2 3/2 # EEE EEL |
+B | : 3 ER ES SE © s|gis 2 |S 2
+: & = od eae o 2° a
+} a "ie |
+ole | LI
+2 |
+S15 | |
+’ al
+=/2 | |
+cy eg 8
+- es
+| bi op
+rey a i |
+x 6 |
+a iS i
+| 328
+| 3 $288
+| , Sete
+3 shes
+| ; . efee
+. 536
+wn {
+lu wo Hl
+: | 3 goa
+o i
+3 | pit:
+| 7 i
+3 | | ; 2 a¢
+a | z 2 i : i
+wu | - 3 —| £ = Hi
+z 2 2 4 : : i
+< 2 o ae e¢ i
+= | _ 8 zie : 2s it
+; | a 28 =| 3 3 3 Ht
+> x eg ~ 3l> a Ss HI
+| n > a 3lé& a: i
+F | ® 255 YVolg g Be a
+< | 2 vee asl? s Bs HI
+a & 2eo 5318 2 o & a
+: 28lg = & Lk serge
+Fe | ® ges s Sle as e 5 mH
+< | 3 gee 3318 e¢ 23 Ait
+e) | 2 ab Gsei si Z it
+: peg eadegg|: 5 3 2 seeds
+a | | = eiaeheaali as Hi
+oUt dd ma a psiails
+S | Hh HEH
+= | = 4 2 25 aisle alg AF i i
+| | < 2229/8123: [8 : iy
+5 a22235 22e8i¢ 8 3 dy
+| ATT Le $22 288
+e | ES Paes geal EeEETS
+, lez sais oli 2bEietd
+is) 2 © g BREESE Hit
+oo & 3 s| sl §]38 HTL
+Oo Ss ; . : : :
+S Sic bag = oO o Hii
+ee os 2} & 4 qe
+I i : Beehess
+“i ii : siigait
+ei< ke S| lg 3 int
+aL i — o §
+AR aeeday
+geifezs
+sreiage
+see ia
+siciiéi
+oe eee! ee 2532535
+Zeee
+ee
+|
+|
+|
+|
+|
+
+
+=== PAGE 36 ===
++ sje
+25 Bees
+z22 elses 3
+_| [bes sEsbeS 285258
+sl |r s7 Jae SSERESS EEE?
+a JRREEEREEERIEEY:
+Elo B2g8% erretriee
+o}> 8 ¥z5 seseeeeeee
+= am fo) PERE EEE
+8 LEE
+roy oo ceeeegaae
+, sefFLEgeeee”s oo
+a] ale oe gin gsscs 8888
+a g/sig ses anes 23 2889
+32 o¢ PE EEEEE eee Gee:
+rm a S oo =
+eb&fs SEEEEE EEE: Ssefe
+S38 \leeeeeGeah ease “A
+e2* aH EEL Ee “
+6 olo oee st cesgeneed
+2 + 6b oa ire) : S
+= ceGHcEEEEPICUGE
+a gsxr rrerreee
+a © esseess Ss
+go nv Ss g888e8
+skEegasues”s oo:
+ee EEgSSR ES" S 8888
+62s eee Sr 2 8 Nar 8 esses
+oY ;
+52 38¢ g3g2ges oe 8 RSs 3
+ees g8sssses 4 38 =
+Exe? see¢ ° S82:
+5328 gege8888 as
+4 2 oo
+ge 5 8Sss8ess
+os g888sese8
+gsssgees
+888888 =
+oo 2
+o2 Sisis ee Eee
+e3 2 | 2 ad
+$a ed a eee
+@ & elglggeeeee
+w £96 = 3\ssssees °
+3 =|= f=9 3 g8sssé
+a 33 z]/2/e ceegeeeeee
+3 8 vHEE EE EEE LE
+= = 5 SS 8
+E 2} TOL
+Oo wo 1D: Iga oN Sees 2°
+a t £ E So 2 oO So
+o o = 3 So 2 Oo =}
+Z| lo sgeEEGGERGETE 88
+“| [33 AB Eiggekss°s eee e
+6 8 ABREEE - oO no S sseg
+a 53 flgleesgeae . ? Peas
+=| | 33 s/c es5985 85 e S825
+= 26 t/2le ceegeeeeae sant
+ee? N 238 egeeeieade “
+= a RIR|R 2 28 geeseeaeee
+g i 2 oS g8esegs
+_ 2 = Qe S 0 o °
+a © eesssgs 8
+PA 7 gar aS 8 88e8es
+58 = ite) sggeecs 8B
+ol? 20 & Piggenes’s Bgse
+Ww see wie ~ = ar 8 3339
+fa) 3 @ ° % RER
+aa 38 * x Rg
+5|z cee es + ae |
+2eesgs 7 95 ©
+ala| |> Zas Fees
+pa cu? oS “N
+ga °S “
+DW 2a 3
+a\e Sg 3
+wi)
+E\S
+z
+Ojw 8ss
+Sis 3ssess “
+Saad o )
+i ssssgs
+| gssssses ot
+lz ssssees Ey
+—|2 ssssges S
+= coo o So
+oo 3 ° eH
+fo) sssseees
+2 g8sesees
+o 5 gsssseee
+9 88888 2
+3 2 ° oss ges
+‘ S| V2 e s|s{s s 8555
+in oO} ESE lziggee 8 “°
+ca ul lees slslgeeeeeees
+; |e 23 PRReEEELE EGG
+Zz 2 iS a|Ses a 3 88888
+Zz z| |é 2 REEL
+5 a @ is se23e"% geeecgeeee
+@ 2 3° cUEGEEUEEEELES
+ri 5 TEELELT LLL
+nN ° sss3s 58 8
+a i SESEE SEES 8se8
+CB) ) ~ 3 ~ nee esse
+é S ow 6 segoe
+ro) 6 3 S 3
+a o & 8 BSBN
+—~| oO S
+Ww S12 osm §
+« ais N
+ry e123 g
+3 2 ae e ¢ - =
+2 a 5/2 @ 5 s 3
+3 5| 8 gos = 3 2
+ne 8 2 o = 3 i) zi
+> le § 8 = 3 g 2
+z g|5 2 2 _ 3 2 So = 2 € 2
+é 4|3/s 2 3 zeg5 8 23s Es 8 2
+a z|f/g 258 g232 e2s 3 8 8 §
+Bes 22 3s 2 = a S
+wu elsjfe ee Bi seises — 3 a OE 3
+2 o}S/58 $a 2 HtLE 2» 8 os g 2
+< iL UP cS 8 8 3
+w ® HLL ae be SEE
+2) 2 S so] G S &
+w AUTRE 3 § 48
+wi HEATHER 3 = 235
+Zz z AEE 2% $38
+5 5 ni} Hints S se 5 332
+2 5 HU 268 eo
+= Zag EEZEGE E a 2 Sr oS so 8
+So ry =
+= ac 2 2224 oe 2 & 8 $3
+= im 5 gE Ss 265 oe e
+2 6 L EGER BERS a e835
+8 s PE ESESELEE occ eggs 3
+— FLU _Liaesiees EEL E86
+-lg9eesea Le
+sIfaeees 28882 spS35 5
+S © a A 2352533
+| [sigb 2282 FPEPEElEG Gs
+LE | SeTPELETE SEEELEE SS
+28882822 E2EEGSs
+pees e ui =
+Beseeec
+33338 =
+oS 3 - 8 2
+o S S32 8 De
+SSESE = NN =
+7 3 iscmnse) N
+_ o a+ 38 8 a
+ee SSEEE a 5 8
+ee oo 6 8 8 8
+a o ad
+— SS 5
+ee ©
+
+
+=== PAGE 37 ===
+°
+ac 888ss8s
+aig wegeegrae
+E=3 -lggs3ssee8 3
+52s so 5855252558585
+e = o S S See °
+nu]? a errr
+e =  PEGLEGEREEGEESS
+S52 o reer
+KR oo errr
+3 se > ssesssgee S
+oC oo essssse = °
+Oo a x e338° q 3 2
+eas oo 8 > 8 8
+o oO = iro} o i=} ~ 82s
+eZ 2ee8 Ss 23 © |3 3 Peieig 2
+oe 58 8s8 2 ° Ss efeeee
+sea¢ Se eEGRES = 12 5 sega5e
+oot sessses ° to ° Co) a & © |
+o£ wo eeseescee N oO N ee $5
+eb&gse iB Bes Seaies 2 SN fe a9 9 |
+# o S&8 os 2 =} 0. s
+S ro) N 6S 888888 oe as & |
+ese nw zfeseaeesee & ee |
+eof © too geeeesaaees ge) te
+£6 (EREEERGESEE ES ESS +
+885 gesegeeeas |
+S65°8s geesssse oS S
+eee ssssec baa
+oO = 3 S = =
+e = =aN388 8 |g 6 8@e
+e Be ee8 ae8 = Ss Ss SF eEaR
+62s »88S88 gw S S BSTeRR
+—sesulecce ° = a K seaqge
+seo 888888888 = 18 | BSS288
+5 OS N oe = ra
+PER22 sssssssss ey ARSE oo
+és iS s8sssess asae
+gestae Sees f=) 2 i,
+ee5° sssssses =
+64 ssseess +
+3 ssesgs S
+coos 3
+oS
+o ee
+as 888sss
+32 Se ie ae °
+oF cgegeeeeea
+26 ire} sessee 2
+of |easeseeeesaess
+> wo co) oes Gaecee 2
+uy eegesssese
+id © tor PPrerrrrise
+Eas {5c e seesssesees
+SN oo ceeseseeeee
+Syme Bsr Saoeea °
+oS © ess3gee °
+ggoe sssses° 3
+oO = nN S88s8s S 2S ees
+a = B2a 8 @ 8 {s 5 SSx
+Se see 238 © le s eee 8
+oo »88s88 = A 3S S ceases
+s2 essesss x 18 & eaana
+3 peSeeaeEs re 2 Sagege¢
+6 2 PPrrrrrrere nN o seer as
+85 SgESSEEEEEE EES o aR eR GS
+8 8 ® PeEREESEESEREE fear
+a= o sto gueeesssess 2 ah
+arr? PPerrrierre
+N oo Prrrerrire +
+Ba&5° ssesssss g
+© oo essssse s |S
+ce ease e5ees” a be oo
+5 9 BENS 8 a 5 So 2 S@er
+23 5 a8s 8 18 {8s Seek
+o oD 2 a x S R cea eS
+3 a ay ix g ee S
+cae 3s = 2 o Sgeege
+22558 a |* Feecee
+2 oe 2 Bake
+Su 2S 5S 8e
+ga °S oN 8
+ao 2 3 al
+=o *
+i=}
+°
+88s88s8
+88338888 o
+esssses en
+ssssess
+sssessss vo
+esssess ‘ op
+esesses ss
+essssess [am
+sonia °
+esses
+Seas o
+oo °°
+- i=} o S
+19 e: es ° ¢ 88ss
+gis. geese S BEESee
+N EGE 8S8ess Seeecs
+1 ESs peeseese oo
+os 2 2 csegeeeees °
+o ess + cgeeigesees
+a ce 8 3 2 s2esegesess
+. 3 ° ao ceegesssese
+ss A 8 SEEESEOSGSEE REESE
+bd a a = Bes PPP rrrrre
+= = 288 Perrier
+ped SSESSEESEES° 5 g ls
+n Rac sss Ss 2, PS °
+hog fo) S ° = fo) S
+wi S 2 =) > SRB
+a o ass S So sk RSs
+S g 88 8 8 eh eg
+cS) gz 2 gSeegere
+e ror 358 eo
+a = fo 8S B82
+ray © oO — r.
+nN nN
+wi 2 x 0 avs
+— ~ > -
+z iz o a & 2 +
+e i= © 2= a
+= 1/2 2 38 2 2
+3 & 55 E a Pa
+> | c 8 8 2 ‘5 2ea oy 2
+= ze, 3 2 Fs 38552 g ¢§
+og 2 & 2 2 = 3
+= Se 2s - 2 £ 28885 3 2g &
+— §25 6 gs = asitsss? 5 o o 2 mn
+n a2 2 28 = ePEStE25 > 3 Fa £ it
+wi ge22s £&E a =&§ 32288 = os ® = a gas
+a g$es58 52,3 B8e g 85x 82 3/5 Fs :5 2
+<x geeis & 5 2 22558 ¢ * 3ug rd a ra} s 3623
+oO Zee gs 282s S588 828 Sas 2 2 @ 2825 |
+= - ._ |
+w PEBEzeEsES bani ieilads 315 g 8 Logs
+a - egebeeeg es sSbahcgiidig a 128 4 seas
+wi ¢ HAHA BF 2 ~|2 xk 23 29 |
+Z & AHN oS S285 28 |
+Ziie geesesazes geeeete polh_ Bebb ie |
+= sf sehiilieguedaas SPE ES e2 |
+¢ oot i 2 2 2 i —% 82 > <2
+= = - eee cee e ss Clee 2 § 6&6 = |
+is) i 2 rs) Sgeesegelee oee ge
+fo] © 2 ir Gi Se 2/E oe |
+eSsas < 3 a2ee2|e2i533 i=
+° — nN 2 BSR S8Sal2 3 so 2 4
+Been h 88s £85912 al82 ssa
+o Sd el ~ © S gle gies 222 bs}
+gggag ~o 4 5 6a §
+S888 sess le g/iaee eee
+S888 8s 2 seseesat
+SRERn eee ee 6625
+oO nN 2 = no
+s888833
+o Sy To} ©
+o oO y
+Co oO i
+888 2 N o
+oO Seeeece
+PERT ES:
+re) +
+ied
+
+
+=== PAGE 38 ===
+ee
+QRNaerrnoonnwdnse S t+ Oo eo olis{]eo oo o ooocoeocso i=}
+BKENSSCHHS FG 2S SSIS|IS SSO 6 jeegcqceoges 6
++ onmnonooredged > no so o]/o]/o oso fo} ooooeoc:se S
+at SInonororyoso i=] oO co o1eo/co oo oO ooo ocvcoeo 8g o
+asic 4#f/OrOnaoaroOOwnwtrse co>) o o ojJoO|o coo o oo oMNoOownr oO
+-E=2 -I> -DRaARDH ODO xn © owlo|mn wo fo} woonor ©
+ow f re TAON MK OF = N19 qQ a ore a )
+Og> a ro a oO - = rs) =
+e = a
+Roar noonwnnone So +o ooyo!]e oo oo ooocoe?o?ce oS
+n OaOWONOOON HD go a2Oo oe 901/9]/2 282 e112 OO O88 2S 2
+co onononroeoerdvdreae fo} aN Oo oOo oIlS]o oo ols seosoooo:sd co}
+oS w gQonorsornre tO SE So oO eo siols oo oO ooo coco gc cf S
+28g Mr DARDHOBD N OC o©wlo|[m no 2° noonaor ©
+oENL + TOnAN noe nT = a|o aq a ore oo cay
+ore no ow oo = _ roe) _
+sso
+2.0 =
+£5
+[s}
+coooooesd °
+< 22 e'9 9S Se 2 2 2
+of
+se oS
+oEuoee
+arsys
+23 2%
+ess”?
+STE)
+NMwmarnooonnanneae o +o oo/|o]o oo ° ooococcoecesd So
+Owuonooonv ne ao 29 So o1S|o 2S 2 gooooogoage 2
+3 OnSoHDSSorY Or S S NO SSI[S|ID9 OSs S soo S0S9900 @
+o= Ooonroreoryemeo o wo o e19c{/co oo © eoocoocogocoeo Oo
+57 2 om nmnoaotrToOoanwtrso 2} So o Oo;O|o oo a oo Oo OO WM oO
+o & elmo -2ANDBMDH ODO N © ouwlol[m wo 2° nmoonor ©
+256 = TODOONDK OF = N19 a 2 ore Ce) cy
+on x oO oo ” = = «oO o
+a -
+7 3
+NMmar NOODOHWAWANS oS ad oo};je]e co So ooooeoesd o
+” BKBSENSSESCHHS F FES GSISIS SE Ss jesecoeoog 6
+cw omormrodordcrd So no o eol|e]e oo fo} ooooeoeeoese °
+oo oonvoreorvyzro se i=} wo eo eI|e]e oo oO oooeoee °°
+ss oma otrTOoOnnwt oOo a o co O]Jo]|o oo a ooo none o
+Oo e Or DADBAHH ADS N o owmlo |] oo lo} ouooonor oO
+6 2 + TOMA DH YM TF = i se) q i) ower a oO
+23 ~ @ aw ao _: + ao -
+Qs =
+o
+Lo oa)
+ag Ga pes
+o % o vo
+sen gk oh
+£8 Ss
+22558 a
+o§u 3D
+Pane 3
+so 3B
+Zs #
+oooocoeooceseoce® So oo oo i=} oo ceooococeeves °
+oo So. ORB See se Ss 2 oS. = oS. eseeseee2 8g
+oooocoocaeaao 9d o oo oo i=} oo ooooococjeseo oO
+Py gooonororan @© So no o oie]? oo ° ooooeoccece So
+go aq O'S... ML Gr GO. Rei OS o 2c eg/ele Se el gaogoooee2 So
+ry = x tootrteonawno SC ¥So SOSOlYiIS oF So seosoeoS99 8
+N Ow we owownnon onodrdst N Oo So ol1o oe oO eooocoeoecse So
+Oo Eo nmonrn oD ~ ON @ oo o - [Oo om © o cooownowuwor oO
+N jo Do torr do vnroo or o ewe Roe) = = nmoonor c
+e ets rT~ranort oon 9 a = c=) o o yrs i) N
+a. 3 O oR ot © = = 4 =
+oO 2 0 Rid
+J oO
+: 3 5
+> fa
+a
+Ee x n 2
+i o a 2g < 2
+® Cl 3
+2 2 ® .
+a 7 c 683 2 e £ © 5
+< & Q a o 2 3S 7 = a
+2g 3 r= 2 2 &s = a ac 2
+° #038 § gg 8 ro S = g a Se gs
+w z 2 -© oo 2 2g ge 22 z S&S ¢ ce $
+a ce 2 begs @ € $ E —€ Ea cg a if a 2 ¢
+® = qvre Q aos a ® eo oo => @ a 3 3 fo}
+w —E — > yn WwW © z es g Lio @ i ols = ne] t « $ <
+z iz og Be 2 Bas 2 io a. s!|2 28 23815 2 2 @ S89 ¢
+zis 2 33%S34H5%3 FS PS = |8l5 32 Ss}°Slg 25S FES B
+2 £Fcvr te ° @ siz 2 sll o © £ oO eg g
+Ss 2 G w =o zo Zz a 9 a ar cox eg 3
+. a £8,835 225 ww S$ & 8 ols 22 Sit e2l]s <2 B 6 § 2
+> ot 222=53306 5s £2 5 sl/o Dw s|loaslo 2 2 2 aes =
+bd vESSZB Qe a HBO 6 a ona a}|o ot Siiealo gv e 5 = so
+Z oGFS2HnH vH_ =z aes c|x £ o alls 210 22 5 oo @
+he ®vuS. ECC eC CHEE x £0 o o|8 oS a | ed ®@Ecoe &s n
+i Zee Foes sgske ZSEC @leele rio fjJZoSFFo 5x8
+mt Ee S Sess bss he. B59 BlSISE QS ~|le¢s/E 0s 28 0882
+ra] @ 9Hoan vnanoGPEGU SES VICE ael = o © oDHED BBE
+-~ oe eee ee eee CES BSR ELS(PS SE SIZANEIS SIS te sBBEB SEES
+xt OvsgDG@ FSoo0coC Og SD Ss SED SIH/HqE 5 Lfayoa sale Seagcsagk
+[S) ZE&EZ@rxrAFCOoOOOaSHEO CSS CIClOFcaf<ferycsjSuoo0uw oto
+wW
+a
+Ww 5 N oO
+2 ——" = + © nN
+at oo Dr © = = a rer NOM TW OR
+m= at eer nnmnornrtyo © om wm = coe Serer ee ee =
+Ss s wee err er HF wow) HO YO wo or LE Ot] QQ Oj or anna na 4a 4 t
+= Sb: Ss Ss Ss SS aS a x ++ t r/o [oO oO ofeifr fio oon m oY Oo Oo oO rr)
+= o oo Oo OoOoG OG O© © © o oo o ojo] ~ nL oCOYyPo"yo oo ooo o oO oO
+an a
+3)
+
+
+=== PAGE 39 ===
++ oo
+ce ges 8
+<2¢ =|Seoe Ss es
+od + fo} < 8s
+oes tl6.— =] & s\s ———
+s 7 ai/- & o gsc siels
+= = oO ty No 9IS5;8 88 ee
+= 5 @6 gislses = _
+= + Fisisss eis _
+° ss 2 | 2 |
+2 88s slo _—
+2/318 S eis —
+£13 /8 S : Sis ° ee
+B|B°8 Ss sisis
+¢ 3 ° 2 N o 2/2
+62 8es a ei¢c elle
+. pow 22 3 ° s}=/5 Ss °
+ze 0S sge 6 88 S12 Ss 8 8 8s
+gees S83 Ss sé = alrlo g |e s 8 7
+ses 25 5 £=E S|/sis sale {8 S
+235 oO be Ls jSiISss ote SB Ss |
+ams) s N cod glele ee o 2 a Ss |
+= 7 F/sis ses sis = 2
+3 es |S irs}
+oO J =} colo a
+alalsas eis
+Blgi/g cs 8|s sie ~
+gos 8s = “ a |2/F 8 /8/8 ° |
+oes 886 o s|sls Ss =
+feel °° 2g 8g EaRak $ es
+Bigs? e 2 ee aisle s Ss § 8
+Eg2e = Ss 8 {ale Ss s
+S505 oO] > 8 8
+e2§> 2 2 =
+o8 - 8
+a
+>
+2 see
+C8 SS Se 2
+e§ 3s° = se
+6 3 alae =] se =
+>a eo: o Ss 2 eisi|e
+a 8 i No $1818 2 8
+= N Or sls 23 o
+= FIS|Ess 3 1S
+oo ess sic
+21813 3 sis
+o e/gis°8 Sis sls
+ec = ° N J o 518/18
+6 3 S8s = =i sls|= Sy
+Z2 seas ° s|=]s 8 8 8
+oo see 8 ss S belo Ss 5 6§ 8
+Qo 8 88 a Sia elx|o Ss 22 &
+2 3 S oS gic J sialy =
+o 2 Se iS © © sis oS °
+: = 8 RS 318/38 8 + B Ss
+a Se Le ° glsls ° © my 8
+S e7 silsss elo 7 ~ 3
+2/8/88 8 sls 8
+5 elses 8 3|8 3 -
+ie BR (8 ~ § Sls s/sis
+@ o & = e|/e 21sic o
+ange =a ak 2 ge 8
+eases 2 - s = & 3
+ge2es S/alg Ss 2 =
+S$au3o gle 8 S
+ga °S o Fa s
+% 3 pk
+3 3 i 3
+so 8
+°
+ay 888
+z sae °
+oc s 6 ees
+< oa Ss &e
+4 ° = >
+2e2 3
+oo
+> ob
+5 s
+a 4 => a
+3o N S
+& ow sss
+S [585 eee 8 8
+‘ S
+o e233 BBR Ss 88
+i) EBS dad 2 oo colo
+: 57 9 = oO 2 S sisiss
+z= So 2 a © ire} ejeje ss
+5 |* a a - gls|ses =5
+< sjsss os
+4 cigleeeg ele
+ri 2/513 8 sis 2
+Fa 8/2 |/2 ® & oe glels
+ft ra = e212 </le °
+o g -_ 8/2/83 s is
+Ly 2 8188 g S 8s 8s
+é 35 & ziais |g Ss 8
+= ©
+FA 66 3 3 8 =| S 8
+= 1g 828 3 = g = nN ©
+< |3 2a iS fe] 2 Ww 2
+= a 2 € 5
+3 8c eZ 5 2s Zz i ms &
+cn ie cee & 2 |e 3 =] 2
+2 efe ry 2 2 48 =I 3
+SBE a UC o gsg2 ails wo
+eS 2°s 38 = ls ese 8 ays [2
+B23 o 3] Se& & ales z 2
+n eoe e= i £ e] 15 2 § =| 2 D = 5
+int BOS 5 A slgl8 5 3 e/8 «alls = 5
+a fe) 2 a e Sisi= = 2 23s oS =
+xt gz pes /5|=£ 25 ole oO 2 3
+g2ge = o;2 2° g;2 § S}/< Ss = a
+oO on ° oj® ol a = = a
+ry Sos 2 SIE 5 2 Sis ai ry = = glo
+Ww gece oS elg 83 sla 2alls a4 o Q 2 is
+a Bga23 ws [= slel|se Zjf 3 i]s ry Res 3 2 3/2 |
+5 baafae! ila Elpe § o|e £ siis o 7 Fd rs s 5}
+w fs sabeea ge alHlflegs ais Pale 3] |8 & E § §/3
+= — a £)23)/2 2 Sle x of] 2 a 3 ped = S13
+2 |: = SEE 5/2 ol 8 Elle Hadseet ti
+= |e N = HHPEEEEEL a 3/2/28 3/Ssl8 8 male
+= BIS|= = 3 2 [) of ahs & Belt £ =
+3 6 o SY 3 dg eaijeias galz|=|< ge]s S Silo |
+8 gee Es 2 2282 |£2)8 5 ene ee 3 | |
+B15 6 NE oo o FE EULEREEL EE =/S
+8s XxX o8 S oO a2]3s at eS % EISe
+oe iret ony o 3 8 se 5 g/5 2/8 gle e_|e2
+2 8 6/8 z PBB IE SaElgS
+Ss ere = - Nw ALOE
+8 eles 8 Haug
+a eas o)t HES |
+glee 225/28
+& 1S|s 3{3 S Seles
+2 Nx =| = o8
+s $|3
+eles
+eISs x
+=: s oe &
+s 8 8
+S aS
+©|S
+
+
+=== PAGE 40 ===
+=}
+rl S:
+25 =|5
+£22 tie
+ome mr
+OFS Lie
+Pa Ela
+o
+<3 =
+of 5
+2 ow °
+wads am
+Qn
+geee 18
+S32 |n
+on
+is}
+n ov
+i
+2g
+oe DU
+. so Ww
+seecs
+a
+Bese? 5a 8
+Bess oo Ss
+ore 2g6
+ees? 2
+2 88
+5 aoa
+2zas 5
+&
+s x
+83 Fi
+é 2 =
+® = :
+23 =|8 :
+on 3
+: 3 S < 8
+; 3 a a S
+i = = =
+© : :
+oO E i
+6 s
+a 8 E i
+cw is :
+° 5
+23 = 5: LG
+0 2 3 8
+93 3 3
+ais 8 &
+og a
+ge i i
+: 3 . o B
+Wie 25 i i
+zis 3 2 fo
+i+ g g
+- © S13 53 '
+os 55 6 z 3
+=! 5 vie ¢ o é F
+eee pn Ge = 3 2 :
+Sauget Sle 3
+F See's siz os : i
+iE gia 5\| 2 Ww 3 x
+6 & Go alo 5 8
+Sougs alg 23
+Fu : fie 0 5 & 3
+a8 : s|$ q 8 a & 2
+= 2 2 2 25 5 E : :
+2 slg = 3 : :
+sli 5 = : :
+—|is 24 A
+aias i § 8 oo
+s " 3 : E
+a = : biti
+3 3 s a5 3
+253
+8 B g22
+a = 25
+= 2 Ex a
+: - see
+2 g 238
+< & 6a
+it
+a = s :
+ace ; : g so&
+o Ow we 8 H
+aq —Eoc 8
+1 o De wo : : ti
+Etsy E 1H
+‘ aBe8
+a 3 E : TE
+B |s28 fa aE
+ys fe © * ; HHTE
+Z 2 be2e35
+: 28252
+g2328
+$ $28238
+: d BeSseag
+§ cEgSe 3
+3) 3 z See8 38
+3 8 = 9 32
+2 a o
+el, fe teeta:
+= |8 fgshasiias
+7 fo categateaa
+> 2 2esegae58:
+5 3 pegee shee
+< a 2522828885
+Bs 5 gefi2g233
+n ce] Petagieags
+wi Ps 5aeR be eees
+@ % eeeuUEeE
+g 334532 3
+oO c peeiiegiis
+: 4 biagezaeiy
+a : oO Hin
+Ww e ao] Peeeeeerer
+z s mn f2fbsiaeg
+Zige 3 Pkugiecaie
+= al Ht
+S = go32228233
+S16 sg g2geeeeiis
+° e ESTELLE
+cz) 2st 2Sa ge
+et beiitaee
+astise52 64
+SESscCese
+
+
+=== PAGE 41 ===
+a o
+z SISls Islslessseeseeeeegcanq
+_E_lglels :
+st Ae Sle
+a2 = |F lglg seaas
+: EIZ/3 de
+B lp elgeee2s
+e=|= N s|s 585° 25
+Fs = CES" ERaG:
+oO s
+£ = ° 3 EEL
+= o3888 85
+: Ep eeeecsle |
+2 cEEEGES ELSIE
+| i 3 ae 25 slsls °
+BS | si
+| | e 5 glelz @ 2 2
+i : elge3 ols
+3 8\E/8 8 g ilelea 8 [s|e a:
+sys s
+4 8% 1% sisss ia i
+= -/£/2/8 ee se28 | . re
+ga Sig elggeees | -
+os x N gegeess [ ;
+: : eee 8 r= Ss
+| i = N SN 2
+6 elag?s Seegee © + 8
+| 5 38 Ss SS
+wT &8 8 as |
+Ss ceessse
+LEA
+i : ELLER
+| il ° 8 glelg ¢ 2 2|s
+| Be ao zaps
+: | 5 B38 188
+il | N Qa o sj8 8s
+hy ele SiS SINAN eses
+| i B/3 N38 alggeee
+is al: s/s 88 oe} oO g3se8
+[ dep elgage° o = s]8 BE 55
+ee z a segeess in
+a = S\EEDS° 2885 | _
+SHEE eeeses © + 3
+a 2 SEEREEES |
+8S c=}
+Ww cSuEEEGEGE
+all a6 8~ aE
+wo 225 alk
+| : g ee sels a
+Q 5 saasllege-
+E s glele se °[E/3
+m4 ga/s|f 88 °|s[3 2
+e|/& 36
+< |
+ge BIR 5 8 s|Pa8 88
+~ »8sa8 oie oO ¢gee8
+- | z 3 Ss 2s 3
+| - | cls Ss
+_ | s|3° ss
+a ae2é _ |
+i esses { _
+: .ee2e |
+: eee |
+: eeegs
+: 5 2/8/28
+1-[2] 18 | :
+Brat |e s|3/s .
+° s AE |
+0/2 g , 33]5)8 = | -
+5, Pee sis 8 esses
+SE 5 38/8/28 /8 HELE ;
+: zl slggee2 o
+to 4 52 3/2 Q TEL
+: Be sees ss
+>| wW & ESSEEEER:
+- S Oo LTE
+al= = csEEEEGESES
+|u| sEEEEGEE® ale
+- ~ s |
+Elo = cee” slale ds
+ola gue slels 25°
+| gle 2 2 ole le
+eles = “lel
+S|= s]e a S| °§
+Ww also 3 see °
+I g/2 8 8 Pee
+=|2 at les 2/8 7.
+j=
+fe} | | |
+rel - | |
+oO
+Si 2
+5
+: ra
+& ire
+: Wu
+>
+> a
+: 2
+& 3 4
+2 2 :
+: 2
+cs) a :
+a § HE i 1
+wi _|2 - H
+i BE z $2558
+= Lila s|/2|2 2 g2nae
+S 3/5 Z| 5]8 a gesea? i
+> B|s Sel g weLtiir 1
+; ; lal. Sgibi eas iS E
+lie eget: g° oO °
+< ole s TEI Ete : t
+! HE Te SE 2g 8
+Q ole VUE 228 SE oo
+: i itt <a8 sc 2 o
+<x g|& THER He i |
+3 g| 3 THEA Hae i
+uw | 2/2 THLE na i
+| SIE Hal ee elgta oe
+i es573é gs 8 my Oo = 8 8 ae
+w = x alpbeeel 8 2 3 See: Lf
+= 7) Thin Bile : :
+z : JHE BEE it
+: | HLL aul: 828
+= ki posbeiaal He 528
+8 ¢ gigeee pPRei a TE
+Ss | = RHE ee es
+: TE eH
+Bile Pee SeES: laaiigeds
+ole AEE
+S/s/= Pee |
+Lt E S/glE = ee |
+I - HEEL 2 = |
+The deine dy
+i sadieeags
+& 838 eiilgiaes
+Ze Thee
+_ Baggs
+— zee 8 |
+— £ eZ
+BEESES |
+8 ao
+sss 5
+TEA
+els oe
+SaSe - ©
+eae
+2/2 2 5
+=:
+boos &
+e 2
+fee
+Re
+
+
+=== PAGE 42 ===
+a
+=~ 29
+g ggisigsees
+212/833 c=]
+g lEdlglggeese°°s:
+=-=|C °c oo eee2e$ oo
+= ols ao 96 22e2¢e8s8 2e
+EBtel|° 8I8 eeegs's gesesassees ee
+sz = wells 2s ow $289 8 Sele oo alale sine
+ez B/S/A2S7 O° 8 oD 5s 8/8 8 8 8/8/eis sis oo
+z to - a < oo Solio 2 2/S\2/e S oo
+= = x BIS Ss slels|s slsl|s 6 2|S
+“= on -— aD o = 1A olsolos a S
+i QID o|é N o°0 ALO 1S 2
+a B13 ° woln S12 gis|s Se
+= o 212 2138/8 e
+Co pa wo e
+o = pg Sa [Pe of
+= 3 =
+o eg -
+a sslsjg ss buf
+2}SO/SO Oo 2 =
+oe a eegisg es
+= pelle teeceaess
+3 elglegeegeccze-ee cls
+oO o So ooon$nd ro)
+ae psig eeaE g282 8 Slee 8 8 13/5
+x = B\ZIS 27° 8 oD ~S 3/8 8 8 8/ajsis sie
+2 om qt pes a) o/3 8S ee /e18 Seis 3
+- 5 a _ ro ts) Ss 2/2 S12|2 oS els
+3 wo D i) g\zZ/x|s clg}s © Sisis
+5g alan wo nN S13) 2 APO TS °
+2 o1o is) i=} alo|so r—)
+2 a1 Sib al os 21818 s
+> 6 |e oS [2 3
+x py ud oe
+° - 3 ~ =
+Q
+ssisjigs8s8s =
+2 SSB SSeae se
+§3 ealglegeegecczecee els
+z= mw Sesss 2222288 a oo
+ao 2 21/2/9 © ou f=) gessisjsese
+© or = Ss lS: fr) ©£!1o
+B 3 agg es" *S 22 23 cleleg © elzlele clels ©
+§ 2 - iS, el BIS s 8 212 3138/2 3 els
+= = ry 2. oS
+&* oe Se ala ae ed s|oo gi8]s °
+8/3 ° wl e\2 as|Ss|s S
+oO alan s18i8 S
+wmlo nad 3
+x Se pe
+oo - ~ © =
+a8 seseseg pl
+oo a) eo
+gsssseseees
+gggegsseses
+Se3g2888 5 coo
+coooo 888e8 Slo o
+sooo ejoeeo soe
+ojo o ao
+o°o
+ee
+5 Ss s\e
+2 (8 38/2 esees
+= ala Blglggoeeaaese
+¢ sjeeslscezee°sseee-
+SeeHEEEEEE ESP EE HIER
+33 witlS me oo eoeeacleles © alale|:
+4 Shs so A 0D ° S eee e2ieic e|c
+Cem 8 o a == ao sje 22 z]zle|s elele ©
+3 S r oR - o® © slsls|s sisls 5 sisis
+2 5 oe =| sees slsls ° Sisic s
+215 gleln Bye) g\sis ed
+rj]
+2 Slee 8 a
+oO
+= gy= |= st ao
+7
+° ro)
+2 ob
+Ss
+O
+ry
+nN
+o
+a =~
+' ie}
+a. =
+oO a
+: wo 2
+3 |3 s
+2 15 @ 8 @
+< |- 2 2 aD ea
+= g 5 . ey |s
+8 2 g a, iP ed 5 ss a ae
+Q so) = - ic i) 2 < a S =
+< Bl ms| 2 . ea rs $ g E =| l=
+2 S|SlE ge $3 rS e Ee e 2/3 = +
+mn Ee g ov n c £ & ~
+w 2lals 98 &¢ g 1s 2 g za =|z g 5
+oOo] Ss Sa n = & a= x
+Si 5ic os 223 io = 2 c a 2312 5135/8
+w S/s/2 x < £—S <c 2 = o o 21a =/2/°9
+rd S| al}s ni ©E Ss o = i) ° i) = 2|> S}|@]o
+x Z2laiz 8 £ o Zoe 8 Ps a » 3 od ee S1e13
+A 2 gegen a6 355° 5 o Hy Sole %]o
+< o/Sle eexe285s S66 @ S|} a 8 a o 2 com eed
+s/2)25 5 ct 5 8ES S|o = <— o =a ie) o/alo
+= os 2sse2e no c o als iS 5 o & 21s
+sl|e]s S582 re £ gla = 5] S Els 2
+' g slg2E Eee a8 syee SIs 3 oS = _|3 =/8 Elele
+z gaaleeebeeee S858 ol? aD a als 2I}2 o]s
+2 pals[B5 225558 So 8 oe SlE 2 8 olole Sie 2/5 s{8le
+< 2 $le]e Sts65565 @3ee wif 8 2 el ele als §|s 2/215
+e Slelegg hase So 52 2/2 sl sie gi 218 ares
+4g Salbjseeohh3s eeg228 alg e3 e1e1e jz/8 sie E\Sls
+uw eelelgsaSeee2 ESec s{5 ao & sl|al|s =15 815 els|e
+& £1818 B geseeece32 5/22 s/c] Oo} fe) sisis
+< Elala zs SESES ag = 8 ges a|=| > Sle sie Ble |e
+o |e POTS eeETTEEEite a) 2]3 o/s o/s ae
+w Ss LEEELLLEEE #]2 a|l2 Sul 213} 2
+i Tea Sela eeeelaa alsialsys
+a ¢ ac o 2 alelale sf'l2 S/euale|:
+5 2|\¢ 4522 3|§ 8/32 3l =(S)2/S18
+Ww 23 S/a/2le slélg Els & Sie
+Zz a, o}a 13/2 slatzis|<lall=
+2 £ eZzla slay elals/ail:
+2 2 sii xf on = Sale sla slalls
+2 BR oie 8 BlO{x{o}s
+2 2 Be] [ESS eee2ee = 8 £
+i t =h + o o
+iy Miiticeetetetetetee 8 2 8
+EE EEEE EEE EE EF elelB 22 Elele|
+NON + + con) roe id 2
+— 52232 2\./98 8 8/3 3 2
+— F Fjo/S BS Ble oo ao} 3
+ee ow oO 0] 0 t 8 = 3
+——— Bl SlolS Sirj& & a 2
+ee rR rex Bla =
+ee N]K co |] o nilo fs
+— Eee NIN t s
+— EER RIS PETS IRS °
+oC fi eI A
+
+
+=== PAGE 43 ===
+|
+|
+zs,
+; |
+S |
+: |
+nN
+: |
+: |
+: |
+@
+2
+2
+i)
+=
+a
+a
+®
+B
+G
+o]8 8 8 sss
+alos s soa
+2 ooo
+3
+7)
+¥
+no
+o
+=
+= r
+a 2 4
+8 i
+= a :
+5 3 :
+e 2 é
+8 si 5
+x] 2 i
+5 i
+3 £ :
+o 8 :
+2 ei 2
+i Fs i
+3 be :
+° Wu 7 3
+a) Zie zn g
+Sg : ry
+2 O]e 8 §
+3 oo Y 2
+@ ol 2 8 2 az
+oO] - 5 a|2 2° a5
+ge] 3 sie fa if
+ofS se 5 —|o o Zz 53
+“wie 2 € sie 3 33
+os § § al Z S ef
+ele 32 2 26286 25 2
+=75 € Ss o|/> 6 2 2 € g
+of 6s gle E§
+3 5 Siz & 2 e & 2
+Sas - 8
+E leo: : on
+iS sig 2s 28 :
+5 gS z=8 ~
+xis = = 285
+® Siz 5° Te
+s _— S age
+@ =* 35
+222
+2 a 235 §8
+es a2 bY
+s e332 2
+E58 §
+5 sgs 8
+ean L.}
+E 533 82
+£33
+2 SS fs %
+e 8 23 a
+Q g2g 5
+8 832 8
+o 2 2&8 a
+‘i z22 2
+g 8 .8&s §&
+g Side §
+ia s Ss6ts i
+a © eeek ¢
+2 s sees :
+cl s oeges $s
+: 2 Sboess
+z 8 2s2238
+z = fae $5 eb
+Eyzsa
+FA E sls ees
+S Ze GaS
+8 : 3 SEBZe8
+2 8 8 AQs2582
+a "0 o25 5
+S$ 3 5 gkesis
+a = : edfik:
+. & ez fESES2
+w 3 Ser etsges
+& Sep 528 53
+Z 2 222585825
+egsee8ee2
+ereeeree
+= Erofashaes |
+2 S2ER8E 528
+z Sere e585 S
+& s5ese5R8 5s
+i g22S2a535
+5 28ee8ln 38 |
+2 ee ess
+2 588323252
+8 222382322
+: $2383
+w easeSeaise
+é Preece:
+z BS55 83885
+SCNSETESSESS
+
+
+=== PAGE 44 ===
+=> ve iil
+= ve ii
+| s il
+£8 2
+gz g
+aw EB
+ss 28 3
+seg 6 |s
+@ 8% .
+€8 7
+s 3
+a? :
+: s
+5 :
+3 S
+g 3
+o | |
+a § |
+85 Z |
+o eee
+2a 3% 3
+7 2 z
+get :
+‘ai ce . :
+63 :
+: Ss
+3 :
+x E 7
+| : | |
+| S | |
+= ik . .
+ree 2 ,
+4 esd 5 ,
+a a Pes :
+2 SES 8
+25 & . 3
+iw os = . :
+za : : ,
+Ww : | | : |
+5 . . | : :
+Q - | | |
+8 8
+Ww | |
+5 |
+8
+s
+3 8
+k :
+= °
+8
+= |
+| : ,
+Wi : i
+n | |
+2 é . |
+sitt 3
+peo 8 |
+o ésee
+3
+= a
+a
+z
+5 n
+. °
+2fis alg
+B| |b seed 8 °
+Bl oases ee a. :
+1 | 528 5)- ‘| i
+os _ ° ; ,
+Ww oS ° : . |
+Ww : | |
+7) | |
+, . . Ay
+a 2 ei ; , .
+x 1 :
+B) js28 :
+segs 3 :
+Fa 6 i
+é 5s . 5
+' E a
+z < - . )
+2 =
+= z I
+£ Zi : |
+B a) | -
+=
+s
+< te |
+3S x |
+o a
+a
+a 1
+Ea |
+< iE
+= i i
+. 3 : jHL if
+sl el elal els ad
+: lalal4lals z|S}2 2
+: ‘lalalslal? S19] 5] 8 §
+ft ARBRE Halal ‘p
+E a AHEREEREE AR a
+n EAE 3 ip
+ATH aals e|= Bis Sis
+: TE £) ol 8/8 oo] 9 2) 513 clas
+TVEUEHEHOHL £13)5 =| 813 SIz/ 3
+< sl af als|ilel al i bal HAUL ‘Hl
+: TA FEE CH s|Si2
+: lé|a] alelélals Feelel lly #18) 518
+: | <|2|é s|<| 2] 218 ® o|2 SI S1315
+2) 2) a) 2 >| 2 S| sla AHAEAGL iL
+: 1 li aE E 2] o sie a =| 8}3| 5
+TE Ea
+Ww TE
+: ETRE MEE ala alle
+TD
+: TE
+= ° ALLE LLEE FLEA
+| i ; ABR gy ,2 3] <]2|3| 2 S| SIE
+2 - areata etaleli JEEEREBEBBBEE
+i TEBE FTAA
+3s = £8 Elelalala vTHEBLAREAEE
+_ ro 2|6 AFP AREAE TEE
+I 7 AAEBLELEEEE
+| TT TAREE
+= ef als AL :
+_ — ols selel AE EEVElE
+Sista Elaje lelEls
+pL 4 Ala i i
+= Q]& TE,
+: - ; 1M
+— sil & : i
+= — ‘ ,
+ha a Oe ed
+PEEL
+nee a} &
+RIS]S
+a]NI&
+Rl Ry&
+t___|__} al
+| RIALS
+
+
+=== PAGE 45 ===
+= = ==] |
+2 = 18 i=
+= =/8]8 12/8 |e [8 —
+= SIS BBB IB IBIS
+x 8 elelslelsle 2 co 7 |
+a ° 2 e}c = a oo a |
+> g ° + lo 3 a Sjsja ls - |
+4 2 sg ols [rs 8 b slcliale
+a N ° rd eis |eio clo |
+213 3 a = 38
+S 3 © 15 212
+a uz 2 sis [5s slo |
+=} [@/5 ]2
+| a |
+| |
+9
+$
+S
+Fd
+2
+of
+&
+c
+2
+a]
+£
+6
+ir
+°
+S
+s
+» | r=}
+¢ je 3 2
+g |8 8 S$
+bend on |% S 2
+7
+2 £ 3
+= ie a
+3
+=
+Lu
+a
+= A
+Wu E
+no g
+=z 6
+uu 2
+3
+{a} Fs
+Ww
+S
+! g
+—
+Ww i
+= 5
+es
+Wu @
+n c
+3
+WW | 2
+<2
+ui | val
+sle
+Z\z) | als Pi
+ie S15 2
+= ais 2
+ral) < 2/2 e|se 8 op
+oyle Qe yr p= Ss
+15 wo § 218 els g a
+a = So
+>|= 2 e|~ als So
+ele £3 ae ns s
+EE ~
+B) | 2s
+I
+i
+re
+gs 2
+nN fe)
+Fa °°
+oo
+z 4
+5 fe)
+2 —
+a
+a <
+Ww le
+a | 2 ©
+4 | fw = a|=
+ce) oO 8 o/s
+s $ 2) ie
+uw Ww 4 2 21518 Ssizis 2
+a id S|. f} a} Z/A]3 s =
+Ww a 3/5 wlsl2|2 £/8/518 3 2|s
+z Sle 812] e]s si8|8|/s)e2 2) ¢ als 5
+& 1 3|§ s{els}2 2]/s]/£/3]s 2/¢ £/5/18 sle]e
+Zz 2 gyelglelel S|] El elle -lals £/a/3
+<x 2) 3 a)2at2) | 2}a1e) ele] ]etalaleal: siS|2l¢g
+= ols sisi|o|2}e |? glee /Blel2le/2elal: SIN]s]e2
+: $1% g18]e]/§15 a) erelelelel=|elzleléle BIS; 8]5
+3 |e yee A alalcIEL ETE 2) s 218
+> o}é «ET VT RT TT AREHL TATE
+2 Blas E=4 TUBE
+xt S @/c|/e|2 Sis{Sle]sl™ e1a)3)a)aye|§ els ]é
+es Sle Sisle}s}2]2 er eyeyete|st eel eh ela gleli
+7| 5 sl2/s e}e}e)/s12]5 elzfelele| |S] elelelsls
+o/s s|/2/S]/e]s 2 2)5 3 e|3)/s]2 By) $ = |
+Wi | Z\2 3|2/2/2/2]2/21 8) 3] Blalele 8/218) e] else
+W | s| = Slelslelslslelslele aelele|=/elels| fleets
+| 2/8 ae eee Syeye/s] sles flo); sys
+xt a | > . = 2121/22/13 ® S ras ala 2
+| B12 els/2l=le/slsslele glSleles Elo] é a 3
+3) o|s 5/2/2/5]/2/2/3| sl els glelels|alelelelelele|2 |
+Ww | o}e 213/2/2/2/2/2/2] 2/8 gyetelslale/elale|sie2
+| £ S ra g 2/S]a]s =|
+a | ElSlElSlElE(E(e/3/2 elelel2/slatelalela| al:
+w | 2 ELE] 216 aletelelelatelalaialels
+z | fe e/e/2/2/2lelslelelele|é
+S | 22: EISIELZ/ELElELSIS |
+a 3 Ela lEsE =a
+= | 2 ELELE|&|2
+= | gé& Ejelj2Z
+Fs |
+sail o;|o
+re) - els olelolz |
+eye FF ILS SA a 8
+LETS R888 ry =
+= * S}leleo
+1 Sree rere oS
+ail (EE ined ho vee 1 RIS alale
+— N |e y
+Ll ae ae a |
+|
+|
+
+
+=== PAGE 46 ===
+2
+8
+a
+7
+E
+fo}
+-
+°
+z
+:
+g
+3
+©
+o &
+e
+s
+3
+=
+°
+fl
+2
++f
+9°
+o F
+2
+s
+£
+=
+5
+&
+5
+n&
+8
+$
+c
+Ww
+»
+3
+=
+E
+2
+vo
+s oD
+3
+3 a
+3
+us
+e:
+Jo § 2
+rs
+& 8
+£2
+32
+<3
+©
+N
+o
+N
+;
+oa
+a
+>
+4
+q
+FE
+ity 2
+2] 2 |»
+o = s
+i” s
+a 3
+w 2
+8
+= 5
+> Ee
+zZ €
+a sg
+5 g
+Fa &
+& fe)
+oO
+Ww
+a | ge
+z | 32
+5 23
+= oF ibs
+= +
+oO a
+oO
+
+
+=== PAGE 47 ===
+> +4 Pe
+2 ae
+| a
+«
+S23
+gig3 5
+= a
+22s AE
+~ Zee iE
+ss ealE(el
+peli alels :
+see ele ,
+23 a 3/F i
+sae a8Fl '
+ate uh wo o o
+& B ~~ = 8 Ht
+a ° ‘th
+— ° SlFle
+8/8 |8 :
+| els te 8
+: 5/2/28 :
+85 2 |
+o2eé elle |
+if, Sle 18 7 5
+. 2 HE :
+zee ale :
+ae” 2/8 |§ ;
+di 2/8 /3 2 |
+“ alr
+$/8/8 AE
+| g\els 8/8 /s
+— 2 aa ES SH
+FS 5 518 | il
+7 £ 3 {
+WW gs ele |e !
+a 2s 5 HE
+7) 3 8 stele
+S25 als :
+Zz gs HE
+ii ge ely :
+rs © =[" |= ° i
+a : . ii
+° ‘ fe
+: 38 |g
+elale
+8
+S) i
+: g
+g
+I i: A
+2 ele
+e -5 HE
+3 ae
+i $
+F 5s |
+= ‘|
+im I :
+= :
+z | |
+2 | | |
+fe} : 1 |
+9 3 | |
+2
+alo 2itt |
+Wu aes ,
+z oe :
+ate) gee
+Lu ot
+Palen _
+Z\6
+{}/z
+= ges fle
+2/9 _ylteg hls
+rr TP TFlEAEE
+HAE :
+: 7 3|r eis
+2 £ aE :
+I g33i)5\- 318 : il!
+t HELV FF IE 8 Piais
+le &/8 18/8 ™~
+: 2/2 (2/8 /8 a
+: elle le le le
+wo o | i
+8 a 5 {= [a /8|8 [8/8 :
+Ss [o)} < 3/518 sere |
+| , 7 a( 513 4 Ss
+: : | glal=s|5 So
+: | elels = A,
+F (3) 583 : :
+£5 7
+| |= ge ¢ 5 5 i
+: 3 é° i
+> ‘2. = ° : f 2
+z = : itil ; ,
+nN
+Ww 2 3 clelele|F
+ia} i : it
+ft I : |
+2 nO | Hf
+a
+8 a
+< :
+£ 3
+s ; |
+> : l :
+8
+z FS} aE Ap :
+< a §/& 8] 8 i
+& 5|% s|3
+sl sl 2) | 2 :
+Tey 3|3)/2/ 2/2 :
+. i le E g 2
+: leit : € 2 .
+o | AHR : |
+ails élal sls 5 &
+wi TERRELL
+a ey ilgtel eles
+AUEHEP HEB AL
+Ww THAR EERE if
+: EFUAEUERE 2/3 3
+=! ARTE ip
+. veel S| e183 2]3 ale
+5 2 Pella Jellies
+fe} ze ABBE dela lala
+3 a 5 el 2|2|8 GEE AEEEE
+8 5151/8 ARE HEE
+, H TUHAREEHE
+oF = eyelet elles
+° $| 8 ‘li
+7 lal elalal el
+i afaletalelalali
+S/S = & a)a}a\2lzla|;
+SlE}e/8 THT
+|, 2) 2) 22
+lh al|@
+Kakake
+s| °
+et LEL®
+Lele?
+LeLELELE
+ELE LEL®
+PLR LELF
+RyPLyPR
+,__} & |
+HetELE
+
+
+=== PAGE 48 ===
+2 elolelelelololelelelels
+sjsisjsje SiS [sljalaysislslsisjejse
+eilslolsle slelelalolelelelals|ols
+
+s Sislslsjsi(sisjais
+4 F128 18138 sje S/S 1/3/3818 [S18 =
+a =lalalelo alo rleololol-|olo
+g |e SISIL|IS lz Is IB
+E |8/2/812/2] 1&8 Ble (5 (2 5 13/8
+2/2 2 alolo + ~ fale fe
+||
+| j
+| i
+| i]
+| |
+| FA |
+52
+os ¢ |
+ee
+oO
+"
+|
+2 |
+5 |
+o |
+= |
+ny r
+2 |
+2 |
+2 ° 2 |
+we < Ey a Ss S |
+eS is 3 S |
+2 ey o
+pa — 8 8
+a g ° 2
+= ne = = |
+°
+uw =
+a 5 |
+2 ui
+uu
+| ja
+wy | i
+=) 3 |
+> 2 =
+| o 2 &
+3
+- <5
+z ° i
+Lu a
+= CO
+in 2
+= elolo elole
+CH “3 ayo {a sjeie bb
+c aio|]ax eici?c a
+fo} 3s 3 Sle BSj/818
+g |e
+= EL -|N]S 1a o/s 1a a
+rs) 88 £\/e\z|3 2s |
+oO es ESININ IS
+Ee |
+ire <3 |
+3. |
+Ww |
+9 |
+2 3 |
+fo} s |
+= 3
+oO Tgaz |
+Wu cs & |
+| lo 3 |
+| 2 |
+3
+Ww « |
+rey Lu 4
+s 72) |
+a
+&
+a
+[va] Oo
+a =
+> 6 |
+z 7
+Ee EB - Pa |
+n a g a 2 |
+Ww | aoe 2 3 c 2
+= 2 S og |
+< ii | l2l3 2 2 2 3|
+3 Elz = 3 = 2
+3 uw 2 3 =| 3 3 2 s S|
+uw o s 5|5 E 2g 5 a
+| Wu 2 =|# a|e a = 3 §
+a | id 5 o|p|s 81 § ome) 5 8 8
+Ww i oe ed c clu > wis 3
+& 7 2)s/s/2/2|3 Z/Elele 5/2 3
+Fd | G/S/s/5/8l= S/W) 5/5 3|3 :
+< 3 € on) w@lols a ols
+o1rey;els|> 2 2 SJE 2 o
+= < w)s}e}Sl{o}e}s)sys]eley§ Slele]3]3s
+1 O1S/S)/ S/S} Els] s)e;ej cys elojolel:
+> s|5/e2}a;/2;seye]e Slelelolslelelels
+Ss] Slory ole]; cis] x gle;2Zial;elelsats
+z § ol ® &|3| 5 2 xlslfls]e]s|2
+L 2 Syektcta ©lselololstjeta
+< o/S|/5/S|/s]e]a]$ S1s{fl[sic1syelals
+= | wolols{sle}aleale Slololo]2}]alale}g
+n o;/o|]s S|o}] oa] 6 S1olul/2]s5 2,2
+S}3|{2 e 3 2/=/Sle/sls]2
+4 | PL e)elsle| 221s zlelslsls|2)elele
+Slalolels £ a gieiele
+flfl/e/si/8/ei ££] 9° 2/2 2i/o/s}/2{2]o
+s | G|G}Z/zjexjojofa ZlalElilajzialala
+|
+w |
+a |
+2
+w fe
+z 35
+2 EE alz|.13 2
+= oO = S/S |= Ss Slolol|ele{elotr fe
+5 o S/S5|s5]8]8 5 Ssyeyeyeyepe pep [eR
+oO | se _ aL _
+}
+
+
+=== PAGE 49 ===
+Sa
+z —
+= 3 |
+: : Fa
+> : : :
+a °
+s :
+3
+8
+2
+|
+| |
+|
+°
+4
+Ss 3 |
+£ z
+: |
+-| 2 ; ]
+Z| § 1
+| §
+| 3
+e| 3
+fl ¢ i
+Ae
+5; * :
+| 2
+| s
+Ww 5 |
+z ‘ |
+- | 5
+n *| 3 |
+te : |
+&
+Fl = :
+wi ol |
+al 4 |
+F } @
+El |
+a 2 |
+w| 9 3 7
+xl 8 é : /
+x) wu) : | :
+x) d i
+n 3 '
+oF g ; : |
+3 :
+wy Fi :
+q| 5 : |
+| 2
+a| # |
+| Z |
+uy St 3 |
+oe : Lj
+Ey W : / |
+Fl al gs : |
+=
+wl a) as : :
+a} 6893 :
+<j <| =?
+ee :
+ul Wg | |
+Hl | op
+E| = | |
+<t| = :
+El glzs2 Lj
+eee? | |
+o ste :
+: au go 5
+a s = |
+a 1 |
+> 2 7
+2 | |e |
+: 3
+& | Ie |
+lu = |
+3 mA r
+4
+Sigh |: |
+a | } ;
+Wu i | i :
+ina z |
+< 2 : r
+€
+> i |
+> gs fi
+: i | 238
+ea ; |
+n 2 = Bil
+i | s32
+: | 82
+So Fi 2 2 : air
+EF |sl]el|? z 21/2 qr
+w | /allsll tals ae AL
+a aAHGERIGIE g52
+MHS ATT 8
+Ww ELEVATE ai:
+z SVE EL VET HEL[EIH ef:
+a EH l El [EIIaT |e a7
+= aI AIEEE oaG
+= THIBLAIBIEIE a3
+TTA =i e2Zz |
+fo} 5/]2/| 2/812 sila Qs
+oO LE aVEVIEr Ells oii
+SEV ELLE cag
+ey faleleel let tals hi
+TBE RIIOIe is
+Bee 3) 12] ] 3/2] [| ae
+g/|2|/2 e228
+HEL Le | [2 Soo
+2 oss
+|
+
+
+=== PAGE 50 ===
+sete.
+nN Baa
+B3e2e
+: aaa
+i —
+2 =
+a3 23 =
+a 82826 — |
+gue eEo —
+: = 28
+x2
+ss
+= be
+a z22z
+“ zz
+3 3 :
+: z
+a
+— a Oo
+a33¢
+Beage
+eeEe -
+geo 7
+°
+é&
+,
+i
+, oa
+7 <
+7 Ror
+Ww |
+-
+E
+WW i
+3 im
+- 35
+a; © =z 23 : , -
+c-4 3 7
+wi © = B32 | a 7
+w) S) | 8 : TY
+=] | 2 23 8 —
+ite) oO Fe 2 x ga 8 & ‘1
+| a: 2 8 885 ;
+ges 7 7
+5 ge” aT
+re Pe = TE
+€ 7
+| S|: x
+=i 3
+5 !
+#28 &§§
+a gi —
+4 —
+2 —
+z : -
+Zz) tls |
+S) Ela 3
+= : i
+Ee) al: ga:°
+Ee] als peeo
+3 5
+el) ali :
+z
+oO
+h) wh: : ;
+de id 3 : 3
+w z ; Hf ;
+a= & = alee 2 5
+wl = : EE ;
+<x : He :
+z 5 8 neu
+z ieee
+| . | :
+rear “ 2 |= = 8 pibe g bal
+al < 3228 eee
+a = pee aad
+a g
+= 233 —_
+S3& |
+wi 2 gga! - |
+al — a ,
+| a8
+El & i |
+Bl & eee 83
+3 g&
+<| 3 3 PEE Peel
+bg 3 ieeuiee |
+a okSe PEPPD EG]
+- : ge § && ws
+1 7 ceear as oO
+~ Be2t —
+a i 23. —
+a Wa —
+8 Zz 3
+s | ig a
+A Zz; a 7
+s fe) i
+> = -
+: g és 1
+| g8 8 88
+7) < fb biel
+a o 3 ieee
+3 PEERER EG:
+: Pete ay
+S) 2 peee oe ga
+Ww = a
+Ww * la
+a r
+w = 7
+Zz = 7
+wy
+< < 3 zge2 ant
+= z ceseadlla ¢
+1 2 gegegeees :
+> 6 Tie
+i i | i
+z TULLE
+< TUES
+E g cuS use y eg ES
+| THE é bo
+. a 83928 3 6 6 &
+7 | Putin
+5 seus a a bae
+a | z = TELL
+< | 2 3 = Eas sEEsE
+, i Te s HESS 8 8
+w okt 3 AE 7
+a gze 2 TE |
+fi £ 8 gle
+a iu
+5 Z28 2 UE
+2s 8 : HE
+: =
+= ia = THE {
+2 $els|s 1
+: ! | ll g 3
+fol 5 5 2 2/2/8 i !
+= 2 g | |
+rs) 5 5 5 2/s IE | :
+: | i g| |= 3 z 4 §
+& a 2 3) 2/5 it | il
+£ o E 8)ale [va & zs : a
+| if} -_ & 3 = o So O18
+= Balels 3 ae: & rH
+Waa gl eT s 23 € =
+Hla gp HEED 3 ; id s rs
+He eee EEL ae = g 312
+adi ul 52 : al
+8 £EE 2 e 8 ale 7 a
+TEEELL 5 i HH
+aad ead os 3 €| 8
+i ait & 3 28 2 al ¢
+$ o| | 38 - i
+a HE 2s Bae Bale
+= 2 3 a
+a ed ie 33 SIE
+—_ ul
+— ~ HE
+e 3 5 5/5 2
+B 5/5 5
+ue eset
+
+
+=== PAGE 51 ===
+@2E8
+25538
+ri S22 ee
+ara
+2
+2 $22 |
+Be3 SF
+s3S288 !
+B°EEES :
+g 5aE° | |
+i s | :
+ry
+8
+1 3
+= £8 |
+eoe | |
+ee RE | |
+as ~ !
+3B
+2 | :
+, a |
+3s :
+8332 :
+| 2336 |
+| B22ege | ;
+| @eeg~ | i
+ge & :
+é <
+5 é
+4 &
+: |
+= : |
+2 : 3
+3 | ! |
+fa} | !
+i 2
+é 5
+= 5
+| & E
+= | :
+| 38 | :
+sg} Fg | :
+z i 7 |
+E P
+x | |
+|| a : |
+| 8
+| |= a x 7 |
+z 3 |
+gia : |
+u : 33
+2s :
+a : I
+z : i
+| 2 58
+3 : |
+$5
+3 : |
+s 33
+A 7 /
+£ | i
+5 | i
+| e 8 8
+2 | i
+7 # cy ! |
+i | Fd é
+3} 2228 : I
+gee : !
+| : | 5 o 8
+; a
+z | i
+s 3 $
+: 5 ot
+| | i
+° be
+: 2 a=
+2 5 +
+= rs a3
+2 e +
+rd 5 :
+os
+Fi - : i
+- 5 <8 im
+ce 8s | {
+2 i wm
+sf E & | |
+aag & | | |
+ai on
+| i |
+| i a
+3
+u 3 23
+283s : :
+222s
+eee #E i
+ages° ; f
+235 | i
+s 2 | if
+i E ge
+wo : i
+E gs
+3 | i
+S S 9
+NN 3 § : i
+| : S fo
+a 5 : tH
+' Fy g&®ee
+a oe : Hi
+: 3 2 3 aoe
+| : s gees
+> | | ! Ht
+= | z : i
+re 5 : i
+, : ¢ s€&eg |
+wn | ! . it
+w 3 i il
+a | 3 ' i
+= | g ' ij
+3 | gé | ; i
+sé : lh
+wi 2 : i
+A iI
+a 3 7 HI
+i a 2 ese8
+w | g i! il
+=z | : = & beg |
+<= | 2 ' I
+= | 5 z 8 erie |
+| g ig o3ae
+> | $ Ri i
+, £ 22 2535
+> | E x : f cH
+= | 2 3 = Bode 2253 |
+£ g S $538 Fy 2 |
+$ E ;
+n 2 4 2 3 2 s28<22% |
+wi : $ a 3 2 3 g5becii |
+a g & 8 | eazenes
+< ta g & S| 12 | Es 85238
+oO eZeé S 3 wel EB = = ] Peis sits
+wi a6 5 5 e alls} |? [2 LE
+As : ' a 255553508
+a Ze 3 re it & = 5 = rin
+| : gB>geg8a8
+28 FA = 2 = $ 3 @ Se 252 e 83
+w 3 2 | 13] |3 2 2| }2 Ja] ]s ~ 222555 a2
+: : g 2 5 3 =z s 3 33 2 82632
+y : 28 2 e $ a Ss Beu Bes Ce
+| zg=< a & s £ s e $ 2 2eo 85 e355
+= 5 z : : 3| |& s 2a53s2225
+: 5 g| |s : al }2 a] 13 af s gee
+; 4} ial 5 2/|2 3] |3 258322523
+FA 3 = Zz 2 8 5 3 23 2 geas2c252
+5 & ae a a 8 £ 2 2 2 s Sae ag5E8
+° & a =| lel les 5 2 | 3] 2 3 S| {5 B52232:58
+ef 3 a2 3 E = eo a = | 25 82525
+$5) 18] 18 3118 EB a|2|/3 2 | 13 $52223353
+$118 3] |8] /3 218 3 2//2] 3 URE
+2 2 $e 2 8 FS are u
+fl: a3 2 s, Fastsss is
+3 om oO =z S5 bidaee
+2 2 2 S52eee232
+a as eszz2Gs
+eS ae ae ee ee eae SSHSSEESE
+Sseese
+
+
+=== PAGE 52 ===
+wl fe |
+>|< 1
+2\= 7 i:
+ry a5 7.
+3 5 ele 33 3
+i § e|8 38338
+rT ps
+2 e228 8 3(°
+dg222 3/°|/* |
+ad ~ :
+283 ©
+32 |
+| é
+o8 |
+| i} | |
+| a5 ye |
+7 g zee
+Hl, 88s868
+237 —
+$38 a
+3 —
+] 2238
+£ | |
+. | |
+| 3
+3
+g i |
+s E : |
+2 ©
+aod 32 : AE
+| cs 3 lee 33
+2 © a
+| | | : 3 s g\be°aeaes
+FE 3 g |e|s a eueeee
+< = Blo Nn canal?
+oO paaeeaal?ls
+| gee Fal] "
+ke "
+Ee
+| ; a
+; {a = i i]:
+) jw o a 5 eieeebes
+8 8 eles eae 8
+a 8 elg @ panied
+w © g)a ° aaa 3 3|*
+o me
+- eee 38
+S| 3 a2: —_
+zi 2 2253338 -
+<< a Pipiiel
+& -_
+z Il = gea3*:
++i} S| 2 oe
+x 3} 5): -
+w| =| 3/2 oe
+| las ——
+=| gig] s ——
+g 228
+z| Sale ~
+fe) =| |
+3 3
+= whe
+Ee) Ele
+2
+| [te iu} | ;
+| |< : —
+| Io a" a
+ol wi 3
+| 9 isl 7T
+$3.3
+Ey
+gi a $265
+ y gaS2 ~
+wit} 2 — z
+Elm E —
+: o Bs
+Zla $ : THE
+. al $2388
+us om ii iff i
+| ge 2 AHL
+sla a3 E lslgggges
+wl) = f= 3 STE
+elt Fo Ss 4 2 2228 223 |
+fan) 3° s|sB 88885 z |
+| 2 £ KN 2/5 $83 = 86 ea?
+= 8332 Bees al
+a nt + zs & SEET
+= ss
+: 383862
+=
+$
+; |e & ai | |
+Po) og Haul
+32252
+2 a & eRe
+; | SEesEt
+a & e232
+g a) & =
+i <j a
+, Ee ERP
+se 12) a m7
+4 | j=) 2 i. :
+= rd i
+7) | —
+A <) : _
+oO a| ail
+3 | sic lle
+: | ig |
+i |}! j |
+a a :
+w | {ZI i‘
+— | (2 a
+sot
+ES OF _
+&
+: z
+: zz2
+: zz2
+2
+A
+: J z 2
+ht |
+i | :
+go} |
+<
+0 |
+w id | |
+: 5258 4 AP
+Ar 3lle 2|2
+wi S35 gy 8 8}¢ 0 :
+2g al|2 : ' :
+z | 23 || 3 3|8|3 Hi :
+5 | 2 alle g}s]2 2 sil = . |e
+Ss i | 3 8) 2) 2/2 HT | :
+2 | \ = ai] 2 =]e|8 ie : i
+: aE 25 oll é 2 -/3]/3
+| : allie 2|2]8 5 olf 2 =/ 2s
+fe) l S 22 s/213 Hap ail
+OQ a 2 2)2\8 ' i
+r= 5 zi] £/ 2/8 HE Hl
+| ele | ele « 2115 2i| 5 gE 3] 2
+| HE “8 § || 2 2] 2 2/84
+Ell 6 2/2 )2 aaa ei allé aL
+WHHL S]fs is ILE
+Pere NEY THE
+PEE Hit
+TTL Tt
+iE edli 2 wu || 2
+Pee lala HL:
+en <= 2 gle pal? We dele
+Le Ashe de ale dele
+ele ale ae gel:
+ae als ze zsils
+— LT
+a 3/5||3 §
+= Sis 8
+
+
+=== PAGE 53 ===
+8
+4 $
+s é |
+w 2 ol hal
+gi S| silc Eales
+7 S e|fs
+s :
+2
+5
+3 |
+—_
+5 ¢e 8
+2 3 g elle
+gs ° had bl I
+ea s|le]elle
+i. olle :
+ow
+! 2
+38 !
+Ee :
+A
+|
+| FA
+8
+@ * |
+: <
+x 2 :
+ad z :
+= oe :
+soe :
+AJ 2 : |
+ee af
+g a fi |
+= = :
+2 Ss !
+§ #
+§ 6 |
+t .:
+8 3
+2 3
+F Fe
+= 8
+4 2
+2 Ss
+=
+a
+a :
+=
+oD &
+5 3
+o 4 E
+eS :
+g2838 i |
+as J & i
+fe &
+Pilitebe 28 3
+z gee eee :
+5 2 3s > iu
+z ao oF 2 i: :
+| Es 2
+Bl s | |
+3] 2 I |
+a] 5 Le
+. } :
+vl so 2 i :
+£ 3s 3
+i g 23 S
+spr : t !
+| 2 538 :
+| & aE 5
+5 i 3
+# $2 z
+Sake
+& Feae Bee L :
+2 Ou
+2 = 8 z
+8
+2 ia :
+aa Lele Lai
+23¢3 i
+g2t? if
+ia a g
+q 5
+| | $ 38 z
+} s 32 2
+3
+. g 28 2
+3 a
+Po id ;
+7 ~ £ 88 3
+i 2 5 . an wy
+i 5 & 32 By :
+: 2
+8 3 2 3 33 :
+8 € 3: 32
+eg Re: 33 :
+2 £3 $$
+2¢t i
+gt 82 fia
+a 2,55 3:
+@ a Bh i i
+ZEESES Wi i
+Bet 38 7 aE i
+s 83 | Hine
+. S323 2s
+So 2888 gi é
+2 s3 a2r
+N Hal :
+| : Zo fo 8
+| pii3 223
+o S J Ht iH
+o g ° Hut
+; 3 225 bai
+> 8 Hey H
+3 . .-3 =
+z Fi ian
+eg > 7 8
+Ee 4 it li
+arog 222
+on = Hi i
+232: a= 3
+i] Hue
+< ~ $3528 i332
+a = 3
+re) ° eg2igsea
+wi 3 eee2eek?
+a egzc At Hl
+BES 223>2558
+Ww gos t g22>3222
+i = & ° 8
+3 =5525 z=
+& 8 net
+Pa oes
+= TAL
+s s 28
+a £3
+: 8 AH
+= ges s
+> eS HH
+3 2 sz eB oa
+= g = HLLTLLE
+<x § =|/ é 3 i 232323325
+pa 2 coi | ey {| 2 22253323
+a 2 S| é z|/ 5 g BGisiias
+iri] 3 all’ sii 8 a pati aE
+a 8 oie zi) 2 5 fe ufiaes
+os ails 2 || € = eg2ss5 af
+a ila 4 gi oa
+52 = £ = a & : : At
+ra) Z228 || 2la|_|}2 22zigsge: |
+w 268 es Si] fe] Ei] 3 Pig
+28 S|} else 5 ead Ht
+a =] || & SH SS § _ Ws g22f22823 |
+w Fi | ef} 2} 2|/ 3 s||2 ee ees eae |
+2 o Sy Sisils s Bs : :
+z Es ai} e eile} ei} & s|| a g2g28233 |
+2 2 Sie E 3| i] 3 ails phadidda
+= 3 aye Weyel sie z||= TTEEE
+5 £}| 2 o || = = 223528 |
+= 3 eye Welle] ele || * 2g2SERE%
+fo} a a Ss a]= @ Pa 223 aie
+= 5 | |
+° ells sls | 21/8 £ Se2isass
+elle gleltlsis = efef2382
+ele elses as Due
+ale| eli] alld g2besbes
+S/sie sie eif22323
+2 272 pseees2s
+3 g5eek222
+pe eee see
+ee sees ~
+eeSeeees
+
+
+=== PAGE 54 ===
+ages a ———
+; ; ———
+- g3x22i 2 |
+>|2 eke eagr
+=\= eee
+5
+a
+,
+2 ge
+«es =
+ese
+sige = :
+o eo
+eee
+$3585
+23323
+e585 i
+a2 33
+é
+e
+F
+_
+Bos
+B.8 i
+gUS
+. 3
+| a $8
+238
+23g
+e5é
+x e ue
+5 — !
+$
+<x
+se Set
+5
+Ee Bz 2 tte
+Ww si22322
+z s3Oo3 7
+w a3 2 2
+g e
+Ww Bas
+nd sESse2 2 §
+5 g|iiee? 2s
+6 ——__— 7
+5
+S| 2 e
+E i
+ral a) g te
+e| = 3 |
+7) H
+:
+~ Pad =
+a =) 3
+5
+: : : 3 é
+no} ©
+Ee] w g
+s
+Zz Q 52
+D>] w fs
+5
+we) o« g
+o 5 : :
+4 2
+= Fe 17 :
+= 18
+wil oO e Ho
+“3
+o| 2 53 He
+i) & Fe 7 i
+i = & 3 3
+al & z ab :
+c ne S Ba
+7) it a
+2 i int
+fe} iv ge28 adh 7
+nO} < segs a a
+- $3 & £88 @
+E a 238 ) 32 & 883 23
+uw 82% Hee 1
+5Z ia 235 inate
+wim << 6238 u : HH : :
+< 22,2 $38 23 ‘Y
+z Zz i:
+a . s ie
+i | 5 2 ss $232 253 aE EY
+3 x g32 id ©
+~ ee a 5 HE a7] rE
+rf 8 sfe- sg g3 ™
+g 5 3 g
+= g223 382 32
+>lu} 3 Begs £22 28
+= BEee 333 382
+Fa Hy ;
+w ese ~2253 858 a5
+> vz che t 1
+WwW ees a iu :
+if = e338 232 #5
+o| 2 HIBUEE
+@ 26 S
+z = reba i
+gs; 9 22 Bg¢2 255 22
+<4 Bz Hine
+: 3 @sg6h 22 5 3D
+w) & 25 B22, 882 G2
+ol —& ES Begs E58 88
+: Ly sPesgeide a3
+EK < aa see seen & a3
+0 < ga ogafeiiF $3
+a a 3 BaSstees 52
+eeeR 588s 52
+i. a °
+x uw) syssgiis : 3
+: S53ee 2
+3 e@sseab es a3
+3 gz Ss S = a5
+E e2@Ro wve 29
+a ° s2kS2hRS Ee
+; ut 2 gzsceei? 25
+; S§stese5 age Eb
+5 x sigs ea eee 5 8
+< <q} a aH :
+Sots - 3
+5 Zz HL 7
+x53 a Zz 3 Bs
+g 8 ceisaiia &:
+: Betgzess 2
+< ira 3 qt |
+2 22238338 33
+o ke | TEE 1
+Ww 2.2 alba 1
+a < 2: au 1
+a Es 2222s 38
+: r Sehs2iig 28
+z n Es getgiiee G:
+EA ww £4 Hi i
+< 4 & Soe 7°8 5s 22
+= ii 2 ni 1
+. 2. ° Sefage2E 3
+$ezeesass 2
+: : B5582882 28
+z <| ea2eees 23
+: — : SeeEgn tes ge
+— : seco eee SE
+rt seeic |2 “ = aesgegsh 32
+tide 7 . c SSs8e3222 ss
+1 oesatTs > 38 — = 2 egstés o 2
+< gee a 2 8 ies a
+oO gSses aa 2s 5 : HAE
+B4zacet zs > - 0 5 ay SEESSeea6 fF
+Ww SE2e28 ESE - is) 2s 5 3 Fa PeRaEsaaia?
+HEE ifs . 5 23 ‘ z z 4aa6€ o7sa5 a
+a so223 |227% e 3 at z 2 gl) gieg2it25 33
+: tt igs 2 8 gg gz rs Zz eee eeses 8888
+z se2e328 oS§ 2 s co = @ a 22¢¢ 8282325
+ar se: 2 i Ss = 3 ° SERS RBSE2325
+= 23S5€E = Sil<a|= ~|3 23 3 cp 282ie ne
+e522 [ees] ele eyes | 3 S| Ssse2aeeges
+= P25 [So sissies os} 22 |le|eilal & a] 28858 FER = 8
+: i +e : ae 28 a|s ale ELS o ScSEeSET BES
+aE Sle é 2138 8 wis “Zio = @®®tge of 2
+5 e SE RNEI ENS! 2 2/22 Haleliia}ell2|~ satyiifeza2
+; ; ii x SECeeS Sas
+eeulel evel: g)22 |£)2 az] sila Seuss 22eE8 2
+gl: ae : z|2 z| 3 z S_e8 ss rf be S$ eB
+Les set ewP lewis = Slee Al a SELLE ES
+oo) 2 is} xe2zuF Feces
+it ezuforr02f5
+SRST ISSCCTEE
+
+
+=== PAGE 55 ===
+ra
+vo
+op
+a
+wo
+Nx
+N gs
+a &
+a a
+ao 3
+> 3
+Ze.
+bE 3
+Bs
+om °
+qs
+Oo $s
+uw =
+w 8
+i £
+=z 3
+=
+> 3
+2 3
+s
+= 3
+oO S
+ga 2
+wos
+=? 2
+oO =
+w =
+aot
+z gs
+= H
+So =
+Q =
+
+
+=== PAGE 56 ===
+>|= re
+=| 2
+3S
+ma es
+4
+| a
+| ee
+3
+3
+o
+¢
+2
+&
+| £ |
+, a
+£ , |
+ois .
+@e5 .
+2° |
+: °
+A]
+°
+$ |!
+n = |
+eS | |
+fe) fr tH
+32 |
+3 eee |
+zZ ar
+35% :
+ir} iii
+pe a
+eises§ |
+ai = g2:° |
+wl g22°
+a| $23
+z| &| 243
+8) 2 ze |
+= fo}
+E) 9) 3
+El zg 3 |
+< a :
+a)
+g
+ir ald
+al > 3 |
+qj 2 : | |
+s) 8 3 |
+4 2
+|
+a 3 é
+a
+Ww [4
+vo] & i
+wo HN
+pedi “lal .
+a| % sad
+Lu] > a
+a itt
+Zz wat
+| 3
+lu a E38 a |
+é
+u wi a ,
+— z
+i a il
+>| fe) - | |
+|= |
+| | Pa
+: i
+a :
+7 WER :
+«| 3
+3 | a
+Nn i *
+a. |
+a n
+1 a | |
+g g
+§
+< Zz
+& Zz : THE
+. g
+Ww g | 3 aati i)
+
+5] 8 3] § al:
+3S S| |: TVEIEERIEEE |
+rm = ae HTH |. |
+
+< = =| 5]7 =| 5 3] els] s HE ;
+
+a | 2 veel all il, !
+
+: APLCERELEEL e| g g
+
+FF no gaée = TAPE |
+
+& ig Ses yy |
+
+< gE23 2 Hed l
+
+= >< es? FHERIEEy |
+
+: 1 ; #2 al Ele| 3
+
+> z Bess = 2" 3]3
+
+: : i | ; = 3 |e] $
+
+zs E :
+
+: ; it | = | §
+
+a ages : i :
+
+Ww gibi g |
+
+e:ait 2 2 =: s
+
+: HH g = 3 2
+
+oO Be, Es 2 |
+
+w peat2 3 = 2 =
+e224 F |
+
+a zbe28 $ / | : :
+
+wi SE ees = : :
+
+: 1H : E Hi 2 r 3s
+
+= Boe: cd 2 a 8 - 2 Z
+
+= seh : i | | |
+
+2 3 : : ! |
+
+o 282¢ i : : : )
+
+, | a : FY 8 3 5
+
+(3) Fs sens a S 3 2 * | id
+
+JHE i g = 2 $ ; 3
+
+| Ht | i : 5 5 | 3
+
+giles | | ; |
+
+3 . )
+
+| a /
+
+: ee | |
+
+_ | g
+
+= :
+
+— ° |
+
+Fy
+
+$
+
+Hy
+
+| 2
+
+: 3
+
+- é
+
+- 2
+
+= 3
+
+= 7 oO
+LIA ALAA ALL DAL AA
+
+
+=== PAGE 57 ===
+. 5
+FEE ||
+§-— -
+g
+a
+s| g
+2 os
+= e3
+a 228
+Set
++e
+£3°
+ga”
+gé
+22s
+ee
+25°
+Ww
+3
+£
+| i i
+> |
+2 i!
+s| 3
+° es
+Ww =): ,
+3 =
+wi owl E Hf
+2} S| i
+fe} ae Z
+eS) ri
+5 >
+WW 3 |
+oa 5} i
+Si 5
+fo) tu i
+S| b25
+wi “
+|
+< = :
+‘
+ti if
+a) Wi ue
+23
+ir zg8°
+E) a |
+| 5
+lu a y |
+E ff age :
+| ie :
+3| =
+Wu i i
+a, a 1 |
+- i : ,
+w Pas “ i : |
+Nn WwW * 2 | :
+Si . ; i
+: 2 ° : |
+Fs} Z |
+7 : ge :
+> <f iE : :
+Ed z u | |
+é
+Ww |
+2 }
+2 Fe : u f
+Ss | = 2 BE } :
+wu no 5 b3 :
+ig Ww : ~
+% :
+< i . |
+= & i
+> 2 i i
+z < H i
+< Be if
+3 itt
+Ze iff
+< 7 i
+5a 8 i
+z ges HW
+5 358 Ht
+= ga ii
+see 2 = a
+fo) 226§ : i it
+3° gf: =|| 3 3 HE
+| | 3
+it AF i 2228
+ze ell 2 3]| 3 ny
+a = 3 ? ; Hi
+= || x € © an
+a 5 || 8 Ht
+e 22 5 Ht
+£2 3 i
+al & an
+288s
+Vee
+= =
+
+
+=== PAGE 58 ===
+7 —
+oF |
+ales
+. e) 3 8
+|=|a 5|2*
+3| 5 2
+3| Bz
+328
+33
+| :
+=
+8| 8
+2| 3
+g 2
+| |!
+£ é
+g} &
+3
+Wi 3
+ui £
+5; 2 qi
+3} 2 [3g
+| |S) gi lie
+a| = 3)”
+no :
+WwW
+Oo) S|:
+El Ele
+°° Fi
+3] Blsl | 3
+wi] 3 3
+Wi >| = :
+a >le i
+Ol] 2 z
+| ©] 2] s}— !
+Ww wil = :
+al als
+a) wl =
+iQls | -
+25/2 Pi
+1 oe :
+Ziu) Ww
+Z/r p: |
+<5} °
+jtja) @ 3 |
+j>l<| a é |
+rt 7
+| 8
+a} S| | 2
+bE WwW - i
+< Qo 2
+BE :
+; Bl! ¥
+\ a ;
+a 1 gl | |
+wo,
+a. = |
+. z |
+z 5 ;
+< | |g i‘
+a = :
+wn ind
+Ww | ta : :
+a E i :
+< : i
+: : gs 2
+8 8
+2 i i
+w o Oo ;
+g 1 s 35
+: igi
+ease
+7 Sexes
+7 - e283
+ra) Bee 3 uu
+a | ths al 3 a
+Wu fas 2\| 3 3 HE
+23 2 3|| = z22¢
+ra | ee al] El] =i} & aie
+5 232 |8 ay) ell” 1a
+= Bt 2 a3 2 iy:
+Ss = 3 <l} si] ¢ ae
+fo) | | £e@ zi) s 3 sie
+ra) Liscisl _ aL Hi
+ena! girs
+2\| 2 2228
+see6
+serfs
+
+
+=== PAGE 59 ===
+:
+oO
+| |e
+w | |e
+Zz
+zt
+[U}
+ir
+Oo] =e
+Ww 2
+«| sl
+Fl ze.
+S| Zi zs
+Z| 5 2
+>) fle
+el OZ g
+2; WL 5
+z | 3
+al 2)z 5 8
+=| S| 23
+zls 5 2
+wy S| 3 2 &
+a} Py 2 Bs
+oe} O2 2 3
+wi bys 3 3
+g) Ss) é 3 2
+a| a) 2 5 E gq
+zm Qiao 2 8 o
+2| s e 8 on
+Ble! He ig «
+gs H
+WS ale g 3
+ti|2 rls 5s &
+a S 2 €
+zZ o] = 8 8
+<i) 2) 3 gs =
+ae =) 2 8
+> by . 38
+2| | ol 2 a 3
+a} 2 §
+ti | a 3
+a uu} 5 2
+5 2
+<| FI ass
+wo ‘all WW s2s
+$ w) a cag
+° Q| ! gi] 38s
+; ae
+a ES zi) 283
+= Ba 888
+iy c| a all 382
+: Ae
+Zz 3 eset
+zt I 3 acs
+e ” = 85s
+a Ww Bl) &33
+o | jo al) 353
+< si] 228
+5 | |g zs a\| 282
+w E Elo 2 538
+a [o) Ewes & cas
+w = <a|o x|| 283
+x ir |G 8 | ee
+< = zo 4 325
+ai) 232
+* ny ail al al) 255
+> ps 383
+e 222
+n int Sez
+wi a oe &
+[e) < " x 3s
+w qi] 882
+woo
+a 3} ai si] 282
+3 2S
+3 Ll aS) ess
+oO
+
+
+=== PAGE 60 ===
+wR
+>=
+a
+s
+i=
+2
+a
+E
+6
+c
+a
+a]
+©
+2
+o
+£
+o
+c
+o
+ra a
+wg
+ef
+Wu -
+[a] 8
+Ww ne
+EF); Wo
+>| ES
+</ we
+1} Qg SS)
+wl} ms No}
+FE] wi x »
+Kl w3 2
+wi -o os
+a >o a
+</ ts
+_ 1g 1
+WW Nn
+a} =3
+bE] Oy
+< 5
+- a
+Ww n
+8
+o z
+Ww =
+a 2
+< g
+= c
+@
+oy = §
+g =
+nN a §
+4 e Ss
+a xt o
+e | ja) 3
+= | |e) 3
+Z ®
+el ig F
+<
+o <
+Ww
+a
+w
+&
+<
+=
+>
+2
+<
+e
+n
+ww
+a
+<
+cs)
+Ww
+a
+w
+z
+=)
+=
+=
+°
+°
+
+
+=== PAGE 61 ===
+5 |
+3 |
+- |g
+=> gs is
+2 ¢ |§ |
+5 |
+2 = |
+= wo |
+oO bas |
+fa}
+3
+| BS
+i=
+i c |
+| & |
+5 |
+| 2
+| ®
+I oO
+| °
+|| 3
+| 916
+| eee
+| PR See o
+i So Sov Se °
+-~-w?t—-5*5 283
+” z Bao 8 3
+— a
+dg o NO © oo
+z E eae
+ii Fe
+Fe 2
+i}; 2 <
+a} S| |e
+2) =
+E 3
+x| = E
+oO] ao 2
+S| oO 2
+< cl wile
+w” ri 4s
+Wi ais
+a o| 218
+=| a [2
+3 qj o/s
+fe) a| 2\3
+- erste 2
+ala |2 12
+Par vi ale |&
+uw Si x ig la
+w) Oo) Sle |s
+ail a} s]e s
+Wie of OE |s
+zis) 4 — |s
+Ww a
+o| 2 | 2 3 ie
+a a} (8 |g rs
+fe) =| 1c 2 »,
+= >| lo 4 oS
+El 2 Is |? § a
+= w & 2 5 c
+2 - os
+i| 2 5 5 s gee
+x= o Scegge aot ss
+n = = EES SE 855
+WwW Ww £ S§oo8 eS
+el = (gue e EEE es
+iG z=] {2 geeEuEe <<< e es @c- & &
+R Zz S ~fEbEt 8333 &S&ecos8 eras & S 5
+3 = E a, iS S&S& Ss stort N scé& 8
+Pl [e) 3 EQettgcaea sk SC SElERS py 2S nS a
+a = a eg; :SBEee PrSEESE TES 2 gen =
+' Zz | 5 See Gs EES S sigeegi.té E.2Egs S
+> 2 psieezteee BEEZEE STS <5 Go8 E
+5 E g 2 es PPPbsblajieadas| é
+z < |; <eGeeeeiisé lbp bietlibaaal
+ia = g 3 2L&2d a = =-2s : “
+Q | 2 VTL {EEE TH
+Fa io lf.) Ue TUTE TE
+2 S< eed HHT
+3S rf joo} Hi coteeee
+he jae TET
+a s |58 THLE
+a z 138 THEE
+z poe RHETT EEE
+= | TTTTTREEEL HEE HELE
+a \ x Ss sO 2838353 Gea cSee of ing
+| =s bitpadlagii i feeieds
+= |e >) = = S556 2 eo = a £ Oo oO -
+| € 2) = =| E 2 pas fad $6 8
+: 52 TEI TITITERSET ELE
+> £3 ESSSESESEEEERE |
+5 Es BS23 22222
+Zz oe 23222222 |
+| EF oes |
+| 15 al
+o
+a | |
+<= | |
+i lo BD) “i 4 =i |
+w lo ef ce] at
+Oo | | 2% wiet a =
+rr | }2 os) aa
+= | |. -= oo tet of
+= | 33 Eck ol ok
+= | ;ee aa4aaa
+5 | a) Jdasaa
+Oo it =D
+oO
+|
+|
+|
+
+
+=== PAGE 62 ===
+|
+3
+ss
+6
+s
+ig
+£
+oO
+2
+Oo
+a
+i
+|
+oo Oo wo wo oo
+ps
+|
+|
+|
+uy
+WW
+a
+a
+=
+ig
+n
+n
+<
+w g
+a
+oO
+6 =
+= a
+(3)
+|
+|
+c
+s a
+o
+cc Oo
+eG 5 rr) S
+oo fe f= mc ct 54
+Ss B= a Cy re & &e8 & 9 & co c
+ea gE ~° x 5 eo fon & Oe &E &
+J ert aneet - §& ¢
+a EE 5 3 & zs eS ei) © c Ee
+BeeetS c — ce bs , £ SGOGOEE s 2 5 Sect
+SGS': See cerceg gage Par EEECS E Pd —ES &
+ES oO oO B GOH THEKGHET GE By ae qqqaceseé ag @soS&
+THANK SFTP eer tre re 5 Seecrtrtrg ge 1&8 ec sae t
+' - ey S =
+g J25SSCSSSSSSSESES ESESSELSe ese: SESELESE
+g SEEEEEEERERESERS FosESPC SS esr s<erasc esses
+et SS 3 3 SoeESe 2 By Se 8 Sk =
+ky Ort te € GE eee eines Gta Dd &£eBtceEgeests eg Beezgeeao TE
+raf a 3 Ss 2 DODwA = a> oo = o &
+e SlSeeZFZEEBSBSEBEB SEB Sec PECR ESR RHOETEBLTESCKCERSE SZ
+a EEE oo06co0d0mUClUUCDOUCO Qo °o =
+Se EEC KC SRB RBRBKBRBERHRETCSKC SEL ESSE OL EC ICS + C€EBBES
+> SS a ae a = a aor oe
+z xe ke ES ESE EHR ESSEHESES ESSEC CCS ZEER-SESEESESS
+< Zee R8GGOFFFFFF BFF RB EOSSKRSSCLLeESees$osseeRge
+B SeeSeceoeeeeeseeescEs gessesseessgstesesags
+w S$SOBS STEP Fr eer ear ETS MOTB R Bea Ze eZGES TEES ES
+mB) (Week ee SESE ESSERE SS, SSE SE eee Sees gee E gts
+$ BBEDPRPBDTHIGCTCTCCe sso ee sesgegerveveuswe Pees seeerpe
+BboeonanntBBETEBDTBSTZTTSOSBSESTRDSSSSSPEBSSEEBSBACTESESEUSG
+a | ESEEEESSESSESPSLSBSEPettesadasezaadgattirtediaecesaad to
+Ww
+&
+<< |ee
+= |/3a
+, Es
+Oo
+Pat 6
+2 \85
+Ee
+5 oo
+u a eee ee eee ee eee eee
+q |>F
+oO es
+Ww 3S g|
+o
+a j3ze
+oe
+wi o
+oO
+Z\|fe
+c=
+= =]
+=
+fo] ee —
+ce)
+
+
+=== PAGE 63 ===
+1
+|
+|
+|
+|
+|
+
+Ss
+| _ |
+< |
+=a |
+3 R 8 |
+£ = 3| |
+3g = S|
+7 FO
+oO adie! |
+4 |
+|
+|
+|
+Oo oo w oo i=] wo Oo
+aonmovwrtrtMO rer OMNNK KF Ke Kei tHe NNNNMKKENHN eK TFTNNON MAK KE DANN NA
+|}
+|
+|
+iq
+al
+a
+=
+i
+a
+a
+x
+u
+w oa)
+a No)
+x bu
+)
+9 3
+ray on
+c & c
+2 2
+s ¢ — S 2 BEG 8 c& « z
+t oc = & cn 2 ord N SB ip o a
+c cv + Se + 2 Cy oe cre Cc - = N G0
+o 6 rod SE om & ccEREC OSCE fe} = 2 = ed
+© 5 Sr e — < Se £ SBEdo SEE< E 6s 6 N 5
+ctccdc —Eeor a =< 2  Té6é¢ Se 2, at os < EE E © Ee
+& Oe: geo ad Gee ERER Rss: e ' ct<¢ ae 3
+2 ob fo} 4 lomo} lowe} vos 1 SB
+o Ed @ 1 fe = o cto o ooo © 3
+a 3 o ra a Eu 2. EEsec EEL SE 2 3 8 24
+ETEs Set § Fs C22 CLF C€C€55G 5 22 2 2
+es Bog So ‘3 so ' Oo @ ror art gg @ <Q 8a S<-8 8
+a @€=2zgF& t2e ¢ EZ gfE gexssSeexess fs 8g CF CBED
+g »eaeek £EBS 6 SHR BES BHEZRSGELTSZ_ 89S EEL ENEE
+' ooose § 3 o 3 £s Ess EECTEE& &®CERS gSges eas
+es cPRPT SERES ETS SRB .FFTHGEZIM EZ SSsgePy
+SSE25os5s85 DEE SH sOCEESTCHE SE oO Sz otc aqecvagt <
+4 ofS BB om & Saget see © eaeceezeootEER2sret J ; 1g
+zs ress sEeeEeFsESGLPELE PS EDESLEssepsrsca os Ecaox PP exytu ge
+Zz 6° zee SEG SZTSESSESAV SF GE SSEBGsGxtpegsasFFCotcsH#szascoat cats
+= So Oe OR eee Pe eB ee OP eT ee PTET ET HEOOROD SO
+PA <ESESKC oc SSt ge ssetc sage ss SoS SESSSLRESssceorVas
+w eee eT se SBR er eet Tot BBP Te BHeA BBS Seo BESTESxETBZS
+a SoFog@@SeFETZ,SSSSZFSoSZSgseggsrsscsarvs ys sg BECS
+Ss Be<eeeewsSCeeeseea4xea ees eee4ue st SCueuyvyeunl aalpnesn
+SS5SBE5B8BS#2SE5SEL2S2ERBnSSEoSSBEoOSoCFS GoPeESEEKHKFSHBUNDYAORE DB
+e ce fs ¢
+wi 2aeqqdtseaza£cecetcszeeczaazauszao¢q¢2z=20 o0oroouurueuerere ecff&e ESE |
+ws |
+Md |
+id |
+<q je2 |
+oa |
+= |es
+> S
+2 |as
+< gx
+Fis
+no |23
+os so gGa geod aaah a tata aaa gestae tot st poet A et aoe aA
+> 5
+S |38
+2
+wi oS
+z ioe?
+= = £
+a=
+=
+=
+fe} e
+°°
+
+
+=== PAGE 64 ===
+on
+No}
+o
+oD
+3
+Ou
+no
+Nn
+o
+N
+a
+o
+>
+Zz
+<
+FE
+a
+w
+a
+<
+ra)
+wi
+fa)
+w
+x“
+z
+=
+>
+2
+<
+kB
+n
+w
+a
+<
+o
+w
+a
+wi
+z
+>
+=
+=
+fe}
+°
+
+
+=== PAGE 65 ===
+|
+|
+|
+|
+38 |
+wf
+2%
+oe |
+|
+|
+ry }
+2
+s \
+§ !
+oO
+2 |
+a }
+2 |
+s
+c ,
+c
+s
+o
+ae]
+qs
+Aes
+€| &|
+21°
+wo
+N
+i)
+& s
+' no}
+a. bo
+a Bz
+> Os
+z nw 2:
+= | le} 123} |i |
+n 36
+wi in 8
+a oa soft
+Rs | =|"
+w wy oN |
+S ® 5 |
+WW - | So w
+Z aq] 2/08 ‘©
+< |wlt| los g
+= we 285 ze
+= |Wla) s| *
+Fes 2/5) 2
+g Zig} *
+a qe |
+Ww =
+a =I
+i pe
+5 x
+=
+FS i
+fe]
+re) *<
+Ww
+z
+z
+<
+$
+4 !
+s
+2 |
+=
+oO
+c
+oO
+a
+= |
+£
+ajj2 |
+gl
+2//2 |
+|} |i |
+sl{ =] |
+s]} =]
+£\| 2 |)
+5 !
+£
+Ale |
+allo |
+a}\z |
+|
+|
+|
+|
+
+
+=== PAGE 66 ===
+»
+3
+z 3
+>In |
+9 Lew zi
+a z3 |" |
+2s | |
+Ss 3s | |
+52 | |
+a” S | |
+2 2 | | |
+2 g | |
+@ Z .
+=
+<
+8
+3 | |
+ggea5 | |
+| ge: | |
+833338 |
+$3238 , | |
+| 3
+‘ok
+ge
+5
+Bree 7
+gee | |
+ot | |
+Ff 3 5
+2 . . .
+2 | |
+° 23 | | |
+3 38 | |
+2s 23 7 2 |
+=> z3 7 |
+2% -
+$3 3 |
+3 3 3 |
+33 5 ® 7 | :
+x 3 — : : |
+3 —
+e 3 | : i
+2 | | |
+- = |
+s S g
+z 3 |
+; 44g |
+223
+% » . 2os
+i » 3 22
+, | | oO oO
+) : oO
+a & : | | |
+o| — ,
+zo pe | -
+| :
+n n ~ | 2 | |
+o£ 33 )
+bl 2 2253 3
+fi) > pgties
+s & = aa .
+ala] |
+ale] a |
+iT} HE |
+<5 =
+ae |
+oO =
+: : | Oo
+Z\w a i 3
+Zz i |
+4ly E iz : :
+ig mas Bis . 3 2 |
+; < BS 3 : ,
+>lz Ww ao | | 3 )
+< as | : |
+: T = 3 € 2
+, a -— 8
+s
+: | — 2 &
+| 3
+= : | | |
+= = | |
+wo i ,
+; z
+N = , :
+a tt f |
+8 g
+a Fe | |
+. | ) | | |
+> Ww E3@ , | | | |
+2 ee3 7 , | |
+<< zZ 233 3 , | |
+E z 525 : 7 | !
+3 e222 : 7 |
+646 | |
+<
+w )
+: : geass
+$8 gsfe36 3
+wi o£ FEETELEEL 3
+id BS 232232233 sigs
+© ge =e ere :
+: LITE = mS »
+< € 235235838 FE
+= 3s 225883823
+| ~ PELE
+Qa
+S s ta 52252258 T
+: Lo B<ERSE wZ <
+< §_'¢ 5 pEEbia dis g555 :
+, a , pcEreaienied! na
+, Tt ppbpbbea =
+. a] g582g8 38 ee 6 9 zo
+a 2255 95385 O26 og 2
+o S Bese eke ages 8
+< g Ee] # Page aseug 7
+(3) 33 = on
+, 3 Bes we
+a &
+: & 8
+x
+: 3
+’ ar g 3
+: a sii 7 7 |
+r gg all 2 3 x x
+5 z¢ B53 q2.22 3 :
+id ae as] 2353 ¥] 2 R 2
+is) 33 a ee ]i2n8 a1: :
+u bia aliiai S| 23 2 S &
+aii iieidi ee S 5
+See 2 ele 2s cies |
+aun :
+Pa
+nia
+£288 Hates
+are eee
+& 8838
+£333
+3 2
+
+
+=== PAGE 67 ===
+2 8
+: 3 = S S =
+: 2 8 & &
+8 8 oo
+2 a
+as “
+£8
+25
+&
+gf Ss
+EB s 3
+2 2 2 8 8
+= 2 : e S
+o >
+F Ss 2& 8 2 8
+§ z a
+= |
+s
+3
+Bugg et
+geeeg
+$3338
+$2338 8
+SSkes E g
+= z 5 é g
+3 Z z 3 8
+@e - ; |
+es 3 3 2 5 g
+5 ga 3 2 3 t
+Sae :
+get :: i
+3s “ “ |
+3 . : ;
+< a z |
+< < z z i
+7 7 é
+: _ < < < é i
+g 23 |e | :
+36 $218 8 3 :
+i. ba g g 2 s 2 &
+Ba S S 3 § |
+23% - : 8 : |
+s 2 os J 8 3 8 : i
+sy —— | |
+23 — : :
+= 3 :
+x 2 : ;
+E P :
+e a ; :
+22 oO is) :
+oO oO | i
+" :
+x oy .
+oo ° ° :
+3321/8 8 : , |
+= &@sss = 2 : |
+; AE g 8 s 2 s 5
+= = = :
+| a e 5
+= —
+x : — |
+o = iz ; :
+a : 2 :
+& : |
+3
+* : !
+a & ) 7
+-~ ® |
+[s} oO
+24 - | :
+an ee 2 : - : !
+S225 5 : :
+Thal. ° = 8
+pgeag~ “ ‘ :
+a “
+< < i
+= < < : :
+fas s |
+e238 = 8 g
+3 B = Fs F
+= 8 3 & & 8 |
+. : : : = ! § 6
+i 8 :
+a= g 8 es 8 S | i : ;
+ge S S 8 8 ;
+2 S S 8 ,
+rE s 8 8 s E |
+B3 s ¢ 68 ii :
+3s i ! i |
+i ij ay
+3 3 §
+a a2
+| F| o 2
+! . . . & 23
+2 3 g a | H
+: : 2 2 Bee
+pe = a as io 8 8 Wy
+; 8 2 gs £ ¢ & 3 Piogal
+z 2 2 * g gos 3 8 a]: i fi
+= 2 g E
+0 S ° 6 5 3 f & RK S : zo: aE
+q = 2 2 5 be! HE
+So 5 8 = a = 5 § sae
+a 8 = S = sg 335
+= =§ fel #85 ss
+| 3 3 285 Saw
+a 222 ft HE
+ao Bes i i
+, os m3 see
+> 2 Z if tr
+22 5 re if E
+z ses o4f£ 028 8% 3 il: Hi
+xt 6 ease ese ge gk gz i aE
+E S28 S935 25 82 8282 ,2 is HE
+n eQegezoese go S282 258 3 ao F
+w = ziS¢f Ka ga Ewif Zz aes 2e-
+z €¢ 3s¢ § QEese ase ced £3
+a S < = £2222939238 FE ii
+< os ie < eZee zeoe Bek ae
+oO 38 te es “r. af i
+wi Se <8 £8 ox weedeat iF ie
+a 2: 88 §8 23.8828 53 58 : 1 iF
+Ww a aw on iad §, 85255555 aes yi bid
+wi E FO w BEE REESE ES 88 58 fel il
+“ s h2 2 es Fus 3338 8% <2 zae sii
+: : 53 52 estes Sulu Qu eae) E — <3
+< eo #8 S85 goes ee es ou rE a
+_ : agessegade? sw Be. Bas
+se] € SEeRra ED bs be aay
+. 2c 3 ;
+gg _ ice A G$eSeR FB #§3 Pad
+= . bs ¢ 2 ea
+rar ; aS seo 5 8 |
+oar os a? 5
+25 2S S . : i
+< Ef2agce : - ik 1
+fea 28 a
+n 2 —E= : ie it
+Wu E Se 2 2 1 Hl
+338 5 2 laniL
+cay R 5 2 s aE
+=< a 3 S & x bate HE |
+oO & S = g | igs |
+3 5 3 etenee ie |
+a iS oe a Bs gues ae |
+Ww 6 3 if Ht
+z ge ggu2h8 ea
+’ gs 7 eo 2s é
+7 2352323
+= as 2 2322223
+g3 = TS eretie
+5 s FS SESeE ES
+| g s2ege88%
+é 525825
+g BR2xE5RSE
+g] o23 22238
+8 3 5 Te
+Z sE2nG255
+Z gee eg
+5 gege3%3 8
+5 BES sa 82
+ferzfese
+ESSESTSS
+SEES
+
+
+=== PAGE 68 ===
+sigs
+; 3/888 8
+Se 2/5 88 ag 8
+>/2 £9 aoe #8 aa
+=| s td ° aS EEL
+#5 us | BO egeees
+q & a: ~~ ELE
+& > $3888 eg
+£2 - | 3 :
+| cE 5 & = 2 So co
+s° 2 2 3 e & qe
+N nw 3 8 :
+£82 8 z |
+- “ é |
+2 o
+Oo
+N
+| |
+ss
+o
+5 2
+gE
+38
+= ¢ :
+i E $ 2 2
+es 13 iu
+52 2 28 EEE |
+no} 4 6S = nd 5 & E |
+: - - 55 8 a 6 z |
+. : = 3 5 8 6 8 a
+EE &§ ss 2 o s = ss © =
+\ 888 SS 5EES58 - bil ;
+iE z S558 € <4 o s o no} |
+2 8 fe} 22225 - 7 it
+Ww Zee os Seess8 fi it
+1 PEELE g D ce c [ot roy no]
+fo) aa 888880 oS oO o 9 =a €& 2
+j ELLE a oO 7 nD co] = <4
+82233 o g 2 S ry fo} i=
+5/ 2 a 2223 gg Pag it
+. | 2 ee - 3 g gs c |
+; : g§ g 2 2 a 8 Ss |
+> & ral > fa] z 2 $33
+al & Sew zw 2 Zz w & - -
+wl 5 £ SED && 5 é : : 7
+wi 2 ° BSPdgS ra 2 3 i
+wh > 3 2533 85 E : |
+7) E 253335 BS 8 - 1
+ar 23325 6 50 o 6 @ © oa < > ]
+de) 98333 = fo) e & 8 =) w |
+28358, 235 = Q n 2 Ww x
+a: ARTE 85 6 4 2 3 wo
+oad og2ie ZnO = & an @ o w
+ee PS aeedge ey 3 | us 8 8 |
+cgeegeeeblas aac ys a < a |
+gu35 229 ae 2 9 oO: E wl
+: ue 4 9 ow Ee a - 2 a |
+geSesse8 a Sze <z< Q ol i
+segse8 fee o Qu zi 2
+2 2258 Q wa us ra} fo} 2 |
+i en | WI a £8 8 OF O me 2E2 he
+wi 2 _ 8 988 SESSS oe
+: | | So 35828 AER
+Qo : -
+7) fa) 2888 rs ee ~ =
+i| @ 5|k & a8 iH 1 ;
+wl ww zlz > ss wees 2 5 7
+Ww} ® 215 5 6 aus SEER aes +
+== 56 gsssss 8 : :
+1 - 8 8 sss-es rel - a fo}
+ty) ow 2\g446 EE 6656 - 255
+Z| > giSSs BES eec8 pa a
+° Qj oa aa 555525585 BBs :
+no ees > PES eos 85 a7
+s| z 9|a 2 3 ao Pee : a :
+z| 9 | HE |
+BE) £ Wha ,
+< 22228 gesece 5 esse | .
+© a 2 aaa geese e5eeea |
+a io aboaba getese CECE | fa
+& wl 2 eGR EPEPSETNERS |
+Ww Pet eber abate |
+‘ a - ~
+Hi atada |
+nw
+> Z
+; é
+n 3
+: an
+: 5
+: =
+| |
+Ww :
+a a
+: a
+|
+|
+: |
+) |
+|
+2 i
+|
+é |
+a |
+g |
+| |
+, | .
+fa}
+=a oO :
+- za
+| pe i
+: $= | i
+~ = & | i
+gee 22 7 |
+BB 32 33 2 a | ql
+BS 85 E255 7 I
+; — | g38
+SESS 55 + 2 i
+B88es8 iB s = i
+o wo LY — = | i
+oO wo rY x = | Ht
+8 8 = = 2 | AL
+2 US = & = HE
+a 2 3 : 3 3 | = 23
+38 8 & LE
+— 2 8 | 38
+286
+ose
+
+
+=== PAGE 69 ===
+|
+|
+|
+® ejooo ;
+Ww e|sao eos ala co SS
+£ vl[- oso 88 ISIS SESSSSSSSS
+= = So -| le 9oSOO0S NINSS
+a seo sit sesssesseseesssees soe |
+i |Z ¥alglesceege o & |
+WwW ol = to oO oC |
+o |S a |
+Ee |
+a Oo
+a |e
+a
+2 2
+fe]
+| jag
+j=—
+uk
+a. n ooo) lolol
+Kein wW sss sss isis sssessssss
+jne|bz% SSS SOS I{¥|/¥ 88s8sssssss Nooeoon
+2lZo¢ ¥SGSSCOOOCCSOCOS fSeeeseeg 8 8
+iS$4o25 rSoeoecSSOS SG So
+5S jaf E—
+lz E
+| 2
+1O
+is
+| on coo lo
+jo Ww 6ses oo 3 S
+je ha rcs BSS escoono
+le Ee ~ OS SSO S SSsssesesesisissssesss eg
+2d DOSODONNHK TAIN 22 2 20 |S S S
+oO im tAlNKloo 2 >  S
+w = & oow~ye >
+& |e a A oe
+ju | mg
+je [F
+i
+| ejeoo 2
+| sjs8ss8 888 2 eco
+| | e|p=oe Goce 8 ssssssesesaisissss
+} i oe 0 sessecsssssissessgs ee
+| | aaa ovalelogoadaee = o
+| am = = ON = i
+=z
+E
+°
+E
+z
+|) =
+; |Z) s
+| js) =
+| lel S|
+| je} Ze
+> jn {2 sss ggg gig
+| °
+<| gle |é 888 888 /s/8 3888888888/8/8888888
+a| zla |22 seesessssseessssse e &
+m) ZF |soh BI Nor 5 6
+= ol# saw =
+Z| ol8 |Bee
+9| wis jase =
+QO) wi |2ks ie
+al2 lo c
+Lu | ro) Ge g,
+mio} 2a | of
+wi>| Cf | Aa
+~ |
+zl<| &) [2 ese ges |sls gee
+| < o So
+Z/i 1] Zu eae gesa lele ssssesssesalsisssssseg gs
+< a za t+ DOOMONANDYTAIA >SOGCCSS Ss S
+a <s x a W|orrooge > 2
+l|o s2 = x oS 3s
+>|4 ras)
+|2]4 we
+“|g ee
+| 2 oa
+2 | {9} | lak
+Sg | = <
+: iq i
+s | |e
+eT dae a
+= | Fa < Oo O00
+| ir ouodce
+> wn ona
+< Lu | 5 COO00000 6 S
+& | of
+wu w =
+ioe) Ss <
+< 2 6
+° <
+a |
+yu 2 a) |
+= = 8 a |
+= i = = Oa 5 |
+2 S}o o oz2 |e a
+: io oni 9 QE |2 cos a
+z i § o/$e8 O85 Iw 8828 z 2 8
+z ; a qlzne ?° SS g Sota = 8 - €
+i ao 2 a otk N So oe °
+fe | | = Z/S—ES8 pad IRIE Nee | a88t5 5 &
+n I ; Wi 2 lia, (O. Sg ooe?gesg oS | wi eeSets es Ss
+wu | | fo) a cco s 222 2a. pas aoa a os a
+a | |} | 3 O/ge8 822 (Fl wLces wlu gog88 8 8
+| = = e 8 So %6 2
+3 | I Olt at ae oln =SEE5 -a/2]/2 oe2eeg S re}
+S| | | a QJESE 222,/Z/2 ESEEES g SSlgle 224288 & &
+a | | a) Sl2 Se FCS oelS/SL_ 22222 § SSZIE 2x veo &
+a | | Clgss Be Sx. #2222 a SS/2/2S5S338333 $8 §
+wu | |e HIZSSR,SSRSS/OGEELEE S Bess eee 28 a 2
+Zz | | 6 S/S 5535502 2GEEEEE £ BaelPeeeeaE 2 =
+5S | i O|s SFTRRSSAIPIOL SELES s55 5 Fesésss 6 6
+= i PISSoessags SES SSS Seas aayiozez222s2 9
+| Glesesessea/4]/e ete eceeesgs sls =.= 2g 2 2
+5 | (PSG ES ESSER SESS EES Se SHE SSS55 58 5 =
+© ~ ——— SEES ESSEE SSSSSEE SS SAE SS88552 58 5
+es SHEP BBP AST RSP THs
+LL St SReeeer One
+|
+
+
+=== PAGE 70 ===
+no i>} eocool|e;e i=} o oo Oo oo Oo ooo eoeoljoiocnd oo o
+i 8 ss88ssjsls & 8 8h & SS/S/SF SEQ SONiaogwse olala
+oe ee NTN N Of aot N = or — -—= = Now [Te] 2 10 io oN oS
+res
+w lz
+9 je
+Q °
+=a |=
+a
+2
+fo}
+as
+=
+sz
+Wk wn|e eoooeo fo} fo} ° 20 Ss oo fo} ooo eaole|coeo oo S
+pa ws 88888818 8 8 8S F& SSSIS SHS SYSNIVNO SHH OIH/2
+ar ee ooag0d o 86 6S 3SS 8S OSG ~- COS SOlH|lmo>o oo So
+2 &
+0 a|aSS
+S025
+> |< E&
+iS e
+oO
+a o fo} eseceg/e]e ° o ee i=} eo 2 ee°o esje!2eoeQ esje|/e
+wo ® 18 88888818 8 8 8h S SSsfo SEG aopassoasieoeis
+tle jf N¥NNOlw{RH N KH GK KF Ke So NO~r re el¥lo0on oNIN IS
+5 las [7 ~
+a
+ie Os
+i F
+o eocooce °o o o oo =} cole!/co ooo oo ooo oo S
+8 88888818 & 8 8S FS SSlS/S SAG Sasiagaqssaqgiala
+Y oo N ON = A = a = as Se aoe a Tao “Nn a
+||
+a
+t
+E
+fe)
+E
+2 non Oo ooooeo So ° ° oo ° oo ° ooo oo ooo oo}je!o
+on |e 8 8sssssis &§ 8 8S FS SSIS/S SEG Saeigaqggsjogiaie
+w 2 S ooooo - Nv - or = oo - orr oo +Too - Ol ol—
+Po
+w |S2u =
+oO |zog
+ao jwua 2
+|> |os2 on
+ja |owQ x
+2eo Quy
+2 \%¢
+So la
+a
+a =
+Fi Wu
+wo ° ooocoeo c=] o ° oo oc oole!co ooo oojoiocond oo;ie]o
+BE 8 88ssss/s & & 8S SF SSsys Seq S|Soaysiseaqssieaiase
+ze So Own AN So o co - oO o -<v|Flo Noo re r|NI|OoO aM SNIic|o
+| au x 2 =
+| zZ
+<5
+zo
+Ho
+ok
+==
+Ow
+g —
+° =<
+N wi
+a
+a |e Oo C0000 o © © 00 0 Of < oo¢ a0 oo0°0 oo °
+& (2
+Z 15.
+£ [9s
+wn
+i fe
+oO <
+a |o
+3)
+ul °
+a - 2
+Ww o a
+ef; O° Ss se ® ale
+=s = c = == Le 2 wo
+= = -—N cl ws
+=| a E E gis} 558 5 eel (8
+2 a & 6S Siuly S83 FaRel is &
+: 9S a = ®@ Bef £2 £B3lzla cox oz zSleic
+= az 3 a & Oa oc = qjl=z ec sa He Z Blo
+Zz) a 2 alZn ESE _EtweE S8/S/S BES B55 Bl2 E|4Ie
+mh |e B 2 calS/s8e8eeg FR PS sag S819 ees 8 3h wif Sale
+gi 2 5 B Salm(SS55ES FEN ESS TSS S58 sale] calla o/¥/s
+ao ° © oo aalt{[o, ¢ = cc 6,28)/90|9 85 @ o o|Q = Se a fa]
+gq | Ss on 3S ols ot ot SoDtASaoA cA eM F/OlO 222 2210 eslelrE 2la/e
+; 2 2 £22 2 sfoM as aoMaoov ov ofisls- e226 L215 a2 oer Gals
+oo] w FE FEY/BP B2>BP BaP ePse Ob s53 Fe 3 o19]/0 B/als
+uw a = aa 5 BIO;/cR CF CR ECE we § gG/WIWZ S55 e o)w £ £]/ala vjrAja
+Oo rd S EE ec Ee ga $9 99089098 8059 4 72(22 22588 s|= BEM ]o <jOls
+8 Be eet eet es 2 2 SES Os
+ul 8 2 ge 88 SwlEs tees see ee § Swlos ll sq sels s sl¥lo sez
+Zz Ene zee? RESESE SSE SESS 3S 38 2935 aaa a8 €
+3 SQEEEE EM e282 82942 42 9 ower Ss EOS SHloo oF12 gih]5
+= $239956 5/4/95 9095 385 BOB s/aisu 5 FEzSalsiEeelsls alale
+5 SH SR aT 2O 2620220420 B SElia se EL aslT lac cjFliu slil<
+Oo Lo, Hann [ciate enti sieeettnenearenimaeneneeter [see Leeengneeieenem! Sik Rana S| —
+re)
+
+
+=== PAGE 71 ===
+o eo +reagaeeoeono 2 eHnx20 2De2O0e0G0eaD oOo © |
+Ww S 28 oD OOS oo 2: oe oe Seoeeoeeoen ts |
+ae — MOoONNOrT OS fo} romeo rT COCOONr Oa a oO |
+£ = =
+2 . |
+uw |Z |
+oO < |
+a 16 |
+2 e
+a
+o |
+° |
+23]
+sz
+i ole recoogoggeg9o S enoo eoceoocece 9s =) o
+et we Oo OB Oo oo oS: Oo ss oo Oe Seo oc cae fo 2 &
+Shige ,a|/° csoDDDSDCOS S SSDS SSOODDSGSGSCDSD OC 3
+HI224 _
+oZ|ao3 |
+S4o25
+z |< —
+i=
+e)
+fe)
+a o ° eooooooo$°o i=} eeo°o ecooeeceoeceo fo} [=]
+n Ww oS Seer eeaerS oo eo o 6 ao oo ogeaf So) 2
+iv Le ~ SSDONNOrT Oe oS ~ ONS KT SOSDONY OOH & S
+5 5S ®
+uu os
+& |te&
+ir] F
+i=} ecocoeoeooeoecoe/;e];e eceo ocoococec°o co
+Ss sesseesescsessgs(o SESS SSESSESSSESS SG
+- treet or Ke eK elle - NOG rote Or ane N
+gr 22 = F
+2
+a 2
+2
+8 E
+e S
+3
+.
+$
+H
+g
+Z
+=
+a s
+2 no ° ecoeoceocecejs|c oocoo ecoooeoeoc°eo So 3
+n E o Qo aoqoco0ce selec eooo eooooogescse So E
+Ww > 4 a He “ogee o oer onoo Tm rae ot o 3
+we |i = 5
+Ls 5
+|< 26. 5
+} ei —
+i |s2u ©
+a § ~
+Oo |ead 3
+a wos : vo
+2 as a on
+m nwe2 a 3
+a |oh? j ne
+6 |u< 5
+a a 3
+a = 5
+a i
+8
+a
+oo So ooocooocece so i=] eooceo eocoooococseo ole i] 5
+Ee Se eeoeoseaggsa e eeoe SGEGSEGSGSSS OS S a
+2i So Scoot MK Kee HK o -9900 SSoSCODOOSCAaAS NY] F 2
+ao =| ¢
+a Ey
+its =
+20 4
+@ 5
+ue E
+an 2
+of 3
+! OG 8
+| oH Q
+o | J
+a =
+s == 3
+N Ww 3
+.
+a | E
+a 18 o o0vvDO000G Oo C000 CHOHOHKDK00000 0 z
+Is
+=z |e 2
+< |$e 5
+oH | wu a
+w fe 8
+om |< 3
+<= |° 4
+Ps) s
+©
+wi 2
+Ww “= N iS) ‘6 al = 3
+| b ir ° z + |
+fod _ 2 at Zz 2 Oo Zz = © E |
+z| = GS gta $8] |F .2 2 B8 = ey iis | = |
+=| 2 2 Sas 22 E he — Sess etar Giles) 3 |
+. g = S88 46 S$ BR NY ER S=H=ASTES ai/2+s) 8
+5 z € Of Gcce IJJF F€H BS ET NOHH BOS S|lsllox 5
+z Ss « Zeesss Sle f£a £2® Zo0000 8828 a=/O} FT| ++ 3 |
+he] Bio Faas zl= 8 OZ22Z2222e2£ Slo WO loa 2 |
+a a e=Baueveo SSE a6 SZ £€ GFFFFFR SRE =| a} lim 2s] z
+ri 2 ssteceee ss (Ql 82 8 cece ecececce BSE at] §
+a ° s25282282 222 IRIS SEcc SSESSSSSS ElwlESHoysy, 2c
+< n SUFEEEESSS |S]/@ FSESL PEGG GG ess LS} Sfml2yGcl 2
+SG ia SBrP~3IFFBBCCSCOHSIE FERRE EFELEELCEELCEEE Eltlalallioysy § a
+Ww a ceF D&S FS HOooelZzle S-ZeEE€ ECEEEECEEEE LOleciatii2 =
+®2O = Wo) 2¢
+a S 22Os es a5 TT USt(S SKLFEEF FCHHFHFFEKEKEE LAS Hl glo 3
+Cr OVC TD CD EEE lwo Bo tc VouvTDVoUU alwi]sjwils 83
+wy fo} STOLZ Lee ES HElele 2OLs Fes ee T TSS. Me lsielole ae
+=z oe Fy eT ee GG oaSlwlEx SFE EMBECSCSELCSESCSEE En DMHISo aij so
+= SZESCSCSS SSeS IoSB ETS SEH SECS SESCSSSS EH] Seale a3
+= BOS55TS5R BS Sl\Slon es osasceeseseesees elal2a|/s]/0 38
+= COW GFHTHTHGSHGSH TDL CHnC€HHsHnsesseeGdetan Ge i[aole |iwie ae
+o Ld ttt ss
+°
+
+
+=== PAGE 72 ===
+S
+
+8
+
+i
+
+S
+
+g
+
+g
+
+ri
+
+8
+7 2
+r FS
+j 3
+: 3
+2 =
+£ Pd
+: 3
+F Fy
+§ :
+
+: S
+Z g
+5 5
+: a
+: '
+i g
+5 =
+3 s
+z
+: si
+4 =
+: 5
+3 §
+: g
+2 §
+é ars
+5 &
+: b
+: &
+i rf
+: 2
+: o
+: s
+: $
+: z
+5 &
+& A
+: £
+
+5
+: 8
+5 3
+i 4
+
+B
+F 5
+7 g
+Sig Z
+$e :
+Ze F
+5S F
+g= Hl
+a5 :
+ad E
+83 z
+e3 &
+
+3
+be
+hy it
+gs i
+es é
+
+2 3
+8 3 :
+tae 8
+
+5 8
+sé
+€3 Z
+eo :
+ea E
+be os
+2a
+
+g
+ag :
+Eo 3
+88 H
+a2 :
+o§ z
+22 £
+=o
+oo i
+és 2
+A Fi
+E s
+ge ee
+ga =
+
+5 5
+2s =
+
+Es
+gg UF
+
+gS
+22 zi
+Bs i:
+8a be
+oe a3
+stati
+
+D " 5
+
+. bieae
+o eos 8
+N Hi
+bril;
+1 baat
+ciaid
+> Te
+z [3
+Zz 254
+< ala]
+3 on Ss
+: beled am
+5 1
+a s
+: ppc el
+2 blag
+3 edly
+; euedal
+s. 5 sai
+: piliis
+w 23% :
+uy 223283
+< He 7
+sc 223
+= at
+30 3
+1 pebLil
+> coins
+Zz baiiil
+: uid
+e iiiige
+n iL
+a TE
+i— ae
+< giabis
+gigbes
+E begs
+ttle
+a ait
+ogee
+wi aie
+z ae
+Z SEER2 |
+we aay
+= B5 4
+S ba
+33
+z uo
+Ee
+St :
+&
+&
+
+
+=== PAGE 73 ===
+Be Re ss ee ee ea | ri
+| 3
+| =
+| 8
+io) $
+= 2
+£ 2
+€ 5
+8 2
+° 2
+s 2 |
+> 3 5
+= 3 3
+5 aqqgagaaa aa 2
+2 agaaaaaa aa a
+Z Oo000000 o°0 3
+kb agaaaaa aa S
+< agaaaaaa aa sf |
+m Oo00000 oo a:
+z 2
+Ol J 2 3
+| ols £3
+=
+1 4 § « |
+rs 3 2
+=] » &
+5 z
+8 58
+3 5 5
+< 3
+= o w
+ro ° 3 & 8
+Q i) € aos |
+2 ° ° 2 o *° 5 2 3
+E 5 F OF 55 E 52
+| oO oO re) mse) ose} Pe 3 nt
+| £ Ne ey Ae gs 2 2 Ba
+° NREAR OAH NN o 8 a 3
+in OANMAT HY 2 2 £6
+- % _& a 8 §
+i 2 5 3 5
+gsigegenacaglela gig) 2 fe a a8
+$2] SON oe Bs (89) Shit eT IO. = 93 all a
+cle BP ODr Car HlA oN 5 o% 2 2 2
+MO1DDADANOKN DIMDIN Oe 3 2 5 2 o g
+NIODH ORK Ole ]{H OlS § 3s 2 ge £3
+o elmer nnaoglwt{[rn nic | 2 as . 62 & 3
+2 TIO MMADN DIO! OC] | 2 » - 8 Ea <2
+jo ele roe OLN I< | 5 §$s3s5 288 < @
+Ae *| 5 25 2 22% 3
+® o Sco SSD a
+| 12) 2lzZ | $s 2g 256 x25 28
+| fo} 2 Bo: 2 o
+| = =e | 2 8 $85 258 23
+S| Sle } = 2 eos 85s an
+E Ses Fe o 2
+= = S 8 S52 Sor =z 5
+©} Sia | g Eas 35 Ss:
+> Sl2 | 3 2 32> 2st 5S
+z| 2/3 ' 2 2 sto g89 gy
+= - 3 § 23g §8o az
+i . a 5 2 8g: §28 gg
+a 2 2 oss 358 38 ey
+Zz iu| S & & x88 ee 3¢ ~
+| Z| Z] |e = foot yee 25
+| Jol 2) {8 2 , 5 Sehssée 2g Sb
+} B= 4 => eoues 2.
+n 9 2 Reeoauage oe z 5 2 SESsols ge ss
+ao } {7 SSOSRBS eo = x £ SSeEsee eq a
+wi [aa AOANAnMNHNMNHM ot g . EgSBzeces 84
+| = a] SEea s2o8a 8 8
+” a. al 5 5 S8es2Zceec eg 2
+\ 2 £ SeSScesscs ah se,
+w|> | oc 3 —£ Epzeses%g 25
+a 2/5 = x x é = seo cee see ae
+< ayws bF2z2500 2 5 & gesessyecs 23
+BE lea = s) =o ; eg S83S8e58aee 2°
+sO 2 > = 2 ¢ = a =
+- RI52 2eQ2%u Zu g SB SELSSse5ss 26
+Zif Pa e = 3 $ Besesesegac aa
+iz lo : S$ §dteesahcve ES
+| Ww ei § = B&vsegus2s3s 8 3
+< % 2 & s8oeeseszes 3 5
+| | B g@ ssedessssas £2
+119 12 3 S BseuScesses gs
+a - gtsess $
+I> 4) ge 3 , Sg Sa8538e5s32 8 3
+l=l2| 3 a § 38 egeeceeesbe = 3
+= gs 2458 Sepssisgeee ee
+S| jo oov00t00 oa S 9858 Se8oigegess £3
+| FA Io B Seas Sees er cease 8 3
+| | je 5 Sxfe yoecusesay 8
+am S S28© suf sesress 5 £
+aN | S| |< S 9253 SeEoRESSSSu 3 5
+S | Oo SEES BoEs = Gsslas 2 3
+a } Z| | 3 sons BugesleSsue 3 =
+' j I S BESE TESEyesogve ac
+i S SS PSestrad25G a §
+e | [el fz B flee iitbersic. = g
+} | ] 8 xEze Zscueod =e Go 2
+ee eb ee 3 Geese Seigssees’s 5 &
+> | w| 2 i ERSSsq SShSekossve 2e
+2 | tu | i= 5 Osses Spseeeaeeas £3
+t i od SB Voss Sse e Se sess —E 2
+E | >| I> co i = 922c8 $255 2030958 2
+eo | jai} jz = 8 girte giaSshtee8s 868s
+wef iz) fs = 2 25555 isgske-5323 8s 5
+So i a Besf S2tco-G5e0 ge |
+< | Z| fo} Ss o | @ 85885 Seaseceseee 5 5 |
+So | ft} fe fey 5 Sle sl | z 3 52222 Egeeeeeasss = g |
+Ww | 12 |6| & a E12 ali | Fs 3 SBeES Soe soeteee 4 OR OS |
+a | 2 £ a Zz S)O sig) 5 2 SS88gsssscescsssees =F
+w | |S s Fr. _€¢ 5/81/2248] = E gevstaetegenseassas § F
+z | | fe |E| <2562 gGlelSslu 2 S esipssasigsteeeesse = =
+= } | | 2 3 Suge, zlole x2] s S SSsseSeecCesPeevee& = 2
+< | | j Wi a} £2eHE 2 c15 wl] e 8 SESsSceses2578sFaus 2 &
+= i | { = wu xt Zz - a | 5 BS LSSscogvogve_gosr ss a2
+n <x a oO 3 & 2 Sa
+5 i | jo |S) assuGzsle zis) 2 e = B2zSSeSselseserstss § =
+| a 5 §aCSReossssacezes 2
+5 | | 2 |F) e& Rr zzulFls o/s = ¢ a 2 g225egsssegcessezs. = 8
+2 \ 1 Ee w= a ZieE = & §$ Ey SSSESefeesss5sssees 8 =z
+o a = o/|Zz j o ‘4 ao oe =
+< | | ia cea 8 Fw wi} } Zo2 gf a3 8 SoeehSekeesescsgese 5 St |
+a i 2 {8} ES Gaus sls a") $32 $6 _g BS 5 Bestestgdeyssssesos $f 8G
+io At FowPAs Og |} o 225 88 Be 535 = EBRBaeSSeeeageseY Ss g EC
+| j= le NErot Sl ei/—~ES] | gg £22 22 $2.82 F S22EF8SS55SES228jc2% § 53
+2 | lz |s| ZePOR2Z|slaZ a S88 88se832 © 27 GeE 0s 88=a88, § sm
+| | o } £32 28s * e Sate : oa Sr
+3S | io |£| S25aGSSISS| | | SHSEBBRCCECS Zz Seon tAayecs -wasc8 2 By
+s = oh OOlsl]Z20 < 33s SAoems TP TPE SHOVE = Bd
+i | 1 i Br 9220-25-25 O BRNAS Edd ddoOHE RMR EOS ES
+Wu }= ° aqgazdwWawolzu a oa: 2550 2 aR EST eee ee te BI z% 65
+a | jo [8] <LfOSGHF/8ICeE| | B 2hBPorasZ05- | FANNdaAANAddEAdesses ges
+S i 12 } S55556 fe) 36 | © growssuozaax © ESSRSRSSRSSRSSSSSse< = SS
+| 2 2 i O35 < a eS
+Zz ! i la |2]eSS9oo2i99 | ge Ze 5 Ba
+2 | 1o ojH2G2O0OA/G/oa E65 Sz & 35
+= | | fa | BIESSSSSs5/S/S5) | 5 8 a 8 2 8s
+FS | | qj<cuubbuotioa | 88 zo. Bes
+8 |_| a a es ee ae S 8
+
+
+=== PAGE 74 ===
+.8
+oS
+8 §
+a8
+7
+&8
+si
+:
+2
+= 3
+2
+es
+& §
+& 3
+a2
+a4
+3 =
+25
+ij
+s §
+32
+7
+5
+Be
+5
+B&
+2 §
+5
+3 2
+i
+ge
+2 8
+8 §
+i.
+£5
+a ii
+g 2f
+Eas
+ae
+BEG
+an
+zat
+zy
+a 38
+eb
+Boe
+gif
+ae
+S a5
+i
+wag
+ae
+rr
+we
+at
+| on
+zi
+ae
+Boke
+Boa:
+ge
+oe
+Sa
+ad
+Es
+ae
+an
+203
+ae
+ge
+
+
+=== PAGE 75 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+lV — ANNEXES
+ANNEXES BUDGETAIRES
+EQUILIBRE BUDGETAIRE C1.1
+DISPONIBILITE DE RESSOURCES PROPRES PROVENANT DES EXERCICES ANTERIEURS
+Solde de la section d'‘investissement de I'exercice N-1 (1)
+| Propositions nouvelles Vote (2)
+Solde d’exécution 001 (A)
+montant négatif si déficit (D001) -833 154,71 -833 154,71
+montant positif si excédent (R001)
+Solde des RAR (B)
+montant négatif si déficit 740 449,63 740 449,63
+montant positif si excédent
+Solde de la section investissement de l'exercice N-1 (Solde |= A+B)
+Solde positif : excédent de financement
+Solde négatif : besoin de financement *$2.705,08 92 705,08
+Disponibilité des ressources propres provenant des exercices antérieurs aprés financement de la
+section investissement de I'exercice N-1 (1)
+__ Propositions nouvelles Vote (2)
+| Affectation au 1068 (C) 92 705,08 92 705,08 |
+Solde de la section investissement de I'exercice N-1 (Solde 1)
+Solde positif : excédent de financement -92 705,08 -92 705,08
+Solde négatif : besoin de financement
+Disponibilité de ressources propres des exercices antérieurs
+(Solde Il = C + Solde |)
+Solde positif : ressources disponibles pour la couverture de I'annuité
+Solde négatif : absence de ressources propres provenant des
+exercices antérieurs pour la couverture de l'annuité __|
+COUVERTURE DE L'ANNUITE DE LA DETTE PAR LES RESSOURCES PROPRES - PETIT EQUILIBRE
+Dépenses de I'exercice 4 couvrir par des ressources
+propres (D)(3) 914 500,11 914 500,11
+| Reecourses propres externes et internes de l'exercice 2.994 787,00 2.994 787,00 |
+Couverture de I'annuité de la dette (Solde Ill = E - D)
+Solde positif : annuité de la dette couverte
+Solde négatif : annuité de la dette non couverte par les
+ressources de l’exercice, vérifier la couverture par les 2 080 286,89 2 080 286,89
+éventuelles ressources disponibles des exercices
+antérieurs (cf. solde II)
+(1) Eléments 4 compléter uniquement sil y a eu reprise des résultats, anticipée ou classique
+(2) Cumul des crédits de l'exercice votés ou reportés
+(3) Les RAR étant intégrés au calcul des ressources propres provenant des exercices antérieurs, seuls les crédits de 'exercice sont a inscrire. Le détail des crédits est présenté aux états
+suivants : "Equilibre budgétaire - Dépenses" et "Equilibre budgétaire - Recette”
+|
+|
+Page 75
+
+
+=== PAGE 76 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+IV — ANNEXES
+ANNEXES BUDGETAIRES
+EQUILIBRE BUDGETAIRE — DEPENSES C1.2
+DEPENSES A COUVRIR PAR DES RESSOURCES PROPRES
+Art. (1) Libellé (1) Propositions nouvelles Vote (2)
+DEPENSES TOTALES A COUVRIR PAR DES RESSOURCES
+| PROPRES = A+B 914 500,11 | | 914 500,11
+| 16 Emprunts et dettes assimilées (A) 900 000,11 900 000,11 |
+| 1631 Emprunts obligataires 0,00 0,00 |
+| 1641 Emprunts en euros 900 000,11 900 000,11
+| 1643 Emprunts en devises 0,00 0,00 |
+| 16441 Opérations afférentes a l'emprunt 0,00 0,00
+| 1671 Avances consolidées du Trésor 0,00 0,00
+1672 Emprunts sur comptes spéciaux du Trésor 0,00 0,00 ]
+1678 Autres emprunts et dettes 0,00 0,00 |
+1681 Autres emprunts 0,00 0,00
+1682 Bons a moyen terme négociables 0,00 0,00
+| 1687 _| Autres dettes 0,00 0,00
+Dépenses et transferts a déduire des ressources propres (B) 14 500,00 14 500,00 |
+Subv. invest. transférées cpte résultat | —____ 1450000] __ 14 500,00
+(1) Détailler les chapitres budgétaires par article conformément au plan de comptes.
+(2) Crédits de l'exercice votés lors de la séance
+a Page 6 |
+
+
+=== PAGE 77 ===
+|
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025 |
+iV ~ ANNEXES |
+ANNEXES BUDGETAIRES
+EQUILIBRE BUDGETAIRE — RECETTES C1.3
+|
+Art. (1) Libellé (1) Propositions nouvelles Vote (2)
+| RECETTES (RESSOURCES PROPRES) =a +b 2.994 787,00 | Ill 2.994 787,00 |
+| Ressources propres externes de l’année (a) 601 600,00 601 600,00
+10222 FCTVA 600 000,00 600 000,00
+10226 Taxe d'aménagement (3) 1 600,00 1600,00
+10227 Versement pour sous densité 0,00 0,00
+10228 Autres fonds d'investissement 0,00 0,00
+13146 Attributions compensation investissement 0,00 0,00
+13156 Attributions compensation investissement 0,00 0,00 |
+13246 Attributions compensation investissement 0,00 0,00 |
+| 13256 Attributions compensation investissement 0,00 0,00
+| 138 Autres subventions invest. non transf. 0,00 0,00
+2s Participations et créances rattachées
+27... Autres immobilisations financiéres |
+| Ressources propres internes de l'année (b) (4) 2 393 187,00 2 393 187,00 |
+28... Amortissement des immobilisations
+28031 Frais d'études 0,00 0,00 |
+2804133 | Subv. Dpt : Projet infrastructure 0,00 0,00 }
+2805 Licences, logiciels, droits similaires 0,00 0,00 |
+28121 Plantations d'arbres et d'arbustes 0,00 0,00 |
+28128 Autres aménagements de terrains 0,00 0,00 |
+281321 | Immeubles de rapport 0,00 0,00
+281351 | Batiments publics 1 950 000,00 1 950 000,00
+28151 Réseaux de voirie 0,00 0,00
+28152 Installations de voirie 0,00 0,00
+281534 | Réseaux d’électrification 0,00 0,00
+281568 | Autre matériel, outillage incendie 0,00 0,00
+2815738 | Autre matériel et outillage de voirie 0,00 0,00 |
+| 281578 | Autre matériel technique 0,00 0,00 |
+| 28158 Autres inst.,matériel,outil. techniques 0,00 0,00
+| 281817 Installations générales, aménagt divers 0,00 0,00 |
+| 281828 | Autres matériels de transport 0,00 0,00
+| 281831 | Matériel informatique scolaire 0,00 0,00
+| 281838 | Autre matériel informatique 0,00 0,00
+| 281841 | Matériel de bureau et mobilier scolaire 0,00 0,00 |
+| 281848 | Autres matériels de bureau et mobiliers 0,00 0,00 |
+| 28188 Autres immo. corporelles 0,00 0,00 | |
+Déprécation des compos de trs po
+Page 77
+
+
+=== PAGE 78 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+Art. (1) Libellé (1) Propositions nouvelles Vote (2)
+I }
+[024 __| Produits des cessions dimmobilisations ee)
+Virement de la section de fonctionnement 443 187,00 443 187,00
+(1) Les comptes 15, 169, 26, 27, 28, 29, 39, 481, 49 et 59: sont 4 détailler conformément au plan de comptes.
+(2) Crédits de l'exercice votes tors de la séance.
+(3) Le compte 10226 peut 4tre utilisé uniquement par les communes et les établissements publics 4 fiscalité propre.
+(4) Les comptes 15, 29, 39. 49 et 59 sont présentés uniquement si la collectivité applique le régime des provisions budgetaires. conformément aux dispositions législatives et reglementaires
+afferentes.
+(5) Les comptes 31, 33 et 35 ne peuvent étre utilisés que pour les budgets utilisant la comptabilité de stock. Par conséquent. seuls les budgets retracant les dépenses et les
+recettes d'un lotissement ou d'une ZAC peuvent utiliser les comptes susmentionnes.
+Page 78
+
+
+=== PAGE 79 ===
+sy |
+rz
+ies fo} ole S|o ° eleolse Sjo}el[o ajo a
+82g a {38/8 3j8 |S [sjsis 8/8]8]s Sya1sleys
+>\2 &ssU ° fo} Ko} s/o fo) fo} Fo} ro} S}|ojolco H19Pl ol Qlo
+\— 5°
+| S§
+| Qa
+|
+|
+|
+|
+ol1o olo o1o o So olo
+| - 3/8 s/s sis 3 3 s1s/s/e]s
+oS clo s|o o]o o So +1o OlN
+] Lo» S14 ole
+| ose ola +] 0
+aro! ol alo
+° s Toh Ee} TiTwo
+SES oS =|2 |
+| Bas |
+| eat |
+a
+|
+| By |
+4
+_ oc o
+2) |lssE 8 8 3 i
+fo) BES So S o i
+= sf |
+iE >
+=
+fea) +
+“| |, i
+oa E oO |
+NX = e |
+& ° 28 |
+a oO 25 j
+oo eB 2& |
+' SB».
+oo
+> a ERLs
+z x| |efes ©
+x ° ro} ro) s|o =) So 2
+e 2| |sssa2 a jes ajs |8 |s/s/s s/s Rise) |
+8 < 22s 3 ojo Ss|o |S |ololo ojo SiS poets
+Pct ~
+2 ul |32%x
+S aq) jes *
+Ww Ww os }
+a rs)
+il % og >
+= 7 } ly
+iv wW 5 Bm
+S = =
+3 a} |e 2
+i)
+. |S | &
+> |ul> Pa
+2 >} i &
+Ee Ww ote
+i Z|\2 oe
+wi
+oo 2 fo} c= f=} f=} N
+a |Z/9} |s=s 8 Ss 18 s 3 & S/S)
+o Pair.) gor fo) o [~) o fo} - 9
+a Se
+a |g) (34
+wu |2la
+2: 1
+So So o o So o|o
+2 z 2 s 8 & jssys 3/8 818}8/8/8
+5 ° os o o So is) o s|o sis s\|o
+oO = gs— S]a irs}
+Ss. DID
+3 ae) 1 3
+iJ > ‘
+o o-oo = 7
+Oo} gsr |
+re ao 8
+Qo) 2
+oo 3
+ei | -| | z
+z | S| 2 5 3 a} | 5
+| |Z e| |2 3} |S gi | og
+s| | o 2 5 oO = =
+| a |o |e g Elo} § 3 8
+wi} | a = = S QIS|N = 3
+— id =| = & ae 5 &
+c 3s oC re Oo, S| 8 cs) s
+Ww gig je Gz 8 =| 3/5 S z
+o = ]F jal JESS! |Slsle % 3
+Ww 2 18 fel _{@ ss] [els] a S| | 23
+id 0 off Je [Sz So} [slols 3s 2 #3 |
+Ee P . 21s 5 elcls Sila eizle 2 5 | 22
+| | is 8 3) = o)c(S Ella siSls =! s | 68
+>) © I Sle 3S Bi o/o Si} o whELO 3 a i =
+| lei = 5 - an Zle JE Jolelo aye osE1S a re 3s |
+| 3 2 2 rales = ZI S Fa e B . | Za |
+| 2 a o oO Sls = S|] ofS gif eo SPofe 2 o i e2
+| | | Bole fols gle |Z Jalsa t_iSlels le ®} | 33
+| | 2]a16 G|S Sle 1S [elS/Seneslesfels He 3s] | 22 |
+| | g 2iS |S |SIS|/S SI S/Sislele Ss 2} | 32
+| | EIS 15 |B S/S EN ElElS| Sle He fo as
+2 g als 18 (2/ElgallsiS2l2le |e B} | 22
+i 2 ;3 als ® S} 2/2 SH E) S/S} sis c =| | & 3 |
+i to cs ala serl=lol=ecz cls{o 3 aS; SS |
+: | Sips 0 eat 8/8 |S col SpE Sy cl si Ss] als — a| | 33 |
+| S18 8a] Se selec al BS ol cl al 2 Ell S] E] AS]2 2 S| | 288 |
+\ aa ce] £088 a1 5/5 3/8 2) s]/S)2 S] Ss]olsis sé £} | 23
+| Pu os Siw Sols Balas] as} aj 2] oi Sol Sl aja og a slal as |
+| | “in co sla ®22tok 6 eles “la ays SH] Pfalz <i g= |
+{ i e = SSeS SS geLigsi/s|sjsealleleleleloeiie uf gfe | 33
+6\05 8 3329 F588 3] SS 5/53] 1 Sf Sy BSS SS SW SILITEl eG) 38 |
+| | afFonsjFoun éslejr Sle aelejoa aflajejejeie Elfalelelole|e | ie |
+eal | et a Ne | eel EO Kn Be ee
+|
+i}
+
+
+=== PAGE 80 ===
+
+
+
+=== PAGE 81 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025
+V—ARRETEET SIGNATURES —_/ | |
+ARRETEETSIGNATURES 7 —SSS—S—~—~—sSSCSC SC |
+= |
+Nombre de membres en exercice : 33 |
+Nombre de membres présents : 32 - << CABS |
+Nombre de suffrages exprimés :' 32_ : 2) Q ECR 3
+VOTES: ; &f Nes Nz. |
+Pour : 2 v4 aa \/ G z aes <
+Contre: & PS \) ea ey WEE
+Abstentions : 0 Y * ead 7
+(Py 1S) |
+Date de convocation : 26/03/2025
+Présenté par La Maire (1), | |
+A CABESTANY, le 01/04/2025
+Délibéré par l'assemblée le conseil municipal(2), reunie en session Vote du B.P. |
+A CABESTANY, le 01/04/2025 :
+Les membres de l'assemblée délibérante le conseil municipal (2),(3). |
+'
+\ = a
+j 01 EDITH PUGNET | ee |
+02 CYRILLE BERNAROIN mae
+{ 04 JAMES GILLON Ce
+i el Panes)
+| 05 MICHELE CAIL COMS P eezaa
+) 06 ANTOINE FIGUE gt
+fe 07 ELISABETH RIVAS alin
+= pe
+4 08 ANDRE GILLARD eel
+| Be |i
+4 09 CHANTAL CASIMIR | |
+Ou.
+} . bar (| 21 CASiHi ea
+10 THOMAS SOLOZABAL Yanai prow ata Chautel CASIMIR oc |
+{ 11 JEAN VILA \ »
+' VN
+\ = - |
+i 13 ROSEMARY DROUILLOT eM 7 Te \Lo AK. | |
+i |
+} 14 STEPHANE QUINTIN
+16 MARC ZARCONE |
+‘ ie =
+‘ wana
+i I eS ,
+19 LUDIVINE LORIEUX | Agee
+f Page 80
+
+
+=== PAGE 82 ===
+COMMUNE DE CABESTANY - MAIRIE DE CABESTANY - BP - 2025 a
+V—ARRETE ET SIGNATURES a
+ARRETE ET SIGNATURES ; | A ca |
+—_
+¢ li
+5
+e ‘ a ff
+gx
+J a
+23 ALEXANDRA RAYMONT f “f/ i |
+a |
+ee . ES A g
+24 CHRISTINE PERRAULT fa pai7cuit x or Philippe GLEIZES a |
++ C }
+25 PHILIPPE GLEIZES | OMe q
+Zvi 4
+26 ERIC POUPET Wo | q
+> Q q
+28 FRANCISCO FERNANDEZ Ihe t
+= ‘
+30 BRIGITTE PAGES | Kale | :
+31 CHRISTOPHE HEMERY §— f@1 272ee0 wehen Lolth PYENET = TZ |
+A |
+32 CECILE LACAPERE <rcjoid | 13
+rey \ q
+. . i 3
+Certifié exécutoire par La Maire (1), compte tenu de la transmission en préfecture, le 02/04/2025, et de la publication le 02/04/2025 4
+A CABESTANY, le 01/04/2025 i fi
+4 $
+(1) Indiquer « la présidente » au « le président » “ W ,
+(2) Indiquer la nature de 'assembiée délibérante : du conseil regional de de la Collectivite terntonale unique de de la métropole de _., du Conseil syndical de
+(3) Vajout des signataires est desormais facultatif. i
+¢
+\
+¢
+{
+3
+£ }
+¢ |
+CA ; |
+~ 3
+py) al-/5 {
+&, ONS bo
+a7 VR NG i
+<{ eae \Z to
+4 SS |< H
+* See’ * 4
+i
+| |
+1
+Page 81 ||
+|
+|

@@ -1,0 +1,10 @@
+commune_name,commune_code,polling_station_code,polling_station_number,polling_station_ref,place_name,address,is_centralizer,source_pdf,geometry_type
+Cabestany,66028,0001,1,66028_0001,Centre culturel,avenue du 19 mars 1962,true,bureaux_de_votes.pdf,MultiPolygon
+Cabestany,66028,0002,2,66028_0002,Centre culturel,avenue du 19 mars 1962,false,bureaux_de_votes.pdf,MultiPolygon
+Cabestany,66028,0003,3,66028_0003,Centre culturel,avenue du 19 mars 1962,false,bureaux_de_votes.pdf,MultiPolygon
+Cabestany,66028,0004,4,66028_0004,École Prévert,avenue du Roussillon,false,bureaux_de_votes.pdf,Polygon
+Cabestany,66028,0005,5,66028_0005,École Prévert,avenue du Roussillon,false,bureaux_de_votes.pdf,MultiPolygon
+Cabestany,66028,0006,6,66028_0006,École Buffon,avenue du Périgord,false,bureaux_de_votes.pdf,Polygon
+Cabestany,66028,0007,7,66028_0007,École Buffon,avenue du Périgord,false,bureaux_de_votes.pdf,MultiPolygon
+Cabestany,66028,0008,8,66028_0008,École Ludovic Masse,chemin du Mas Bonique,false,bureaux_de_votes.pdf,MultiPolygon
+Cabestany,66028,0009,9,66028_0009,École Ludovic Masse,chemin du Mas Bonique,false,bureaux_de_votes.pdf,Polygon

@@ -10,7 +10,14 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+.next
 *.local
+coverage
+playwright-report
+test-results
+__pycache__/
+*.py[cod]
+data/contours-france-entiere-latest-v2.geojson
 
 # Editor directories and files
 .vscode/*

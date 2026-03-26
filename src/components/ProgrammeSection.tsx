@@ -23,6 +23,9 @@ import professionPf from "@/assets/docs/profession_1er_tour.pdf";
 import reunionPubPf from "@/assets/docs/reunion_pub.pdf";
 import reunionDiapoPf from "@/assets/docs/reunion_diapo.pdf";
 import bulletinVotePf from "@/assets/docs/bulletin_de_vote.pdf";
+import ColominesFocusModal from "./ColominesFocusModal";
+import MarcheFocusModal from "./MarcheFocusModal";
+import TerresVivantesFocusModal from "./TerresVivantesFocusModal";
 
 interface ProgrammeTheme {
   icon: LucideIcon;
@@ -74,6 +77,7 @@ const themes: ProgrammeTheme[] = [
     title: "Agriculture & Environnement",
     intro: "Cultiver l'avenir en préservant nos racines.",
     points: [
+      "Créer une pépinière pédagogique",
       "Protéger les terres agricoles restantes",
       "Créer la route des Mas (circuit éco-agronomique)",
       "Étendre les jardins familiaux",
@@ -142,7 +146,7 @@ const ImageCarousel = ({
         initial={{ scale: 0.95, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
         exit={{ scale: 0.95, opacity: 0 }}
-        className="bg-card rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden shadow-2xl"
+        className="bg-card rounded-2xl max-w-2xl w-full overflow-hidden shadow-2xl"
         onClick={(e) => e.stopPropagation()}
       >
         <div className="flex items-center justify-between p-4 border-b border-border">
@@ -157,11 +161,11 @@ const ImageCarousel = ({
           </button>
         </div>
 
-        <div className="relative aspect-[16/10] bg-muted">
+        <div className="relative flex items-center justify-center bg-muted p-4 min-h-[200px] max-h-[50vh]">
           <img
             src={images[current]}
             alt={`${title} - image ${current + 1}`}
-            className="w-full h-full object-contain"
+            className="max-w-full max-h-[45vh] w-auto h-auto object-contain rounded-lg"
           />
 
           {images.length > 1 && (
@@ -204,6 +208,9 @@ const ImageCarousel = ({
 
 const ProgrammeSection = () => {
   const [openCarousel, setOpenCarousel] = useState<number | null>(null);
+  const [openColomines, setOpenColomines] = useState(false);
+  const [openMarche, setOpenMarche] = useState(false);
+  const [openTerresVivantes, setOpenTerresVivantes] = useState(false);
 
   return (
     <section id="programme" className="section-padding bg-background">
@@ -407,15 +414,52 @@ const ProgrammeSection = () => {
                   {theme.intro}
                 </p>
                 <ul className="space-y-2 mb-4">
-                  {theme.points.map((pt) => (
-                    <li
-                      key={pt}
-                      className="flex items-start gap-2 text-sm text-foreground"
-                    >
-                      <span className="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary flex-shrink-0" />
-                      {pt}
-                    </li>
-                  ))}
+                  {theme.points.map((pt) => {
+                    const isColominesLink =
+                      theme.title === "Urbanisme" &&
+                      pt.includes("Colomines");
+                    const isMarcheLink =
+                      theme.title === "Culture & Tourisme" &&
+                      pt.includes("Marché catalan");
+                    const isTerresVivantesLink =
+                      theme.title === "Agriculture & Environnement" &&
+                      pt.includes("pépinière pédagogique");
+                    return (
+                      <li
+                        key={pt}
+                        className="flex items-start gap-2 text-sm text-foreground"
+                      >
+                        <span className="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary flex-shrink-0" />
+                        {isColominesLink ? (
+                          <button
+                            type="button"
+                            onClick={() => setOpenColomines(true)}
+                            className="text-left text-primary font-semibold hover:underline focus:underline focus:outline-none"
+                          >
+                            {pt}
+                          </button>
+                        ) : isMarcheLink ? (
+                          <button
+                            type="button"
+                            onClick={() => setOpenMarche(true)}
+                            className="text-left text-primary font-semibold hover:underline focus:underline focus:outline-none"
+                          >
+                            {pt}
+                          </button>
+                        ) : isTerresVivantesLink ? (
+                          <button
+                            type="button"
+                            onClick={() => setOpenTerresVivantes(true)}
+                            className="text-left text-primary font-semibold hover:underline focus:underline focus:outline-none"
+                          >
+                            {pt}
+                          </button>
+                        ) : (
+                          pt
+                        )}
+                      </li>
+                    );
+                  })}
                 </ul>
 
                 {theme.images.length > 0 ? (
@@ -443,6 +487,17 @@ const ProgrammeSection = () => {
               images={themes[openCarousel].images}
               title={themes[openCarousel].title}
               onClose={() => setOpenCarousel(null)}
+            />
+          )}
+          {openColomines && (
+            <ColominesFocusModal onClose={() => setOpenColomines(false)} />
+          )}
+          {openMarche && (
+            <MarcheFocusModal onClose={() => setOpenMarche(false)} />
+          )}
+          {openTerresVivantes && (
+            <TerresVivantesFocusModal
+              onClose={() => setOpenTerresVivantes(false)}
             />
           )}
         </AnimatePresence>

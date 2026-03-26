@@ -1,0 +1,10 @@
+polling_station_code,polling_station_ref,place_name,address,is_centralizer,geometry_type,has_validated_results_2026_t1,inscrits_2026_t1,votants_2026_t1,exprimes_2026_t1,top_candidate_2026_t1,top_candidate_group_2026_t1,top_candidate_votes_2026_t1
+0001,66028_0001,Centre culturel,avenue du 19 mars 1962,true,MultiPolygon,false,,,,,,
+0002,66028_0002,Centre culturel,avenue du 19 mars 1962,false,MultiPolygon,false,,,,,,
+0003,66028_0003,Centre culturel,avenue du 19 mars 1962,false,MultiPolygon,true,907,519,513,Édith PUGNET,LA PASSION DE CABESTANY,218
+0004,66028_0004,École Prévert,avenue du Roussillon,false,Polygon,true,815,518,510,Édith PUGNET,LA PASSION DE CABESTANY,231
+0005,66028_0005,École Prévert,avenue du Roussillon,false,MultiPolygon,false,,,,,,
+0006,66028_0006,École Buffon,avenue du Périgord,false,Polygon,true,950,547,531,Édith PUGNET,LA PASSION DE CABESTANY,274
+0007,66028_0007,École Buffon,avenue du Périgord,false,MultiPolygon,false,,,,,,
+0008,66028_0008,École Ludovic Masse,chemin du Mas Bonique,false,MultiPolygon,true,1007,612,601,Édith PUGNET,LA PASSION DE CABESTANY,250
+0009,66028_0009,École Ludovic Masse,chemin du Mas Bonique,false,Polygon,true,1106,675,667,Édith PUGNET,LA PASSION DE CABESTANY,327

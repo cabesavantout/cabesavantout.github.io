@@ -26,4 +26,10 @@ export default tseslint.config(
       "@typescript-eslint/no-unused-vars": "off",
     },
   },
+  {
+    files: ["apps/team-app/app/**/layout.tsx", "apps/team-app/app/**/page.tsx"],
+    rules: {
+      "react-refresh/only-export-components": "off",
+    },
+  },
 );

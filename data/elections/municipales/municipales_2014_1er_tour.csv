@@ -1,0 +1,8 @@
+__id,id_election,id_brut_miom,code_departement,libelle_departement,code_canton,libelle_canton,code_commune,libelle_commune,code_circonscription,libelle_circonscription,code_bv,inscrits,abstentions,votants,blancs,nuls,exprimes,ratio_abstentions_inscrits,ratio_votants_inscrits,ratio_blancs_inscrits,ratio_blancs_votants,ratio_nuls_inscrits,ratio_nuls_votants,ratio_exprimes_inscrits,ratio_exprimes_votants
+3099065,2014_muni_t1,66028_0001,66,Pyrénées-Orientales,,,66028,Cabestany,,,0001,1289,393,896,,52,844,30.49,69.51,,,4.03,5.8,65.48,94.2
+3099066,2014_muni_t1,66028_0002,66,Pyrénées-Orientales,,,66028,Cabestany,,,0002,1031,356,675,,33,642,34.53,65.47,,,3.2,4.89,62.27,95.11
+3099067,2014_muni_t1,66028_0003,66,Pyrénées-Orientales,,,66028,Cabestany,,,0003,842,288,554,,26,528,34.2,65.8,,,3.09,4.69,62.71,95.31
+3099068,2014_muni_t1,66028_0004,66,Pyrénées-Orientales,,,66028,Cabestany,,,0004,1065,342,723,,37,686,32.11,67.89,,,3.47,5.12,64.41,94.88
+3099069,2014_muni_t1,66028_0005,66,Pyrénées-Orientales,,,66028,Cabestany,,,0005,1183,409,774,,58,716,34.57,65.43,,,4.9,7.49,60.52,92.51
+3099070,2014_muni_t1,66028_0006,66,Pyrénées-Orientales,,,66028,Cabestany,,,0006,1048,371,677,,30,647,35.4,64.6,,,2.86,4.43,61.74,95.57
+3099071,2014_muni_t1,66028_0007,66,Pyrénées-Orientales,,,66028,Cabestany,,,0007,1231,440,791,,33,758,35.74,64.26,,,2.68,4.17,61.58,95.83

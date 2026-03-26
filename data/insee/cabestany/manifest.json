@@ -1,0 +1,614 @@
+{
+  "source_html": "data/insee/cabestany-insee-dossier-complet.html",
+  "tables": [
+    {
+      "code": "POP_T0",
+      "title": "POP T0 - Population par grandes tranches d'âges",
+      "file": "pop_t0__pop-t0-population-par-grandes-tranches-d-ages.csv",
+      "rows": 7,
+      "columns": 7
+    },
+    {
+      "code": "POP_G2",
+      "title": "POP G2 - Population par grandes tranches d'âges",
+      "file": "pop_g2__pop-g2-population-par-grandes-tranches-d-ages.csv",
+      "rows": 6,
+      "columns": 4
+    },
+    {
+      "code": "POP_T1",
+      "title": "POP T1 - Population en historique depuis 1968",
+      "file": "pop_t1__pop-t1-population-en-historique-depuis-1968.csv",
+      "rows": 2,
+      "columns": 10
+    },
+    {
+      "code": "POP_T2M",
+      "title": "POP T2M - Indicateurs démographiques en historique depuis 1968",
+      "file": "pop_t2m__pop-t2m-indicateurs-demographiques-en-historique-depuis-1968.csv",
+      "rows": 5,
+      "columns": 9
+    },
+    {
+      "code": "POP_T3",
+      "title": "POP T3 - Population par sexe et âge en 2022",
+      "file": "pop_t3__pop-t3-population-par-sexe-et-age-en-2022.csv",
+      "rows": 8,
+      "columns": 5
+    },
+    {
+      "code": "POP_T3bis",
+      "title": "POP T3bis - Population par sexe et âge en 2022",
+      "file": "pop_t3bis__pop-t3bis-population-par-sexe-et-age-en-2022.csv",
+      "rows": 4,
+      "columns": 5
+    },
+    {
+      "code": "POP_T4",
+      "title": "POP T4 - Lieu de résidence 1 an auparavant",
+      "file": "pop_t4__pop-t4-lieu-de-residence-1-an-auparavant.csv",
+      "rows": 4,
+      "columns": 7
+    },
+    {
+      "code": "POP_G3",
+      "title": "POP G3 - Lieu de résidence antérieure par âge des personnes habitant un autre logement 1 an auparavant en 2022",
+      "file": "pop_g3__pop-g3-lieu-de-residence-anterieure-par-age-des-personnes-habitant-un-autre-logement-1-an-auparavant-en-2022.csv",
+      "rows": 4,
+      "columns": 3
+    },
+    {
+      "code": "POP_T5",
+      "title": "POP T5 - Population de 15 ans ou plus selon le groupe socioprofessionnel actuel ou antérieur",
+      "file": "pop_t5__pop-t5-population-de-15-ans-ou-plus-selon-le-groupe-socioprofessionnel-actuel-ou-anterieur.csv",
+      "rows": 9,
+      "columns": 7
+    },
+    {
+      "code": "POP_T6",
+      "title": "POP T6 - Population de 15 ans ou plus par sexe, âge et groupe socioprofessionnel actuel ou antérieur en 2022",
+      "file": "pop_t6__pop-t6-population-de-15-ans-ou-plus-par-sexe-age-et-groupe-socioprofessionnel-actuel-ou-anterieur-en-2022.csv",
+      "rows": 9,
+      "columns": 4
+    },
+    {
+      "code": "FAM_T1",
+      "title": "FAM T1 - Ménages selon leur composition",
+      "file": "fam_t1__fam-t1-menages-selon-leur-composition.csv",
+      "rows": 9,
+      "columns": 9
+    },
+    {
+      "code": "FAM_G1",
+      "title": "FAM G1 - Évolution de la taille des ménages en historique depuis 1968",
+      "file": "fam_g1__fam-g1-evolution-de-la-taille-des-menages-en-historique-depuis-1968.csv",
+      "rows": 1,
+      "columns": 10
+    },
+    {
+      "code": "FAM_G2",
+      "title": "FAM G2 - Personnes de 15 ans ou plus vivant seules selon l'âge - population des ménages",
+      "file": "fam_g2__fam-g2-personnes-de-15-ans-ou-plus-vivant-seules-selon-l-age-population-des-menages.csv",
+      "rows": 7,
+      "columns": 4
+    },
+    {
+      "code": "FAM_G3",
+      "title": "FAM G3 - Personnes de 15 ans ou plus déclarant vivre en couple selon l'âge",
+      "file": "fam_g3__fam-g3-personnes-de-15-ans-ou-plus-declarant-vivre-en-couple-selon-l-age.csv",
+      "rows": 7,
+      "columns": 4
+    },
+    {
+      "code": "FAM_G4",
+      "title": "FAM G4 - Statut conjugal des personnes de 15 ans ou plus en 2022",
+      "file": "fam_g4__fam-g4-statut-conjugal-des-personnes-de-15-ans-ou-plus-en-2022.csv",
+      "rows": 6,
+      "columns": 2
+    },
+    {
+      "code": "FAM_T2",
+      "title": "FAM T2 - Ménages selon le groupe socioprofessionnel actuel ou antérieur de la personne de référence en 2022",
+      "file": "fam_t2__fam-t2-menages-selon-le-groupe-socioprofessionnel-actuel-ou-anterieur-de-la-personne-de-reference-en-2022.csv",
+      "rows": 7,
+      "columns": 5
+    },
+    {
+      "code": "FAM_G5",
+      "title": "FAM G5 - Ménages selon le groupe socioprofessionnel actuel ou antérieur de la personne de référence en 2022",
+      "file": "fam_g5__fam-g5-menages-selon-le-groupe-socioprofessionnel-actuel-ou-anterieur-de-la-personne-de-reference-en-2022.csv",
+      "rows": 6,
+      "columns": 2
+    },
+    {
+      "code": "FAM_T3",
+      "title": "FAM T3 - Composition des familles",
+      "file": "fam_t3__fam-t3-composition-des-familles.csv",
+      "rows": 6,
+      "columns": 7
+    },
+    {
+      "code": "FAM_T3bis",
+      "title": "FAM T3bis - Composition détaillée des familles composées de couples avec enfant(s)",
+      "file": "fam_t3bis__fam-t3bis-composition-detaillee-des-familles-composees-de-couples-avec-enfant-s.csv",
+      "rows": 3,
+      "columns": 3
+    },
+    {
+      "code": "FAM_T4",
+      "title": "FAM T4 - Familles selon le nombre d'enfants âgés de moins de 25 ans",
+      "file": "fam_t4__fam-t4-familles-selon-le-nombre-d-enfants-ages-de-moins-de-25-ans.csv",
+      "rows": 6,
+      "columns": 7
+    },
+    {
+      "code": "LOG_T1",
+      "title": "LOG T1 - Évolution du nombre de logements par catégorie en historique depuis 1968",
+      "file": "log_t1__log-t1-evolution-du-nombre-de-logements-par-categorie-en-historique-depuis-1968.csv",
+      "rows": 4,
+      "columns": 10
+    },
+    {
+      "code": "LOG_T1bis",
+      "title": "LOG T1bis - Catégories de logements",
+      "file": "log_t1bis__log-t1bis-categories-de-logements.csv",
+      "rows": 3,
+      "columns": 4
+    },
+    {
+      "code": "LOG_T2",
+      "title": "LOG T2 - Types de logements",
+      "file": "log_t2__log-t2-types-de-logements.csv",
+      "rows": 4,
+      "columns": 7
+    },
+    {
+      "code": "LOG_T2b",
+      "title": "LOG T2bis - Contributions à l'évolution du nombre de résidences principales",
+      "file": "log_t2b__log-t2bis-contributions-a-l-evolution-du-nombre-de-residences-principales.csv",
+      "rows": 3,
+      "columns": 5
+    },
+    {
+      "code": "LOG_T3",
+      "title": "LOG T3 - Résidences principales selon le nombre de pièces",
+      "file": "log_t3__log-t3-residences-principales-selon-le-nombre-de-pieces.csv",
+      "rows": 6,
+      "columns": 7
+    },
+    {
+      "code": "LOG_T4",
+      "title": "LOG T4 - Nombre moyen de pièces des résidences principales",
+      "file": "log_t4__log-t4-nombre-moyen-de-pieces-des-residences-principales.csv",
+      "rows": 3,
+      "columns": 4
+    },
+    {
+      "code": "LOG_T4bis",
+      "title": "LOG T4bis - Indice de peuplement des résidences principales",
+      "file": "log_t4bis__log-t4bis-indice-de-peuplement-des-residences-principales.csv",
+      "rows": 6,
+      "columns": 4
+    },
+    {
+      "code": "LOG_T5",
+      "title": "LOG T5 - Résidences principales en 2022 selon la période d'achèvement",
+      "file": "log_t5__log-t5-residences-principales-en-2022-selon-la-periode-d-achevement.csv",
+      "rows": 7,
+      "columns": 3
+    },
+    {
+      "code": "LOG_G1",
+      "title": "LOG G1 - Résidences principales en 2022 selon le type de logement et la période d'achèvement",
+      "file": "log_g1__log-g1-residences-principales-en-2022-selon-le-type-de-logement-et-la-periode-d-achevement.csv",
+      "rows": 6,
+      "columns": 3
+    },
+    {
+      "code": "LOG_T6",
+      "title": "LOG T6 - Ancienneté d'emménagement dans la résidence principale en 2022",
+      "file": "log_t6__log-t6-anciennete-d-emmenagement-dans-la-residence-principale-en-2022.csv",
+      "rows": 5,
+      "columns": 5
+    },
+    {
+      "code": "LOG_G2",
+      "title": "LOG G2 - Ancienneté d'emménagement des ménages en 2022",
+      "file": "log_g2__log-g2-anciennete-d-emmenagement-des-menages-en-2022.csv",
+      "rows": 6,
+      "columns": 2
+    },
+    {
+      "code": "LOG_T7",
+      "title": "LOG T7 - Résidences principales selon le statut d'occupation",
+      "file": "log_t7__log-t7-residences-principales-selon-le-statut-d-occupation.csv",
+      "rows": 5,
+      "columns": 9
+    },
+    {
+      "code": "LOG_T8M",
+      "title": "LOG T8M - Confort des résidences principales : combustible principal de chauffage",
+      "file": "log_t8m__log-t8m-confort-des-residences-principales-combustible-principal-de-chauffage.csv",
+      "rows": 5,
+      "columns": 7
+    },
+    {
+      "code": "LOG_T9",
+      "title": "LOG T9 - Équipement automobile des ménages",
+      "file": "log_t9__log-t9-equipement-automobile-des-menages.csv",
+      "rows": 3,
+      "columns": 7
+    },
+    {
+      "code": "LOG_T9bis",
+      "title": "LOG T9bis - Emplacement de stationnement réservé à un usage personnel",
+      "file": "log_t9bis__log-t9bis-emplacement-de-stationnement-reserve-a-un-usage-personnel.csv",
+      "rows": 2,
+      "columns": 7
+    },
+    {
+      "code": "FOR_T1",
+      "title": "FOR T1 - Scolarisation selon l'âge en 2022",
+      "file": "for_t1__for-t1-scolarisation-selon-l-age-en-2022.csv",
+      "rows": 7,
+      "columns": 3
+    },
+    {
+      "code": "FOR_T2",
+      "title": "FOR T2 - Taux de scolarisation selon le sexe en 2022 (en %)",
+      "file": "for_t2__for-t2-taux-de-scolarisation-selon-le-sexe-en-2022-en.csv",
+      "rows": 7,
+      "columns": 4
+    },
+    {
+      "code": "FOR_G1",
+      "title": "FOR G1 - Taux de scolarisation selon l'âge (en %)",
+      "file": "for_g1__for-g1-taux-de-scolarisation-selon-l-age-en.csv",
+      "rows": 7,
+      "columns": 4
+    },
+    {
+      "code": "FOR_T3",
+      "title": "FOR T3 - Diplôme le plus élevé de la population non scolarisée de 15 ans ou plus selon le sexe en 2022",
+      "file": "for_t3__for-t3-diplome-le-plus-eleve-de-la-population-non-scolarisee-de-15-ans-ou-plus-selon-le-sexe-en-2022.csv",
+      "rows": 8,
+      "columns": 4
+    },
+    {
+      "code": "FOR_G2",
+      "title": "FOR G2 - Diplôme le plus élevé de la population non scolarisée de 15 ans ou plus (en %)",
+      "file": "for_g2__for-g2-diplome-le-plus-eleve-de-la-population-non-scolarisee-de-15-ans-ou-plus-en.csv",
+      "rows": 5,
+      "columns": 3
+    },
+    {
+      "code": "EMP_T1",
+      "title": "EMP T1 - Population de 15 à 64 ans par type d'activité",
+      "file": "emp_t1__emp-t1-population-de-15-a-64-ans-par-type-d-activite.csv",
+      "rows": 8,
+      "columns": 4
+    },
+    {
+      "code": "EMP_T2",
+      "title": "EMP T2 - Activité et emploi de la population de 15 à 64 ans par sexe et âge en 2022",
+      "file": "emp_t2__emp-t2-activite-et-emploi-de-la-population-de-15-a-64-ans-par-sexe-et-age-en-2022.csv",
+      "rows": 12,
+      "columns": 6
+    },
+    {
+      "code": "EMP_G1",
+      "title": "EMP G1 - Population de 15 à 64 ans par type d'activité en 2022",
+      "file": "emp_g1__emp-g1-population-de-15-a-64-ans-par-type-d-activite-en-2022.csv",
+      "rows": 5,
+      "columns": 2
+    },
+    {
+      "code": "EMP_T3",
+      "title": "EMP T3 - Population active de 15 à 64 ans selon le groupe socioprofessionnel actuel ou antérieur",
+      "file": "emp_t3__emp-t3-population-active-de-15-a-64-ans-selon-le-groupe-socioprofessionnel-actuel-ou-anterieur.csv",
+      "rows": 7,
+      "columns": 7
+    },
+    {
+      "code": "EMP_T4",
+      "title": "EMP T4 - Chômage (au sens du recensement) des 15-64 ans",
+      "file": "emp_t4__emp-t4-chomage-au-sens-du-recensement-des-15-64-ans.csv",
+      "rows": 5,
+      "columns": 4
+    },
+    {
+      "code": "EMP_G2",
+      "title": "EMP G2 - Taux de chômage (au sens du recensement) des 15-64 ans par diplôme en 2022",
+      "file": "emp_g2__emp-g2-taux-de-chomage-au-sens-du-recensement-des-15-64-ans-par-diplome-en-2022.csv",
+      "rows": 7,
+      "columns": 2
+    },
+    {
+      "code": "EMP_T5",
+      "title": "EMP T5 - Emploi et activité",
+      "file": "emp_t5__emp-t5-emploi-et-activite.csv",
+      "rows": 4,
+      "columns": 4
+    },
+    {
+      "code": "EMP_T6",
+      "title": "EMP T6 - Emplois selon le statut professionnel",
+      "file": "emp_t6__emp-t6-emplois-selon-le-statut-professionnel.csv",
+      "rows": 7,
+      "columns": 7
+    },
+    {
+      "code": "EMP_T7",
+      "title": "EMP T7 - Emplois par groupe socioprofessionnel en 2022",
+      "file": "emp_t7__emp-t7-emplois-par-groupe-socioprofessionnel-en-2022.csv",
+      "rows": 7,
+      "columns": 3
+    },
+    {
+      "code": "EMP_G3",
+      "title": "EMP G3 - Emplois par groupe socioprofessionnel",
+      "file": "emp_g3__emp-g3-emplois-par-groupe-socioprofessionnel.csv",
+      "rows": 6,
+      "columns": 4
+    },
+    {
+      "code": "EMP_T8",
+      "title": "EMP T8 - Emplois selon le secteur d'activité",
+      "file": "emp_t8__emp-t8-emplois-selon-le-secteur-d-activite.csv",
+      "rows": 6,
+      "columns": 8
+    },
+    {
+      "code": "EMP_G4",
+      "title": "EMP G4 - Taux de féminisation des emplois par statut et secteur d'activité en 2022",
+      "file": "emp_g4__emp-g4-taux-de-feminisation-des-emplois-par-statut-et-secteur-d-activite-en-2022.csv",
+      "rows": 5,
+      "columns": 3
+    },
+    {
+      "code": "ACT_T1",
+      "title": "ACT T1 - Population de 15 ans ou plus ayant un emploi selon le statut en 2022",
+      "file": "act_t1__act-t1-population-de-15-ans-ou-plus-ayant-un-emploi-selon-le-statut-en-2022.csv",
+      "rows": 3,
+      "columns": 5
+    },
+    {
+      "code": "ACT_T2",
+      "title": "ACT T2 - Statut et condition d'emploi des 15 ans ou plus selon le sexe en 2022",
+      "file": "act_t2__act-t2-statut-et-condition-d-emploi-des-15-ans-ou-plus-selon-le-sexe-en-2022.csv",
+      "rows": 11,
+      "columns": 5
+    },
+    {
+      "code": "ACT_T3",
+      "title": "ACT T3 - Salariés de 15 à 64 ans par sexe, âge et temps partiel en 2022",
+      "file": "act_t3__act-t3-salaries-de-15-a-64-ans-par-sexe-age-et-temps-partiel-en-2022.csv",
+      "rows": 4,
+      "columns": 5
+    },
+    {
+      "code": "ACT_G1",
+      "title": "ACT G1 - Part des salariés de 15 ans ou plus à temps partiel par sexe",
+      "file": "act_g1__act-g1-part-des-salaries-de-15-ans-ou-plus-a-temps-partiel-par-sexe.csv",
+      "rows": 2,
+      "columns": 4
+    },
+    {
+      "code": "ACT_T4",
+      "title": "ACT T4 - Lieu de travail des actifs de 15 ans ou plus ayant un emploi qui résident dans la zone",
+      "file": "act_t4__act-t4-lieu-de-travail-des-actifs-de-15-ans-ou-plus-ayant-un-emploi-qui-resident-dans-la-zone.csv",
+      "rows": 3,
+      "columns": 7
+    },
+    {
+      "code": "ACT_G2",
+      "title": "ACT G2 - Part des moyens de transport utilisés pour se rendre au travail en 2022",
+      "file": "act_g2__act-g2-part-des-moyens-de-transport-utilises-pour-se-rendre-au-travail-en-2022.csv",
+      "rows": 6,
+      "columns": 2
+    },
+    {
+      "code": "RFD_G1",
+      "title": "RFD G1 - Naissances et décès domiciliés",
+      "file": "rfd_g1__rfd-g1-naissances-et-deces-domicilies.csv",
+      "rows": 2,
+      "columns": 11
+    },
+    {
+      "code": "REV_T1",
+      "title": "REV T1 - Ménages fiscaux de l'année 2021",
+      "file": "rev_t1__rev-t1-menages-fiscaux-de-l-annee-2021.csv",
+      "rows": 4,
+      "columns": 2
+    },
+    {
+      "code": "REV_G1",
+      "title": "REV G1 - Taux de pauvreté par tranche d'âge du référent fiscal en 2021",
+      "file": "rev_g1__rev-g1-taux-de-pauvrete-par-tranche-d-age-du-referent-fiscal-en-2021.csv",
+      "rows": 7,
+      "columns": 2
+    },
+    {
+      "code": "REV_G2",
+      "title": "REV G2 - Taux de pauvreté par statut d'occupation du référent fiscal en 2021",
+      "file": "rev_g2__rev-g2-taux-de-pauvrete-par-statut-d-occupation-du-referent-fiscal-en-2021.csv",
+      "rows": 3,
+      "columns": 2
+    },
+    {
+      "code": "REV_T2",
+      "title": "REV T2 - Décomposition des revenus disponibles sur l'année 2021",
+      "file": "rev_t2__rev-t2-decomposition-des-revenus-disponibles-sur-l-annee-2021.csv",
+      "rows": 12,
+      "columns": 2
+    },
+    {
+      "code": "REV_T3",
+      "title": "REV T3 - Distribution des revenus disponibles de l'année 2021",
+      "file": "rev_t3__rev-t3-distribution-des-revenus-disponibles-de-l-annee-2021.csv",
+      "rows": 4,
+      "columns": 2
+    },
+    {
+      "code": "SAL_G1",
+      "title": "SAL G1 - Salaire net mensuel moyen en EQTP (en euros) selon la catégorie socioprofessionnelle en 2023",
+      "file": "sal_g1__sal-g1-salaire-net-mensuel-moyen-en-eqtp-en-euros-selon-la-categorie-socioprofessionnelle-en-2023.csv",
+      "rows": 5,
+      "columns": 4
+    },
+    {
+      "code": "SAL_G3",
+      "title": "SAL G3 - Écart de salaire net mensuel moyen en EQTP entres les femmes et les hommes selon la catégorie socioprofessionnelle en 2023",
+      "file": "sal_g3__sal-g3-ecart-de-salaire-net-mensuel-moyen-en-eqtp-entres-les-femmes-et-les-hommes-selon-la-categorie-socioprofessionnelle-en-2023.csv",
+      "rows": 5,
+      "columns": 2
+    },
+    {
+      "code": "SAL_T1",
+      "title": "SAL T1 - Salaire net mensuel moyen en EQTP (en euros) selon l'âge en 2023",
+      "file": "sal_t1__sal-t1-salaire-net-mensuel-moyen-en-eqtp-en-euros-selon-l-age-en-2023.csv",
+      "rows": 5,
+      "columns": 4
+    },
+    {
+      "code": "SAL_G4",
+      "title": "SAL G4 - Écart de salaire net mensuel moyen en EQTP entre les femmes et les hommes selon l'âge en 2023",
+      "file": "sal_g4__sal-g4-ecart-de-salaire-net-mensuel-moyen-en-eqtp-entre-les-femmes-et-les-hommes-selon-l-age-en-2023.csv",
+      "rows": 5,
+      "columns": 2
+    },
+    {
+      "code": "RES_T1",
+      "title": "RES T1 - Établissements par secteur d'activité agrégé et tranche d'effectifs fin 2023",
+      "file": "res_t1__res-t1-etablissements-par-secteur-d-activite-agrege-et-tranche-d-effectifs-fin-2023.csv",
+      "rows": 6,
+      "columns": 8
+    },
+    {
+      "code": "RES_T2",
+      "title": "RES T2 - Effectifs salariés par secteur d'activité agrégé et tranche d'effectifs fin 2023",
+      "file": "res_t2__res-t2-effectifs-salaries-par-secteur-d-activite-agrege-et-tranche-d-effectifs-fin-2023.csv",
+      "rows": 6,
+      "columns": 8
+    },
+    {
+      "code": "RES_G1",
+      "title": "RES G1 - Répartition des établissements par secteur d'activité agrégé fin 2023",
+      "file": "res_g1__res-g1-repartition-des-etablissements-par-secteur-d-activite-agrege-fin-2023.csv",
+      "rows": 5,
+      "columns": 2
+    },
+    {
+      "code": "RES_G2",
+      "title": "RES G2 - Répartition des établissements par tranche d'effectifs fin 2023",
+      "file": "res_g2__res-g2-repartition-des-etablissements-par-tranche-d-effectifs-fin-2023.csv",
+      "rows": 5,
+      "columns": 2
+    },
+    {
+      "code": "RES_T3",
+      "title": "RES T3 - Établissements selon les sphères de l'économie fin 2023",
+      "file": "res_t3__res-t3-etablissements-selon-les-spheres-de-l-economie-fin-2023.csv",
+      "rows": 5,
+      "columns": 4
+    },
+    {
+      "code": "RES_T5",
+      "title": "RES T5 - Particuliers employeurs en 2023",
+      "file": "res_t5__res-t5-particuliers-employeurs-en-2023.csv",
+      "rows": 3,
+      "columns": 3
+    },
+    {
+      "code": "DEN_T1",
+      "title": "DEN T1 - Créations d'entreprises par secteur d'activité et forme légale en 2024",
+      "file": "den_t1__den-t1-creations-d-entreprises-par-secteur-d-activite-et-forme-legale-en-2024.csv",
+      "rows": 10,
+      "columns": 6
+    },
+    {
+      "code": "DEN_G1",
+      "title": "DEN G1 - Évolution des créations d'entreprises",
+      "file": "den_g1__den-g1-evolution-des-creations-d-entreprises.csv",
+      "rows": 5,
+      "columns": 14
+    },
+    {
+      "code": "DEN_T2_MELODI",
+      "title": "DEN T2 - Créations d'établissements par secteur d'activité en 2024",
+      "file": "den_t2_melodi__den-t2-creations-d-etablissements-par-secteur-d-activite-en-2024.csv",
+      "rows": 11,
+      "columns": 3
+    },
+    {
+      "code": "DEN_G2",
+      "title": "DEN G2 - Évolution des créations d'établissements",
+      "file": "den_g2__den-g2-evolution-des-creations-d-etablissements.csv",
+      "rows": 1,
+      "columns": 14
+    },
+    {
+      "code": "DEN_T3",
+      "title": "DEN T3 - Nombre d'unités légales économiquement actives en 2023",
+      "file": "den_t3__den-t3-nombre-d-unites-legales-economiquement-actives-en-2023.csv",
+      "rows": 10,
+      "columns": 3
+    },
+    {
+      "code": "DEN_T4",
+      "title": "DEN T4 - Nombre d'établissements économiquement actifs en 2023",
+      "file": "den_t4__den-t4-nombre-d-etablissements-economiquement-actifs-en-2023.csv",
+      "rows": 10,
+      "columns": 3
+    },
+    {
+      "code": "EQUIP_T1",
+      "title": "EQUIP T1 - Nombre de commerces en 2024",
+      "file": "equip_t1__equip-t1-nombre-de-commerces-en-2024.csv",
+      "rows": 6,
+      "columns": 2
+    },
+    {
+      "code": "EQUIP_T2",
+      "title": "EQUIP T2 - Nombre de professionnels de santé et de pharmacies en 2024",
+      "file": "equip_t2__equip-t2-nombre-de-professionnels-de-sante-et-de-pharmacies-en-2024.csv",
+      "rows": 6,
+      "columns": 2
+    },
+    {
+      "code": "EQUIP_T3",
+      "title": "EQUIP T3 - Nombre d'établissements scolaires et de bibliothèques en 2024",
+      "file": "equip_t3__equip-t3-nombre-d-etablissements-scolaires-et-de-bibliotheques-en-2024.csv",
+      "rows": 5,
+      "columns": 2
+    },
+    {
+      "code": "TOU_T1",
+      "title": "TOU T1 - Nombre et capacité des hôtels au 1er janvier 2026",
+      "file": "tou_t1__tou-t1-nombre-et-capacite-des-hotels-au-1er-janvier-2026.csv",
+      "rows": 7,
+      "columns": 3
+    },
+    {
+      "code": "TOU_T2",
+      "title": "TOU T2 - Nombre et capacité des campings au 1er janvier 2026",
+      "file": "tou_t2__tou-t2-nombre-et-capacite-des-campings-au-1er-janvier-2026.csv",
+      "rows": 7,
+      "columns": 3
+    },
+    {
+      "code": "TOU_T3",
+      "title": "TOU T3 - Nombre d'autres hébergements collectifs au 1er janvier 2026",
+      "file": "tou_t3__tou-t3-nombre-d-autres-hebergements-collectifs-au-1er-janvier-2026.csv",
+      "rows": 4,
+      "columns": 3
+    },
+    {
+      "code": "REU",
+      "title": "REU - Nombre d'électeurs inscrits sur liste principale par élection",
+      "file": "reu__reu-nombre-d-electeurs-inscrits-sur-liste-principale-par-election.csv",
+      "rows": 1,
+      "columns": 5
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_image": "data/ORGANIGRAMME-ORGANISATION-MUNICIPALE-scaled.jpg",
+  "commune": "Cabestany",
+  "total_agents": 234,
+  "notes": [
+    "Lecture issue d'un organigramme image, à relire avant usage définitif.",
+    "L'image indique notamment 34 CDD, 2 CAE, 1 CDD 2 ans et 1 emploi de cabinet."
+  ],
+  "top_level": [
+    {
+      "label": "Maire",
+      "person_name": "Edith Pugnet"
+    },
+    {
+      "label": "Directeur de cabinet",
+      "person_name": "Sébastien Bracq"
+    },
+    {
+      "label": "Directeur général des services",
+      "person_name": "Jean-Paul Lebrun"
+    }
+  ],
+  "major_poles": [
+    {
+      "label": "Services à la population",
+      "person_name": "Cécile Dupuis"
+    },
+    {
+      "label": "Services techniques et urbanisme",
+      "person_name": "Sophie Nicolas"
+    }
+  ]
+}

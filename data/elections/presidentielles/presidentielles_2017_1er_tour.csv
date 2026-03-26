@@ -1,0 +1,10 @@
+__id,id_election,id_brut_miom,code_departement,libelle_departement,code_canton,libelle_canton,code_commune,libelle_commune,code_circonscription,libelle_circonscription,code_bv,inscrits,abstentions,votants,blancs,nuls,exprimes,ratio_abstentions_inscrits,ratio_votants_inscrits,ratio_blancs_inscrits,ratio_blancs_votants,ratio_nuls_inscrits,ratio_nuls_votants,ratio_exprimes_inscrits,ratio_exprimes_votants
+530925,2017_pres_t1,66028_0001,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0001,852,139,713,19,17,677,16.31,83.69,2.23,2.66,2,2.38,79.46,94.95
+530926,2017_pres_t1,66028_0002,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0002,844,131,713,10,3,700,15.52,84.48,1.18,1.4,0.36,0.42,82.94,98.18
+530927,2017_pres_t1,66028_0003,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0003,878,166,712,15,7,690,18.91,81.09,1.71,2.11,0.8,0.98,78.59,96.91
+530928,2017_pres_t1,66028_0004,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0004,910,216,694,8,5,681,23.74,76.26,0.88,1.15,0.55,0.72,74.84,98.13
+530929,2017_pres_t1,66028_0005,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0005,724,120,604,8,1,595,16.57,83.43,1.1,1.32,0.14,0.17,82.18,98.51
+530930,2017_pres_t1,66028_0006,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0006,944,173,771,8,16,747,18.33,81.67,0.85,1.04,1.69,2.08,79.13,96.89
+530931,2017_pres_t1,66028_0007,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0007,912,167,745,11,4,730,18.31,81.69,1.21,1.48,0.44,0.54,80.04,97.99
+530932,2017_pres_t1,66028_0008,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0008,1050,217,833,13,8,812,20.67,79.33,1.24,1.56,0.76,0.96,77.33,97.48
+530933,2017_pres_t1,66028_0009,66,Pyrénées-Orientales,,,66028,Cabestany,01,"1ère circonscription",0009,927,136,791,14,8,769,14.67,85.33,1.51,1.77,0.86,1.01,82.96,97.22

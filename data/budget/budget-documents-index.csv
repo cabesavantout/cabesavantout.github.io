@@ -1,0 +1,7 @@
+slug,document_type,year,source_pdf,extracted_text_file,pages,has_extractable_text,ocr_needed,section_count,key_number_count
+rob-2026,rapport_orientation_budgetaire,2026,data/20260216_Rapport-dorientations-budgetaires-2026.pdf,data/budget/extracted/rob-2026.txt,40,true,false,14,389
+cfu-principal-2024,cfu_principal,2024,data/AF01-CFU-2024-BUDGET-PRINCIPAL-CFU_21660028800015_2024_D.pdf,data/budget/extracted/cfu-principal-2024.txt,71,true,false,12,1384
+cabesinfo-budget-2024,magazine_budget,2024,data/2404_CABESINFO_N135_dossier_Budget.pdf,data/budget/extracted/cabesinfo-budget-2024.txt,2,true,false,0,24
+germanor-2024-2025,budget_annexe,2024-2025,data/CFU-2024-BP-2025-germanor.pdf,data/budget/extracted/germanor-2024-2025.txt,96,true,false,13,137
+moulinas-2024-2025,budget_annexe,2024-2025,data/CFU-2024-BP-2025-ht-du-moulinas.pdf,data/budget/extracted/moulinas-2024-2025.txt,96,true,false,12,219
+budget-principal-2025,budget_primitif,2025,data/AF04-BUDGET-2025-32000-PRINCIPAL-SIGNE.pdf,data/budget/extracted/budget-principal-2025-ocr.txt,82,true,true,0,0

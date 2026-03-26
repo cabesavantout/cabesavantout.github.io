@@ -1,0 +1,10 @@
+commune,bureau_code,bureau_numero,lieu,adresse,bureau_centralisateur,source_pdf
+Cabestany,0001,1,Centre culturel,"avenue du 19 mars 1962",true,"bureaux_de_votes.pdf"
+Cabestany,0002,2,Centre culturel,"avenue du 19 mars 1962",false,"bureaux_de_votes.pdf"
+Cabestany,0003,3,Centre culturel,"avenue du 19 mars 1962",false,"bureaux_de_votes.pdf"
+Cabestany,0004,4,École Prévert,"avenue du Roussillon",false,"bureaux_de_votes.pdf"
+Cabestany,0005,5,École Prévert,"avenue du Roussillon",false,"bureaux_de_votes.pdf"
+Cabestany,0006,6,École Buffon,"avenue du Périgord",false,"bureaux_de_votes.pdf"
+Cabestany,0007,7,École Buffon,"avenue du Périgord",false,"bureaux_de_votes.pdf"
+Cabestany,0008,8,École Ludovic Masse,"chemin du Mas Bonique",false,"bureaux_de_votes.pdf"
+Cabestany,0009,9,École Ludovic Masse,"chemin du Mas Bonique",false,"bureaux_de_votes.pdf"

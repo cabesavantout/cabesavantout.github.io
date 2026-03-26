@@ -1,0 +1,10 @@
+__id,id_election,id_brut_miom,code_departement,libelle_departement,code_canton,libelle_canton,code_commune,libelle_commune,code_circonscription,libelle_circonscription,code_bv,inscrits,abstentions,votants,blancs,nuls,exprimes,ratio_abstentions_inscrits,ratio_votants_inscrits,ratio_blancs_inscrits,ratio_blancs_votants,ratio_nuls_inscrits,ratio_nuls_votants,ratio_exprimes_inscrits,ratio_exprimes_votants
+184692,2019_euro_t1,66028_0001,66,Pyrénées-Orientales,,,66028,Cabestany,,,0001,861,409,452,4,10,438,47.5,52.5,0.46,0.88,1.16,2.21,50.87,96.9
+184693,2019_euro_t1,66028_0002,66,Pyrénées-Orientales,,,66028,Cabestany,,,0002,885,392,493,10,5,478,44.29,55.71,1.13,2.03,0.56,1.01,54.01,96.96
+184694,2019_euro_t1,66028_0003,66,Pyrénées-Orientales,,,66028,Cabestany,,,0003,878,428,450,13,11,426,48.75,51.25,1.48,2.89,1.25,2.44,48.52,94.67
+184695,2019_euro_t1,66028_0004,66,Pyrénées-Orientales,,,66028,Cabestany,,,0004,819,377,442,9,20,413,46.03,53.97,1.1,2.04,2.44,4.52,50.43,93.44
+184696,2019_euro_t1,66028_0005,66,Pyrénées-Orientales,,,66028,Cabestany,,,0005,823,393,430,14,10,406,47.75,52.25,1.7,3.26,1.22,2.33,49.33,94.42
+184697,2019_euro_t1,66028_0006,66,Pyrénées-Orientales,,,66028,Cabestany,,,0006,933,426,507,8,11,488,45.66,54.34,0.86,1.58,1.18,2.17,52.3,96.25
+184698,2019_euro_t1,66028_0007,66,Pyrénées-Orientales,,,66028,Cabestany,,,0007,935,359,576,10,13,553,38.4,61.6,1.07,1.74,1.39,2.26,59.14,96.01
+184699,2019_euro_t1,66028_0008,66,Pyrénées-Orientales,,,66028,Cabestany,,,0008,946,419,527,10,10,507,44.29,55.71,1.06,1.9,1.06,1.9,53.59,96.2
+184700,2019_euro_t1,66028_0009,66,Pyrénées-Orientales,,,66028,Cabestany,,,0009,974,434,540,16,11,513,44.56,55.44,1.64,2.96,1.13,2.04,52.67,95
