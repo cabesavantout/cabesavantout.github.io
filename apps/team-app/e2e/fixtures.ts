@@ -1,3 +1,3 @@
 export function uniqueLabel(prefix: string) {
-  return `${prefix} ${Date.now()}`;
+  return `[E2E] ${prefix} ${Date.now()}`;
 }

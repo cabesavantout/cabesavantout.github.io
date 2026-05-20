@@ -37,9 +37,15 @@ Le script d'import est:
 
 - `scripts/import_insee_data.py`
 
+Le script de refresh complet est:
+
+- `scripts/refresh_insee_source.py`
+
 Commandes utiles:
 
 ```bash
+python3 scripts/refresh_insee_source.py
+python3 scripts/refresh_insee_source.py --import-db --reset
 python3 scripts/import_insee_data.py --dry-run
 python3 scripts/import_insee_data.py --reset
 ```

@@ -1,0 +1,67 @@
+{
+  "lists": [
+    {
+      "list_slug": "la_passion_de_cabestany",
+      "list_label": "La Passion de Cabestany",
+      "is_elected_majority": true,
+      "source_registry": [
+        {
+          "kind": "image_folder",
+          "label": "Visuels de campagne stockes localement",
+          "path": "data/promesses/la_passion_de_cabestany"
+        }
+      ]
+    },
+    {
+      "list_slug": "un_cap_pour_cabestany",
+      "list_label": "Un Cap pour Cabestany",
+      "is_elected_majority": false,
+      "source_registry": [
+        {
+          "kind": "website",
+          "label": "Site de campagne",
+          "url": "https://cabestany2026.fr/"
+        },
+        {
+          "kind": "image_folder",
+          "label": "Visuels de campagne stockes localement",
+          "path": "data/promesses/un_cap_pour_cabestany"
+        }
+      ]
+    },
+    {
+      "list_slug": "cabestany_avant_tout",
+      "list_label": "Cabestany Avant Tout",
+      "is_elected_majority": false,
+      "source_registry": [
+        {
+          "kind": "website",
+          "label": "Site de campagne",
+          "url": "https://cabesavantout.github.io/"
+        },
+        {
+          "kind": "local_code",
+          "label": "Section programme du site",
+          "path": "src/components/ProgrammeSection.tsx"
+        },
+        {
+          "kind": "pdf",
+          "label": "Profession de foi",
+          "path": "src/assets/docs/profession_1er_tour.pdf"
+        }
+      ]
+    },
+    {
+      "list_slug": "cabestany_nouvelle_vague",
+      "list_label": "Cabestany Nouvelle Vague",
+      "is_elected_majority": false,
+      "source_registry": [
+        {
+          "kind": "image_folder",
+          "label": "Visuels de campagne stockes localement",
+          "path": "data/promesses/cabestany_nouvelle_vague"
+        }
+      ]
+    }
+  ]
+}

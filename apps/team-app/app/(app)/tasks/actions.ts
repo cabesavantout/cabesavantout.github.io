@@ -38,6 +38,8 @@ export async function createTask(formData: FormData) {
   );
 
   revalidatePath("/tasks");
+  revalidatePath("/polling-stations");
+  revalidatePath("/dashboard");
   redirect("/tasks?success=Tache%20cree");
 }
 
@@ -70,6 +72,8 @@ export async function updateTask(formData: FormData) {
   );
 
   revalidatePath("/tasks");
+  revalidatePath("/polling-stations");
+  revalidatePath("/dashboard");
   redirect("/tasks?success=Tache%20mise%20a%20jour");
 }
 
@@ -165,5 +169,7 @@ export async function createTaskFromFieldReport(formData: FormData) {
   revalidatePath("/tasks");
   revalidatePath("/field-reports");
   revalidatePath("/field-analysis");
+  revalidatePath("/polling-stations");
+  revalidatePath("/dashboard");
   redirect("/field-reports?success=Tache%20cree%20a%20partir%20du%20retour");
 }

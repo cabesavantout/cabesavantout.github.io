@@ -27,6 +27,25 @@ function hashPassword(password) {
   return `scrypt$${salt}$${derivedKey}`;
 }
 
+function normalizeConnectionString(connectionString) {
+  if (!connectionString) {
+    return connectionString;
+  }
+
+  try {
+    const url = new URL(connectionString);
+
+    if (url.hostname === "localhost") {
+      url.hostname = "127.0.0.1";
+      return url.toString();
+    }
+
+    return connectionString;
+  } catch {
+    return connectionString;
+  }
+}
+
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   const connectionString = args.dsn || process.env.DATABASE_URL;
@@ -43,7 +62,9 @@ async function main() {
     throw new Error("Utilisation: --email <email> --password <motdepasse> --name <nom> [--role admin]");
   }
 
-  const client = new Client({ connectionString });
+  const normalizedConnectionString = normalizeConnectionString(connectionString);
+
+  const client = new Client({ connectionString: normalizedConnectionString });
   await client.connect();
 
   try {

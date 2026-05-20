@@ -8,6 +8,7 @@ export default defineConfig({
   workers: 1,
   retries: 0,
   globalSetup: "./e2e/global-setup.ts",
+  globalTeardown: "./e2e/global-teardown.ts",
   use: {
     baseURL: `http://127.0.0.1:${port}`,
     trace: "on-first-retry",

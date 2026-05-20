@@ -27,6 +27,7 @@ export async function createMeeting(formData: FormData) {
   );
 
   revalidatePath("/meetings");
+  revalidatePath("/dashboard");
   redirect("/meetings?success=Reunion%20cree");
 }
 
@@ -50,6 +51,7 @@ export async function createMeetingNote(formData: FormData) {
   );
 
   revalidatePath("/meetings");
+  revalidatePath("/dashboard");
   redirect("/meetings?success=Note%20ajoutee");
 }
 
@@ -75,5 +77,6 @@ export async function createMeetingAction(formData: FormData) {
   );
 
   revalidatePath("/meetings");
+  revalidatePath("/dashboard");
   redirect("/meetings?success=Action%20ajoutee");
 }

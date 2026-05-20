@@ -11,6 +11,8 @@ import sys
 import tempfile
 from pathlib import Path
 
+from env_utils import resolve_env_var
+
 
 ROOT = Path(__file__).resolve().parents[1]
 TURNOUT_CSV = ROOT / "data/elections/normalized/cabestany-election-turnout-by-bv.csv"
@@ -73,7 +75,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--dsn",
-        default=os.environ.get("DATABASE_URL", ""),
+        default=resolve_env_var("DATABASE_URL", ""),
         help="chaîne de connexion PostgreSQL. Par défaut: $DATABASE_URL",
     )
     parser.add_argument(

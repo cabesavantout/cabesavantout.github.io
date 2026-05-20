@@ -1,5 +1,5 @@
 import React from "react";
-import { render, screen } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import { vi } from "vitest";
 
 vi.mock("next/link", () => ({
@@ -14,6 +14,10 @@ vi.mock("next/link", () => ({
   ),
 }));
 
+vi.mock("next/navigation", () => ({
+  usePathname: () => "/meetings",
+}));
+
 vi.mock("@/app/(app)/actions", () => ({
   logout: vi.fn(),
 }));
@@ -21,11 +25,18 @@ vi.mock("@/app/(app)/actions", () => ({
 import { AppShell } from "@/components/app-shell";
 
 describe("AppShell", () => {
-  it("affiche la navigation selon les permissions utiles", () => {
+  it("affiche une navigation produit simplifiée sans topbar", () => {
     render(
       <AppShell
         authMode="local"
-        permissions={["tasks.read", "field_reports.read", "contacts.read", "users.read"]}
+        permissions={[
+          "tasks.read",
+          "field_reports.read",
+          "contacts.read",
+          "users.read",
+          "budget.read",
+          "meetings.read",
+        ]}
         userEmail="cabestanyavanttout@gmail.com"
         userRole="superadmin"
       >
@@ -33,50 +44,41 @@ describe("AppShell", () => {
       </AppShell>,
     );
 
-    expect(screen.getByText(/espace équipe/i)).toBeInTheDocument();
-    expect(screen.getByRole("link", { name: /dashboard/i })).toHaveAttribute(
+    expect(screen.getByText(/cabestany avant tout/i)).toBeInTheDocument();
+    expect(screen.getAllByText(/^vue d'ensemble$/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByText(/^engagements$/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByText(/^elections$/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByText(/^territoire$/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByText(/^administration$/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByRole("link", { name: /reunions/i })[0]).toHaveAttribute(
       "href",
-      "/dashboard",
+      "/meetings",
     );
-    expect(screen.getByRole("link", { name: /recherche/i })).toHaveAttribute(
-      "href",
-      "/search",
-    );
-    expect(screen.getByRole("link", { name: /tâches/i })).toHaveAttribute(
-      "href",
-      "/tasks",
-    );
-    expect(screen.getByRole("link", { name: /^terrain$/i })).toHaveAttribute(
-      "href",
-      "/field-reports",
-    );
-    expect(screen.getByRole("link", { name: /contacts/i })).toHaveAttribute(
-      "href",
-      "/contacts",
-    );
-    expect(screen.getByRole("link", { name: /utilisateurs/i })).toHaveAttribute(
-      "href",
-      "/users",
-    );
-    expect(screen.queryByRole("link", { name: /insee/i })).not.toBeInTheDocument();
-    expect(screen.getByText("cabestanyavanttout@gmail.com")).toBeInTheDocument();
-    expect(screen.getByText(/rôle superadmin/i)).toBeInTheDocument();
+    expect(screen.getAllByRole("link", { name: /^plan d'action$/i })[0]).toHaveAttribute("href", "/tasks");
+    expect(screen.getAllByText("cabestanyavanttout@gmail.com").length).toBeGreaterThanOrEqual(1);
+    expect(screen.getByText(/role superadmin/i)).toBeInTheDocument();
     expect(screen.getByRole("button", { name: /fermer la session/i })).toBeInTheDocument();
+    expect(screen.getByRole("button", { name: /replier engagements/i })).toBeInTheDocument();
+    fireEvent.click(screen.getByRole("button", { name: /ouvrir administration/i }));
+    expect(screen.getAllByRole("link", { name: /^campagne$/i })[0]).toHaveAttribute("href", "/campaign");
+    expect(screen.getAllByRole("link", { name: /^reseaux sociaux$/i })[0]).toHaveAttribute("href", "/social-media");
     expect(screen.getByText("Contenu principal")).toBeInTheDocument();
   });
 
-  it("affiche le libellé Supabase et limite le menu sans permissions", () => {
+  it("garde un shell simple si seules les routes de base sont accessibles", () => {
     render(
       <AppShell authMode="supabase" permissions={[]} userEmail={null}>
         <div>Vue simple</div>
       </AppShell>,
     );
 
-    expect(screen.getByRole("link", { name: /dashboard/i })).toBeInTheDocument();
-    expect(screen.getByRole("link", { name: /bureaux/i })).toBeInTheDocument();
-    expect(screen.queryByRole("link", { name: /recherche/i })).not.toBeInTheDocument();
-    expect(screen.getByText(/utilisateur connecté/i)).toBeInTheDocument();
-    expect(screen.getByText(/supabase auth/i)).toBeInTheDocument();
-    expect(screen.getByRole("button", { name: /se déconnecter/i })).toBeInTheDocument();
+    expect(screen.getAllByText(/^vue d'ensemble$/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByText(/^territoire$/i).length).toBeGreaterThan(0);
+    expect(screen.queryAllByText(/^engagements$/i)).toHaveLength(0);
+    expect(screen.queryAllByText(/^elections$/i)).toHaveLength(0);
+    expect(screen.getAllByText(/^administration$/i).length).toBeGreaterThan(0);
+    expect(screen.getByText(/utilisateur connecte/i)).toBeInTheDocument();
+    expect(screen.getByText(/connexion securisee/i)).toBeInTheDocument();
+    expect(screen.getByRole("button", { name: /se deconnecter/i })).toBeInTheDocument();
   });
 });

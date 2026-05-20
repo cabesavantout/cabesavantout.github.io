@@ -10,7 +10,7 @@ vi.mock("@/app/(app)/tasks/actions", () => ({
 import { TasksPage } from "@/components/tasks-page";
 
 describe("TasksPage", () => {
-  it("affiche les tâches, leurs statuts et leur lien terrain", () => {
+  it("affiche les tâches prioritaires, leurs statuts et leur lien terrain", () => {
     render(
       <TasksPage
         canManageTasks
@@ -37,17 +37,17 @@ describe("TasksPage", () => {
     expect(screen.getByText("Préparer la réunion de quartier")).toBeInTheDocument();
     expect(screen.getAllByText("Critique").length).toBeGreaterThanOrEqual(1);
     expect(screen.getAllByText("En cours").length).toBeGreaterThanOrEqual(1);
-    expect(screen.getByText(/issu d'un retour terrain/i)).toBeInTheDocument();
+    expect(screen.getByRole("link", { name: /voir le retour terrain/i })).toBeInTheDocument();
     expect(screen.getByText(/stationnement/i)).toBeInTheDocument();
-    expect(screen.getByText(/ajouter une tâche/i)).toBeInTheDocument();
+    expect(screen.getByText(/tâches prioritaires/i)).toBeInTheDocument();
+    expect(screen.getByText(/sans responsable/i)).toBeInTheDocument();
+    expect(screen.getByText(/^nouvell?e tâche$/i)).toBeInTheDocument();
   });
 
   it("affiche l'état vide quand aucune tâche n'existe", () => {
     render(<TasksPage canManageTasks={false} activeUsers={[]} tasks={[]} />);
 
-    expect(screen.queryByText(/ajouter une tâche/i)).not.toBeInTheDocument();
-    expect(
-      screen.getByText(/aucune tâche enregistrée pour le moment/i),
-    ).toBeInTheDocument();
+    expect(screen.queryByText(/^nouvell?e tâche$/i)).not.toBeInTheDocument();
+    expect(screen.getByText(/aucune tâche dans ce filtre/i)).toBeInTheDocument();
   });
 });

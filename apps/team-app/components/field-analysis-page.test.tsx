@@ -4,7 +4,7 @@ import { render, screen } from "@testing-library/react";
 import { FieldAnalysisPage } from "@/components/field-analysis-page";
 
 describe("FieldAnalysisPage", () => {
-  it("affiche les stats, thèmes, soutiens et urgences", () => {
+  it("affiche une zone de lecture, des thèmes à arbitrer et les urgences utiles", () => {
     render(
       <FieldAnalysisPage
         data={{
@@ -39,15 +39,14 @@ describe("FieldAnalysisPage", () => {
       />,
     );
 
-    expect(
-      screen.getByRole("heading", { name: /analyse terrain/i }),
-    ).toBeInTheDocument();
-    expect(screen.getByText("Retours total")).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: /^Analyse terrain$/i })).toBeInTheDocument();
+    expect(screen.getByText(/zone à lire maintenant/i)).toBeInTheDocument();
+    expect(screen.getByText("Retours ouverts")).toBeInTheDocument();
     expect(screen.getByText("Stationnement")).toBeInTheDocument();
-    expect(screen.getByText("Réservé")).toBeInTheDocument();
-    expect(screen.getAllByText("Bureau 0003").length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByText("Zone 0003").length).toBeGreaterThanOrEqual(1);
     expect(screen.getByText("Voirie")).toBeInTheDocument();
     expect(screen.getByText(/danger piéton/i)).toBeInTheDocument();
+    expect(screen.getByRole("link", { name: /voir les retours/i })).toBeInTheDocument();
   });
 
   it("affiche l'état vide des urgences", () => {
@@ -68,8 +67,7 @@ describe("FieldAnalysisPage", () => {
       />,
     );
 
-    expect(
-      screen.getByText(/aucune urgence ouverte pour le moment/i),
-    ).toBeInTheDocument();
+    expect(screen.getByText(/aucune urgence ouverte/i)).toBeInTheDocument();
+    expect(screen.getByText(/aucune zone à lire/i)).toBeInTheDocument();
   });
 });

@@ -14,6 +14,12 @@
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "fix": "npm run lint:fix",
+    "sources:refresh": "python3 scripts/refresh_commune_context.py",
+    "sources:refresh:insee": "python3 scripts/refresh_insee_source.py",
+    "sources:refresh:insee:import": "python3 scripts/refresh_insee_source.py --import-db --reset",
+    "sources:refresh:banatic": "python3 scripts/refresh_banatic_source.py",
+    "sources:refresh:mairie": "python3 scripts/refresh_mairie_documents_source.py",
+    "sources:refresh:conseil": "python3 scripts/refresh_mairie_council_source.py",
     "check": "npm run lint && npm test && npm --prefix apps/team-app run check",
     "check:full": "npm run check && npm --prefix apps/team-app run test:e2e"
   },

@@ -1,5 +1,5 @@
 import React from "react";
-import { render, screen } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import { vi } from "vitest";
 
 vi.mock("@/app/(app)/citizens/actions", () => ({
@@ -10,7 +10,7 @@ vi.mock("@/app/(app)/citizens/actions", () => ({
 import { CitizensPage } from "@/components/citizens-page";
 
 describe("CitizensPage", () => {
-  it("affiche une fiche citoyen avec son historique récent", () => {
+  it("affiche une liste CRM compacte et ouvre le détail secondaire", () => {
     render(
       <CitizensPage
         canManageCitizens
@@ -52,14 +52,23 @@ describe("CitizensPage", () => {
       />,
     );
 
+    expect(screen.getByRole("heading", { name: "Citoyens" })).toBeInTheDocument();
+    expect(screen.getByText("Liste des citoyens")).toBeInTheDocument();
     expect(screen.getByText("Jeanne Martin")).toBeInTheDocument();
-    expect(screen.getAllByText("Favorable").length).toBeGreaterThanOrEqual(1);
-    expect(screen.getByText("Bureau 0003")).toBeInTheDocument();
-    expect(screen.getByText("#parents")).toBeInTheDocument();
-    expect(screen.getByText("Stationnement")).toBeInTheDocument();
+    expect(screen.getByText("Centre · Bureau 0003")).toBeInTheDocument();
+    expect(screen.getAllByText("Favorable").length).toBeGreaterThan(0);
+    expect(screen.getByText("Tâche ouverte")).toBeInTheDocument();
+    expect(screen.getByText("Suivre la tâche ouverte")).toBeInTheDocument();
+    expect(screen.getByText(/stationnement .*24 mars 2026/i)).toBeInTheDocument();
+    expect(screen.getByText(/#parents #ecole/i)).toBeInTheDocument();
     expect(screen.getByText("En traitement")).toBeInTheDocument();
+    expect(screen.getByText("Ajouter")).toBeInTheDocument();
+
+    fireEvent.click(screen.getByRole("button", { name: "Ouvrir" }));
+
+    expect(screen.getByRole("heading", { name: "Jeanne Martin" })).toBeInTheDocument();
     expect(screen.getByText("Rappeler Jeanne Martin")).toBeInTheDocument();
-    expect(screen.getByText(/ajouter une fiche/i)).toBeInTheDocument();
+    expect(screen.getAllByText("Disponible pour aider sur le terrain.").length).toBeGreaterThan(0);
   });
 
   it("affiche l'état vide sans panneau d'ajout si l'utilisateur ne gère pas les fiches", () => {
@@ -72,9 +81,9 @@ describe("CitizensPage", () => {
       />,
     );
 
-    expect(screen.queryByText(/ajouter une fiche/i)).not.toBeInTheDocument();
+    expect(screen.queryByText("Ajouter")).not.toBeInTheDocument();
     expect(
-      screen.getByText(/aucune fiche citoyen enregistrée pour le moment/i),
-    ).toBeInTheDocument();
+      screen.getAllByText(/aucune fiche citoyen/i).length,
+    ).toBeGreaterThanOrEqual(1);
   });
 });

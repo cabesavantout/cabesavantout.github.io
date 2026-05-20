@@ -1,3 +1,4 @@
+import { cache } from "react";
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
@@ -46,7 +47,7 @@ export type GeoJsonFeatureCollection = {
   features: GeoJsonFeature[];
 };
 
-export async function getEnrichedPollingStationsGeoJson() {
+const loadEnrichedPollingStationsGeoJson = cache(async () => {
   const path = join(
     process.cwd(),
     "..",
@@ -57,5 +58,27 @@ export async function getEnrichedPollingStationsGeoJson() {
   );
 
   const content = await readFile(path, "utf-8");
-  return JSON.parse(content) as GeoJsonFeatureCollection;
+  const parsed = JSON.parse(content) as GeoJsonFeatureCollection;
+
+  return {
+    type: "FeatureCollection" as const,
+    features: parsed.features.map((feature) => ({
+      type: "Feature" as const,
+      geometry: feature.geometry,
+      properties: {
+        codeCommune: feature.properties.codeCommune,
+        nomCommune: feature.properties.nomCommune,
+        codeBureauVote: feature.properties.codeBureauVote,
+        numeroBureauVote: feature.properties.numeroBureauVote,
+        place_name: feature.properties.place_name,
+        address: feature.properties.address,
+        is_centralizer: feature.properties.is_centralizer,
+        has_validated_results_2026_t1: feature.properties.has_validated_results_2026_t1,
+      } as FeatureProperties,
+    })),
+  };
+});
+
+export async function getEnrichedPollingStationsGeoJson() {
+  return loadEnrichedPollingStationsGeoJson();
 }

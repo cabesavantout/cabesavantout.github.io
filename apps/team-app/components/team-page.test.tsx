@@ -9,12 +9,15 @@ vi.mock("@/app/(app)/team/actions", () => ({
 import { TeamPage } from "@/components/team-page";
 
 describe("TeamPage", () => {
-  it("affiche les priorités, les paniers d'action et les secteurs", () => {
+  it("affiche les secteurs à traiter, le résumé de couverture et la liste compacte", () => {
     const sector = {
       id: "s1",
+      code: "SEC-001",
       label: "Secteur centre",
       pollingStationCode: "0003",
+      priorityRank: 1,
       neighborhood: "Centre",
+      notes: null,
       primaryOwnerId: "u1",
       primaryOwnerName: "Jeanne Martin",
       citizenCount: 12,
@@ -31,6 +34,9 @@ describe("TeamPage", () => {
         canManageTeam
         activeUsers={[{ id: "u1", fullName: "Jeanne Martin", email: "jeanne@example.com" }]}
         data={{
+          coveredCount: 1,
+          uncoveredCount: 1,
+          urgentSectorCount: 1,
           priorityLeaders: [sector],
           actionBuckets: {
             assignThisWeek: [
@@ -44,15 +50,15 @@ describe("TeamPage", () => {
       />,
     );
 
-    expect(
-      screen.getByRole("heading", { name: /couverture terrain/i }),
-    ).toBeInTheDocument();
-    expect(screen.getByText("Priorités de couverture")).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: /^Équipe terrain$/i })).toBeInTheDocument();
+    expect(screen.getByText(/secteurs à traiter maintenant/i)).toBeInTheDocument();
+    expect(screen.getByText(/liste des secteurs/i)).toBeInTheDocument();
     expect(screen.getAllByText("Secteur centre").length).toBeGreaterThanOrEqual(1);
-    expect(screen.getAllByText(/bureau 0003/i).length).toBeGreaterThan(0);
-    expect(screen.getByText(/jeanne martin · 5 retours · 12 fiches/i)).toBeInTheDocument();
-    expect(screen.getByText(/responsable actuel : jeanne martin/i)).toBeInTheDocument();
-    expect(screen.getByRole("button", { name: /enregistrer/i })).toBeInTheDocument();
+    expect(screen.getAllByText(/zone 0003/i).length).toBeGreaterThan(0);
+    expect(screen.getByText(/secteurs couverts/i)).toBeInTheDocument();
+    expect(screen.getAllByText(/^Sans responsable$/i).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByText(/couverture/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByRole("button", { name: /assigner/i }).length).toBeGreaterThan(0);
   });
 
   it("affiche les états vides quand il n'y a rien à traiter", () => {
@@ -61,6 +67,9 @@ describe("TeamPage", () => {
         canManageTeam={false}
         activeUsers={[]}
         data={{
+          coveredCount: 0,
+          uncoveredCount: 0,
+          urgentSectorCount: 0,
           priorityLeaders: [],
           actionBuckets: {
             assignThisWeek: [],
@@ -72,14 +81,7 @@ describe("TeamPage", () => {
       />,
     );
 
-    expect(
-      screen.getByText(/aucun secteur sans responsable à ce stade/i),
-    ).toBeInTheDocument();
-    expect(
-      screen.getByText(/aucune alerte politique forte détectée/i),
-    ).toBeInTheDocument();
-    expect(
-      screen.getByText(/aucun secteur couvert avec signal activable/i),
-    ).toBeInTheDocument();
+    expect(screen.getByText(/aucun secteur à traiter/i)).toBeInTheDocument();
+    expect(screen.getByText(/aucun secteur pour ce filtre/i)).toBeInTheDocument();
   });
 });

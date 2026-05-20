@@ -1,3 +1,5 @@
+import { readdir, readFile } from "node:fs/promises";
+import { join } from "node:path";
 import { Pool } from "pg";
 
 let pool: Pool | null = null;
@@ -79,6 +81,294 @@ function formatInteger(value: string | null | undefined) {
   }).format(numericValue);
 }
 
+function formatPercentage(value: string | null | undefined) {
+  if (!value) {
+    return "N/A";
+  }
+
+  const numericValue = Number(value);
+
+  if (Number.isNaN(numericValue)) {
+    return value;
+  }
+
+  return `${new Intl.NumberFormat("fr-FR", {
+    maximumFractionDigits: 1,
+    minimumFractionDigits: 1,
+  }).format(numericValue)} %`;
+}
+
+function parseCsvLine(line: string) {
+  const values: string[] = [];
+  let current = "";
+  let inQuotes = false;
+
+  for (let index = 0; index < line.length; index += 1) {
+    const char = line[index];
+
+    if (char === '"') {
+      if (inQuotes && line[index + 1] === '"') {
+        current += '"';
+        index += 1;
+      } else {
+        inQuotes = !inQuotes;
+      }
+      continue;
+    }
+
+    if (char === "," && !inQuotes) {
+      values.push(current);
+      current = "";
+      continue;
+    }
+
+    current += char;
+  }
+
+  values.push(current);
+  return values;
+}
+
+function parseCsv(content: string) {
+  const lines = content.trim().split(/\r?\n/);
+  if (lines.length === 0) return [];
+
+  const headers = parseCsvLine(lines[0]);
+
+  return lines.slice(1).map((line) => {
+    const values = parseCsvLine(line);
+    return headers.reduce<CsvRow>((row, header, index) => {
+      row[header] = values[index] ?? "";
+      return row;
+    }, {});
+  });
+}
+
+async function walkFiles(basePath: string, relativePrefix: string): Promise<string[]> {
+  const entries = await readdir(basePath, { withFileTypes: true });
+  const files = await Promise.all(
+    entries.map(async (entry) => {
+      const absolutePath = join(basePath, entry.name);
+      const relativePath = `${relativePrefix}/${entry.name}`;
+
+      if (entry.isDirectory()) {
+        return walkFiles(absolutePath, relativePath);
+      }
+
+      return [relativePath];
+    }),
+  );
+
+  return files.flat();
+}
+
+function normalizeAscii(value: string) {
+  return value
+    .normalize("NFKD")
+    .replace(/[^\x00-\x7F]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function humanizeDocumentLabel(value: string) {
+  return normalizeAscii(value.replace(/\.[^.]+$/, "").replace(/[_-]+/g, " "))
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function inferMunicipalCategory(label: string, relativePath: string) {
+  const haystack = `${normalizeAscii(label).toLowerCase()} ${normalizeAscii(relativePath).toLowerCase()}`;
+
+  if (
+    haystack.includes("budget") ||
+    haystack.includes("cfu") ||
+    haystack.includes("orientation budget") ||
+    haystack.includes("budget primitif") ||
+    haystack.includes("rob")
+  ) {
+    return "budget";
+  }
+
+  if (haystack.includes("proces verbal") || haystack.includes("compte rendu") || haystack.includes("pv")) {
+    return "proces_verbal";
+  }
+
+  if (haystack.includes("convocation") || haystack.includes("ordre du jour")) {
+    return "convocation";
+  }
+
+  if (haystack.includes("arrete")) {
+    return "arrete";
+  }
+
+  if (haystack.includes("deliberation") || haystack.includes("conseil municipal") || haystack.includes("dcm")) {
+    return "deliberation";
+  }
+
+  return "document";
+}
+
+function extractMunicipalSessionDate(value: string) {
+  const codeMatch = value.match(/DCM(\d{2})(\d{2})(\d{2})/i);
+  if (!codeMatch) return null;
+
+  const [, day, month, year] = codeMatch;
+  const fullYear = Number(year) >= 70 ? `19${year}` : `20${year}`;
+  return `${fullYear}-${month}-${day}`;
+}
+
+async function loadMunicipalDocumentLinks(): Promise<MunicipalDocumentLink[]> {
+  const csvPath = join(process.cwd(), "..", "..", "data", "mairie-documents", "actes-municipaux-links.csv");
+  const localRoots = [
+    join(process.cwd(), "..", "..", "data", "mairie-documents", "deliberations_conseils_municipaux"),
+    join(process.cwd(), "..", "..", "data", "mairie-documents", "liste_des_deliberations"),
+  ];
+
+  try {
+    const content = await readFile(csvPath, "utf-8");
+    const indexedLinks = parseCsv(content).map((row) => ({
+      label: row.label ?? "",
+      href: row.url ?? "",
+      kind: row.kind ?? "",
+      category: row.category ?? "",
+      confidence: row.confidence ?? "",
+      year: row.year || null,
+      tags: row.tags ?? "",
+      relativePath: row.path ?? null,
+      sourceOrigin: "mairie_site" as const,
+      sessionDate: extractMunicipalSessionDate(`${row.label ?? ""} ${row.url ?? ""} ${row.path ?? ""}`),
+    }));
+
+    const localDocuments = (
+      await Promise.all(
+        localRoots.map(async (rootPath) => {
+          try {
+            const rootName = rootPath.split("/").pop() ?? "mairie-documents";
+            return await walkFiles(rootPath, `data/mairie-documents/${rootName}`);
+          } catch {
+            return [];
+          }
+        }),
+      )
+    )
+      .flat()
+      .filter((relativePath) => relativePath.toLowerCase().endsWith(".pdf"))
+      .map((relativePath) => {
+        const label = humanizeDocumentLabel(relativePath.split("/").pop() ?? relativePath);
+        const yearMatch = relativePath.match(/(20\d{2}|19\d{2})/);
+        return {
+          label,
+          href: `/api/documents?path=${encodeURIComponent(relativePath)}`,
+          kind: "pdf",
+          category: inferMunicipalCategory(label, relativePath),
+          confidence: "high",
+          year: yearMatch ? yearMatch[1] : null,
+          tags: "archive_locale",
+          relativePath,
+          sourceOrigin: "local_archive" as const,
+          sessionDate: extractMunicipalSessionDate(relativePath),
+        };
+      });
+
+    const merged = [...indexedLinks, ...localDocuments];
+    const seen = new Set<string>();
+
+    return merged
+      .filter((document) => {
+        const key = `${document.href}::${document.label}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      })
+      .sort((left, right) => {
+        if ((left.year ?? "") !== (right.year ?? "")) {
+          return (right.year ?? "").localeCompare(left.year ?? "");
+        }
+        if ((left.sessionDate ?? "") !== (right.sessionDate ?? "")) {
+          return (right.sessionDate ?? "").localeCompare(left.sessionDate ?? "");
+        }
+        return left.label.localeCompare(right.label, "fr");
+      });
+  } catch {
+    return [];
+  }
+}
+
+type MunicipalCouncilMeeting = {
+  id: string;
+  title: string;
+  startsAtLocal: string;
+  location: string | null;
+  sourceUrl: string;
+  sourceLabel: string;
+  note: string;
+};
+
+async function loadMunicipalCouncilMeetings(): Promise<MunicipalCouncilMeeting[]> {
+  const csvPath = join(
+    process.cwd(),
+    "..",
+    "..",
+    "data",
+    "mairie-documents",
+    "prochain-conseil-municipal-meetings.csv",
+  );
+
+  try {
+    const content = await readFile(csvPath, "utf-8");
+    return parseCsv(content)
+      .map((row) => ({
+        id: row.id ?? "",
+        title: row.title ?? "",
+        startsAtLocal: row.starts_at_local ?? "",
+        location: row.location || null,
+        sourceUrl: row.source_url ?? "",
+        sourceLabel: row.source_label ?? "",
+        note: row.note ?? "",
+      }))
+      .filter((meeting) => Boolean(meeting.id) && Boolean(meeting.startsAtLocal));
+  } catch {
+    return [];
+  }
+}
+
+function formatMeetingLabel(value: string) {
+  const parsed = new Date(value.includes(" ") ? value.replace(" ", "T") : value);
+  if (Number.isNaN(parsed.getTime())) {
+    return value;
+  }
+
+  return new Intl.DateTimeFormat("fr-FR", {
+    day: "2-digit",
+    month: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    timeZone: "Europe/Paris",
+  })
+    .format(parsed)
+    .replace(",", "");
+}
+
+function getMunicipalDocumentNote(document: MunicipalDocumentLink) {
+  const yearPrefix = document.year ? `${document.year} · ` : "";
+  const sourcePrefix = document.sourceOrigin === "local_archive" ? "Archive locale" : "Source mairie";
+
+  switch (document.category) {
+    case "budget":
+      return `${yearPrefix}${sourcePrefix} classée budget, utile pour relire les arbitrages et pièces financières.`;
+    case "proces_verbal":
+      return `${yearPrefix}${sourcePrefix} de procès-verbal ou compte rendu, utile pour vérifier ce qui a été acté.`;
+    case "convocation":
+      return `${yearPrefix}${sourcePrefix} de convocation ou ordre du jour, utile pour suivre le calendrier politique.`;
+    case "deliberation":
+      return `${yearPrefix}${sourcePrefix} de délibération, utile pour relier une promesse à un vote ou à une décision.`;
+    case "arrete":
+      return `${yearPrefix}${sourcePrefix} réglementaire, utile pour vérifier la traduction concrète d'une décision.`;
+    default:
+      return `${yearPrefix}${sourcePrefix} municipale détectée automatiquement depuis les actes municipaux.`;
+  }
+}
+
 export type PollingStationRecord = {
   pollingStationCode: string;
   pollingStationNumber: number;
@@ -93,6 +383,9 @@ export type PollingStationRecord = {
   topCandidateLabel: string | null;
   topCandidateGroup: string | null;
   topCandidateVotes: number | null;
+  reportCount: number;
+  urgentCount: number;
+  opposedOrSkepticalCount: number;
 };
 
 export type DashboardData = {
@@ -121,6 +414,12 @@ export type DashboardData = {
     startsAtLabel: string;
     location: string | null;
   }>;
+  municipalCouncilPublication: {
+    title: string;
+    startsAtLabel: string;
+    location: string | null;
+    isUpcoming: boolean;
+  } | null;
   recentActivity: Array<{
     kind: string;
     title: string;
@@ -180,6 +479,7 @@ export type MeetingListItem = {
   startsAtLabel: string;
   location: string | null;
   status: string;
+  origin: "internal" | "mairie";
   createdByName: string | null;
   notesCount: number;
   openActionsCount: number;
@@ -309,6 +609,11 @@ export type TeamCoverageData = {
   };
 };
 
+export type SectorStreetHint = {
+  pollingStationCode: string;
+  streets: string[];
+};
+
 export type SearchResultsData = {
   query: string;
   citizens: Array<{
@@ -322,8 +627,10 @@ export type SearchResultsData = {
     topic: string | null;
     summary: string;
     status: string;
+    priority: string;
     citizenName: string | null;
     pollingStationCode: string | null;
+    reportedAtLabel: string;
   }>;
   tasks: Array<{
     id: string;
@@ -331,6 +638,17 @@ export type SearchResultsData = {
     status: string;
     priority: string;
     ownerName: string | null;
+    updatedAtLabel: string;
+  }>;
+  contacts: Array<{
+    id: string;
+    fullName: string;
+    contactKind: string;
+    organization: string | null;
+    roleLabel: string | null;
+    email: string | null;
+    phone: string | null;
+    updatedAtLabel: string;
   }>;
 };
 
@@ -362,6 +680,136 @@ export type InseePageData = {
     label: string;
     value: string;
   }>;
+  socioProfessionalBreakdown: Array<{
+    label: string;
+    count: string;
+    share: string;
+  }>;
+};
+
+export type BudgetPageData = {
+  stats: Array<{
+    label: string;
+    value: string;
+    tone?: "default" | "accent" | "pine";
+  }>;
+  comparisonRows: Array<{
+    label: string;
+    values: Array<{
+      yearLabel: string;
+      value: string;
+      sourceLabel: string;
+      note: string;
+    }>;
+  }>;
+  strategicReadings: Array<{
+    title: string;
+    summary: string;
+    tone?: "default" | "accent" | "pine";
+  }>;
+  themeReadings: Array<{
+    label: string;
+    amount: number | null;
+    matchCount: number;
+    example: string | null;
+    summary: string;
+    tone?: "default" | "accent" | "pine" | "warning";
+  }>;
+  documents: Array<{
+    slug: string;
+    documentType: string;
+    yearLabel: string;
+    sourcePdf: string;
+    pages: number | null;
+    hasExtractableText: boolean;
+    ocrNeeded: boolean;
+    sectionCount: number;
+    amountLineCount: number;
+    strongestAmount: number | null;
+  }>;
+  topAmounts: Array<{
+    documentSlug: string;
+    yearLabel: string;
+    documentType: string;
+    sectionTitle: string | null;
+    lineText: string;
+    valueNumeric: number;
+  }>;
+  sections: Array<{
+    documentSlug: string;
+    yearLabel: string;
+    documentType: string;
+    sectionOrder: number;
+    sectionTitle: string;
+  }>;
+  municipalDocuments: Array<{
+    label: string;
+    href: string;
+    note: string;
+    category: string;
+    year: string | null;
+  }>;
+};
+
+export type MandateTrackingData = {
+  annualRows: Array<{
+    label: string;
+    years: Array<{
+      yearLabel: string;
+      value: string;
+      sourceLabel: string;
+      note: string;
+    }>;
+  }>;
+  commitments: Array<{
+    id: string;
+    title: string;
+    category: string;
+    status: "annonce" | "engage" | "en_cours" | "fragile" | "a_documenter";
+    summary: string;
+    budgetSignal: string;
+    timeline: string;
+    evidence: string;
+  }>;
+  sourceDocuments: Array<{
+    label: string;
+    href: string;
+    note: string;
+  }>;
+};
+
+export type MunicipalDocumentsPageData = {
+  stats: Array<{
+    label: string;
+    value: string;
+    tone?: "default" | "accent" | "pine";
+  }>;
+  documents: Array<{
+    label: string;
+    href: string;
+    kind: string;
+    category: string;
+    confidence: string;
+    year: string | null;
+    note: string;
+    sourceOrigin: "mairie_site" | "local_archive";
+    sessionDate: string | null;
+  }>;
+};
+
+type CsvRow = Record<string, string>;
+
+type MunicipalDocumentLink = {
+  label: string;
+  href: string;
+  kind: string;
+  category: string;
+  confidence: string;
+  year: string | null;
+  tags: string;
+  relativePath: string | null;
+  sourceOrigin: "mairie_site" | "local_archive";
+  sessionDate: string | null;
 };
 
 export type ElectoralAnalysisData = {
@@ -432,6 +880,16 @@ export type FieldAnalysisData = {
 
 export async function getPollingStations(): Promise<PollingStationRecord[]> {
   const db = getPool();
+  const [
+    hasFieldReportPollingStationCode,
+    hasFieldReportPriority,
+    hasFieldReportSupportLevel,
+  ] = await Promise.all([
+    columnExists(db, "field_reports", "polling_station_code"),
+    columnExists(db, "field_reports", "priority"),
+    columnExists(db, "field_reports", "support_level"),
+  ]);
+
   const { rows } = await db.query<PollingStationRecord>(`
     with bv_summary as (
       select
@@ -461,6 +919,31 @@ export async function getPollingStations(): Promise<PollingStationRecord[]> {
         and election_type = 'municipales'
         and election_year = 2026
         and round_number = 1
+    ),
+    field_rollup as (
+      select
+        ${
+          hasFieldReportPollingStationCode
+            ? "fr.polling_station_code"
+            : "null::text"
+        } as polling_station_code,
+        count(*)::int as report_count,
+        ${
+          hasFieldReportPriority
+            ? "count(*) filter (where fr.priority in ('high', 'critical'))::int"
+            : "0::int"
+        } as urgent_count,
+        ${
+          hasFieldReportSupportLevel
+            ? "count(*) filter (where fr.support_level in ('opposed', 'skeptical'))::int"
+            : "0::int"
+        } as opposed_or_skeptical_count
+      from field_reports fr
+      ${
+        hasFieldReportPollingStationCode
+          ? "where fr.polling_station_code is not null group by fr.polling_station_code"
+          : "where false group by 1"
+      }
     )
     select
       ps.polling_station_code as "pollingStationCode",
@@ -475,13 +958,18 @@ export async function getPollingStations(): Promise<PollingStationRecord[]> {
       summary.exprimes_2026 as "exprimes2026",
       ranked.candidate_label as "topCandidateLabel",
       ranked.candidate_group as "topCandidateGroup",
-      ranked.votes as "topCandidateVotes"
+      ranked.votes as "topCandidateVotes",
+      coalesce(fr.report_count, 0) as "reportCount",
+      coalesce(fr.urgent_count, 0) as "urgentCount",
+      coalesce(fr.opposed_or_skeptical_count, 0) as "opposedOrSkepticalCount"
     from import_campaign.polling_stations_cabestany ps
     left join bv_summary summary
       on summary.polling_station_code = ps.polling_station_code
     left join bv_ranked ranked
       on ranked.polling_station_code = ps.polling_station_code
      and ranked.vote_rank = 1
+    left join field_rollup fr
+      on fr.polling_station_code = ps.polling_station_code
     where ps.commune_code = '66028'
     order by ps.polling_station_number asc
   `);
@@ -536,6 +1024,7 @@ export async function getDashboardData(): Promise<DashboardData> {
     sectorAlertsResult,
     upcomingMeetingsResult,
     recentActivityResult,
+    municipalCouncilMeetings,
   ] =
     await Promise.all([
       db.query<{ count: string }>(`
@@ -778,7 +1267,20 @@ export async function getDashboardData(): Promise<DashboardData> {
         order by sort_at desc
         limit 6
       `),
+      loadMunicipalCouncilMeetings(),
     ]);
+
+  const latestMunicipalCouncil = municipalCouncilMeetings
+    .slice()
+    .sort((left, right) => right.startsAtLocal.localeCompare(left.startsAtLocal))[0];
+  const municipalCouncilPublication = latestMunicipalCouncil
+    ? {
+        title: latestMunicipalCouncil.title,
+        startsAtLabel: formatMeetingLabel(latestMunicipalCouncil.startsAtLocal),
+        location: latestMunicipalCouncil.location,
+        isUpcoming: new Date(latestMunicipalCouncil.startsAtLocal.replace(" ", "T")).getTime() >= Date.now(),
+      }
+    : null;
 
   return {
     stats: [
@@ -815,14 +1317,17 @@ export async function getDashboardData(): Promise<DashboardData> {
       },
     ],
     priorityHighlights: priorityResult.rows,
-    sectorAlerts: sectorAlertsResult.rows.map((row) => ({
-      sectorLabel: row.sectorLabel,
-      ownerName: row.ownerName,
-      reportCount: Number(row.reportCount),
-      urgentCount: Number(row.urgentCount),
-      priorityScore: Number(row.priorityScore),
-    })),
+    sectorAlerts: sectorAlertsResult.rows
+      .map((row) => ({
+        sectorLabel: row.sectorLabel,
+        ownerName: row.ownerName,
+        reportCount: Number(row.reportCount),
+        urgentCount: Number(row.urgentCount),
+        priorityScore: Number(row.priorityScore),
+      }))
+      .filter((row) => row.reportCount > 0 || row.urgentCount > 0),
     upcomingMeetings: upcomingMeetingsResult.rows,
+    municipalCouncilPublication,
     recentActivity: recentActivityResult.rows,
     teamHighlights: [
       {
@@ -1005,81 +1510,102 @@ export async function getTasksData(): Promise<TaskListItem[]> {
 
 export async function getMeetingsData(): Promise<MeetingListItem[]> {
   const db = getPool();
-  const { rows } = await db.query<{
-    id: string;
-    title: string;
-    description: string | null;
-    startsAtLabel: string;
-    location: string | null;
-    status: string;
-    createdByName: string | null;
-    notesCount: number;
-    openActionsCount: number;
-    notes: Array<{
-      id: string;
-      body: string;
-      authorName: string | null;
-      createdAtLabel: string;
-    }> | null;
-    actions: Array<{
+  const [meetingsResult, municipalCouncilMeetings] = await Promise.all([
+    db.query<{
       id: string;
       title: string;
-      ownerName: string | null;
-      dueAtLabel: string | null;
-      isDone: boolean;
-    }> | null;
-  }>(`
-    select
-      m.id,
-      m.title,
-      m.description,
-      to_char(m.starts_at at time zone 'Europe/Paris', 'YYYY-MM-DD HH24:MI') as "startsAtLabel",
-      m.location,
-      m.status::text as status,
-      creator.full_name as "createdByName",
-      count(distinct mn.id)::int as "notesCount",
-      count(distinct ma.id) filter (where ma.is_done = false)::int as "openActionsCount",
-      coalesce(
-        jsonb_agg(
-          distinct jsonb_build_object(
-            'id', mn.id,
-            'body', mn.body,
-            'authorName', note_author.full_name,
-            'createdAtLabel', to_char(mn.created_at at time zone 'Europe/Paris', 'YYYY-MM-DD HH24:MI')
-          )
-        ) filter (where mn.id is not null),
-        '[]'::jsonb
-      ) as notes,
-      coalesce(
-        jsonb_agg(
-          distinct jsonb_build_object(
-            'id', ma.id,
-            'title', ma.title,
-            'ownerName', action_owner.full_name,
-            'dueAtLabel', case
-              when ma.due_at is null then null
-              else to_char(ma.due_at at time zone 'Europe/Paris', 'YYYY-MM-DD HH24:MI')
-            end,
-            'isDone', ma.is_done
-          )
-        ) filter (where ma.id is not null),
-        '[]'::jsonb
-      ) as actions
-    from meetings m
-    left join users creator on creator.id = m.created_by
-    left join meeting_notes mn on mn.meeting_id = m.id
-    left join users note_author on note_author.id = mn.author_id
-    left join meeting_actions ma on ma.meeting_id = m.id
-    left join users action_owner on action_owner.id = ma.owner_id
-    group by m.id, creator.full_name
-    order by m.starts_at desc
-  `);
+      description: string | null;
+      startsAtLabel: string;
+      location: string | null;
+      status: string;
+      createdByName: string | null;
+      notesCount: number;
+      openActionsCount: number;
+      notes: Array<{
+        id: string;
+        body: string;
+        authorName: string | null;
+        createdAtLabel: string;
+      }> | null;
+      actions: Array<{
+        id: string;
+        title: string;
+        ownerName: string | null;
+        dueAtLabel: string | null;
+        isDone: boolean;
+      }> | null;
+    }>(`
+      select
+        m.id,
+        m.title,
+        m.description,
+        to_char(m.starts_at at time zone 'Europe/Paris', 'YYYY-MM-DD HH24:MI') as "startsAtLabel",
+        m.location,
+        m.status::text as status,
+        creator.full_name as "createdByName",
+        count(distinct mn.id)::int as "notesCount",
+        count(distinct ma.id) filter (where ma.is_done = false)::int as "openActionsCount",
+        coalesce(
+          jsonb_agg(
+            distinct jsonb_build_object(
+              'id', mn.id,
+              'body', mn.body,
+              'authorName', note_author.full_name,
+              'createdAtLabel', to_char(mn.created_at at time zone 'Europe/Paris', 'YYYY-MM-DD HH24:MI')
+            )
+          ) filter (where mn.id is not null),
+          '[]'::jsonb
+        ) as notes,
+        coalesce(
+          jsonb_agg(
+            distinct jsonb_build_object(
+              'id', ma.id,
+              'title', ma.title,
+              'ownerName', action_owner.full_name,
+              'dueAtLabel', case
+                when ma.due_at is null then null
+                else to_char(ma.due_at at time zone 'Europe/Paris', 'YYYY-MM-DD HH24:MI')
+              end,
+              'isDone', ma.is_done
+            )
+          ) filter (where ma.id is not null),
+          '[]'::jsonb
+        ) as actions
+      from meetings m
+      left join users creator on creator.id = m.created_by
+      left join meeting_notes mn on mn.meeting_id = m.id
+      left join users note_author on note_author.id = mn.author_id
+      left join meeting_actions ma on ma.meeting_id = m.id
+      left join users action_owner on action_owner.id = ma.owner_id
+      group by m.id, creator.full_name
+      order by m.starts_at desc
+    `),
+    loadMunicipalCouncilMeetings(),
+  ]);
 
-  return rows.map((row) => ({
+  const meetings = meetingsResult.rows.map((row) => ({
     ...row,
+    origin: "internal" as const,
     notes: row.notes ?? [],
     actions: row.actions ?? [],
   }));
+
+  const externalMeetings: MeetingListItem[] = municipalCouncilMeetings.map((meeting) => ({
+    id: meeting.id,
+    title: meeting.title,
+    description: `${meeting.note} Source officielle : ${meeting.sourceLabel}.`,
+    startsAtLabel: meeting.startsAtLocal,
+    location: meeting.location,
+    status: "planned",
+    origin: "mairie",
+    createdByName: "Mairie de Cabestany",
+    notesCount: 0,
+    openActionsCount: 0,
+    notes: [],
+    actions: [],
+  }));
+
+  return [...externalMeetings, ...meetings];
 }
 
 export async function getFieldReportsData(
@@ -1465,7 +1991,7 @@ export async function getContactsData({
 export async function getInseePageData(): Promise<InseePageData> {
   const db = getPool();
 
-  const [headlineResult, ageResult, housingResult] = await Promise.all([
+  const [headlineResult, ageResult, housingResult, socioProfessionalResult] = await Promise.all([
     db.query<{
       label: string;
       value: string | null;
@@ -1495,11 +2021,25 @@ export async function getInseePageData(): Promise<InseePageData> {
               from import_campaign.insee_indicators
               where commune_code = '66028'
                 and table_code = 'REU'
-                and row_label ilike '%Municipales 2026%'
-              order by column_index asc
+                and column_label ilike '%municipale 2026%'
+              order by year desc nulls last, column_index asc
               limit 1
             ),
             'Référence REU utile pour comparer terrain, participation et cible électorale.'
+          ),
+          (
+            'Logements',
+            (
+              select value_numeric::text
+              from import_campaign.insee_indicators
+              where commune_code = '66028'
+                and table_code = 'LOG_T1'
+                and row_label = 'Ensemble'
+                and year = 2022
+                and column_label = '2022'
+              limit 1
+            ),
+            'Taille du parc résidentiel pour lire l''ancrage et la densité d''occupation.'
           ),
           (
             '65 ans ou plus',
@@ -1582,7 +2122,20 @@ export async function getInseePageData(): Promise<InseePageData> {
             )
           ),
           (
-            'Maisons',
+            'Logements vacants',
+            (
+              select value_numeric::text
+              from import_campaign.insee_indicators
+              where commune_code = '66028'
+                and table_code = 'LOG_T1'
+                and row_label = 'Logements vacants'
+                and year = 2022
+                and column_label = '2022'
+              limit 1
+            )
+          ),
+          (
+            'Maisons dans le parc',
             (
               select value_numeric::text
               from import_campaign.insee_indicators
@@ -1591,11 +2144,53 @@ export async function getInseePageData(): Promise<InseePageData> {
                 and row_label = 'Maisons'
                 and unit = 'percent'
                 and column_label = '%'
-              order by year desc nulls last, column_index asc
+              order by column_index asc
               limit 1
             )
           )
       ) as housing(label, value)
+    `),
+    db.query<{
+      label: string;
+      count: string | null;
+      share: string | null;
+    }>(`
+      with total as (
+        select value_numeric as total_count
+        from import_campaign.insee_indicators
+        where commune_code = '66028'
+          and table_code = 'EMP_T3'
+          and row_label = 'Ensemble'
+          and year = 2022
+          and column_label = '2022'
+        limit 1
+      )
+      select
+        replace(row_label, 'dont ', '') as label,
+        value_numeric::text as count,
+        round((value_numeric * 100.0) / nullif((select total_count from total), 0), 1)::text as share
+      from import_campaign.insee_indicators
+      where commune_code = '66028'
+        and table_code = 'EMP_T3'
+        and year = 2022
+        and column_label = '2022'
+        and row_label in (
+          'dont agriculteurs exploitants',
+          'dont artisans, commerçants, chefs d''entreprise',
+          'dont cadres et professions intellectuelles supérieures',
+          'dont professions intermédiaires',
+          'dont employés',
+          'dont ouvriers'
+        )
+      order by
+        case row_label
+          when 'dont agriculteurs exploitants' then 1
+          when 'dont artisans, commerçants, chefs d''entreprise' then 2
+          when 'dont cadres et professions intellectuelles supérieures' then 3
+          when 'dont professions intermédiaires' then 4
+          when 'dont employés' then 5
+          else 6
+        end
     `),
   ]);
 
@@ -1618,8 +2213,653 @@ export async function getInseePageData(): Promise<InseePageData> {
     })),
     housingHighlights: housingResult.rows.map((row) => ({
       label: row.label,
-      value: formatInteger(row.value),
+      value: row.label === "Maisons dans le parc" ? formatPercentage(row.value) : formatInteger(row.value),
     })),
+    socioProfessionalBreakdown: socioProfessionalResult.rows.map((row) => ({
+      label: row.label,
+      count: formatInteger(row.count),
+      share: row.share === null ? "N/A" : formatPercentage(row.share),
+    })),
+  };
+}
+
+export async function getBudgetPageData(): Promise<BudgetPageData> {
+  const db = getPool();
+  const municipalDocumentLinks = await loadMunicipalDocumentLinks();
+  const [hasBudgetDocuments, hasBudgetSections, hasBudgetAmountLines] =
+    await Promise.all([
+      relationExists(db, "public.budget_documents"),
+      relationExists(db, "public.budget_sections"),
+      relationExists(db, "public.budget_amount_lines"),
+    ]);
+
+  if (!hasBudgetDocuments || !hasBudgetSections || !hasBudgetAmountLines) {
+    return {
+      stats: [
+        { label: "Documents", value: "0" },
+        { label: "Années couvertes", value: "0", tone: "accent" },
+        { label: "Lignes chiffrées", value: "0", tone: "pine" },
+      ],
+      comparisonRows: [],
+      strategicReadings: [],
+      themeReadings: [],
+      documents: [],
+      topAmounts: [],
+      sections: [],
+      municipalDocuments: municipalDocumentLinks
+        .filter((document) => document.category === "budget")
+        .slice(0, 5)
+        .map((document) => ({
+          label: document.label,
+          href: document.href,
+          note: getMunicipalDocumentNote(document),
+          category: document.category,
+          year: document.year,
+        })),
+    };
+  }
+
+  const [statsResult, documentResult, topAmountResult, sectionResult] =
+    await Promise.all([
+      db.query<{
+        documentCount: string;
+        coveredYears: string;
+        numericLines: string;
+      }>(`
+        select
+          count(*)::text as "documentCount",
+          count(distinct year_label)::text as "coveredYears",
+          (
+            select count(*)::text
+            from budget_amount_lines
+            where value_numeric is not null
+          ) as "numericLines"
+        from budget_documents
+      `),
+      db.query<{
+        slug: string;
+        documentType: string;
+        yearLabel: string;
+        sourcePdf: string;
+        pages: number | null;
+        hasExtractableText: boolean;
+        ocrNeeded: boolean;
+        sectionCount: string;
+        amountLineCount: string;
+        strongestAmount: string | null;
+      }>(`
+        select
+          bd.slug,
+          bd.document_type as "documentType",
+          bd.year_label as "yearLabel",
+          bd.source_pdf as "sourcePdf",
+          bd.pages,
+          bd.has_extractable_text as "hasExtractableText",
+          bd.ocr_needed as "ocrNeeded",
+          count(distinct bs.id)::text as "sectionCount",
+          count(bal.id)::text as "amountLineCount",
+          max(abs(bal.value_numeric))::text as "strongestAmount"
+        from budget_documents bd
+        left join budget_sections bs on bs.document_slug = bd.slug
+        left join budget_amount_lines bal on bal.document_slug = bd.slug
+        group by bd.slug, bd.document_type, bd.year_label, bd.source_pdf, bd.pages, bd.has_extractable_text, bd.ocr_needed
+        order by bd.year_label desc, bd.slug asc
+      `),
+      db.query<{
+        documentSlug: string;
+        yearLabel: string;
+        documentType: string;
+        sectionTitle: string | null;
+        lineText: string;
+        valueNumeric: string;
+      }>(`
+        select distinct on (bal.document_slug, bal.line_text, bal.value_numeric)
+          bal.document_slug as "documentSlug",
+          bal.year_label as "yearLabel",
+          bal.document_type as "documentType",
+          nullif(trim(bal.section_title), '') as "sectionTitle",
+          bal.line_text as "lineText",
+          bal.value_numeric::text as "valueNumeric"
+        from budget_amount_lines bal
+        where bal.value_numeric is not null
+          and bal.value_numeric <> 0
+        order by bal.document_slug, bal.line_text, bal.value_numeric, abs(bal.value_numeric) desc
+      `),
+      db.query<{
+        documentSlug: string;
+        yearLabel: string;
+        documentType: string;
+        sectionOrder: number;
+        sectionTitle: string;
+      }>(`
+        select
+          bs.document_slug as "documentSlug",
+          bd.year_label as "yearLabel",
+          bd.document_type as "documentType",
+          bs.section_order as "sectionOrder",
+          bs.section_title as "sectionTitle"
+        from budget_sections bs
+        join budget_documents bd on bd.slug = bs.document_slug
+        order by bd.year_label desc, bs.document_slug asc, bs.section_order asc
+        limit 12
+      `),
+    ]);
+
+  const statsRow = statsResult.rows[0];
+  const documents = documentResult.rows.map((row) => ({
+    slug: row.slug,
+    documentType: row.documentType,
+    yearLabel: row.yearLabel,
+    sourcePdf: row.sourcePdf,
+    pages: row.pages,
+    hasExtractableText: row.hasExtractableText,
+    ocrNeeded: row.ocrNeeded,
+    sectionCount: Number(row.sectionCount),
+    amountLineCount: Number(row.amountLineCount),
+    strongestAmount: row.strongestAmount === null ? null : Number(row.strongestAmount),
+  }));
+
+  const topAmounts = topAmountResult.rows
+    .map((row) => ({
+      documentSlug: row.documentSlug,
+      yearLabel: row.yearLabel,
+      documentType: row.documentType,
+      sectionTitle: row.sectionTitle,
+      lineText: row.lineText,
+      valueNumeric: Number(row.valueNumeric),
+    }))
+    .sort((left, right) => Math.abs(right.valueNumeric) - Math.abs(left.valueNumeric))
+    .slice(0, 8);
+
+  const allAmounts = topAmountResult.rows
+    .map((row) => ({
+      documentSlug: row.documentSlug,
+      yearLabel: row.yearLabel,
+      documentType: row.documentType,
+      sectionTitle: row.sectionTitle,
+      lineText: row.lineText,
+      valueNumeric: Number(row.valueNumeric),
+    }))
+    .sort((left, right) => Math.abs(right.valueNumeric) - Math.abs(left.valueNumeric));
+
+  const strategicReadings = [
+    {
+      documentType: "rapport_orientation_budgetaire",
+      title: "Récit politique 2026",
+      summary:
+        "Le ROB sert à lire les priorités affichées, les arbitrages annoncés et la manière dont la majorité raconte son budget.",
+      tone: "accent" as const,
+    },
+    {
+      documentType: "cfu_principal",
+      title: "Exécution réelle 2024",
+      summary:
+        "Le CFU est le meilleur point d’appui pour vérifier ce qui a vraiment été exécuté et sortir du seul discours municipal.",
+      tone: "pine" as const,
+    },
+    {
+      documentType: "budget_primitif",
+      title: "Vote et engagements 2025",
+      summary:
+        "Le budget primitif sert à repérer les grands postes votés, les investissements mis en avant et les lignes à contester ou suivre.",
+      tone: "default" as const,
+    },
+  ]
+    .map((reading) => {
+      const matchingDocument = documents.find(
+        (document) => document.documentType === reading.documentType,
+      );
+
+      if (!matchingDocument) {
+        return null;
+      }
+
+      return {
+        title: reading.title,
+        summary: `${reading.summary} ${matchingDocument.yearLabel} · ${matchingDocument.amountLineCount} lignes repérées${matchingDocument.ocrNeeded ? " · OCR à relire" : ""}.`,
+        tone: reading.tone,
+      };
+    })
+    .filter((value): value is NonNullable<typeof value> => value !== null);
+
+  const themeDefinitions = [
+    {
+      label: "Investissements",
+      tone: "accent" as const,
+      keywords: [
+        "invest",
+        "batiment",
+        "voirie",
+        "travaux",
+        "subvention",
+        "equip",
+        "amenag",
+        "reseau",
+      ],
+      summary:
+        "À relier aux promesses d’équipement, de voirie et de transformation visible de la commune.",
+    },
+    {
+      label: "Personnel",
+      tone: "pine" as const,
+      keywords: ["personnel", "rémun", "remuner", "charges de personnel", "indemn"],
+      summary:
+        "Poste structurel décisif pour juger la soutenabilité du budget et l’évolution des charges fixes.",
+    },
+    {
+      label: "Dette et emprunts",
+      tone: "warning" as const,
+      keywords: ["dette", "emprunt", "capital", "intér", "interet"],
+      summary:
+        "Permet d’objectiver la dépendance à l’emprunt, le poids du remboursement et la marge de manœuvre réelle.",
+    },
+  ];
+
+  const themeReadings = themeDefinitions.map((theme) => {
+    const matches = allAmounts.filter((line) => {
+      const haystack = `${line.lineText} ${line.sectionTitle ?? ""}`.toLowerCase();
+      return theme.keywords.some((keyword) => haystack.includes(keyword));
+    });
+
+    const strongest = matches[0] ?? null;
+
+    return {
+      label: theme.label,
+      amount: strongest?.valueNumeric ?? null,
+      matchCount: matches.length,
+      example: strongest?.lineText ?? null,
+      summary: theme.summary,
+      tone: theme.tone,
+    };
+  });
+
+  const comparisonRows = [
+    {
+      label: "Budget total",
+      values: [
+        {
+          yearLabel: "2024",
+          value: "22 866 962 €",
+          sourceLabel: "CFU 2024",
+          note: "Repère global lu dans le compte financier unique 2024.",
+        },
+        {
+          yearLabel: "2025",
+          value: "20 956 985 €",
+          sourceLabel: "ROB 2026",
+          note: "Repère calculé à partir des dépenses nettes de fonctionnement et d’investissement visibles dans le ROB.",
+        },
+        {
+          yearLabel: "2026",
+          value: "À consolider",
+          sourceLabel: "ROB 2026",
+          note: "Le ROB donne les orientations 2026, mais pas ici un total unique assez propre pour l’afficher sans réserve.",
+        },
+      ],
+    },
+    {
+      label: "Fonctionnement",
+      values: [
+        {
+          yearLabel: "2024",
+          value: "À consolider",
+          sourceLabel: "CFU 2024",
+          note: "Le chiffre doit être repris proprement dans le CFU avant affichage.",
+        },
+        {
+          yearLabel: "2025",
+          value: "15 950 658 €",
+          sourceLabel: "ROB 2026",
+          note: "Dépenses nettes de fonctionnement repérées dans le point sur l’exécution 2025.",
+        },
+        {
+          yearLabel: "2026",
+          value: "À consolider",
+          sourceLabel: "ROB 2026",
+          note: "À afficher quand le budget 2026 sera repris proprement.",
+        },
+      ],
+    },
+    {
+      label: "Investissement",
+      values: [
+        {
+          yearLabel: "2024",
+          value: "À consolider",
+          sourceLabel: "CFU 2024",
+          note: "Le chiffre doit être repris proprement dans le CFU avant affichage.",
+        },
+        {
+          yearLabel: "2025",
+          value: "5 006 327 €",
+          sourceLabel: "ROB 2026",
+          note: "Dépenses nettes d’investissement repérées dans le point sur l’exécution 2025.",
+        },
+        {
+          yearLabel: "2026",
+          value: "À consolider",
+          sourceLabel: "ROB 2026",
+          note: "À afficher quand la programmation 2026 sera consolidée.",
+        },
+      ],
+    },
+    {
+      label: "Dette / encours",
+      values: [
+        {
+          yearLabel: "2024",
+          value: "6 995 442 €",
+          sourceLabel: "CFU 2024",
+          note: "Encours lisible dans le compte financier unique 2024.",
+        },
+        {
+          yearLabel: "2025",
+          value: "≈ 7,0 M€",
+          sourceLabel: "ROB 2026",
+          note: "Ordre de grandeur lu dans la partie « État de la dette au 1er janvier 2026 ».",
+        },
+        {
+          yearLabel: "2026",
+          value: "≈ 7,0 M€",
+          sourceLabel: "ROB 2026",
+          note: "Le ROB montre une dette toujours autour de 7 M€ en début de période 2026.",
+        },
+      ],
+    },
+    {
+      label: "Projet visible",
+      values: [
+        {
+          yearLabel: "2024",
+          value: "Exécution close",
+          sourceLabel: "CFU 2024",
+          note: "L’année 2024 sert surtout de point de comparaison.",
+        },
+        {
+          yearLabel: "2025",
+          value: "Bâtiments publics · 1,95 M€",
+          sourceLabel: "BP 2025",
+          note: "Le plus gros poste d’investissement lisible dans le budget primitif 2025.",
+        },
+        {
+          yearLabel: "2026",
+          value: "Programmation à relire",
+          sourceLabel: "ROB 2026",
+          note: "Les projets 2026 doivent être repris directement dans la section investissements du ROB.",
+        },
+      ],
+    },
+  ];
+
+  return {
+    stats: [
+      {
+        label: "Documents",
+        value: formatInteger(statsRow?.documentCount ?? "0"),
+      },
+      {
+        label: "Années couvertes",
+        value: formatInteger(statsRow?.coveredYears ?? "0"),
+        tone: "accent",
+      },
+      {
+        label: "Lignes chiffrées",
+        value: formatInteger(statsRow?.numericLines ?? "0"),
+        tone: "pine",
+      },
+    ],
+    comparisonRows,
+    strategicReadings,
+    themeReadings,
+    documents,
+    topAmounts,
+    sections: sectionResult.rows,
+    municipalDocuments: municipalDocumentLinks
+      .filter((document) => document.category === "budget")
+      .slice(0, 5)
+      .map((document) => ({
+        label: document.label,
+        href: document.href,
+        note: getMunicipalDocumentNote(document),
+        category: document.category,
+        year: document.year,
+      })),
+  };
+}
+
+export async function getMandateTrackingData(): Promise<MandateTrackingData> {
+  const municipalDocumentLinks = await loadMunicipalDocumentLinks();
+
+  return {
+    annualRows: [
+      {
+        label: "Budget total",
+        years: [
+          {
+            yearLabel: "2024",
+            value: "22 866 962 €",
+            sourceLabel: "CFU 2024",
+            note: "Repère global repris dans l’analyse consolidée.",
+          },
+          {
+            yearLabel: "2025",
+            value: "20 956 985 €",
+            sourceLabel: "ROB 2026",
+            note: "Repère calculé à partir de l’exécution 2025 visible dans le ROB.",
+          },
+          {
+            yearLabel: "2026",
+            value: "À consolider",
+            sourceLabel: "ROB 2026",
+            note: "Année de projection, pas encore un exécuté.",
+          },
+        ],
+      },
+      {
+        label: "Fonctionnement",
+        years: [
+          {
+            yearLabel: "2024",
+            value: "À consolider",
+            sourceLabel: "CFU 2024",
+            note: "À reprendre proprement dans la maquette 2024.",
+          },
+          {
+            yearLabel: "2025",
+            value: "15 950 658 €",
+            sourceLabel: "ROB 2026",
+            note: "Dépenses réelles de fonctionnement 2025.",
+          },
+          {
+            yearLabel: "2026",
+            value: "À consolider",
+            sourceLabel: "ROB 2026",
+            note: "Le ROB donne les orientations, pas un exécuté.",
+          },
+        ],
+      },
+      {
+        label: "Personnel",
+        years: [
+          {
+            yearLabel: "2024",
+            value: "À consolider",
+            sourceLabel: "CFU 2024",
+            note: "À fiabiliser dans le CFU avant affichage politique.",
+          },
+          {
+            yearLabel: "2025",
+            value: "9 140 297 €",
+            sourceLabel: "ROB 2026",
+            note: "67,76 % des dépenses, contre 59,03 % dans la strate.",
+          },
+          {
+            yearLabel: "2026",
+            value: "9 337 092 €",
+            sourceLabel: "ROB 2026",
+            note: "Prévision 2026 annoncée dans le ROB.",
+          },
+        ],
+      },
+      {
+        label: "Dette / encours",
+        years: [
+          {
+            yearLabel: "2024",
+            value: "6 995 442 €",
+            sourceLabel: "CFU 2024",
+            note: "Encours lisible dans le compte financier unique.",
+          },
+          {
+            yearLabel: "2025",
+            value: "7 290 693 €",
+            sourceLabel: "Analyse ROB 2026",
+            note: "Ordre de grandeur retenu dans l’analyse issue du ROB.",
+          },
+          {
+            yearLabel: "2026",
+            value: "≈ 7,0 M€",
+            sourceLabel: "ROB 2026",
+            note: "Encours au 1er janvier 2026 autour de 7 M€.",
+          },
+        ],
+      },
+      {
+        label: "Projet phare",
+        years: [
+          {
+            yearLabel: "2024",
+            value: "Préparation des opérations",
+            sourceLabel: "CFU 2024",
+            note: "Année de base pour lire ce qui était déjà engagé.",
+          },
+          {
+            yearLabel: "2025",
+            value: "École Jacques Prévert · ~3 M€",
+            sourceLabel: "Analyse ROB 2026",
+            note: "Projet visible et récurrent dans les documents analysés.",
+          },
+          {
+            yearLabel: "2026",
+            value: "À suivre",
+            sourceLabel: "ROB 2026",
+            note: "À vérifier chaque année contre les livraisons réelles.",
+          },
+        ],
+      },
+    ],
+    commitments: [
+      {
+        id: "engagement-ecole-prevert",
+        title: "École Jacques Prévert",
+        category: "Équipement public",
+        status: "engage",
+        summary:
+          "Projet identifié comme chantier majeur du mandat, avec un volume d’investissement autour de 3 M€.",
+        budgetSignal: "Investissement lourd déjà visible dans les documents budgétaires.",
+        timeline: "Suivi à faire sur 2026, 2027 et livraison réelle.",
+        evidence: "ROB 2026 + synthèse d’analyse budgétaire.",
+      },
+      {
+        id: "engagement-voirie",
+        title: "Voirie et cadre de vie",
+        category: "Voirie",
+        status: "en_cours",
+        summary:
+          "Des montants significatifs apparaissent sur la voirie, mais il faut suivre quartier par quartier ce qui est réellement livré.",
+        budgetSignal: "Voirie quartier château d’eau ~548 k€ dans l’analyse.",
+        timeline: "Comparer vote, exécution et livraison chaque année.",
+        evidence: "Analyse ROB 2026.",
+      },
+      {
+        id: "engagement-videoprotection",
+        title: "Vidéoprotection",
+        category: "Sécurité",
+        status: "fragile",
+        summary:
+          "Projet engagé mais avec des restes à réaliser signalés. Il faut suivre si la promesse devient réalité terrain.",
+        budgetSignal: "Tranche en cours + restes à réaliser ~109 k€.",
+        timeline: "Vérifier achèvement et usage réel dans les prochains budgets.",
+        evidence: "Analyse ROB 2026.",
+      },
+      {
+        id: "engagement-cimetiere",
+        title: "Extension du cimetière",
+        category: "Aménagement",
+        status: "fragile",
+        summary:
+          "Projet bien repéré mais non totalement livré à ce stade, avec restes à réaliser.",
+        budgetSignal: "Restes à réaliser ~200 k€.",
+        timeline: "Suivre exécution et calendrier réel.",
+        evidence: "Analyse ROB 2026.",
+      },
+      {
+        id: "engagement-modele-gestion",
+        title: "Gestion saine du mandat",
+        category: "Narratif politique",
+        status: "a_documenter",
+        summary:
+          "Le récit de gestion saine doit être confronté chaque année à l’épargne, à la dette et au poids de la masse salariale.",
+        budgetSignal: "Déficit de fonctionnement 2025 compensé par les reports.",
+        timeline: "Angle de fond à suivre tout au long du mandat.",
+        evidence: "Croisement ROB 2026 + analyse des documents municipaux.",
+      },
+    ],
+    sourceDocuments: [
+      {
+        label: "ROB 2026",
+        href: "/api/documents?path=data%2F20260216_Rapport-dorientations-budgetaires-2026.pdf",
+        note: "Document principal pour suivre l’exécution 2025 et les orientations 2026.",
+      },
+      {
+        label: "Budget principal 2025",
+        href: "/api/documents?path=data%2FAF04-BUDGET-2025-32000-PRINCIPAL-SIGNE.pdf",
+        note: "Référence pour le budget voté 2025 et les lignes d’investissement.",
+      },
+      {
+        label: "CFU 2024",
+        href: "/api/documents?path=data%2FAF01-CFU-2024-BUDGET-PRINCIPAL-CFU_21660028800015_2024_D.pdf",
+        note: "Référence pour l’exécuté 2024.",
+      },
+      ...municipalDocumentLinks
+        .filter((document) =>
+          ["budget", "deliberation", "proces_verbal", "convocation"].includes(document.category),
+        )
+        .slice(0, 4)
+        .map((document) => ({
+          label: document.label,
+          href: document.href,
+          note: getMunicipalDocumentNote(document),
+        })),
+    ],
+  };
+}
+
+export async function getMunicipalDocumentsPageData(): Promise<MunicipalDocumentsPageData> {
+  const documents = (await loadMunicipalDocumentLinks())
+    .filter((document) => document.category !== "page_information")
+    .map((document) => ({
+      label: document.label,
+      href: document.href,
+      kind: document.kind,
+      category: document.category,
+      confidence: document.confidence,
+      year: document.year,
+      note: getMunicipalDocumentNote(document),
+      sourceOrigin: document.sourceOrigin,
+      sessionDate: document.sessionDate,
+    }));
+
+  const pdfCount = documents.filter((document) => document.kind === "pdf").length;
+  const localArchiveCount = documents.filter((document) => document.sourceOrigin === "local_archive").length;
+
+  return {
+    stats: [
+      { label: "Documents repérés", value: formatInteger(String(documents.length)) },
+      { label: "PDF détectés", value: formatInteger(String(pdfCount)), tone: "accent" },
+      { label: "Archives locales", value: formatInteger(String(localArchiveCount)), tone: "pine" },
+    ],
+    documents,
   };
 }
 
@@ -2119,45 +3359,6 @@ export async function getTeamCoverageData(): Promise<TeamCoverageData> {
       from citizens
       where polling_station_code is not null
       group by polling_station_code
-    ),
-    election_rollup as (
-      with station_totals as (
-        select
-          er.polling_station_code,
-          max(er.inscrits) as inscrits,
-          max(er.votants) as votants,
-          max(er.exprimes) as exprimes
-        from import_campaign.election_results_bv er
-        where er.commune_code = '66028'
-          and er.election_type = 'municipales'
-          and er.election_year = 2026
-          and er.round_number = 1
-        group by er.polling_station_code
-      ),
-      ranked as (
-        select
-          er.polling_station_code,
-          er.candidate_label,
-          er.votes,
-          row_number() over (
-            partition by er.polling_station_code
-            order by er.votes desc, er.candidate_label asc
-          ) as vote_rank
-        from import_campaign.election_results_bv er
-        where er.commune_code = '66028'
-          and er.election_type = 'municipales'
-          and er.election_year = 2026
-          and er.round_number = 1
-      )
-      select
-        st.polling_station_code,
-        round((st.votants::numeric / nullif(st.inscrits, 0)) * 100, 2)::text as turnout_pct,
-        ranked.candidate_label as top_candidate_label,
-        round((ranked.votes::numeric / nullif(st.exprimes, 0)) * 100, 2)::text as top_candidate_share
-      from station_totals st
-      left join ranked
-        on ranked.polling_station_code = st.polling_station_code
-       and ranked.vote_rank = 1
     )
     select
       s.id,
@@ -2172,16 +3373,15 @@ export async function getTeamCoverageData(): Promise<TeamCoverageData> {
       coalesce(fr.report_count, 0)::text as "reportCount",
       coalesce(fr.urgent_report_count, 0)::text as "urgentReportCount",
       coalesce(cr.citizen_count, 0)::text as "citizenCount",
-      er.turnout_pct as "turnoutPct",
-      er.top_candidate_label as "topCandidateLabel",
-      er.top_candidate_share as "topCandidateShare"
+      null::text as "turnoutPct",
+      null::text as "topCandidateLabel",
+      null::text as "topCandidateShare"
     from sectors s
     left join primary_assignments pa
       on pa.sector_id = s.id
      and pa.assignment_rank = 1
     left join field_rollup fr on fr.polling_station_code = s.polling_station_code
     left join citizen_rollup cr on cr.polling_station_code = s.polling_station_code
-    left join election_rollup er on er.polling_station_code = s.polling_station_code
     order by s.priority_rank asc, s.label asc
   `);
 
@@ -2196,7 +3396,7 @@ export async function getTeamCoverageData(): Promise<TeamCoverageData> {
       (row.primaryOwnerId ? 0 : 40) +
       Number(row.urgentReportCount) * 12 +
       Number(row.reportCount) * 4 +
-      (row.topCandidateShare === null ? 0 : Math.max(0, 50 - Number(row.topCandidateShare))),
+      Math.max(0, 15 - Number(row.citizenCount)),
   }));
 
   const priorityLeaders = [...sectors]
@@ -2212,7 +3412,7 @@ export async function getTeamCoverageData(): Promise<TeamCoverageData> {
     .filter(
       (sector) =>
         sector.urgentReportCount > 0 ||
-        sector.reportCount > 0 && sector.topCandidateShare !== null && sector.topCandidateShare < 50,
+        sector.reportCount > 0,
     )
     .sort((left, right) => right.priorityScore - left.priorityScore || left.priorityRank - right.priorityRank)
     .slice(0, 5);
@@ -2236,12 +3436,70 @@ export async function getTeamCoverageData(): Promise<TeamCoverageData> {
   };
 }
 
+function extractStreetLabel(address: string) {
+  const normalized = address.replace(/\s+/g, " ").trim();
+  if (!normalized) return null;
+
+  const streetPattern =
+    /\b(?:rue|avenue|av\.|chemin|impasse|all[ée]e|boulevard|bd|place|route|quai|passage|lotissement|lot\.|résidence|residence)\b/i;
+  const match = normalized.match(streetPattern);
+
+  if (match?.index !== undefined) {
+    return normalized.slice(match.index).replace(/\s*,.*$/, "").trim();
+  }
+
+  return normalized.replace(/^\d+\s*(bis|ter|quater)?\s*/i, "").replace(/\s*,.*$/, "").trim() || null;
+}
+
+export async function getSectorStreetHints(): Promise<SectorStreetHint[]> {
+  const db = getPool();
+  const [hasCitizens, hasPollingStationCode, hasAddress] = await Promise.all([
+    relationExists(db, "public.citizens"),
+    columnExists(db, "citizens", "polling_station_code"),
+    columnExists(db, "citizens", "address"),
+  ]);
+
+  if (!hasCitizens || !hasPollingStationCode || !hasAddress) {
+    return [];
+  }
+
+  const { rows } = await db.query<{ pollingStationCode: string | null; address: string | null }>(`
+    select
+      polling_station_code as "pollingStationCode",
+      address
+    from citizens
+    where polling_station_code is not null
+      and address is not null
+      and nullif(trim(address), '') is not null
+  `);
+
+  const streetMap = new Map<string, Set<string>>();
+
+  for (const row of rows) {
+    if (!row.pollingStationCode || !row.address) continue;
+    const street = extractStreetLabel(row.address);
+    if (!street) continue;
+
+    const current = streetMap.get(row.pollingStationCode) ?? new Set<string>();
+    current.add(street);
+    streetMap.set(row.pollingStationCode, current);
+  }
+
+  return [...streetMap.entries()]
+    .map(([pollingStationCode, streets]) => ({
+      pollingStationCode,
+      streets: [...streets].sort((left, right) => left.localeCompare(right, "fr")),
+    }))
+    .sort((left, right) => left.pollingStationCode.localeCompare(right.pollingStationCode, "fr"));
+}
+
 export async function getSearchResults(
   query: string,
   options: {
     canReadCitizens: boolean;
     canReadFieldReports: boolean;
     canReadTasks: boolean;
+    canReadContacts: boolean;
   },
 ): Promise<SearchResultsData> {
   const db = getPool();
@@ -2253,6 +3511,7 @@ export async function getSearchResults(
       citizens: [],
       fieldReports: [],
       tasks: [],
+      contacts: [],
     };
   }
 
@@ -2260,15 +3519,19 @@ export async function getSearchResults(
     hasCitizenSupportLevel,
     hasCitizenPollingStationCode,
     hasFieldReportStatus,
+    hasFieldReportPriority,
     hasFieldReportPollingStationCode,
+    hasContactsTable,
   ] = await Promise.all([
     columnExists(db, "citizens", "support_level"),
     columnExists(db, "citizens", "polling_station_code"),
     columnExists(db, "field_reports", "status"),
+    columnExists(db, "field_reports", "priority"),
     columnExists(db, "field_reports", "polling_station_code"),
+    relationExists(db, "public.contacts"),
   ]);
 
-  const [citizensResult, fieldReportsResult, tasksResult] = await Promise.all([
+  const [citizensResult, fieldReportsResult, tasksResult, contactsResult] = await Promise.all([
     options.canReadCitizens
       ? db.query<{
           id: string;
@@ -2306,20 +3569,24 @@ export async function getSearchResults(
           topic: string | null;
           summary: string;
           status: string;
+          priority: string;
           citizenName: string | null;
           pollingStationCode: string | null;
+          reportedAtLabel: string;
         }>(`
           select
             fr.id,
             fr.topic,
             fr.summary,
             ${hasFieldReportStatus ? "fr.status::text" : "'new'::text"} as status,
+            ${hasFieldReportPriority ? "fr.priority::text" : "'medium'::text"} as priority,
             citizen.full_name as "citizenName",
             ${
               hasFieldReportPollingStationCode
                 ? "fr.polling_station_code"
                 : "null::text"
-            } as "pollingStationCode"
+            } as "pollingStationCode",
+            to_char(fr.reported_at at time zone 'Europe/Paris', 'DD/MM HH24:MI') as "reportedAtLabel"
           from field_reports fr
           left join citizens citizen on citizen.id = fr.citizen_id
           where
@@ -2338,19 +3605,52 @@ export async function getSearchResults(
           status: string;
           priority: string;
           ownerName: string | null;
+          updatedAtLabel: string;
         }>(`
           select
             t.id,
             t.title,
             t.status::text as status,
             t.priority::text as priority,
-            owner.full_name as "ownerName"
+            owner.full_name as "ownerName",
+            to_char(t.updated_at at time zone 'Europe/Paris', 'DD/MM HH24:MI') as "updatedAtLabel"
           from tasks t
           left join users owner on owner.id = t.assigned_to
           where
             t.title ilike '%' || $1 || '%'
             or coalesce(t.description, '') ilike '%' || $1 || '%'
           order by t.updated_at desc
+          limit 8
+        `, [q])
+      : Promise.resolve({ rows: [] }),
+    options.canReadContacts && hasContactsTable
+      ? db.query<{
+          id: string;
+          fullName: string;
+          contactKind: string;
+          organization: string | null;
+          roleLabel: string | null;
+          email: string | null;
+          phone: string | null;
+          updatedAtLabel: string;
+        }>(`
+          select
+            c.id,
+            c.full_name as "fullName",
+            c.contact_kind as "contactKind",
+            c.organization,
+            c.role_label as "roleLabel",
+            c.email,
+            c.phone,
+            to_char(c.updated_at at time zone 'Europe/Paris', 'DD/MM HH24:MI') as "updatedAtLabel"
+          from contacts c
+          where
+            c.full_name ilike '%' || $1 || '%'
+            or coalesce(c.organization, '') ilike '%' || $1 || '%'
+            or coalesce(c.role_label, '') ilike '%' || $1 || '%'
+            or coalesce(c.email, '') ilike '%' || $1 || '%'
+            or coalesce(c.phone, '') ilike '%' || $1 || '%'
+          order by c.updated_at desc, lower(c.full_name) asc
           limit 8
         `, [q])
       : Promise.resolve({ rows: [] }),
@@ -2361,5 +3661,6 @@ export async function getSearchResults(
     citizens: citizensResult.rows,
     fieldReports: fieldReportsResult.rows,
     tasks: tasksResult.rows,
+    contacts: contactsResult.rows,
   };
 }

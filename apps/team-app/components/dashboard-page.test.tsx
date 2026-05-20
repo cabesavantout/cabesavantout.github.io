@@ -44,6 +44,12 @@ describe("DashboardPage", () => {
               location: "Local",
             },
           ],
+          municipalCouncilPublication: {
+            title: "Conseil municipal d’installation",
+            startsAtLabel: "27/03 18:30",
+            location: "Centre culturel Jean Ferrat",
+            isUpcoming: false,
+          },
           recentActivity: [
             {
               kind: "field_report",
@@ -64,14 +70,17 @@ describe("DashboardPage", () => {
     );
 
     expect(
-      screen.getByRole("heading", { name: /tableau de bord général/i }),
+      screen.getByRole("heading", { name: /^dashboard$/i }),
     ).toBeInTheDocument();
-    expect(screen.getByText("Retours ouverts")).toBeInTheDocument();
-    expect(screen.getByText("Voir les retours urgents")).toBeInTheDocument();
-    expect(screen.getByText("Bureau 0003")).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: /ce qu'il faut faire maintenant/i })).toBeInTheDocument();
+    expect(screen.getByText("3 urgences terrain ouvertes")).toBeInTheDocument();
+    expect(screen.getByText("Urgences terrain")).toBeInTheDocument();
+    expect(screen.getAllByText("Bureau 0003").length).toBeGreaterThanOrEqual(1);
     expect(screen.getByText("Point équipe")).toBeInTheDocument();
-    expect(screen.getByText("Retour stationnement")).toBeInTheDocument();
-    expect(screen.getByText("Responsables actifs")).toBeInTheDocument();
+    expect(screen.getByText(/dernier conseil publié/i)).toBeInTheDocument();
+    expect(screen.getByText(/actions secondaires/i)).toBeInTheDocument();
+    expect(screen.getByRole("link", { name: /voir les promesses/i })).toHaveAttribute("href", "/mandate");
+    expect(screen.getByRole("link", { name: /ouvrir la carte/i })).toHaveAttribute("href", "/polling-stations");
   });
 
   it("affiche les états vides quand il n'y a rien à surveiller", () => {
@@ -83,20 +92,15 @@ describe("DashboardPage", () => {
           priorityHighlights: [],
           sectorAlerts: [],
           upcomingMeetings: [],
+          municipalCouncilPublication: null,
           recentActivity: [],
           teamHighlights: [],
         }}
       />,
     );
 
-    expect(
-      screen.getByText(/aucun secteur ne remonte comme prioritaire/i),
-    ).toBeInTheDocument();
-    expect(
-      screen.getByText(/aucune réunion planifiée sur les sept prochains jours/i),
-    ).toBeInTheDocument();
-    expect(
-      screen.getByText(/aucune activité récente à afficher/i),
-    ).toBeInTheDocument();
+    expect(screen.getByText(/aucun secteur prioritaire/i)).toBeInTheDocument();
+    expect(screen.getByText(/aucune décision urgente/i)).toBeInTheDocument();
+    expect(screen.getByText(/aucun signal consolidé/i)).toBeInTheDocument();
   });
 });

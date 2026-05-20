@@ -40,6 +40,15 @@ export default async function globalSetup() {
 
   execFileSync(
     "node",
+    [join(projectRoot, "scripts", "purge_e2e_data.mjs"), "--dsn", dsn],
+    {
+      cwd: projectRoot,
+      stdio: "pipe",
+    },
+  );
+
+  execFileSync(
+    "node",
     [
       join(projectRoot, "scripts", "create_local_auth_user.mjs"),
       "--dsn",

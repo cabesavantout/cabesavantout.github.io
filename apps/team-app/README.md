@@ -93,6 +93,22 @@ Pour le job E2E, la base PostgreSQL de test est reconstruite via :
 
 Ce bootstrap applique le schema de campagne, les migrations locales utiles, puis recharge les donnees minimales necessaires aux pages et aux scenarios Playwright.
 
+## Import budget
+
+Pour charger les documents budget, les sections et les lignes chiffrées dans la base active :
+
+```bash
+cd /Users/virginie/dev/perso/cabesavanttout
+set -a
+source apps/team-app/.env.local
+set +a
+python3 scripts/import_budget_data.py --dsn "$DATABASE_URL" --reset
+```
+
+La page correspondante est ensuite disponible sur :
+
+- `/budget`
+
 ## Exemple de `.env.local`
 
 ```bash
@@ -138,6 +154,7 @@ node scripts/create_local_auth_user.mjs \
 - `/polling-stations`
 - `/electoral-analysis`
 - `/insee`
+- `/budget`
 - `/team`
 - `/tasks`
 - `/meetings`
@@ -159,11 +176,13 @@ La webapp lit aujourd'hui des données réelles pour :
 - `polling-stations`
 - `electoral-analysis`
 - `insee`
+- `budget`
 - `tasks`
 - `meetings`
 - `field-reports`
 - `field-analysis`
 - `citizens`
+- `contacts`
 - `team`
 - `users`
 

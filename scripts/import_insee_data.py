@@ -11,6 +11,8 @@ import sys
 import tempfile
 from pathlib import Path
 
+from env_utils import resolve_env_var
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INPUT_CSV = ROOT / "data/insee/cabestany-normalized.csv"
@@ -51,7 +53,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Importe les indicateurs INSEE normalisés de Cabestany dans PostgreSQL."
     )
-    parser.add_argument("--dsn", default=os.environ.get("DATABASE_URL", ""), help="DSN PostgreSQL ou $DATABASE_URL")
+    parser.add_argument("--dsn", default=resolve_env_var("DATABASE_URL", ""), help="DSN PostgreSQL ou $DATABASE_URL")
     parser.add_argument("--dry-run", action="store_true", help="affiche seulement les volumes detectes")
     parser.add_argument("--reset", action="store_true", help="supprime d'abord les lignes INSEE de Cabestany")
     return parser.parse_args()

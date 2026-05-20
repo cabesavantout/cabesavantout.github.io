@@ -1,21 +1,24 @@
 import { PollingStationsPage } from "@/components/polling-stations-page";
 import { getEnrichedPollingStationsGeoJson } from "@/lib/geojson";
-import { getPollingStations, hasDatabaseUrl } from "@/lib/postgres";
+import { getPollingStationsMapData } from "@/lib/polling-stations-data";
+import { getPollingSectorMapData } from "@/lib/polling-sectors-data";
 
-export const dynamic = "force-dynamic";
+export const revalidate = 300;
 
 export default async function Page() {
-  const geoJson = await getEnrichedPollingStationsGeoJson();
+  const [geoJsonResult, stationsResult, sectorsResult] = await Promise.allSettled([
+    getEnrichedPollingStationsGeoJson(),
+    getPollingStationsMapData(),
+    getPollingSectorMapData(),
+  ]);
 
-  if (!hasDatabaseUrl()) {
-    return (
-      <PollingStationsPage
-        geoJson={geoJson}
-        stations={[]}
-      />
-    );
-  }
+  const geoJson = geoJsonResult.status === "fulfilled" ? geoJsonResult.value : null;
+  const stations = stationsResult.status === "fulfilled" ? stationsResult.value : [];
+  const sectors = sectorsResult.status === "fulfilled" ? sectorsResult.value : [];
+  const mapError =
+    geoJsonResult.status === "rejected"
+      ? "La carte n'a pas pu être chargée. Les contours GeoJSON sont indisponibles."
+      : null;
 
-  const stations = await getPollingStations();
-  return <PollingStationsPage geoJson={geoJson} stations={stations} />;
+  return <PollingStationsPage geoJson={geoJson} mapError={mapError} stations={stations} sectors={sectors} />;
 }

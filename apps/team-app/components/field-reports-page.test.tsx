@@ -14,7 +14,7 @@ vi.mock("@/app/(app)/tasks/actions", () => ({
 import { FieldReportsPage } from "@/components/field-reports-page";
 
 describe("FieldReportsPage", () => {
-  it("affiche les filtres, un retour et sa tâche liée", () => {
+  it("affiche une inbox priorisée avec actions rapides et tâche liée", () => {
     render(
       <FieldReportsPage
         canCreateReports
@@ -52,18 +52,19 @@ describe("FieldReportsPage", () => {
       />,
     );
 
-    expect(
-      screen.getByPlaceholderText(/rechercher un sujet, résumé/i),
-    ).toHaveValue("station");
+    expect(screen.getByRole("heading", { name: /^Retours terrain$/i })).toBeInTheDocument();
+    expect(screen.getByText(/à traiter maintenant/i)).toBeInTheDocument();
+    expect(screen.getAllByText(/^Nouveaux$/i).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByText(/^Urgents$/i).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByText(/^Sans tâche$/i).length).toBeGreaterThanOrEqual(1);
     expect(screen.getAllByText("Stationnement").length).toBeGreaterThanOrEqual(1);
-    expect(screen.getAllByText("Réservé").length).toBeGreaterThanOrEqual(1);
-    expect(screen.getByText("Priorité haute")).toBeInTheDocument();
-    expect(screen.getAllByText("En traitement").length).toBeGreaterThanOrEqual(1);
-    expect(
-      screen.getByText(/préparer une proposition sur le stationnement/i),
-    ).toBeInTheDocument();
-    expect(screen.getByText("#voirie")).toBeInTheDocument();
-    expect(screen.getByText(/ajouter un retour/i)).toBeInTheDocument();
+    expect(screen.getByText(/jeanne martin .* centre .* bureau 0003/i)).toBeInTheDocument();
+    expect(screen.getAllByText(/^En traitement$/i).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByText(/^Haute$/i).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getByRole("link", { name: /voir la tâche/i })).toBeInTheDocument();
+    expect(screen.getByText(/#voirie #centre/i)).toBeInTheDocument();
+    expect(screen.getByText(/^Nouveau retour$/i)).toBeInTheDocument();
+    expect(screen.getByRole("button", { name: /qualifier/i })).toBeInTheDocument();
   });
 
   it("affiche l'état vide sans formulaire si l'utilisateur ne peut pas créer", () => {
@@ -79,9 +80,7 @@ describe("FieldReportsPage", () => {
       />,
     );
 
-    expect(screen.queryByText(/ajouter un retour/i)).not.toBeInTheDocument();
-    expect(
-      screen.getByText(/aucun retour terrain enregistré pour le moment/i),
-    ).toBeInTheDocument();
+    expect(screen.queryByText(/^Nouveau retour$/i)).not.toBeInTheDocument();
+    expect(screen.getByText(/aucun retour dans ce filtre/i)).toBeInTheDocument();
   });
 });

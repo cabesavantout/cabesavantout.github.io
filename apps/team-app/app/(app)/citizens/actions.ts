@@ -76,6 +76,7 @@ export async function createCitizen(formData: FormData) {
 
   revalidatePath("/citizens");
   revalidatePath("/field-reports");
+  revalidatePath("/dashboard");
   redirect("/citizens?success=Fiche%20citoyen%20cree");
 }
 
@@ -119,5 +120,6 @@ export async function updateCitizen(formData: FormData) {
 
   revalidatePath("/citizens");
   revalidatePath("/field-reports");
+  revalidatePath("/dashboard");
   redirect("/citizens?success=Fiche%20citoyen%20mise%20a%20jour");
 }

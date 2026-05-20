@@ -83,6 +83,8 @@ export async function createFieldReport(formData: FormData) {
   );
 
   revalidatePath("/field-reports");
+  revalidatePath("/polling-stations");
+  revalidatePath("/dashboard");
   redirect("/field-reports?success=Retour%20terrain%20cree");
 }
 
@@ -136,5 +138,7 @@ export async function updateFieldReport(formData: FormData) {
   );
 
   revalidatePath("/field-reports");
+  revalidatePath("/polling-stations");
+  revalidatePath("/dashboard");
   redirect("/field-reports?success=Retour%20qualifie");
 }

@@ -11,6 +11,7 @@
     "test:watch": "vitest -c vitest.config.ts",
     "test:coverage": "vitest run -c vitest.config.ts --coverage",
     "test:e2e": "playwright test",
+    "test:e2e:purge": "node scripts/purge_e2e_data.mjs",
     "check": "npm test && npm run build"
   },
   "dependencies": {

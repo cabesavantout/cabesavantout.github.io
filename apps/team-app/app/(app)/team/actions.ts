@@ -41,5 +41,6 @@ export async function assignSectorOwner(formData: FormData) {
   }
 
   revalidatePath("/team");
+  revalidatePath("/polling-stations");
   redirect("/team?success=Responsable%20de%20secteur%20mis%20a%20jour");
 }

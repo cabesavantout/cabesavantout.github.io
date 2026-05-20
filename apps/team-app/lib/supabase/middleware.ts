@@ -37,8 +37,11 @@ export async function updateSession(request: NextRequest) {
     request.nextUrl.pathname === "/" ||
     request.nextUrl.pathname.startsWith("/dashboard") ||
     request.nextUrl.pathname.startsWith("/polling-stations") ||
+    request.nextUrl.pathname.startsWith("/elections") ||
     request.nextUrl.pathname.startsWith("/electoral-analysis") ||
+    request.nextUrl.pathname.startsWith("/electoral-history") ||
     request.nextUrl.pathname.startsWith("/insee") ||
+    request.nextUrl.pathname.startsWith("/documents") ||
     request.nextUrl.pathname.startsWith("/users") ||
     request.nextUrl.pathname.startsWith("/tasks") ||
     request.nextUrl.pathname.startsWith("/meetings") ||

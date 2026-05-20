@@ -1,0 +1,285 @@
+{
+  "list_slug": "cabestany_avant_tout",
+  "list_label": "Cabestany Avant Tout",
+  "election_year": 2026,
+  "source_registry": [
+    {
+      "kind": "website",
+      "label": "Site de campagne",
+      "url": "https://cabesavantout.github.io/"
+    },
+    {
+      "kind": "local_code",
+      "label": "Section programme",
+      "path": "src/components/ProgrammeSection.tsx"
+    },
+    {
+      "kind": "pdf",
+      "label": "Profession de foi",
+      "path": "src/assets/docs/profession_1er_tour.pdf"
+    }
+  ],
+  "promises": [
+    {
+      "id": "voirie_refection_voies",
+      "theme": "Voirie & Entretien",
+      "title": "Refection des voies communales endommagees",
+      "description": "Entretenir la ville avant de construire davantage.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "voirie_trottoirs_accessibles",
+      "theme": "Voirie & Entretien",
+      "title": "Des trottoirs plus surs et accessibles",
+      "description": "Mise a niveau des trottoirs avec un objectif d'accessibilite.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "voirie_eclairage_public",
+      "theme": "Voirie & Entretien",
+      "title": "Eclairage public modernise",
+      "description": "LED, solaire et pilotage intelligent.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "voirie_coordination_travaux",
+      "theme": "Voirie & Entretien",
+      "title": "Meilleure coordination des travaux",
+      "description": "Mieux planifier et suivre les interventions sur l'espace public.",
+      "measurable": false,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "finances_optimiser_depenses",
+      "theme": "Finances",
+      "title": "Maitriser et optimiser les depenses",
+      "description": "Mettre le budget sous controle et preparer l'avenir.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme", "pdf:profession_de_foi"]
+    },
+    {
+      "id": "finances_renegocier_contrats",
+      "theme": "Finances",
+      "title": "Renegocier certains contrats",
+      "description": "Rechercher des marges de manoeuvre sur les contrats existants.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "finances_moderniser_administration",
+      "theme": "Finances",
+      "title": "Moderniser l'administration",
+      "description": "Rendre l'administration plus efficace pour mieux maitriser les couts.",
+      "measurable": false,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "finances_diversifier_recettes",
+      "theme": "Finances",
+      "title": "Diversifier les recettes",
+      "description": "Redynamiser l'economie locale pour diversifier les recettes de la commune.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "securite_doubler_police_municipale",
+      "theme": "Securite & Tranquillite",
+      "title": "Doubler les effectifs de la police municipale",
+      "description": "Une securite de proximite, humaine et visible.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "securite_referents_quartier",
+      "theme": "Securite & Tranquillite",
+      "title": "Referents de quartiers",
+      "description": "Creer un maillage de proximite par quartier.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "securite_videoprotection",
+      "theme": "Securite & Tranquillite",
+      "title": "Renforcer la videoprotection",
+      "description": "Etendre les dispositifs de videoprotection.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "securite_cooperation_voisins",
+      "theme": "Securite & Tranquillite",
+      "title": "Cooperation avec les communes voisines",
+      "description": "Mutualiser certains efforts de securite avec les communes voisines.",
+      "measurable": false,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "agri_pepiniere_pedagogique",
+      "theme": "Agriculture & Environnement",
+      "title": "Creer une pepiniere pedagogique",
+      "description": "Faire de Cabestany un territoire vert, vivant et utile aux generations futures.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme", "website:focus_terres_vivantes"]
+    },
+    {
+      "id": "agri_proteger_terres",
+      "theme": "Agriculture & Environnement",
+      "title": "Proteger les terres agricoles restantes",
+      "description": "Freiner l'artificialisation et preserver le foncier agricole.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "agri_route_des_mas",
+      "theme": "Agriculture & Environnement",
+      "title": "Creer la route des Mas",
+      "description": "Circuit eco-agronomique autour du patrimoine agricole local.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "agri_jardins_familiaux",
+      "theme": "Agriculture & Environnement",
+      "title": "Etendre les jardins familiaux",
+      "description": "Augmenter les surfaces ou les capacites dediees aux jardins familiaux.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "agri_sainte_camille",
+      "theme": "Agriculture & Environnement",
+      "title": "Repenser le parc Sainte-Camille",
+      "description": "Revoir le role et l'amenagement du parc.",
+      "measurable": false,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "urbanisme_coeur_de_ville",
+      "theme": "Urbanisme",
+      "title": "Restructuration du coeur de ville",
+      "description": "Pietonnisation et espaces publics pour revitaliser le centre-ville.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "urbanisme_colomines_ecolodges",
+      "theme": "Urbanisme",
+      "title": "Projet d'ecolodges aux Colomines",
+      "description": "60 logements legers dans une logique d'urbanisme plus doux.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme", "website:focus_colomines"]
+    },
+    {
+      "id": "urbanisme_capteurs_solaires",
+      "theme": "Urbanisme",
+      "title": "Deploiement de capteurs solaires",
+      "description": "Integrer davantage de production solaire dans les projets urbains.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "urbanisme_limiter_etalement",
+      "theme": "Urbanisme",
+      "title": "Limiter l'etalement urbain",
+      "description": "Maitriser le developpement urbain et proteger les espaces ouverts.",
+      "measurable": false,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "culture_antenne_tourisme",
+      "theme": "Culture & Tourisme",
+      "title": "Antenne de tourisme nouvelle generation",
+      "description": "Faire de Cabestany un pole culturel au sud de l'agglomeration.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "culture_marche_catalan",
+      "theme": "Culture & Tourisme",
+      "title": "Marche catalan transfrontalier",
+      "description": "Evenement culturel et economique phare pour Cabestany.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme", "website:focus_marche"]
+    },
+    {
+      "id": "culture_festival_sculpture",
+      "theme": "Culture & Tourisme",
+      "title": "Festival international de sculpture",
+      "description": "Renforcer le rayonnement culturel de la ville.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "culture_langue_catalane",
+      "theme": "Culture & Tourisme",
+      "title": "Valoriser la langue et la culture catalane",
+      "description": "Assumer un axe identitaire et culturel plus fort.",
+      "measurable": false,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme", "website:focus_marche"]
+    },
+    {
+      "id": "citoyenne_soutien_associations",
+      "theme": "Vie Citoyenne",
+      "title": "Soutenir les associations sportives et culturelles",
+      "description": "Renforcer le tissu associatif local.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "citoyenne_ccas",
+      "theme": "Vie Citoyenne",
+      "title": "Renforcer l'action du CCAS",
+      "description": "Mieux accompagner les publics fragiles.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "citoyenne_aide_numerique_sante",
+      "theme": "Vie Citoyenne",
+      "title": "Aide numerique et accompagnement sante",
+      "description": "Mieux accompagner les habitants sur les usages numeriques et la sante.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    },
+    {
+      "id": "citoyenne_reseau_referents",
+      "theme": "Vie Citoyenne",
+      "title": "Reseau de referents de quartier",
+      "description": "Mairie plus proche et services plus accessibles.",
+      "measurable": true,
+      "status_tracking": "a_documenter",
+      "source_refs": ["website:programme"]
+    }
+  ]
+}

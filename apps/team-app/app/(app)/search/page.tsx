@@ -23,6 +23,7 @@ export default async function Page({ searchParams }: SearchPageProps) {
     canReadCitizens: hasPermission(permissions, "citizens.read"),
     canReadFieldReports: hasPermission(permissions, "field_reports.read"),
     canReadTasks: hasPermission(permissions, "tasks.read"),
+    canReadContacts: hasPermission(permissions, "contacts.read"),
   });
 
   return <SearchPage data={data} />;

@@ -1,4 +1,6 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { join } from "node:path";
 
 const queryMock = vi.fn();
 const poolConstructorMock = vi.fn(() => ({
@@ -11,6 +13,15 @@ vi.mock("pg", () => ({
 
 describe("postgres helpers", () => {
   const originalEnv = { ...process.env };
+  const councilCsvPath = join(
+    process.cwd(),
+    "..",
+    "..",
+    "data",
+    "mairie-documents",
+    "prochain-conseil-municipal-meetings.csv",
+  );
+  let originalCouncilCsv: string | null = null;
 
   beforeEach(() => {
     vi.resetModules();
@@ -19,7 +30,14 @@ describe("postgres helpers", () => {
     process.env = { ...originalEnv };
   });
 
-  afterEach(() => {
+  afterEach(async () => {
+    if (originalCouncilCsv !== null) {
+      await mkdir(join(process.cwd(), "..", "..", "data", "mairie-documents"), { recursive: true });
+      await writeFile(councilCsvPath, originalCouncilCsv, "utf-8");
+      originalCouncilCsv = null;
+    } else {
+      await rm(councilCsvPath, { force: true });
+    }
     process.env = { ...originalEnv };
   });
 
@@ -181,6 +199,65 @@ describe("postgres helpers", () => {
     expect(queryMock).toHaveBeenNthCalledWith(
       3,
       expect.stringContaining("from citizens"),
+    );
+  });
+
+  it("fusionne les conseils municipaux publies par la mairie dans les reunions", async () => {
+    process.env.DATABASE_URL = "postgresql://localhost:5432/test";
+    try {
+      originalCouncilCsv = await readFile(councilCsvPath, "utf-8");
+    } catch {
+      originalCouncilCsv = null;
+    }
+    await mkdir(join(process.cwd(), "..", "..", "data", "mairie-documents"), { recursive: true });
+    await writeFile(
+      councilCsvPath,
+      [
+        "id,title,date_iso,time_label,starts_at_local,location,source_url,source_label,note",
+        'mairie-council-2026-04-14,Conseil municipal,2026-04-14,18:30,2026-04-14 18:30,"Salle du conseil, Hôtel de ville",https://ville-cabestany.fr/prochain-conseil-municipal/,"Mairie de Cabestany · Prochain conseil municipal","Date officielle publiée par la mairie."',
+      ].join("\n"),
+      "utf-8",
+    );
+
+    queryMock.mockResolvedValueOnce({
+      rows: [
+        {
+          id: "m1",
+          title: "Réunion tractage",
+          description: "Préparer le porte-à-porte.",
+          startsAtLabel: "2026-04-10 18:30",
+          location: "Local de campagne",
+          status: "planned",
+          createdByName: "Superadmin",
+          notesCount: 0,
+          openActionsCount: 0,
+          notes: [],
+          actions: [],
+        },
+      ],
+    });
+
+    const module = await import("@/lib/postgres");
+    const meetings = await module.getMeetingsData();
+
+    expect(meetings).toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({
+          id: "mairie-council-2026-04-14",
+          title: "Conseil municipal",
+          origin: "mairie",
+          status: "planned",
+          createdByName: "Mairie de Cabestany",
+          startsAtLabel: "2026-04-14 18:30",
+          notes: [],
+          actions: [],
+        }),
+        expect.objectContaining({
+          id: "m1",
+          title: "Réunion tractage",
+          origin: "internal",
+        }),
+      ]),
     );
   });
 
@@ -452,25 +529,29 @@ describe("postgres helpers", () => {
 
   it("charge les bureaux de vote enrichis", async () => {
     process.env.DATABASE_URL = "postgresql://localhost:5432/test";
-    queryMock.mockResolvedValueOnce({
-      rows: [
-        {
-          pollingStationCode: "0003",
-          pollingStationNumber: 3,
-          placeName: "Centre culturel",
-          address: "Rue du centre",
-          isCentralizer: true,
-          geometryType: "Polygon",
-          hasValidatedResults: true,
-          inscrits2026: 700,
-          votants2026: 540,
-          exprimes2026: 513,
-          topCandidateLabel: "Édith PUGNET",
-          topCandidateGroup: "Cabestany Avant Tout",
-          topCandidateVotes: 218,
-        },
-      ],
-    });
+    queryMock
+      .mockResolvedValueOnce({ rows: [{ exists: true }] })
+      .mockResolvedValueOnce({ rows: [{ exists: true }] })
+      .mockResolvedValueOnce({ rows: [{ exists: true }] })
+      .mockResolvedValueOnce({
+        rows: [
+          {
+            pollingStationCode: "0003",
+            pollingStationNumber: 3,
+            placeName: "Centre culturel",
+            address: "Rue du centre",
+            isCentralizer: true,
+            geometryType: "Polygon",
+            hasValidatedResults: true,
+            inscrits2026: 700,
+            votants2026: 540,
+            exprimes2026: 513,
+            topCandidateLabel: "Édith PUGNET",
+            topCandidateGroup: "Cabestany Avant Tout",
+            topCandidateVotes: 218,
+          },
+        ],
+      });
 
     const module = await import("@/lib/postgres");
     const stations = await module.getPollingStations();
@@ -611,12 +692,14 @@ describe("postgres helpers", () => {
         canReadCitizens: true,
         canReadFieldReports: true,
         canReadTasks: true,
+        canReadContacts: true,
       }),
     ).resolves.toEqual({
       query: "",
       citizens: [],
       fieldReports: [],
       tasks: [],
+      contacts: [],
     });
 
     expect(queryMock).not.toHaveBeenCalled();
@@ -629,6 +712,8 @@ describe("postgres helpers", () => {
       .mockResolvedValueOnce({ rows: [{ exists: false }] })
       .mockResolvedValueOnce({ rows: [{ exists: false }] })
       .mockResolvedValueOnce({ rows: [{ exists: false }] })
+      .mockResolvedValueOnce({ rows: [{ exists: false }] })
+      .mockResolvedValueOnce({ rows: [{ exists: true }] })
       .mockResolvedValueOnce({
         rows: [{ id: "c1", fullName: "Claire Martin", supportLevel: "unknown", pollingStationCode: null }],
       })
@@ -639,13 +724,29 @@ describe("postgres helpers", () => {
             topic: "Stationnement",
             summary: "Sujet qui remonte",
             status: "new",
+            priority: "medium",
             citizenName: "Claire Martin",
             pollingStationCode: null,
+            reportedAtLabel: "26/03 10:00",
           },
         ],
       })
       .mockResolvedValueOnce({
-        rows: [{ id: "t1", title: "Relancer Claire", status: "todo", priority: "high", ownerName: "Jeanne" }],
+        rows: [{ id: "t1", title: "Relancer Claire", status: "todo", priority: "high", ownerName: "Jeanne", updatedAtLabel: "26/03 11:00" }],
+      })
+      .mockResolvedValueOnce({
+        rows: [
+          {
+            id: "ct1",
+            fullName: "Claire Martin",
+            contactKind: "partner",
+            organization: "Quartier",
+            roleLabel: "Référente",
+            email: "claire@example.org",
+            phone: "0600000000",
+            updatedAtLabel: "26/03 12:00",
+          },
+        ],
       });
 
     const module = await import("@/lib/postgres");
@@ -653,6 +754,7 @@ describe("postgres helpers", () => {
       canReadCitizens: true,
       canReadFieldReports: true,
       canReadTasks: true,
+      canReadContacts: true,
     });
 
     expect(results.query).toBe("Claire");
@@ -664,6 +766,9 @@ describe("postgres helpers", () => {
     );
     expect(results.tasks[0]).toEqual(
       expect.objectContaining({ title: "Relancer Claire", priority: "high" }),
+    );
+    expect(results.contacts[0]).toEqual(
+      expect.objectContaining({ fullName: "Claire Martin", organization: "Quartier" }),
     );
   });
 });
